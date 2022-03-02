@@ -1,0 +1,340 @@
+[
+    {
+        "title": "刚 (vừa/mới/vừa mới)",
+        "content": [
+            {
+                "keyWords": ["刚"],
+                "sub_descriptions": [
+                    "Biểu thị hàng động mới diễn cách đây không lâu, dùng sau chủ ngữ và trước động từ"
+                ],
+                "examples": [
+                    {
+                        "chinese": "我上午刚借的那本书，怎么找不到了？",
+                        "pinyin": "Wǒ shàngwǔ gāng jiè de nà běn shū, zěnme zhǎo bù dàole?",
+                        "vietnamese": "Quyển sách tôi mới mượn lúc sao, sao không thấy đâu rồi?"
+                    },
+                    {
+                        "chinese": "我和丈夫刚结婚的时候，每天都觉得很新鲜，在一起有说不完的话。",
+                        "pinyin": "Wǒ hé zhàngfū gāng jiéhūn de shíhòu, měitiān dōu juédé hěn xīnxiān, zài yīqǐ yǒu shuō bu wán dehuà.",
+                        "vietnamese": "Lúc tôi và chồng mới kết hôn, mỗi này đều cảm thấy rất mới mẻ, bên nhau nói không hết chuyện."
+                    }
+                ]
+            },
+            {
+                "sub_descriptions": [
+                    "{{刚}} - {{刚刚}} - {{刚才}}: đều biểu thị hành động mới xảy ra gần thời điểm nói"
+                ]
+            },
+            {
+                "keyWords": ["刚"],
+                "description": "Phó từ 刚",
+                "sub_descriptions": [
+                    "Chỉ có thể đứng sau chủ ngữ, làm trạng ngữ.",
+                    "Thể hiện quãng thời gian không lâu theo cảm nhận của người nói."
+                ],
+                "examples": [
+                    {
+                        "chinese": "他们刚结婚一年，怎么离婚了？",
+                        "pinyin": "Tāmen gāng jiéhūn yī nián, zěnme líhūnle?",
+                        "vietnamese": "Họ mới kết hôn được có một năm, sao đã li hôn rồi?"
+                    }
+                ]
+            },
+            {
+                "keyWords": ["刚"],
+                "sub_descriptions": [
+                    "Có thể đi cùng danh từ chỉ thời lượng"
+                ],
+                "examples": [
+                    {
+                        "chinese": "我刚来中国一个月。",
+                        "pinyin": "Wǒ gāng lái zhōngguó yīgè yuè.",
+                        "vietnamese": "Tôi mới đến Trung Quốc một tháng."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["刚"],
+                "sub_descriptions": [
+                    "Đứng sau từ chỉ thời gian"
+                ],
+                "examples": [
+                    {
+                        "chinese": "他刚来一会儿。",
+                        "pinyin": "Tā gāng lái yīhuǐ'er.",
+                        "vietnamese": "Anh ấy vừa đến một lúc."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["刚刚"],
+                "description": "Phó từ 刚刚",
+                "sub_descriptions": [
+                    "Thể hiện quãng thời gian ngắn trên thực tế (một vài phút trước,…)."
+                ],
+                "examples": [
+                    {
+                        "chinese": "小儿子刚刚还哭呢，现在笑得这么开心。",
+                        "pinyin": "Xiǎo érzi gānggāng hái kū ne, xiànzài xiào dé zhème kāixīn.",
+                        "vietnamese": "Đứa bé vừa nãy còn khóc, giờ lại cười vui thế."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["刚刚"],
+                "sub_descriptions": [
+                    "Có thể đứng trước hoặc sau chủ ngữ, có thể làm trạng ngữ, định ngữ hoặc câu đơn độc."
+                ],
+                "examples": [
+                    {
+                        "chinese": "刚刚，这里还是一片安静。",
+                        "pinyin": "Gānggāng, zhèlǐ háishì yīpiàn ānjìng.",
+                        "vietnamese": "Mới vừa nãy, ở đây vô cùng yên tĩnh."
+                    },
+                    {
+                        "chinese": "走啦。他非得要求出院。刚刚。",
+                        "pinyin": "Zǒu la. Tā fēiděi yāoqiú chūyuàn. Gānggāng.",
+                        "vietnamese": "Đi rồi, nó cứ đòi xuất viện thôi, mới vừa nãy xong."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["刚才"],
+                "description": "Danh từ chỉ thời lượng 刚才",
+                "sub_descriptions": [
+                    "Chỉ quãng thời gian vừa diễn ra không lâu."
+                ],
+                "examples": [
+                    {
+                        "chinese": "刚才有人找你。",
+                        "pinyin": "Gāngcái yǒurén zhǎo nǐ.",
+                        "vietnamese": "Vừa nãy có người tìm cậu."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["刚才"],
+                "sub_descriptions": [
+                    "Có thể đứng trước hoặc sau chủ ngữ, có thể làm trạng ngữ hoặc định ngữ."
+                ],
+                "examples": [
+                    {
+                        "chinese": "你刚才去哪儿了？",
+                        "pinyin": "Nǐ gāngcái qù nǎ'erle?",
+                        "vietnamese": "Vừa nãy cậu đi đâu đấy?"
+                    },
+                    {
+                        "chinese": "刚才的话你记住了吗？",
+                        "pinyin": "Gāngcái dehuà nǐ jì zhùle ma?",
+                        "vietnamese": "Những điều vừa nãy (nói) cậu đã nhớ chưa?"
+                    }
+                ]
+            },
+            {
+                "keyWords": ["刚才"],
+                "sub_descriptions": [
+                    "Có thể đi cùng phủ định."
+                ],
+                "examples": [
+                    {
+                        "chinese": "你为什么刚才不说，现在才说？",
+                        "pinyin": "Nǐ wèishéme gāngcái bù shuō, xiànzài cái shuō?",
+                        "vietnamese": "Sao vừa rồi không nói, giờ mới nói."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "越来越",
+        "content": [
+            {
+                "keyWords": ["越来越"],
+                "sub_descriptions": [
+                    "Cấu trúc {{越来越}} + tính từ/động từ chỉ hoạt động tâm lí được dùng để chỉ sự thay đổi về mức độ theo thời gian.",
+                    "Trước các tính từ/động từ chỉ hoạt động tâm lí không được thêm các phó từ chỉ mức độ (không nói {{越来越很热}}, {{越来越非常喜欢}},… )."
+                ],
+                "examples": [
+                    {
+                        "chinese": "我认识的汉字越来越多。",
+                        "pinyin": "Wǒ rènshi de Hànzì yuè lái yuè duō.",
+                        "vietnamese": "Những chữ Hán mà tôi biết ngày càng nhiều."
+                    },
+                    {
+                        "chinese": "你越来越漂亮。",
+                        "pinyin": "Nǐ yuè lái yuè piàoliang.",
+                        "vietnamese": "Cậu ngày càng xinh đẹp."
+                    },
+                    {
+                        "chinese": "我越来越喜欢运动。",
+                        "pinyin": "Wǒ yuè lái yuè xǐhuān yùndòng.",
+                        "vietnamese": "Tôi càng ngày càng thích thể thao."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Cách diễn đạt khoảng thời gian",
+        "content": [
+            {
+                "sub_descriptions": [
+                    "Để diễn tả hành động/ trạng thái xảy ra hoặc kéo dài trong khoảng thời gian bao lâu, người ta thường dùng bổ ngữ chỉ thời lượng như {{一颗}} (mười lăm phút), {{半个小时}}(nửa giờ), {{两天}}(hai ngày), {{三个月}}(ba tháng),…"
+                ]
+            },
+            {
+                "description": "Chủ ngữ + động từ + 了 + khoảng thời gian + tân ngữ", 
+                "sub_descriptions": [
+                    "Diễn tả khoảng thời gian mà hành động xảy ra."
+                ],
+                "examples": [
+                    {
+                        "chinese": "她在这儿工作了3个月，现在又换工作了。",
+                        "pinyin": "Tā zài zhèr gōngzuòle sān gè yuè, xiànzài yòu huàn gōngzuòle.",
+                        "vietnamese": "Cô ấy làm việc ở đây 3 tháng, giờ lại đổi công việc khác rồi."
+                    },
+                    {
+                        "chinese": "我们坐了一个小时的出租车。",
+                        "pinyin": "Wǒmen zuòle yīgè xiǎoshí de chūzū chē.",
+                        "vietnamese": "Chúng tôi đã ngồi taxi một tiếng đồng hồ. (để đến đây)"
+                    },
+                    {
+                        "chinese": "我学了七年汉语，现在在当一名翻译员。",
+                        "pinyin": "Wǒ xuéle qī nián Hànyǔ, xiànzài zài dāng yī míng fānyì yuán.",
+                        "vietnamese": "Tôi học tiếng Trung 7 năm, giờ đang làm một phiên dịch viên."
+                    }
+                ]
+            },
+            {
+                "description": "Chủ ngữ + động từ + 了 + khoảng thời gian + tân ngữ + 了", 
+                "sub_descriptions": [
+                    "Diễn tả khoảng thời gian mà hành động xảy ra và vẫn đang được tiếp diễn."
+                ],
+                "examples": [
+                    {
+                        "chinese": "我学了一年汉语了。",
+                        "pinyin": "Wǒ xuéle yī nián Hànyǔle.",
+                        "vietnamese": "Tôi đã học tiếng Trung được 1 năm rồi. (Giờ vẫn đang tiếp tục học.)"
+                    },
+                    {
+                        "chinese": "我在这儿坐了一个小时了。",
+                        "pinyin": "Wǒ zài zhèr zuòle yīgè xiǎoshíle.",
+                        "vietnamese": "Tôi đã ngồi đây một tiếng rồi. (Giờ vẫn đang ngồi.)"
+                    },
+                    {
+                        "chinese": "她看了两个小时电影了。",
+                        "pinyin": "Tā kànle liǎng gè xiǎoshí diànyǐngle.",
+                        "vietnamese": "Cô ấy đã xem phim 2 tiếng rồi. (Giờ vẫn đang xem.)"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一边……一边……",
+        "content": [
+            {
+                "keyWords": ["一边"],
+                "sub_descriptions": [
+                    "Cấu trúc {{一边}}……{{一边}}…… được dùng để diễn ta hai hành động được thực hiện cùng lúc. 一 có thể được lược bỏ."
+                ],
+                "examples": [
+                    {
+                        "chinese": "我妹妹边听音乐边做作业。",
+                        "pinyin": "Wǒ mèimei biān tīng yīnyuè biān zuò zuò yè.",
+                        "vietnamese": "Em gái tôi vừa nghe nhạc vừa làm bài tập."
+                    },
+                    {
+                        "chinese": "妈妈一边唱歌一边做饭。",
+                        "pinyin": "Māma yībiān chànggē yībiān zuò fàn.",
+                        "vietnamese": "Mẹ vừa hát vừa nấu cơm."
+                    },
+                    {
+                        "chinese": "我爸爸一边吃早饭一边看报纸。",
+                        "pinyin": "Wǒ bàba yībiān chī zǎofàn yībiān kàn bàozhǐ.",
+                        "vietnamese": "Bố tôi vừa ăn sáng vừa đọc báo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "从来 (Từ trước đến nay/trước giờ)",
+        "content": [
+            {
+                "sub_descriptions": [
+                    "Biểu thị một trạng thái kéo dài, duy trì từ quá khứ đến hiện tại (tương lai), chưa có sự thay đổi."
+                ]
+            },
+            {
+                "keyWords": ["从来"],
+                "description": "Thường đi với phủ định => 从来不/从来没（有）…过",
+                "examples": [
+                    {
+                        "chinese": "老张这个人开会从来不迟到。今天到现在还没来，可能是有什么事情，你打个电话问问他吧。",
+                        "pinyin": "Lǎo Zhāng zhège rén kāihuì cónglái bu chídào. Jīntiān dào xiànzài hái méi lái, kěnéng shì yǒu shén me shìqíng, nǐ dǎ gè diànhuà wèn wèn tā ba.",
+                        "vietnamese": "Anh Trương chưa bao giờ đến họp muộn. Hôm nay giờ vẫn chưa tới, chắc là có chuyện gì rồi, cậu thử gọi điện thoại hỏi xem."
+                    },
+                    {
+                        "chinese": "虽然我们认识的时间很长，但我从来没这么快乐过。",
+                        "pinyin": "Suīrán wǒmen rènshi de shíjiān hěn zhǎng, dàn wǒ cónglái méi zhème kuàilèguò.",
+                        "vietnamese": "Tuy chúng ta quen nhau đã lâu, nhưng chưa từng vui vẻ thế này."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["从来只"],
+                "description": "Có thể đi cùng 只 => 从来只",
+                "examples": [
+                    {
+                        "chinese": "他从来只吃那店的寿司。",
+                        "pinyin": "Tā cónglái zhǐ chī nà diàn de shòusī.",
+                        "vietnamese": "Từ trước tới nay anh ấy chỉ ăn sushi ở mỗi tiệm đó thôi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Cách nói sở thích",
+        "content": [
+            {
+                "keyWords": ["对", "感兴趣"],
+                "description": "Dạng khẳng định",
+                "sub_descriptions": [
+                    "Chủ ngữ + {{对}} + danh từ + {{感兴趣/有兴趣}}",
+                    "Diễn tả sự hứng thú với điều gì đó."
+                ],
+                "examples": [
+                    {
+                        "chinese": "我对音乐感兴趣。",
+                        "pinyin": "Wǒ duì yīnyuè gǎn xìngqù.",
+                        "vietnamese": "Tôi có hừng thú với âm nhạc."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["不感兴趣"],
+                "description": "Dạng phủ định: 对…不感兴趣/没(有)兴趣",
+                "examples": [
+                    {
+                        "chinese": "我儿子对篮球不感兴趣。",
+                        "pinyin": "Wǒ érzi duì lánqiú bùgǎn xìngqù.",
+                        "vietnamese": "Con trai tôi không có hứng thú với bóng rổ."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["感兴趣"],
+                "description": "Nếu dùng phó từ chỉ mức độ, phó từ mức độ phải được đặt trước 感兴趣/有兴趣",
+                "examples": [
+                    {
+                        "chinese": "我对她的作品很感兴趣。",
+                        "pinyin": "Wǒ duì tā de zuòpǐn hěn gǎn xìngqù.",
+                        "vietnamese": "Tôi rất có hứng thú với tác phẩm của cô ấy."
+                    }
+                ]
+            }
+        ]
+    }
+]

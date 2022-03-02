@@ -1,0 +1,14 @@
+<!--Chưa set màu theo biến dặt trong constants-->
+
+<svg height="210" width="400" viewBox="0 0 400 210">
+    <defs>
+        <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%"   stop-color="#3f51b5"/>
+        <stop offset="100%" stop-color="#2196F3"/>
+        </linearGradient>
+    </defs>
+    <path fill="url(#gradient)" d="M-0.84,180.48 C171.84,91.08 391.18,273.84 500.00,79.98 L500.00,0.00 L0.00,0.00 Z" />
+    <text x="30" y="100" text-anchor="start" style="font-size:28; fill:#FFF ;font-weight:bold;">Tiếng Trung cơ bản</text>
+</svg>
+
+<!--    style="position: absolute; top: 60px; left: 30px; font-size: 28px; color:white; font-weight: bold;"-->

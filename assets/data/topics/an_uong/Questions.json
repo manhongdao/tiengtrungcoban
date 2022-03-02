@@ -1,0 +1,177 @@
+
+{
+    "listening": [
+        ["吃", "菜", "道", "肉", "饱", "饿", "喝", "水", "茶", "渴", "碗", "酸", "甜", "苦", "辣"],
+        ["米饭", "鸡蛋", "面包", "面条", "饺子", "蛋糕", "好吃", "饮料", "牛奶", "奶茶", "咖啡", "啤酒", "果汁", "饭店", "菜单", "筷子", "盘子", "水果", "苹果", "香蕉", "西瓜", "芒果", "橙子", "草莓", "柠檬"]
+    ],
+    "reading": [
+        [
+            {
+                "chinese": "吃",
+                "vietnamese": "Ăn"
+            },
+            {
+                "chinese": "菜",
+                "vietnamese": "Món ăn"
+            },
+            {
+                "chinese": "道",
+                "vietnamese": "Lượng từ dùng cho món ăn"
+            },
+            {
+                "chinese": "米饭",
+                "vietnamese": "Cơm"
+            },
+            {
+                "chinese": "鸡蛋",
+                "vietnamese": "Trứng gà"
+            },
+            {
+                "chinese": "面包",
+                "vietnamese": "Bánh mì"
+            },
+            {
+                "chinese": "面条",
+                "vietnamese": "Mì"
+            },
+            {
+                "chinese": "饺子",
+                "vietnamese": "Sủi cảo"
+            },
+            {
+                "chinese": "肉",
+                "vietnamese": "Thịt"
+            },
+            {
+                "chinese": "蛋糕",
+                "vietnamese": "Bánh kem"
+            },
+            {
+                "chinese": "好吃",
+                "vietnamese": "Ngon"
+            },
+            {
+                "chinese": "饱",
+                "vietnamese": "No"
+            },
+            {
+                "chinese": "饿",
+                "vietnamese": "Đói"
+            },
+            {
+                "chinese": "喝",
+                "vietnamese": "Uống"
+            },
+            {
+                "chinese": "水",
+                "vietnamese": "Nước"
+            },
+            {
+                "chinese": "饮料",
+                "vietnamese": "Đồ uống"
+            },
+            {
+                "chinese": "牛奶",
+                "vietnamese": "Sữa bò"
+            },
+            {
+                "chinese": "茶",
+                "vietnamese": "Trà"
+            },
+            {
+                "chinese": "奶茶",
+                "vietnamese": "Trà sữa"
+            },
+            {
+                "chinese": "咖啡",
+                "vietnamese": "Cà phê"
+            },
+            {
+                "chinese": "啤酒",
+                "vietnamese": "Bia"
+            },
+            {
+                "chinese": "果汁",
+                "vietnamese": "Nước hoa quả"
+            },
+            {
+                "chinese": "渴",
+                "vietnamese": "Khát"
+            },
+            {
+                "chinese": "饭店",
+                "vietnamese": "Tiệm ăn, quán cơm"
+            },
+            {
+                "chinese": "菜单",
+                "vietnamese": "Thực đơn"
+            },
+            {
+                "chinese": "筷子",
+                "vietnamese": "Đũa"
+            },
+            {
+                "chinese": "盘子",
+                "vietnamese": "Đĩa"
+            },
+            {
+                "chinese": "碗",
+                "vietnamese": "Bát"
+            },
+            {
+                "chinese": "水果",
+                "vietnamese": "Hoa quả"
+            },
+            {
+                "chinese": "苹果",
+                "vietnamese": "Quả táo"
+            },
+            {
+                "chinese": "香蕉",
+                "vietnamese": "Quả chuối"
+            },
+            {
+                "chinese": "西瓜",
+                "vietnamese": "Quả dưa hấu"
+            },
+            {
+                "chinese": "芒果",
+                "vietnamese": "Quả xoài"
+            },
+            {
+                "chinese": "橙子",
+                "vietnamese": "Quả cam"
+            },
+            {
+                "chinese": "草莓",
+                "vietnamese": "Quả dâu tây"
+            },
+            {
+                "chinese": "柠檬",
+                "vietnamese": "Quả chanh"
+            },
+            {
+                "chinese": "酸",
+                "vietnamese": "Chua"
+            },
+            {
+                "chinese": "甜",
+                "vietnamese": "Ngọt"
+            },
+            {
+                "chinese": "苦",
+                "vietnamese": "Đắng"
+            },
+            {
+                "chinese": "辣",
+                "vietnamese": "Cay"
+            }
+        ]
+    ],
+    "speaking": [
+        ["米饭", "鸡蛋", "面包", "面条", "饺子", "蛋糕", "好吃", "饮料", "牛奶", "奶茶", "咖啡", "啤酒", "果汁", "可口可乐", "饭店", "菜单", "筷子", "盘子", "水果", "苹果", "香蕉", "西瓜", "芒果", "橙子", "草莓", "柠檬", "饮料呢"]
+    ],
+    "writing": [
+        ["你喜欢茶还是咖啡？", "我们去食堂吃吧。", "你想吃什么？", "我想吃包子，很久没吃了。", "我吃面条，喝奶茶。", "你喝什么？", "我也喝奶茶。", "你最喜欢吃的东西是什么？", "我最喜欢吃面条。", "我最喜欢喝咖啡。", "每天我都喝一杯咖啡。", "我也很喜欢喝咖啡。", "你喜欢吃什么水果？", "我喜欢西瓜。", "你喜欢橙子吗？", "我不喜欢橙子。", "你喜欢茶还是咖啡？", "给我一杯茶或者咖啡也行。", "去中国学汉语。", "去超市买东西。"]
+    ]
+}

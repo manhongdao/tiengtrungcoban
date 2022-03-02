@@ -1,0 +1,136 @@
+[
+    [
+        {
+            "chinese": "你喜欢玫瑰吗？",
+            "pinyin": "Nǐ xǐhuān méiguī ma?",
+            "vietnamese": "Cậu có thích hoa hồng không?"
+        },
+        {
+            "chinese": " 我很喜欢。",
+            "pinyin": "Wǒ hěn xǐhuān.",
+            "vietnamese": "Mình rất thích."
+        },
+        {
+            "chinese": "每种玫瑰都有它的意义的，你喜欢哪个颜色的玫瑰？",
+            "pinyin": "Měi zhǒng méiguī dōu yǒu tā de yìyì de, nǐ xǐhuān nǎge yánsè de méiguī?",
+            "vietnamese": "Mỗi loại hoa hồng đều mang một ý nghĩa khác nhau đấy, cậu thích hoa hồng màu gì?"
+        },
+        {
+            "chinese": "我喜欢红玫瑰，红玫瑰有什么意义啊？",
+            "pinyin": "Wǒ xǐhuān hóng méiguī, hóng méiguī yǒu shén me yìyì a?",
+            "vietnamese": "Mình thích hoa hồng đỏ, hoa hồng đỏ có ý nghĩa gì vậy?"
+        },
+        {
+            "chinese": "红玫瑰代表着爱情，黄玫瑰代表友情，紫玫瑰代表安静、等待，而粉玫瑰代表着感恩与关怀。",
+            "pinyin": "Hóng méiguī dàibiǎozhe àiqíng, huáng méiguī dàibiǎo yǒuqíng, zǐ méiguī dàibiǎo ānjìng, děngdài, ér fěn méiguī dàibiǎozhuó gǎn'ēn yǔ guānhuái.",
+            "vietnamese": "Hoa hồng đỏ có đại diện cho tình yêu, hoa hồng vàng đại diện cho tình bạn, màu tím đại diện cho yên tĩnh, chờ đợi, còn màu hồng biểu thị sự biết ơn và ghi nhớ."
+        },
+        {
+            "chinese": "有紫玫瑰吗？我没见过。",
+            "pinyin": "Yǒu zǐ méiguī ma? Wǒ méi jiànguò.",
+            "vietnamese": "Có hoa hồng màu tím à? Mình chưa nghe bao giờ đấy."
+        },
+        {
+            "chinese": "有啊，还有绿色和蓝色呢。绿玫瑰代表着新鲜的开始，蓝玫瑰代表奇迹与神秘。",
+            "pinyin": "Yǒu a, hái yǒu lǜsè hé lán sè ne. Lǜ méiguī dàibiǎozhuó xīnxiān de kāishǐ, lán méiguī dàibiǎo qíjī yǔ shénmì.",
+            "vietnamese": "Có chứ, còn có cả màu xanh lá, xanh dương nữa cơ. Hoa hồng màu xanh lá đại diện sự khởi đầu tươi mới, màu xanh dương thì lại đại diện cho kì tích và sự bí ẩn."
+        },
+        {
+            "chinese": "白玫瑰呢？",
+            "pinyin": "Bái méiguī ne?",
+            "vietnamese": "Hoa hồng trắng thì sao?"
+        },
+        {
+            "chinese": "白玫瑰代表着纯洁，诚实和尊敬。",
+            "pinyin": "Bái méiguī dàibiǎozhe chúnjié, chéngshí hé zūnjìng.",
+            "vietnamese": "Hoa hồng trắng tượng trưng cho sự thuần khiết, chân thành và tôn kính."
+        },
+        {
+            "chinese": "那你最喜欢哪个颜色的？",
+            "pinyin": "Nà nǐ zuì xǐhuān nǎge yánsè de?",
+            "vietnamese": "Vậy cậu thích hoa hồng màu gì nhất?"
+        },
+        {
+            "chinese": "七彩玫瑰吧。哪个我都很喜欢，选不了。",
+            "pinyin": "Qīcǎi méiguī ba. Nǎge wǒ dōu hěn xǐhuān, xuǎn bùliǎo.",
+            "vietnamese": "Hoa hồng bảy màu đi. Màu gì mình cũng thích, mình không chọn được."
+        }
+    ],
+    [
+        {
+            "chinese": "妈妈，我想玩娃娃涂。",
+            "pinyin": "Māma, wǒ xiǎng wán wáwa tú.",
+            "vietnamese": "Mẹ ơi,  con muốn tô tượng."
+        },
+        {
+            "chinese": "好，你想涂哪个？",
+            "pinyin": "Hǎo, nǐ xiǎng tú nǎge?",
+            "vietnamese": "Được, con muốn tô bức nào?"
+        },
+        {
+            "chinese": "这个艾莎公主。",
+            "pinyin": "Zhège ài shā gōngzhǔ.",
+            "vietnamese": "Bức công chúa Elsa này ạ."
+        },
+        {
+            "chinese": "我们一起涂好不好？",
+            "pinyin": "Wǒmen yīqǐ tú hǎobù hǎo?",
+            "vietnamese": "Chúng ta cùng tô nhé?"
+        },
+        {
+            "chinese": "好的。",
+            "pinyin": "Hǎo de.",
+            "vietnamese": "Vâng ạ."
+        },
+        {
+            "chinese": "为什么艾莎公主的头发是黑色的呀？不是金色吗？",
+            "pinyin": "Wèishéme ài shā gōngzhǔ de tóufa shì hēisè de ya? Bùshì jīnsè ma?",
+            "vietnamese": "Tại sao tóc của công chúa Elsa lại màu đen? Không phải màu vàng sao."
+        },
+        {
+            "chinese": "上面是黑色，下面是金色，这是新潮流。我看现在的小姐姐头发都是这样的。",
+            "pinyin": "Shàngmiàn shì hēisè, xiàmiàn shì jīnsè, zhè shì xīn cháoliú. Wǒ kàn xiànzài de xiǎo jiějie tóufa dōu shì zhèyàng de.",
+            "vietnamese": "Bên trên màu đen, bên dưới màu vàng, đây là trend mới á, con thấy các chị đều như thế."
+        },
+        {
+            "chinese": "你那红色涂什么？",
+            "pinyin": "Nǐ nà hóngsè tú shénme?",
+            "vietnamese": "Con lấy màu đỏ làm gì vậy."
+        },
+        {
+            "chinese": "涂裙子啊。",
+            "pinyin": "Tú qúnzi a.",
+            "vietnamese": "Con tô váy."
+        },
+        {
+            "chinese": "不是应该用蓝色吗？",
+            "pinyin": "Bùshì yīnggāi yòng lán sè ma?",
+            "vietnamese": "Không phải nên dùng màu xanh sao?"
+        },
+        {
+            "chinese": "快到春节了，要穿上新衣服，穿红色才吉利。",
+            "pinyin": "Kuài dào Chūnjié le, yào chuān shàng xīn yīfu, chuān hóngsè cái jílì.",
+            "vietnamese": "Sắp đến Tết rồi, phải mặc quần áo mới chứ, mặc màu đỏ cho may mắn."
+        },
+        {
+            "chinese": "那斗篷呢？",
+            "pinyin": "Nà dǒupeng ne?",
+            "vietnamese": "Thế áo choàng?"
+        },
+        {
+            "chinese": "让我想想，彩色吧。真好看。",
+            "pinyin": "Ràng wǒ xiǎngxiǎng, cǎisè ba. Zhēn hǎokàn.",
+            "vietnamese": "Để con nghĩ xem, 7 sắc cầu vòng đi. Đẹp quá."
+        },
+        {
+            "chinese": "越涂越觉得怪怪的。一点也不像艾莎公主。",
+            "pinyin": "Yuè tú yuè juéde guài guài de.",
+            "vietnamese": "Yīdiǎn yě bù xiàng ài shā gōngzhǔ."
+        },
+        {
+            "chinese": "妈妈，您不懂艺术。",
+            "pinyin": "Māma, nín bù dǒng yìshù.",
+            "vietnamese": "Mẹ chả hiểu nghệ thuật gì cả."
+        }
+    ]
+]

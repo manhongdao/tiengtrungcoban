@@ -1,0 +1,171 @@
+{
+    "listening": [
+        ["地址", "取消", "退房", "城市", "农村", "硬币", "条件", "海关", "排队", "打算", "行李", "地图", "北方", "南方", "酒店", "旅馆", "宾馆", "海洋", "护照", "照片", "拍照", "旅游", "游客", "签证", "起飞", "降落", "世界", "环境", "礼物", "历史", "文化", "其他", "决定", "同意"]
+    ],
+    "reading": [
+        [
+            {
+                "chinese": "地址",
+                "vietnamese": "Địa chỉ"
+            },
+            {
+                "chinese": "取消",
+                "vietnamese": "Huỷ bỏ"
+            },
+            {
+                "chinese": "退房",
+                "vietnamese": "Trả phòng"
+            },
+            {
+                "chinese": "城市",
+                "vietnamese": "Thành phố"
+            },
+            {
+                "chinese": "农村",
+                "vietnamese": "Nông thôn"
+            },
+            {
+                "chinese": "硬币",
+                "vietnamese": "Tiền xu"
+            },
+            {
+                "chinese": "条件",
+                "vietnamese": "Điều kiện"
+            },
+            {
+                "chinese": "海关",
+                "vietnamese": "Hải quan"
+            },
+            {
+                "chinese": "排队",
+                "vietnamese": "Xếp hàng"
+            },
+            {
+                "chinese": "打算",
+                "vietnamese": "Dự định, tính toán"
+            },
+            {
+                "chinese": "行李",
+                "vietnamese": "Hành lí"
+            },
+            {
+                "chinese": "地图",
+                "vietnamese": "Bản đồ"
+            },
+            {
+                "chinese": "北方",
+                "vietnamese": "Phía bắc"
+            },
+            {
+                "chinese": "南方",
+                "vietnamese": "Phía nam"
+            },
+            {
+                "chinese": "酒店",
+                "vietnamese": "Khách sạn"
+            },
+            {
+                "chinese": "旅馆",
+                "vietnamese": "Nhà nghỉ"
+            },
+            {
+                "chinese": "宾馆",
+                "vietnamese": "Nhà khách"
+            },
+            {
+                "chinese": "海洋",
+                "vietnamese": "Hải dương, biển"
+            },
+            {
+                "chinese": "护照",
+                "vietnamese": "Hộ chiếu"
+            },
+            {
+                "chinese": "照片",
+                "vietnamese": "Bức ảnh"
+            },
+            {
+                "chinese": "票",
+                "vietnamese": "Vé"
+            },
+            {
+                "chinese": "拍照",
+                "vietnamese": "Chụp ảnh"
+            },
+            {
+                "chinese": "照相机",
+                "vietnamese": "Máy ảnh"
+            },
+            {
+                "chinese": "旅游",
+                "vietnamese": "Du lịch"
+            },
+            {
+                "chinese": "游客",
+                "vietnamese": "Khách du lịch"
+            },
+            {
+                "chinese": "签证",
+                "vietnamese": "Visa"
+            },
+            {
+                "chinese": "次",
+                "vietnamese": "Lần, lượt, chuyến"
+            },
+            {
+                "chinese": "带",
+                "vietnamese": "Mang theo"
+            },
+            {
+                "chinese": "起飞",
+                "vietnamese": "Cất cánh"
+            },
+            {
+                "chinese": "降落",
+                "vietnamese": "Hạ cánh"
+            },
+            {
+                "chinese": "世界",
+                "vietnamese": "Thế giới"
+            },
+            {
+                "chinese": "环境",
+                "vietnamese": "Môi trường, hoàn cảnh"
+            },
+            {
+                "chinese": "礼物",
+                "vietnamese": "Món quà"
+            },
+            {
+                "chinese": "历史",
+                "vietnamese": "Lịch sử"
+            },
+            {
+                "chinese": "文化",
+                "vietnamese": "Văn hóa"
+            },
+            {
+                "chinese": "其他",
+                "vietnamese": "Các khác, khác"
+            },
+            {
+                "chinese": "决定",
+                "vietnamese": "Quyết định"
+            },
+            {
+                "chinese": "同意",
+                "vietnamese": "Đồng ý, tán thành"
+            },
+            {
+                "chinese": "一定",
+                "vietnamese": "Nhất định"
+            }
+        ]
+    ],
+    "speaking": [
+        ["地址", "取消", "退房", "城市", "农村", "硬币", "条件", "海关", "排队", "打算", "行李", "地图", "北方", "南方", "酒店", "旅馆", "宾馆", "海洋", "护照", "照片", "拍照", "照相机", "旅游", "游客", "签证", "起飞", "降落", "世界", "环境", "礼物", "历史", "文化", "其他", "决定", "同意", "不错的"]
+    ],
+    "writing": [
+        ["您需要什么帮助吗？", "我想做个旅行计划。", "请问您想去哪儿？", "你可以给我介绍几个旅游景点吗？", "这段时间很多人都选去下龙湾。？", "我去过了。", "这是越南的一个文化旅游中心城市。", "有介绍资料吗？", "给我一本。", "这是我第一次来越南。", "这些都是很有名的旅游点。", "陪我一起去吧！", "这个周末怎么样？", "你们越南风景真好看。", "越南菜也很好吃。", "这几天玩得开心吗？", "你想买一点礼物带回去吗？", "你来我这儿。", "我到这儿。", "我们走吧。", "我们去哪儿？", "她做好饭了。", "他找到书了。", "我没有做完作业。", "我没听见。", "你听见了没？", "你找到书了没有？", "他们来过我家。", "我去过中国。", "我没有见过他。", "他没爱过谁。", "你来过中国没有？", "你爱过我没有？", "我坐过两次飞机。", "我来过北京三次。", "我见过她五次。", "第一个人。", "他能用英文写小说。", "真好看。", "我给你买咖啡。", "我给妈妈打电话。", "我回来了。", "朋友回家去了。", "我上楼去。", "明天要带作业来。"]
+    ]
+}

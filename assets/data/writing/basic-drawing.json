@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Nét chấm (丶)",
+        "titleImg": "net-cham.jpg",
+        "description": "Giống như một dấu chấm, đi từ trên xuống dưới.",
+        "sampleImgs": [
+            "net-cham-1.gif",
+            "net-cham-2.gif",
+            "net-cham-3.gif"
+        ]
+    },
+    {
+        "title": "Nét ngang (一)",
+        "titleImg": "net-ngang.jpg",
+        "description": "Một nét thẳng ngang, đưa từ trái sang phải.",
+        "sampleImgs": [
+            "net-ngang-1.gif",
+            "net-ngang-2.gif",
+            "net-ngang-3.gif"
+        ]
+    },
+    {
+        "title": "Nét sổ (丨)",
+        "titleImg": "net-so.jpg",
+        "description": "Một nét thẳng đứng, đưa từ trên xuống dưới.",
+        "sampleImgs": [
+            "net-ngang-1.gif",
+            "net-so-2.gif",
+            "net-so-3.gif"
+        ]
+    },
+    {
+        "title": "Nét phẩy (丿)",
+        "titleImg": "net-phay.jpg",
+        "description": "Một nét cong gần giống như dấu phẩy, đưa từ trên xuống dưới, nghiêng từ phải qua trái, nửa cuối nét đưa nhanh tay, thả lỏng.",
+        "sampleImgs": [
+            "net-phay-1.gif",
+            "net-phay-2.gif",
+            "net-ngang-3.gif"
+        ]
+    },
+    {
+        "title": "Nét mác (㇏)",
+        "titleImg": "net-mac.jpg",
+        "description": "Một nét cong, đưa từ trên xuống dưới, nghiêng từ trái qua phải, nửa cuối nét hơi dùng lực.",
+        "sampleImgs": [
+            "net-cham-2.gif",
+            "net-mac-2.gif",
+            "net-mac-3.gif"
+        ]
+    },
+    {
+        "title": "Nét hất (㇀)",
+        "titleImg": "net-hat.jpg",
+        "description": "Một nét cong, đưa từ dưới lên trên, xiên từ trái sang phải, nửa cuối nét đưa nhanh tay, thả lỏng.",
+        "sampleImgs": [
+            "net-hat-1.gif",
+            "net-hat-2.gif",
+            "net-hat-3.gif"
+        ]
+    },
+    {
+        "title": "Nét gập (𠃍)",
+        "titleImg": "net-gap.jpg",
+        "description": "Khi các nét cơ bản kết hợp với nhau để tạo thành các nét biến thể thì chúng thường được nối với nhau bởi các nét gập ở các “đầu nối”.",
+        "sampleImgs": [
+            "net-gap-1.gif",
+            "net-gap-2.gif",
+            "net-gap-3.gif"
+        ]
+    },
+    {
+        "title": "Nét móc (亅)",
+        "titleImg": "net-moc.jpg",
+        "description": "Móc lên ở cuối các nét khác.",
+        "sampleImgs": [
+            "net-moc-1.gif",
+            "net-moc-2.gif",
+            "net-moc-3.gif"
+        ]
+    }
+]

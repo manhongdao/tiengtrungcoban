@@ -1,0 +1,91 @@
+{
+    "listening": [
+        ["职业", "医生", "警察", "老师", "工人", "司机", "记者", "助理", "演员", "厨师", "农民", "律师", "商人", "导游", "牙医"]
+    ],
+    "reading": [
+        [
+            {
+                "chinese": "职业",
+                "vietnamese": "Nghề nghiệp"
+            },
+            {
+                "chinese": "医生",
+                "vietnamese": "Bác sĩ"
+            },
+            {
+                "chinese": "警察",
+                "vietnamese": "Cảnh sát"
+            },
+            {
+                "chinese": "老师",
+                "vietnamese": "Giáo viên"
+            },
+            {
+                "chinese": "工人",
+                "vietnamese": "Công nhân"
+            },
+            {
+                "chinese": "司机",
+                "vietnamese": "Tài xế"
+            },
+            {
+                "chinese": "服务员",
+                "vietnamese": "Nhân viên phục vụ"
+            },
+            {
+                "chinese": "记者",
+                "vietnamese": "Phóng viên"
+            },
+            {
+                "chinese": "助理",
+                "vietnamese": "Trợ lí"
+            },
+            {
+                "chinese": "演员",
+                "vietnamese": "Diễn viên"
+            },
+            {
+                "chinese": "厨师",
+                "vietnamese": "Đầu bếp"
+            },
+            {
+                "chinese": "售货员",
+                "vietnamese": "Thu ngân"
+            },
+            {
+                "chinese": "农民",
+                "vietnamese": "Nông dân"
+            },
+            {
+                "chinese": "工程师",
+                "vietnamese": "Kỹ sư"
+            },
+            {
+                "chinese": "律师",
+                "vietnamese": "Luật sư"
+            },
+            {
+                "chinese": "商人",
+                "vietnamese": "Doanh nhân"
+            },
+            {
+                "chinese": "摄影师",
+                "vietnamese": "Nhiếp ảnh gia"
+            },
+            {
+                "chinese": "导游",
+                "vietnamese": "Hướng dẫn viên du lịch"
+            },
+            {
+                "chinese": "牙医",
+                "vietnamese": "Nha sĩ"
+            }
+        ]
+    ],
+    "speaking": [
+        ["职业", "医生", "警察", "老师", "工人", "司机", "服务员", "记者", "助理", "演员", "厨师", "售货员", "农民", "工程师", "律师", "商人", "摄影师", "导游", "牙医"]
+    ],
+    "writing": [
+        ["你爸爸妈妈做什么工作？", "我妈妈是老师。", "我爸爸是医生。", "我爸爸是工程师。", "我妈妈是家庭主妇。", "你妈妈不上班。", "她是一个伟大的妈妈。", "你以后想做什么工作？", "我想当厨师。", "你为什么想当厨师？", "因为我喜欢做饭。", "小学的时候我很喜欢旅游。", "我想当一个导游。", "你对现在的工作满意吗？", "我己经干了五年了。"]
+    ]
+}

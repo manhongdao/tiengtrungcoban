@@ -1,0 +1,574 @@
+[
+    {
+        "chinese": "购物",
+        "pinyin": "gòuwù",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Mua sắm",
+                "image": "shopping.png",
+                "example": {
+                    "chinese": "她和她母亲去购物。",
+                    "pinyin": "Tā hé tā mǔqīn qù gòuwù.",
+                    "vietnamese": "Cô ấy và mẹ đi mua sắm."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "买",
+        "pinyin": "mǎi",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Mua",
+                "image": "buy.png",
+                "example": {
+                    "chinese": "谁买的书？",
+                    "pinyin": "Shéi mǎi de shū?",
+                    "vietnamese": "Quyển sách này ai mua?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "卖",
+        "pinyin": "mài",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Bán",
+                "image": "sell.png",
+                "example": {
+                    "chinese": "这里只卖女鞋。",
+                    "pinyin": "Zhèlǐ zhǐ mài nǚ xié.",
+                    "vietnamese": "Ở đây chỉ bán giày nữ."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "找",
+        "pinyin": "zhǎo",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Tìm kiếm",
+                "image": "search.png",
+                "example": {
+                    "chinese": "咱们找他说理去。",
+                    "pinyin": "Zánmen zhǎo tā shuōlǐ qù.",
+                    "vietnamese": "Chúng ta tìm anh ấy nói rõ lí lẽ."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "大",
+        "pinyin": "dà",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "To, lớn, rộng",
+                "image": "large-size.png",
+                "example": {
+                    "chinese": "战舰非常大。",
+                    "pinyin": "Zhànjiàn fēicháng dà.",
+                    "vietnamese": "Chiếc chiến hạm rất lớn."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "小",
+        "pinyin": "xiǎo",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Nhỏ, bé",
+                "image": "small-size.png",
+                "example": {
+                    "chinese": "地球比太阳小。",
+                    "pinyin": "Dìqiú bǐ tàiyáng xiǎo.",
+                    "vietnamese": "Trái đất nhỏ bé so với mặt trời."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "多少",
+        "pinyin": "duōshǎo",
+        "meaning": [
+            {
+                "type": "đại từ",
+                "vietnamese": "Bao nhiêu",
+                "image": "how-much.png",
+                "example": {
+                    "chinese": "这几件东西一起多少钱？",
+                    "pinyin": "Zhè jǐ jiàn dōngxī yīqǐ duōshǎo qián?",
+                    "vietnamese": "Tổng cộng mấy món này bao nhiêu tiền?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "钱",
+        "pinyin": "qián",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Tiền, đồng tiền",
+                "image": "cash-and-coin.png",
+                "example": {
+                    "chinese": "我给你钱。",
+                    "pinyin": "Wǒ gěi nǐ qián.",
+                    "vietnamese": "Tôi sẽ đưa tiền cho bạn."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "花",
+        "pinyin": "huā",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Tiêu, tốn, tiêu xài",
+                "image": "spend.png",
+                "example": {
+                    "chinese": "我在这件衬衫上花了很多钱。",
+                    "pinyin": "Wǒ zài zhè jiàn chènshān shàng huāle hěnduō qián.",
+                    "vietnamese": "Tôi đã tốn rất nhiều tiền cho chiếc áo này."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "借",
+        "pinyin": "jiè",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Mượn, vay",
+                "image": "borrow.png",
+                "example": {
+                    "chinese": "我问他借两本书。",
+                    "pinyin": "Wǒ wèn tā jiè liǎngběnshū.",
+                    "vietnamese": "Tôi hỏi mượn anh ấy hai quyển sách."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "还",
+        "pinyin": "huán",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Trả, trả lại",
+                "image": "return.png",
+                "example": {
+                    "chinese": "她没有还我钱。",
+                    "pinyin": "Tā méiyǒu huán wǒ qián.",
+                    "vietnamese": "Cô ấy không trả lại tiền cho tôi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "块",
+        "pinyin": "kuài",
+        "meaning": [
+            {
+                "type": "",
+                "vietnamese": "Tờ, đồng (lượng từ của tiền)",
+                "example": {
+                    "chinese": "做一天工，赚十块。",
+                    "pinyin": "Zuò yìtiān gōng, zhuàn shíkuài.",
+                    "vietnamese": "Làm một ngày, kiếm được 10 đồng."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "元",
+        "pinyin": "yuán",
+        "meaning": [
+            {
+                "type": "",
+                "vietnamese": "Đồng (đơn vị tiền Trung Quốc)",
+                "image": "yuan.png",
+                "example": {
+                    "chinese": "一人仅摊五元钱。",
+                    "pinyin": "Yīrénjǐn tān wǔyuán qián.",
+                    "vietnamese": "Mỗi người chỉ được chia năm đồng."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "角",
+        "pinyin": "jiǎo",
+        "meaning": [
+            {
+                "type": "",
+                "vietnamese": "Hào (đơn vị tiền Trung Quốc, 10 hào=1 đồng)",
+                "image": "hao.png",
+                "example": {
+                    "chinese": "十角等于一元。",
+                    "pinyin": "Shí jiǎo děngyú yīyuán.",
+                    "vietnamese": "Mười hào bằng một đồng."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "毛",
+        "pinyin": "máo",
+        "meaning": [
+            {
+                "type": "",
+                "vietnamese": "Hào (đơn vị tiền Trung Quốc, 10 hào=1 đồng)",
+                "image": "hao.png",
+                "example": {
+                    "chinese": "一毛等于十分。",
+                    "pinyin": "Yī máo děngyú shífēn.",
+                    "vietnamese": "Một hào bằng mười xu."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "多么",
+        "pinyin": "duōme",
+        "meaning": [
+            {
+                "type": "phó từ",
+                "vietnamese": "Biết bao, thật",
+                "example": {
+                    "chinese": "这里的风景多么美。",
+                    "pinyin": "Zhèlǐ de fēngjǐng duōme měi.",
+                    "vietnamese": "Phong cảnh ở đây thật đẹp."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "一点儿",
+        "pinyin": "yīdiǎnr",
+        "meaning": [
+            {
+                "type": "",
+                "vietnamese": "Một chút, một ít",
+                "example": {
+                    "chinese": "你挨近我一点儿。",
+                    "pinyin": "Nǐ āijìn wǒ yīdiǎnr.",
+                    "vietnamese": "Bạn lại gần tôi một chút."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "少",
+        "pinyin": "shǎo",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Ít",
+                "image": "few.png",
+                "example": {
+                    "chinese": "以少胜多。",
+                    "pinyin": "Yǐshǎoshèngduō.",
+                    "vietnamese": "Lấy ít thắng nhiều."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "多",
+        "pinyin": "duō",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Nhiều",
+                "image": "many.png",
+                "example": {
+                    "chinese": "感触很多。",
+                    "pinyin": "Gǎnchù hěnduō.",
+                    "vietnamese": "Có rất nhiều cảm xúc."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "贵",
+        "pinyin": "guì",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Đắt, đắt đỏ",
+                "image": "expensive.png",
+                "example": {
+                    "chinese": "哪个比较贵？",
+                    "pinyin": "Nǎge bǐjiào guì?",
+                    "vietnamese": "Cái nào đắt hơn?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "便宜",
+        "pinyin": "piányi",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Rẻ, hời",
+                "image": "cheap.png",
+                "example": {
+                    "chinese": "东西好，价钱又便宜，值得买。",
+                    "pinyin": "Dōngxī hǎo, jiàqián yòu piányi, zhídé mǎi.",
+                    "vietnamese": "Đồ tốt, giá lại rẻ, nên mua."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "一共",
+        "pinyin": "yígòng",
+        "meaning": [
+            {
+                "type": "phó từ",
+                "vietnamese": "Tất cả, tổng cộng",
+                "example": {
+                    "chinese": "一共一千元。",
+                    "pinyin": "Yígòng yīqiān yuán.",
+                    "vietnamese": "Tổng cộng 1.000 đồng."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "拿",
+        "pinyin": "ná",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Cầm, cầm lấy",
+                "image": "holding.png",
+                "example": {
+                    "chinese": "我将拿这把伞。",
+                    "pinyin": "Wǒ jiāng ná zhè bǎ sǎn.",
+                    "vietnamese": "Tôi sẽ cầm chiếc ô này."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "穿",
+        "pinyin": "chuān",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Mặc, mang",
+                "image": "wearing.png",
+                "example": {
+                    "chinese": "不愁吃来不愁穿。",
+                    "pinyin": "Bùchóuchī lái bùchóuchuān.",
+                    "vietnamese": "Chẳng phải lo ăn mà cũng chẳng phải lo mặc."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "试",
+        "pinyin": "shì",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Thử, thí nghiệm",
+                "image": "experiement.png",
+                "example": {
+                    "chinese": "她在试一件外衣。",
+                    "pinyin": "Tā zài shì yī jiàn wàiyī.",
+                    "vietnamese": "Cô ấy đang thử một chiếc áo khoác."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "衣服",
+        "pinyin": "yīfu",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Quần áo, trang phục",
+                "image": "clothing.png",
+                "example": {
+                    "chinese": "衣服受潮了。",
+                    "pinyin": "Yīfu shòucháo le.",
+                    "vietnamese": "Quần áo bị ẩm ướt rồi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "件",
+        "pinyin": "jiàn",
+        "meaning": [
+            {
+                "type": "lượng từ",
+                "vietnamese": "Chiếc, kiện, cái (lượng từ cho vật đếm được từng cái)",
+                "image": "chiec.png",
+                "example": {
+                    "chinese": "一件毛衣，一件事",
+                    "pinyin": "yī jiàn máoyī, yī jiàn shì",
+                    "vietnamese": "một chiếc áo len, một việc"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "个",
+        "pinyin": "gè",
+        "meaning": [
+            {
+                "type": "lượng từ",
+                "vietnamese": "Cái, con, quả, trái",
+                "image": "cai.png",
+                "example": {
+                    "chinese": "一个苹果",
+                    "pinyin": "Yīgè píngguǒ",
+                    "vietnamese": "Một trái táo"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "本",
+        "pinyin": "běn",
+        "meaning": [
+            {
+                "type": "lượng từ",
+                "vietnamese": "Cuốn, quyển, tập (lượng từ dùng cho sách vở, sổ sách)",
+                "image": "cuon.png",
+                "example": {
+                    "chinese": "一本本子，一本词典",
+                    "pinyin": "yī běn zi, yī běn cídiǎn",
+                    "vietnamese": "một quyển vở, một quyển từ điển"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "衬衫",
+        "pinyin": "chènshān",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Áo sơ mi",
+                "image": "so-mi.png",
+                "example": {
+                    "chinese": "汗水浸透了衬衫。",
+                    "pinyin": "Hànshǔi jìntòu le chènshān.",
+                    "vietnamese": "Mồ hôi thấm ướt áo sơ mi rồi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "帽子",
+        "pinyin": "màozi",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Mũ",
+                "image": "hat.png",
+                "example": {
+                    "chinese": "他抓起帽子就往外走。",
+                    "pinyin": "Tā zhuāqǐ màozi jìu wǎngwài zǒu.",
+                    "vietnamese": "Anh ấy cầm mũ lên rồi đi ra ngoài."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "裤子",
+        "pinyin": "kùzi",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Quần",
+                "image": "trousers.png",
+                "example": {
+                    "chinese": "裤子秃噜地了。",
+                    "pinyin": "Kùzi tū lu dele.",
+                    "vietnamese": "Cái quần rơi xuống đất rồi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "裙子",
+        "pinyin": "qúnzi",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Váy",
+                "image": "woman-clothes.png",
+                "example": {
+                    "chinese": "她穿着白上身，花裙子。",
+                    "pinyin": "Tā chuānzhuó bái shàngshēn, huā qúnzi.",
+                    "vietnamese": "Chị ấy mặc một cái áo trắng, chiếc váy hoa."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "皮鞋",
+        "pinyin": "píxié",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Giày da",
+                "image": "shoe.png",
+                "example": {
+                    "chinese": "给皮鞋打点儿油。",
+                    "pinyin": "Gěi píxié dǎ diǎnér yóu.",
+                    "vietnamese": "Đánh xi lên giày da."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "双",
+        "pinyin": "shuāng",
+        "meaning": [
+            {
+                "type": "lượng từ",
+                "vietnamese": "Đôi",
+                "image": "pair.png",
+                "example": {
+                    "chinese": "双翅",
+                    "pinyin": "Shuāngchì",
+                    "vietnamese": "Đôi cánh"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "袜子",
+        "pinyin": "wàzi",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Tất",
+                "image": "sock.png",
+                "example": {
+                    "chinese": "这双袜子织得很仔密。",
+                    "pinyin": "Zhè shuāng wàzi zhīdé hěn zǐmì.",
+                    "vietnamese": "Đôi tất này dệt rất dày."
+                }
+            }
+        ]
+    }
+]

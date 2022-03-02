@@ -1,0 +1,63 @@
+[
+    [
+        {
+            "chinese": "你最喜欢哪个季节？",
+            "pinyin": "Nǐ zuì xǐhuān nǎge jìjié?",
+            "vietnamese": "Bạn thích mùa nào nhất?"
+        },
+        {
+            "chinese": "我最喜欢夏天。",
+            "pinyin": "Wǒ zuì xǐhuān xiàtiān.",
+            "vietnamese": "Tôi thích mùa hè nhất."
+        },
+        {
+            "chinese": "为什么你喜欢夏天？夏天太热了。",
+            "pinyin": "Wèishéme nǐ xǐhuān xiàtiān? Xiàtiān tài rè le.",
+            "vietnamese": "Tại sao bạn lại thích mùa hè? Mùa hè nóng lắm."
+        },
+        {
+            "chinese": "夏天我可以去游泳。你呢？你最喜欢哪个季节？",
+            "pinyin": "Xiàtiān wǒ kěyǐ qù yóuyǒng. Nǐ ne? Nǐ zuì xǐhuān nǎge jìjié?",
+            "vietnamese": "Mùa hè tôi có thể đi bơi. Bạn thì sao? Bạn thích mùa nào nhất?"
+        },
+        {
+            "chinese": "我最喜欢春天，很暖和。",
+            "pinyin": "Wǒ zuì xǐhuān chūntiān, hěn nuǎnhuo.",
+            "vietnamese": "Tôi thích mùa xuân nhất, vô cùng ấm ấp."
+        }
+    ],
+    [
+        {
+            "chinese": "今天天气怎么样？",
+            "pinyin": "Jīntiān tiānqì zěnme yàng?",
+            "vietnamese": "Thời tiết hôm nay thế nào?"
+        },
+        {
+            "chinese": "很不错，太阳不是很大的。",
+            "pinyin": "Hěn búcuò, tàiyáng búshì hěn dà de.",
+            "vietnamese": "Không tồi, đẹp hơn hôm qua nhiều, ngoài trời không quá nắng."
+        },
+        {
+            "chinese": "对啊，今天的天气适合去玩。今年的夏天比去年热是吧？",
+            "pinyin": "Duì a, jīntiān de tiānqì shìhé qù wán. Jīnnián de xiàtiān bǐ qùnián rè shì ba?",
+            "vietnamese": "Đúng vậy, thời tiết hôm nay phù hợp để đi chơi. Mùa hè năm nay nóng hơn năm ngoái nhỉ?"
+        },
+        {
+            "chinese": "对，但是今天不太热，刚刚好。",
+            "pinyin": "Duì, dànshì jīntiān bú tài rè, gānggāng hǎo.",
+            "vietnamese": "Đúng, nhưng hôm nay không quá nóng, rất vừa phải."
+        }
+    ],
+    [
+        {
+            "chinese": "外面风刮得好大，天上好多云。",
+            "pinyin": "Wàimiàn fēng guā de hǎo dà, tiānshàng hǎo duōyún.",
+            "vietnamese": "Bên ngoài gió to quá, trên trời còn nhiều mây nữa."
+        },
+        {
+            "chinese": "快下雨了吧，你出去记得带伞。",
+            "pinyin": "Kuài xià yǔle ba, nǐ chūqù jìdé dài sǎn.",
+            "vietnamese": "Chắc trời sắp mưa rồi, con ra ngoài nhớ mang ô."
+        }
+    ]
+]

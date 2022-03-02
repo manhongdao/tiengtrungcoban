@@ -1,0 +1,68 @@
+[
+    [
+        {
+            "chinese": "你叫什么名字？",
+            "pinyin": "Nǐ jiào shénme míngzi?",
+            "vietnamese": "Bạn tên là gì?"
+        },
+        {
+            "chinese": "我叫刘嘉怡。",
+            "pinyin": "Wǒ jiào Liú Jiāyí.",
+            "vietnamese": "Tôi tên là Lưu Gia Di."
+        },
+        {
+            "chinese": "你今年多大？",
+            "pinyin": "Nǐ jīnnián duōdà?",
+            "vietnamese": "Bạn năm nay bao nhiêu tuổi?"
+        },
+        {
+            "chinese": "我今年22岁。",
+            "pinyin": "Wǒ jīnnián èrshí'èr suì.",
+            "vietnamese": "Năm nay tôi 22 tuổi."
+        }
+    ],
+    [
+        {
+            "chinese": "您好，请问您是大卫先生吗？",
+            "pinyin": "Nín hǎo, qǐng wèn nín shì Dàwěi xiānsheng ma?",
+            "vietnamese": "Chào ngài, xin hỏi ngài là David phải không ạ?"
+        },
+        {
+            "chinese": "我是，您贵姓？",
+            "pinyin": "Wǒ shì, nín guì xìng?",
+            "vietnamese": "Đúng vậy, xin cho biết quí danh?"
+        },
+        {
+            "chinese": "我是玛丽。很高兴认识您。",
+            "pinyin": "Wǒ shì Mǎlì. Hěn gāoxìng rènshi nǐ.",
+            "vietnamese": "Tôi là Mary. Rất vui được làm quen với ngài."
+        },
+        {
+            "chinese": "我也很高兴。玛丽女士是美国人吗？",
+            "pinyin": "Wǒ yě hěn gāoxìng. Mǎlì nǚshì shì Měiguó rén ma?",
+            "vietnamese": "Tôi cũng rất vui. Cô Mary là người Mỹ à?"
+        },
+        {
+            "chinese": "我不是美国人，我是英国人。您是哪国人？",
+            "pinyin": "Wǒ bùshì Měiguó rén, wǒ shì Yīngguó rén. Nín shì nǎ guó rén?",
+            "vietnamese": "Tôi không phải người Mỹ, tôi là người Anh. Ngài là người nước nào?"
+        },
+        {
+            "chinese": "我是法国人。",
+            "pinyin": "Wǒ shì Fǎguó rén.",
+            "vietnamese": "Tôi là người Pháp."
+        }
+    ],
+    [
+        {
+            "chinese": "给大家介绍一下，这是新学生。",
+            "pinyin": "Gěi dàjiā jièshào yīxià, zhè shì xīn xuésheng.",
+            "vietnamese": "Giới thiệu với mọi người, đây là học sinh mới."
+        },
+        {
+            "chinese": "大家好！我是琳达，今年22岁。我是美国人。很高兴认识大家。",
+            "pinyin": "Dàjiā hǎo! Wǒ shì Líndá, jīnnián èrshí'èr suì. Wǒ shì Měiguó rén. Hěn gāoxìng rènshi dàjiā.",
+            "vietnamese": "Chào mọi người! Mình tên là Linda, năm nay 22 tuổi. Mình là người Mỹ. Rất vui được làm quen với mọi người."
+        }
+    ]
+]

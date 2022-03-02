@@ -1,0 +1,305 @@
+[
+    {
+        "chinese": "动物",
+        "pinyin": "dòngwù",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Động vật",
+                "image": "animal.png",
+                "example": {
+                    "chinese": "海里有不少奇怪的动物。",
+                    "pinyin": "Hǎilǐ yǒu bùshǎo qíguài de dòngwù.",
+                    "vietnamese": "Dưới biển có nhiều động vật kỳ lạ."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "动物园",
+        "pinyin": "dòngwùyuán",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Sở thú, vườn bách thú",
+                "image": "zoo.png",
+                "example": {
+                    "chinese": "这个周末我们去动物园。",
+                    "pinyin": "Zhège zhōumò wǒmen qù dòngwùyuán.",
+                    "vietnamese": "Chúng tôi đi đến sở thú vào cuối tuần này."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "鸟",
+        "pinyin": "niǎo",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Con chim",
+                "image": "bird.png",
+                "example": {
+                    "chinese": "小鸟鼓动翅膀。",
+                    "pinyin": "Xiǎoniǎo gǔdòng chìbǎng.",
+                    "vietnamese": "Chú chim nhỏ vỗ cánh bay đi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "鱼",
+        "pinyin": "yú",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Con cá",
+                "image": "fish.png",
+                "example": {
+                    "chinese": "他们钓了几条鱼。",
+                    "pinyin": "Tāmen diàole jǐ tiáo yú.",
+                    "vietnamese": "Họ bắt được một vài con cá."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "狗",
+        "pinyin": "gǒu",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Con chó",
+                "image": "dog.png",
+                "example": {
+                    "chinese": "宠物店里的小狗很可爱。",
+                    "pinyin": "Chǒngwù diàn lǐ de xiǎo gǒu hěn kě'ài.",
+                    "vietnamese": "Những chú chó con trong cửa hàng thú cưng rất dễ thương."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "猫",
+        "pinyin": "māo",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Con mèo",
+                "image": "cat.png",
+                "example": {
+                    "chinese": "小猫喵喵叫。",
+                    "pinyin": "Xiǎomāo miāomiāojiào.",
+                    "vietnamese": "Mèo con kêu meo meo."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "马",
+        "pinyin": "mǎ",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Con ngựa",
+                "image": "horse.png",
+                "example": {
+                    "chinese": "马不走了。",
+                    "pinyin": "Mǎbùzǒu le.",
+                    "vietnamese": "Ngựa không đi được nữa."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "狮子",
+        "pinyin": "shīzi",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Con sư tử",
+                "image": "lion.png",
+                "example": {
+                    "chinese": "狮子吼叫着。",
+                    "pinyin": "Shīzi hǒujiàozhe.",
+                    "vietnamese": "Con sư tử gầm lên."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "大象",
+        "pinyin": "dàxiàng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Con voi",
+                "image": "elephant.png",
+                "example": {
+                    "chinese": "动物园有一头大大象。",
+                    "pinyin": "Dòngwùyuán yǒu yītóu dà dàxiàng.",
+                    "vietnamese": "Có một con voi lớn trong vườn thú."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "老虎",
+        "pinyin": "lǎohǔ",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Con hổ",
+                "image": "tiger.png",
+                "example": {
+                    "chinese": "老虎身上有美丽的斑纹。",
+                    "pinyin": "Lǎohǔ shēnshàng yǒu měilì de bānwén.",
+                    "vietnamese": "Trên mình hổ có vằn đẹp."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "兔子",
+        "pinyin": "tùzi",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Con thỏ",
+                "image": "rabbit.png",
+                "example": {
+                    "chinese": "别让兔子跑了。",
+                    "pinyin": "Bié ràng tùzi pǎo le.",
+                    "vietnamese": "Đừng để con thỏ chạy mất."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "鸡",  
+        "pinyin": "jī",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Con gà",
+                "image": "hen.png",
+                "example": {
+                    "chinese": "母鸡下蛋。",
+                    "pinyin": "Mǔjī xiàdàn.",
+                    "vietnamese": "Gà mái đẻ trứng."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "猪",
+        "pinyin": "zhū",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Con lợn",
+                "image": "pig.png",
+                "example": {
+                    "chinese": "这头猪喂得滚肥滚肥的。",
+                    "pinyin": "Zhètóu zhū wèi dé gǔnféi gǔnféi de.",
+                    "vietnamese": "Con lợn này béo tròn béo trục."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "熊猫",
+        "pinyin": "xióngmāo",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Con gấu trúc",
+                "image": "panda-bear.png",
+                "example": {
+                    "chinese": "大熊猫是珍奇的动物。",
+                    "pinyin": "Dàxióngmāo shì zhēnqí de dòngwù.",
+                    "vietnamese": "Gấu trúc là một động vật quý hiếm."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "奶牛",
+        "pinyin": "nǎiniú",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Con bò sữa",
+                "image": "cow.png",
+                "example": {
+                    "chinese": "我家养奶牛。",
+                    "pinyin": "Wǒ jiāyǎng nǎiniú.",
+                    "vietnamese": "Nhà tôi nuôi bò sữa."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "条",
+        "pinyin": "tiáo",
+        "meaning": [
+            {
+                "type": "lượng từ",
+                "vietnamese": "Lượng từ dùng cho vật dài(dòng sông, con đường,..)",
+                "image": "river.png",
+                "example": {
+                    "chinese": "一条河",
+                    "pinyin": "yī tiáo hé",
+                    "vietnamese": "một dòng sông"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "匹",
+        "pinyin": "pǐ",
+        "meaning": [
+            {
+                "type": "lượng từ",
+                "vietnamese": "Lượng từ dùng cho con ngựa, con lừa, cuộn vải",
+                "image": "horse.png",
+                "example": {
+                    "chinese": "一匹马",
+                    "pinyin": "yī pǐ mǎ",
+                    "vietnamese": "một con ngựa"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "种",
+        "pinyin": "zhǒng",
+        "meaning": [
+            {
+                "type": "lượng từ",
+                "vietnamese": "Loại",
+                "example": {
+                    "chinese": "动物园有很多种动物。",
+                    "pinyin": "Dòngwùyuán yǒu hěnduō zhǒng dòngwù.",
+                    "vietnamese": "Trong vườn thú có rất nhiều loại động vật."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "只",
+        "pinyin": "zhī",
+        "meaning": [
+            {
+                "type": "lượng từ",
+                "vietnamese": "Lượng từ dùng cho động vật",
+                "image": "cat.png",
+                "example": {
+                    "chinese": "一只猫",
+                    "pinyin": "yī zhī māo",
+                    "vietnamese": "một con mèo"
+                }
+            }
+        ]
+    }
+]

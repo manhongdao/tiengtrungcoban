@@ -1,0 +1,133 @@
+[
+    {
+        "title": "Cách hỏi đường: 到… 怎么走？",
+        "content": [
+            {
+                "keyWords": ["到", "怎么走"],
+                "description": "Đến… đi như thế nào?",
+                "examples": [
+                    {
+                        "chinese": "到图书馆怎么走？",
+                        "pinyin": "Dào túshū guǎn zěnme zǒu?",
+                        "vietnamese": "Đến thư viện đi như thế nào?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Cách hỏi vị trí: ……在哪儿？",
+        "content": [
+            {
+                "keyWords": ["在哪儿"],
+                "description": "Tên địa điểm + ở đâu?",
+                "examples": [
+                    {
+                        "chinese": "食堂在哪儿？",
+                        "pinyin": "Shítáng zài nǎ\"er?",
+                        "vietnamese": "Nhà ăn ở đâu?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Đại từ nghi vấn 多",
+        "content": [
+            {
+                "keyWords": ["多"],
+                "sub_descriptions": [
+                    "Đại từ nghi vấn {{多}} được dùng trước tính từ để hỏi về mức độ. Khi trả lời, ta phải nêu số lượng cụ thể."
+                ],
+                "examples": [
+                    {
+                        "chinese": "你哥哥多高？",
+                        "pinyin": "Nǐ gēge duō gāo?",
+                        "vietnamese": "Anh cậu cao bao nhiêu?"
+                    },
+                    {
+                        "chinese": "他一米九。",
+                        "pinyin": "Tā yī mǐ jiǔ.",
+                        "vietnamese": "Anh ấy 1m9."
+                    },
+                    {
+                        "chinese": "从你家到学校多远？",
+                        "pinyin": "Cóng nǐ jiā dào xuéxiào duō yuǎn?",
+                        "vietnamese": "Từ nhà cậu đến trường bao xa?"
+                    },
+                    {
+                        "chinese": "大约三公里吧。",
+                        "pinyin": "Dàyuē sān gōnglǐ ba.",
+                        "vietnamese": "Khoảng 3 km."
+                    },
+                    {
+                        "chinese": "万里长城有多长？",
+                        "pinyin": "Wànlǐ chángchéng yǒu duō cháng?",
+                        "vietnamese": "Vạn Lý Trường Thành dài bao nhiêu?"
+                    },
+                    {
+                        "chinese": "21196 公里。",
+                        "pinyin": "Liǎngwàn yīqiān yībǎi jiǔshíliù gōnglǐ.",
+                        "vietnamese": "21196 km."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Phó từ 再",
+        "content": [
+            {
+                "keyWords": ["再"],
+                "sub_descriptions": [
+                    "{{再}} được sử dụng để diễn tả một hành động/ trạng thái được lặp lại hay tiếp tục diễn ra. Nó cũng dùng để chỉ một hành động bị trì hoãn, sẽ xảy ra sau."
+                ],
+                "examples": [
+                    {
+                        "chinese": "明天再来吧。",
+                        "pinyin": "Míngtiān zàilái ba.",
+                        "vietnamese": "Ngày mai lại đến nhé."
+                    },
+                    {
+                        "chinese": "再走几步就到。",
+                        "pinyin": "Zài zǒu jǐ bù jiù dào.",
+                        "vietnamese": "Đi tiếp mấy bước là tới."
+                    },
+                    {
+                        "chinese": "我想想再告诉你。",
+                        "pinyin": "Wǒ xiǎngxiǎng zài gàosù nǐ.",
+                        "vietnamese": "Để tôi nghĩ thêm rồi nói với anh sau."
+                    },
+                    {
+                        "chinese": "以后再说。",
+                        "pinyin": "Yǐhòu zàishuō.",
+                        "vietnamese": "Sau này rồi tính."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Giới từ 往",
+        "content": [
+            {
+                "keyWords": ["往"],
+                "sub_descriptions": [
+                    "{{往}} + phương hướng: được dùng để chỉ phương hướng mà hành động hướng về."
+                ],
+                "examples": [
+                    {
+                        "chinese": "从这儿往前走，就是我的学校。",
+                        "pinyin": "Cóng zhèr wǎng qián zǒu, jiùshì wǒ de xuéxiào.",
+                        "vietnamese": "Từ đây đi thẳng là đến trường của tôi."
+                    },
+                    {
+                        "chinese": "往左看就是医院，往右看就是银行。",
+                        "pinyin": "Wǎng zuǒ kàn jiùshì yīyuàn, wǎng yòu kàn jiùshì yínháng.",
+                        "vietnamese": "Nhìn trái thì thấy bệnh viện, nhìn phải thì thấy ngân hàng."
+                    }
+                ]
+            }
+        ]
+    }
+]

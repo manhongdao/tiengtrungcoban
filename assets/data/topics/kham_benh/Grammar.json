@@ -1,0 +1,355 @@
+[
+    {
+        "title": "又……又……",
+        "content": [
+            {
+                "keyWords": ["又"],
+                "sub_descriptions": [
+                    "Cấu trúc {{又}} + Tính từ 1 + {{又}} + Tính từ 2  được dùng để nói về hai đặc điểm, trạng thái cùng tồn tại ở một người hay sự vật."
+                ],
+                "examples": [
+                    {
+                        "chinese": "这个西瓜又大又甜。",
+                        "pinyin": "Zhège xīguā yòu dà yòu tián.",
+                        "vietnamese": "Quả dưa hấu này vừa to vừa ngọt."
+                    },
+                    {
+                        "chinese": "我的妹妹又聪明又可爱。",
+                        "pinyin": "Wǒ de mèimei yòu cōngmíng yòu kě'ài.",
+                        "vietnamese": "Em gái tôi vừa thông minh vừa đáng yêu."
+                    },
+                    {
+                        "chinese": "外面又黑又冷。",
+                        "pinyin": "Wàimiàn yòu hēi yòu lěng.",
+                        "vietnamese": "Bên ngoài vừa tối vừa lạnh."
+                    },
+                    {
+                        "chinese": "他工作又认真又热情。",
+                        "pinyin": "Tā gōngzuò yòu rènzhēn yòu rèqíng.",
+                        "vietnamese": "Anh ấy làm việc vừa nghiêm túc vừa nhiệt tình."
+                    }
+                ]
+            },
+            {
+                "sub_descriptions": [
+                    "Cấu trúc tương tự: {{既}} (jì) + Tính từ 1 + {{又}} + Tính từ 2"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "只要……就……(chỉ cần… là… )",
+        "content": [
+            {
+                "keyWords": ["只要", "就"],
+                "sub_descriptions": [
+                    "{{只要}}……{{就}}…… là cấu trúc được dùng để kết nối hai mệnh đề của một câu phức chỉ điều kiện, {{只要}} dẫn ra điều kiện cần thiết, {{就}} dẫn ra kết quả tương ứng.",
+                    "Nếu câu có một chủ ngữ, chủ ngữ có thể đặt trước hoặc sau {{只要}}. Nếu câu có hai chủ ngữ, chủ ngữ thứ hai phải được đặt trước {{就}}."
+                ],
+                "examples": [
+                    {
+                        "chinese": "只要我有时间，就一定会跟你去旅行。",
+                        "pinyin": "Zhǐyào wǒ yǒu shíjiān, jiù yīdìng huì gēn nǐ qù lǚxíng.",
+                        "vietnamese": "Chỉ cần có thời gian, tôi nhất định sẽ đi du lịch với bạn."
+                    },
+                    {
+                        "chinese": "我只要喜欢就会买。",
+                        "pinyin": "Wǒ zhǐyào xǐhuān jiù huì mǎi.",
+                        "vietnamese": "Chỉ cần thích là tôi sẽ mua."
+                    },
+                    {
+                        "chinese": "只要你想去，我会带你去。",
+                        "pinyin": "Zhǐyào nǐ xiǎng qù, wǒ huì dài nǐ qù.",
+                        "vietnamese": "Chỉ cần em muốn đi, anh sẽ đưa em đi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "只有……才……(chỉ có…mới… )",
+        "content": [
+            {
+                "keyWords": ["只有", "才"],
+                "sub_descriptions": [
+                    "{{只有}}……{{才}}…… là cấu trúc được dùng để kết nối hai mệnh đề của một câu phức chỉ điều kiện.",
+                    "{{只有}} dẫn ra điều kiện duy nhất, {{才}} dẫn ra kết quả chỉ xuất hiện trong điều kiện này."
+                ],
+                "examples": [
+                    {
+                        "chinese": "只有她妈妈做的饭她才吃。",
+                        "pinyin": "Zhǐyǒu tā māma zuò de fàn tā cái chī.",
+                        "vietnamese": "Chỉ có cơm mẹ cô ấy nấu cô ấy mới ăn."
+                    },
+                    {
+                        "chinese": "她们是一对双胞胎，只有她们爸妈才能分出来。",
+                        "pinyin": "Tāmen shì yī duì shuāngbāotāi, zhǐyǒu tāmen bàmā cáinéng fēn chūlái.",
+                        "vietnamese": "Họ là một cặp song sinh, chỉ có bố mẹ họ mới phân biệt được."
+                    },
+                    {
+                        "chinese": "只有爱情才能让人们变化。",
+                        "pinyin": "Zhǐyǒu àiqíng cáinéng ràng rénmen biànhuà.",
+                        "vietnamese": "Chỉ có tình yêu mới có thể làm con người thay đổi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "除了……（以外），……还/也/都……",
+        "content": [
+            {
+                "keyWords": ["除了", "以外", "还", "也", "都"],
+                "sub_descriptions": [
+                    "Cấu trúc {{除了}}……（{{以外}}），{{都}}…… được dùng để cho biết ngoại trừ thành phần được đề cập (sau {{除了}}) thì tất cả thành phần còn lại trong một phạm vi nào đó đều có đặc điểm giống nhau ({{以外}} có thể lược bỏ)."
+                ],
+                "examples": [
+                    {
+                        "chinese": "除了这个汉字以外，我哪个汉字都认识。",
+                        "pinyin": "Chúle zhège Hànzì yǐwài, wǒ nǎge Hànzì dōu rènshi.",
+                        "vietnamese": "Ngoài chữ Hán này thì chữ nào tôi cũng biết."
+                    },
+                    {
+                        "chinese": "除了我，大家都听懂了。",
+                        "pinyin": "Chúle wǒ, dàjiā dōu tīng dǒngle.",
+                        "vietnamese": "Ngoài tôi ra tất cả mọi người đều nghe hiểu rồi."
+                    },
+                    {
+                        "chinese": "除了他以外，大家都来了。",
+                        "pinyin": "Chúle tā yǐwài, dàjiā dōu láile.",
+                        "vietnamese": "Ngoài anh ra thì tất cả mọi người đều đến rồi."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["除了", "以外", "还", "也", "都"],
+                "sub_descriptions": [
+                    "Cấu trúc {{除了}}……（{{以外}}），{{还}}/{{也}}…… diễn tả ý vẫn còn có những thành phần khác có đặc điểm giống với thành phần được đề cập trước đó, chủ ngữ thường được ở đầu câu hoặc trước {{还}}/{{也}}."
+                ],
+                "examples": [
+                    {
+                        "chinese": "除了汉语以外，我还会说英语和日语。",
+                        "pinyin": "Chúle Hànyǔ yǐwài, wǒ hái huì shuō Yīngyǔ hé Rìyǔ.",
+                        "vietnamese": "Ngoài tiếng Trung, tôi còn biết nói tiếng Anh và tiếng Nhật."
+                    },
+                    {
+                        "chinese": "除了你，谁都可以。",
+                        "pinyin": "Chúle nǐ, shéi dōu kěyǐ.",
+                        "vietnamese": "Ngoài cậu ra thì ai cũng được."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Bổ ngữ xu hướng dạng kết hợp",
+        "content": [
+            {
+                "keyWords": ["出来", "过来"],
+                "description": "Cách dùng thông thường",
+                "sub_descriptions": [
+                    "Khi thêm các từ chỉ phương hướng 上(lên), 下(xuống), 进(vào), 出(ra), 回(về),… vào trước các bổ ngữ xu hướng cơ bản {{来}}/{{去}} ta có bổ ngữ xu hướng dạng kết hợp, có thể làm bổ ngữ cho động từ khác để chỉ rõ phương hướng và miêu tả cụ thể hành động.",
+                    "Sau đây là một số bổ ngữ phương hướng dạng kết hợp thường dùng: {{来}}, {{去}}, {{上来}}, {{上去}}, {{下来}}, {{下去}}, {{进来}}, {{进去}}, {{出来}}, {{出去}}, {{回来}}, {{回去}}, {{过来}}, {{过去}}, {{起来}}"
+                ],
+                "examples": [
+                    {
+                        "chinese": "她拿出来一本书。",
+                        "pinyin": "Tā ná chūlái yī běn shū.",
+                        "vietnamese": "Cô ấy lấy ra một quyển sách."
+                    },
+                    {
+                        "chinese": "小狗从房间里跑出来。",
+                        "pinyin": "Xiǎo gǒu cóng fángjiān lǐ pǎo chūlái",
+                        "vietnamese": "Con chó từ trong phòng chạy ra."
+                    },
+                    {
+                        "chinese": "你帮我拿过来吧。",
+                        "pinyin": "Nǐ bāng wǒ ná guòlái ba.",
+                        "vietnamese": "Cậu mang qua đây cho tớ với."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["来", "去"],
+                "sub_descriptions": [
+                    "Khi tân ngữ là từ chỉ nơi chốn thì phải đặt tân ngữ trước {{来}}/{{去}}."
+                ],
+                "examples": [
+                    {
+                        "chinese": "老师走进教室里来。",
+                        "pinyin": "Lǎoshī zǒu jìn jiàoshì lǐ lái.",
+                        "vietnamese": "Cô giáo đi vào trong lớp."
+                    },
+                    {
+                        "chinese": "小狗跑进房间去。",
+                        "pinyin": "Xiǎo gǒu pǎo jìn fángjiān qù.",
+                        "vietnamese": "Con chó chạy vào phòng."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["来", "去"],
+                "sub_descriptions": [
+                    "Khi tân ngữ là sự vật thông thường thì có thể đặt tân ngữ trước hoặc sau {{来}}/{{去}}."
+                ],
+                "examples": [
+                    {
+                        "chinese": "我哥哥买回来一个西瓜。/我哥哥买一个西瓜回来。",
+                        "pinyin": "Wǒ gēge mǎi huílái yīgè xīguā. /Wǒ gēge mǎi yīgè xīguā huílái.",
+                        "vietnamese": "Anh trai tôi mua về một quả dưa hấu."
+                    },
+                    {
+                        "chinese": "我爸从国外带回来一份礼物。/我爸从国外带回一份礼物来。",
+                        "pinyin": "Wǒ bà cóng guówài dài huílái yī fèn lǐwù. /Wǒ bà cóng guówài dài huí yī fèn lǐwù lái.",
+                        "vietnamese": "Bố tôi từ nước ngoài mang về một món quà."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["来", "去"],
+                "sub_descriptions": [
+                    "Nếu hành động đã được hoàn thành hoặc thực hiện thì tân ngữ thường được đặt sau {{来}}/{{去}}"
+                ],
+                "examples": [
+                    {
+                        "chinese": "我哥哥买回来了一个西瓜。",
+                        "pinyin": "Wǒ gēge mǎi huíláile yīgè xīguā.",
+                        "vietnamese": "Anh trai tôi đã mua về một quả dưa hấu."
+                    },
+                    {
+                        "chinese": "我爸从国外带回来了一份礼物。",
+                        "pinyin": "Wǒ bà cóng guówài dài huíláile yī fèn lǐwù.",
+                        "vietnamese": "Bố tôi đã từ nước ngoài mang về một món quà."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["起来"],
+                "description": "Cách dùng đặc biệt của bổ ngữ xu hướng dạng kết hợp",
+                "sub_descriptions": [
+                    "{{起来}}: diễn tả sự hồi tưởng, nhớ lại; diễn tả hành động bắt đầu và tiếp diễn; diễn tả trạng thái từ phân tán đến tập hợp hoặc diễn tả sự đánh giá, ước lượng dựa trên tình hình thực tế."
+                ],
+                "examples": [
+                    {
+                        "chinese": "我想起来了，她是我小学同学。",
+                        "pinyin": "Wǒ xiǎng qǐláile, tā shì wǒ xiǎoxué tóngxué.",
+                        "vietnamese": "Tôi nhớ ra rồi, cô ấy là bạn cấp 1 của tôi."
+                    },
+                    {
+                        "chinese": "看见他，大家都笑了起来。",
+                        "pinyin": "Kànjiàn tā, dàjiā dōu xiàole qǐlái.",
+                        "vietnamese": "Nhìn thấy anh ta, mọi người đều bật cười."
+                    },
+                    {
+                        "chinese": "大家集合起来吧。",
+                        "pinyin": "Dàjiā jíhé qǐlái ba.",
+                        "vietnamese": "Mọi người tập trung lại nào."
+                    },
+                    {
+                        "chinese": "看起来容易，做起来难。",
+                        "pinyin": "Kàn qǐlái róngyì, zuò qǐlái nán.",
+                        "vietnamese": "Nhìn thì dễ, làm thì khó."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["上去"],
+                "sub_descriptions": [
+                    "{{上去}}: diễn ta sự đánh giá, ước lượng dực trên vẻ bề ngoài."
+                ],
+                "examples": [
+                    {
+                        "chinese": "他奶奶看上去有80岁了。",
+                        "pinyin": "Tā nǎinai kàn shàngqù yǒu 80 suìle.",
+                        "vietnamese": "Bà nội của anh ấy trông có vẻ cũng 80 tuổi rồi."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["出来"],
+                "sub_descriptions": [
+                    "{{出来}}: diễn tả sự xuất hiện của một sự vật mới, trạng thái từ không thành có, từ ẩn đến hiện; diễn tả sự nhận biết."
+                ],
+                "examples": [
+                    {
+                        "chinese": "想出来/写出来",
+                        "pinyin": "Xiǎng chūlái/Xiě chūlái",
+                        "vietnamese": "Nghĩ ra /Viết ra"
+                    },
+                    {
+                        "chinese": "我看不出来什么区别、听不出来他的声音。",
+                        "pinyin": "Wǒ kàn bù chūlái shénme qūbié, tīng bù chūlái tā de shēngyīn.",
+                        "vietnamese": "Tôi không nhìn thấy điểm khác biệt gì, cũng không nhận ra giọng của anh ấy."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["下去"],
+                "sub_descriptions": [
+                    "{{下去}}: diễn tả hành động đang diễn ra tiếp tục được kéo dài."
+                ],
+                "examples": [
+                    {
+                        "chinese": "让他说下去。",
+                        "pinyin": "Ràng tā shuō xiàqù.",
+                        "vietnamese": "Để anh ta nói tiếp."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["下来"],
+                "sub_descriptions": [
+                    "{{下来}}: diễn tả sự thay đổi từ nhanh sang chậm, từ động sang tĩnh, từ sáng sang tối, từ mạnh sang yếu; diễn tả hành động tiếp tục từ quá khứ đến hiện tại hoặc diễn tả hành động ghi chép lại."
+                ],
+                "examples": [
+                    {
+                        "chinese": "车停下来，天黑下来。",
+                        "pinyin": "Chē tíng xiàlái, tiān hēi xiàlái.",
+                        "vietnamese": "Xe dừng lại rồi, trời tối rồi."
+                    },
+                    {
+                        "chinese": "当时因为太忙，我没有坚持下来。",
+                        "pinyin": "Dāngshí yīnwèi tài máng, wǒ méiyǒu jiānchí xiàlái.",
+                        "vietnamese": "Khi ấy vì quá bận, tôi đã không kiên trì nữa."
+                    },
+                    {
+                        "chinese": "记下来/拍下来",
+                        "pinyin": "Jì xiàlái/Pāi xiàlái",
+                        "vietnamese": "Ghi lại /Chụp lại"
+                    }
+                ]
+            },
+            {
+                "keyWords": ["过来"],
+                "sub_descriptions": [
+                    "{{过来}}: diễn tả thay đổi trạng thái từ bất thường sang bình thường, từ tiêu cực sang tích cực hoặc diễn tả khả năng hoàn thành công việc."
+                ],
+                "examples": [
+                    {
+                        "chinese": "他昏迷了一天，昨天醒过来了。",
+                        "pinyin": "Tā hūnmíle yītiān, zuótiān xǐng guòláile.",
+                        "vietnamese": "Anh ấy hôn mê một ngày, hôm qua đã tỉnh rồi."
+                    },
+                    {
+                        "chinese": "太多是要做了，我忙不过来了。",
+                        "pinyin": "Tài duō shì yào zuòle, wǒ máng bùguò láile.",
+                        "vietnamese": "Nhiều việc phải làm quá, tôi làm không xuể luôn rồi."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["过去"],
+                "sub_descriptions": [
+                    "{{过去}}: diễn tả thay đổi trạng thái từ bình thường sang bất bình thường, từ tích cực sang tiêu cực."
+                ],
+                "examples": [
+                    {
+                        "chinese": "他刚醒过来，现在又昏过去了。",
+                        "pinyin": "Tā gāng xǐng guòlái, xiànzài yòu hūn guòqùle.",
+                        "vietnamese": "Anh vừa tỉnh lại, giờ lại hôn mê rồi."
+                    }
+                ]
+            }
+        ]
+    }
+]

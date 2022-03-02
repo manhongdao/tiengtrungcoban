@@ -1,0 +1,589 @@
+[
+    {
+        "chinese": "地址",
+        "pinyin": "dìzhǐ",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Địa chỉ",
+                "image": "address.png",
+                "example": {
+                    "chinese": "他搬家了，没留下新地址。",
+                    "pinyin": "Tā bānjiāle, méi liú xià xīn dìzhǐ.",
+                    "vietnamese": "Anh ta chuyển nhà rồi, không để lại địa chỉ nhà."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "取消",
+        "pinyin": "qǔxiāo",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Huỷ bỏ",
+                "image": "cancel.png",
+                "example": {
+                    "chinese": "他只好取消了原来的计划。",
+                    "pinyin": "Tā zhǐhǎo qǔxiāole yuánlái de jìhuà.",
+                    "vietnamese": "Anh ấy đã phải huỷ bỏ kế hoạch ban đầu."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "退房",
+        "pinyin": "tuì fáng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Trả phòng",
+                "image": "checkout.png",
+                "example": {
+                    "chinese": "大约有一半化学工程师已经退房。",
+                    "pinyin": "Dàyuē yǒu yībàn huàxué gōngchéngshī yǐjīng tuì fáng.",
+                    "vietnamese": "Khoảng một nửa kĩ sư hóa học đã trả phòng."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "城市",
+        "pinyin": "chéngshì",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Thành phố",
+                "image": "city.png",
+                "example": {
+                    "chinese": "这个城市越来越繁盛了。",
+                    "pinyin": "Zhègè chéngshì yuèláiyuè fánshèng le.",
+                    "vietnamese": "Thành phố này càng ngày càng phồn thịnh."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "农村",
+        "pinyin": "nóngcūn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Nông thôn",
+                "image": "village.png",
+                "example": {
+                    "chinese": "他留在农村工作了。",
+                    "pinyin": "Tā líuzài nóngcūn gōngzuò le.",
+                    "vietnamese": "Anh ấy ở lại nông thôn công tác."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "硬币",
+        "pinyin": "yìngbì",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Tiền xu",
+                "image": "coin.png",
+                "example": {
+                    "chinese": "他们抛硬币看谁先走。",
+                    "pinyin": "Tāmen pāo yìngbì kàn shéi xiān zǒu.",
+                    "vietnamese": "Họ tung đồng xu để xem ai đi trước."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "条件",
+        "pinyin": "tiáojiàn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Điều kiện",
+                "example": {
+                    "chinese": "对方提出的条件太苛了。",
+                    "pinyin": "Duìfāng tíchū de tiáojiàn tài kēle.",
+                    "vietnamese": "Đối phương đưa ra điều kiện quá hà khắc."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "海关",
+        "pinyin": "hǎiguān",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Hải quan",
+                "image": "customs.png",
+                "example": {
+                    "chinese": "海关检查需要多长时间？",
+                    "pinyin": "Hǎiguān jiǎnchá xūyào duō cháng shíjiān?",
+                    "vietnamese": "Hải quan kiểm tra mất bao lâu?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "排队",
+        "pinyin": "páiduì",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Xếp hàng",
+                "image": "queue.png",
+                "example": {
+                    "chinese": "乘客排队上车。",
+                    "pinyin": "Chéngkè páiduì shàngchē.",
+                    "vietnamese": "Hành khách xếp hàng lên xe."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "打算",
+        "pinyin": "dǎsuàn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Dự định, tính toán",
+                "image": "planning.png",
+                "example": {
+                    "chinese": "周末你有什么打算吗？",
+                    "pinyin": "Zhōumò nǐ yǒu shén me dǎsuàn ma?",
+                    "vietnamese": "Cuối tuần bạn có dự định gì không?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "行李",
+        "pinyin": "xínglǐ",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Hành lý",
+                "image": "luggage.png",
+                "example": {
+                    "chinese": "他到车站去提取行李。",
+                    "pinyin": "Tā dào chēzhàn qù tíqǔ xínglǐ.",
+                    "vietnamese": "Anh ấy ra ga lấy hành lý."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "地图",
+        "pinyin": "dìtú",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bản đồ",
+                "image": "map.png",
+                "example": {
+                    "chinese": "墙上挂着一幅世界地图。",
+                    "pinyin": "Qiáng shàng guàzhe yī fú shìjiè dìtú.",
+                    "vietnamese": "Trên tường treo tấm bản đồ thế giới."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "北方",  
+        "pinyin": "běifāng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "phía bắc",
+                "image": "north.png"
+            }
+        ]
+    },
+    {
+        "chinese": "南方",
+        "pinyin": "nánfāng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "phía nam",
+                "image": "south.png"
+            }
+        ]
+    },
+    {
+        "chinese": "酒店",
+        "pinyin": "jiǔdiàn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Khách sạn",
+                "image": "hotel.png",
+                "example": {
+                    "chinese": "小街把口儿有一家酒店。",
+                    "pinyin": "Xiǎojiē bǎ kǒuér yǒu yījiā jiǔdiàn.",
+                    "vietnamese": "Ngay đầu ngõ có một cái khách sạn."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "旅馆",
+        "pinyin": "lǚguǎn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Nhà nghỉ",
+                "image": "motel.png",
+                "example": {
+                    "chinese": "旅馆都客满了。",
+                    "pinyin": "Lǚguǎn dōu kè mǎnle.",
+                    "vietnamese": "Nhà nghỉ đã kín chỗ."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "宾馆",
+        "pinyin": "bīnguǎn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Nhà khách",
+                "image": "guest-house.png",
+                "example": {
+                    "chinese": "在宾馆门口迎候宾客。",
+                    "pinyin": "Zài bīnguǎn ménkǒu yínghòu bīnkè.",
+                    "vietnamese": "Chờ đón khách trước cửa nhà khách."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "海洋",
+        "pinyin": "hǎiyáng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Hải dương, biển",
+                "image": "ocean.png",
+                "example": {
+                    "chinese": "辽阔的海洋。",
+                    "pinyin": "Liáokuò dì hǎiyáng.",
+                    "vietnamese": "Hải dương bao la."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "护照",
+        "pinyin": "hùzhào",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Hộ chiếu",
+                "image": "passport.png",
+                "example": {
+                    "chinese": "查验护照。",
+                    "pinyin": "Cháyàn hùzhào.",
+                    "vietnamese": "Kiểm tra hộ chiếu."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "照片",
+        "pinyin": "zhàopiàn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bức ảnh",
+                "image": "picture.png",
+                "example": {
+                    "chinese": "这张照片给你做个纪念吧。",
+                    "pinyin": "Zhèzhāng zhàopiàn gěi nǐ zuò gè jìniàn ba.",
+                    "vietnamese": "Bức ảnh này tặng anh làm kỷ niệm."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "票",
+        "pinyin": "piào",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Vé",
+                "image": "ticket.png",
+                "example": {
+                    "chinese": "我是在车站打的票。",
+                    "pinyin": "Wǒ shì zài chēzhàn dǎ di piào.",
+                    "vietnamese": "Tôi mua vé ở nhà ga."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "拍照",
+        "pinyin": "pāizhào",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Chụp ảnh",
+                "image": "photograph.png",
+                "example": {
+                    "chinese": "狗仔队拍照了一些照片。",
+                    "pinyin": "Gǒuzǎi duì pāizhàole yīxiē zhàopiàn.",
+                    "vietnamese": "Các tay săn ảnh đã chụp được một số hình."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "照相机",
+        "pinyin": "zhàoxiàngjī",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Máy ảnh",
+                "image": "camera.png",
+                "example": {
+                    "chinese": "货架上陈列着各种牌号的照相机。",
+                    "pinyin": "Huòjià shàng chénlièzhe gè zhǒng páihào de zhàoxiàngjī.",
+                    "vietnamese": "Nhiều loại máy ảnh được đặt trên kệ."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "旅游",
+        "pinyin": "lǚyóu",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Du lịch",
+                "image": "travel.png",
+                "example": {
+                    "chinese": "旅假后我们将到青岛旅游。",
+                    "pinyin": "Lǚ jiǎ hòu wǒmen jiāng dào qīngdǎo lǚyóu.",
+                    "vietnamese": "Sau khi được nghỉ tôi sẽ đến đảo Hải Nam du lịch."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "游客",
+        "pinyin": "yóukè",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Khách du lịch",
+                "image": "tourist.png",
+                "example": {
+                    "chinese": "游客里面也有坐车的，也有步行的。",
+                    "pinyin": "Yóukè lǐmiàn yě yǒu zuòchē de, yě yǒu bùxíng de.",
+                    "vietnamese": "Trong số khách du lịch có người đi xe cũng có người đi bộ."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "签证",
+        "pinyin": "qiānzhèng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Visa",
+                "image": "visa.png"
+            }
+        ]
+    },
+    {
+        "chinese": "次",
+        "pinyin": "cì",
+        "meaning": [
+            {
+                "type": "lượng từ",
+                "vietnamese": "Lần, lượt, chuyến (dùng với những sự việc lặp lại)",
+                "image": "queue.png",
+                "example": {
+                    "chinese": "顺次排列。",
+                    "pinyin": "Shùncì páiliè.",
+                    "vietnamese": "Xếp hàng lần lượt."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "带",
+        "pinyin": "dài",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Mang theo",
+                "example": {
+                    "chinese": "不要忘记带上你的行李。",
+                    "pinyin": "Bùyào wàngjì dài shàng nǐ de xínglǐ.",
+                    "vietnamese": "Đừng quên mang theo hành lý."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "起飞",
+        "pinyin": "qǐfēi",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Cất cánh",
+                "image": "take-off.png",
+                "example": {
+                    "chinese": "飞机十点起飞。",
+                    "pinyin": "Fēijī shídiǎn qǐfēi.",
+                    "vietnamese": "Máy bay 10 giờ cất cánh."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "降落",
+        "pinyin": "jiàngluò",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Hạ cánh",
+                "image": "landing.png",
+                "example": {
+                    "chinese": "飞机十四点降落。",
+                    "pinyin": "Fēijī shísìdiǎn jiàngluò.",
+                    "vietnamese": "Máy bay hạ cánh lúc mười bốn giờ."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "世界",
+        "pinyin": "shìjiè",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Thế giới",
+                "image": "worldwide.png",
+                "example": {
+                    "chinese": "中国是世界上人口最多的国家。",
+                    "pinyin": "Zhōngguó shì shìjiè shàng rénkǒu zùiduō de guójiā.",
+                    "vietnamese": "Trung Quốc là một quốc gia có dân số đông nhất trên thế giới."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "环境",
+        "pinyin": "huánjìng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Môi trường, hoàn cảnh",
+                "example": {
+                    "chinese": "我的环境有点儿困难。",
+                    "pinyin": "Wǒ de huánjìng yǒudiǎn er kùnnán.",
+                    "vietnamese": "Hoàn cảnh của tôi hơi khó khăn."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "礼物",
+        "pinyin": "lǐwù",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Món quà",
+                "image": "giftbox.png",
+                "example": {
+                    "chinese": "欢腾的他宛如孩子得到的礼物。",
+                    "pinyin": "Huānténg de tā wǎnrú háizǐ dédào de lǐwù.",
+                    "vietnamese": "Anh ấy vui mừng hệt như đứa trẻ được quà."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "历史",
+        "pinyin": "lìshǐ",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Lịch sử",
+                "image": "history.png",
+                "example": {
+                    "chinese": "许多历史遗迹一直遗留到现在。",
+                    "pinyin": "Xǔduō lìshǐ yíjī yīzhí yílíu dào xiànzài.",
+                    "vietnamese": "Nhiều di tích lịch sử còn lưu truyền lại đến ngày nay."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "文化",
+        "pinyin": "wénhuà",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Văn hóa",
+                "example": {
+                    "chinese": "祖先留给了我们丰富的文化遗产。",
+                    "pinyin": "Zǔxiān líugěi le wǒmen fēngfù de wénhuàyíchǎn.",
+                    "vietnamese": "Tổ tiên đã để lại cho chúng tôi một di sản văn hóa vô cùng phong phú."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "其他",
+        "pinyin": "qítā",
+        "meaning": [
+            {
+                "type": "đại từ",
+                "vietnamese": "Các khác, khác",
+                "example": {
+                    "chinese": "先讨论其他问题。",
+                    "pinyin": "Xiān tǎolùn qítā wèntí.",
+                    "vietnamese": "Thảo luận các vấn đề khác trước."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "决定",
+        "pinyin": "juédìng",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Quyết định",
+                "example": {
+                    "chinese": "我跟他说说道道再作决定。",
+                    "pinyin": "Wǒ gēn tā shuō shuōdào dào zàizuò juédìng.",
+                    "vietnamese": "Tôi bàn bạc với anh ấy rồi mới quyết định."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "同意",
+        "pinyin": "tóngyì",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Đồng ý, tán thành",
+                "image": "handshake.png",
+                "example": {
+                    "chinese": "没谁会同意这样做。",
+                    "pinyin": "Méi shéi huì tóngyì zhèyàng zuò.",
+                    "vietnamese": "Không ai đồng ý làm như vậy."
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,298 @@
+[
+    {
+        "title": "能……吗？",
+        "content": [
+            {
+                "keyWords": ["能", "吗"],
+                "sub_descriptions": [
+                    "{{能}}……{{吗}}？được dùng trong câu hỏi tu từ, nếu thành phần giữa {{能}} và {{吗}} mang dạng khẳng định thì cách diễn đạt này nhấn mạnh phủ định. Ngược lại nếu thành phần giữa {{能}} và {{吗}} mang dạng phủ định thì cách diễn đạt này nhấn mạnh khẳng định."
+                ],
+                "examples": [
+                    {
+                        "chinese": "为什么我学不好中文呢？",
+                        "pinyin": "Wèishéme wǒ xué bù hǎo Zhōngwén ne?",
+                        "vietnamese": "Tại sao tớ học tiếng Trung không giỏi nhỉ?"
+                    },
+                    {
+                        "chinese": "你不做作业，也不练习，能学好吗？",
+                        "pinyin": "Nǐ bù zuò zuò yè, yě bù liànxí, néng xuéhǎo ma?",
+                        "vietnamese": "Cậu không làm bài tập, cũng không luyện tập, (thế thì) giỏi được à?"
+                    },
+                    {
+                        "chinese": "我太胖了，怎么办？",
+                        "pinyin": "Wǒ tài pàngle, zěnme bàn?",
+                        "vietnamese": "Tớ béo quá, làm sao bây giờ?"
+                    },
+                    {
+                        "chinese": "你每天都吃完了就睡，也不出去走走，能不胖吗？",
+                        "pinyin": "Nǐ měitiān doū chī wánliǎo jiù shuì, yě bù chūqù zǒuzǒu, néng bù pàng ma?",
+                        "vietnamese": "Ngày nào cậu cũng ăn xong rồi ngủ, cũng không ra ngoài đi lại, không béo được à?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "如果……就……",
+        "content": [
+            {
+                "keyWords": ["如果", "就"],
+                "sub_descriptions": [
+                    "Trong cấu trúc {{如果}}……（{{的话}}），(chủ ngữ) {{就}}……, sau {{如果}} là mệnh đề giả thuyết, sau {{就}} là mệnh đề kết quả có được dựa trên giả thuyết đó, chủ ngữ của mệnh đề thứ hai phải được đặt trước {{就}}."
+                ],
+                "examples": [
+                    {
+                        "chinese": "如果你累了的话，就休息休息吧。",
+                        "pinyin": "Rúguǒ nǐ lèile dehuà, jiù xiūxi xiūxi ba.",
+                        "vietnamese": "Nếu cậu mệt thì nghỉ ngơi một chút đi."
+                    },
+                    {
+                        "chinese": "如果你喜欢，我就给你买。",
+                        "pinyin": "Rúguǒ nǐ xǐhuān, wǒ jiù gěi nǐ mǎi.",
+                        "vietnamese": "Nếu em thích thì anh sẽ mua cho em."
+                    },
+                    {
+                        "chinese": "如果有钱，我就去旅游。",
+                        "pinyin": "Rúguǒ yǒu qián, wǒ jiù qù lǚyóu.",
+                        "vietnamese": "Nếu có tiền, tôi sẽ đi du lịch."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Động từ 1 + 了……就 + Động từ 2",
+        "content": [
+            {
+                "keyWords": ["了", "就"],
+                "sub_descriptions": [
+                    "Cấu trúc này được dùng để diễn tả hai hành động xảy ra liên tiếp, hành động thứ hai nối tiếp ngay sau hành động thứ nhất."
+                ],
+                "examples": [
+                    {
+                        "chinese": "我下了课就吃饭。",
+                        "pinyin": "Wǒ xià le kè jiù chīfàn.",
+                        "vietnamese": "Tôi tan học xong thì ăn cơm."
+                    },
+                    {
+                        "chinese": "妈妈起了床就做早饭。",
+                        "pinyin": "Māma qǐ le chuáng jiù zuò zǎofàn.",
+                        "vietnamese": "Mẹ ngủ dậy xong liền nấu cơm sáng."
+                    },
+                    {
+                        "chinese": "我每天晚上吃了饭就睡觉。",
+                        "pinyin": "Wǒ měitiān wǎnshàng chī le fàn jiù shuìjiào.",
+                        "vietnamese": "Mỗi tối tôi ăn cơm xong thì ngủ."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["了", "就"],
+                "sub_descriptions": [
+                    "Trong một câu có 2 chủ ngữ thì {{就}} được đặt sau chủ ngữ thứ 2."
+                ],
+                "examples": [
+                    {
+                        "chinese": "你下了课我们就去书店。",
+                        "pinyin": "Nǐ xià le kè wǒmen jiù qù shūdiàn.",
+                        "vietnamese": "Bạn tan học xong thì chúng ta đến nhà sách."
+                    },
+                    {
+                        "chinese": "爸爸回来了我们就吃饭。",
+                        "pinyin": "Bàba huílái le wǒmen jiù chīfàn.",
+                        "vietnamese": "(Đợi) Ba về thì chúng ta ăn cơm."
+                    },
+                    {
+                        "chinese": "他到了办公室我就告诉他。",
+                        "pinyin": "Tā dào le bàngōngshì wǒ jiù gàosù tā.",
+                        "vietnamese": "Anh ấy đến phòng làm việc rồi thì tôi nói với anh ấy."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Bổ ngữ khả năng",
+        "content": [
+            {
+                "sub_descriptions": [
+                    "Bổ ngữ khả năng diễn tả khả năng động tác có thể thực hiện được, chủ thể có thể đạt được kết quả hoặc mục đích nào đó hay không."
+                ]
+            },
+            {
+                "keyWords": ["清楚", "上", "去", "听", "见", "懂"],
+                "description": "Dạng khẳng định: Chủ ngữ + động từ + 得 + bổ ngữ khả năng",
+                "sub_descriptions": [
+                    "Thành phần đứng sau chữ {{得}} làm bổ ngữ khả năng thường là bổ ngữ kết quả, bổ ngữ xu hướng, một số tính từ hoặc động từ."
+                ],
+                "examples": [
+                    {
+                        "chinese": "我看得很清楚你写的汉字。",
+                        "pinyin": "Wǒ kàn de hěn qīngchu nǐ xiě de Hànzì.",
+                        "vietnamese": "Tôi nhìn rất rõ ràng chữ Hán mà bạn viết. (tính từ 清楚 làm bổ ngữ khả năng)"
+                    },
+                    {
+                        "chinese": "没事，这个垫脚台不太高，我自己上得去。",
+                        "pinyin": "Méishì, zhège diànjiǎo tái bù tài gāo, wǒ zìjǐ shàng de qù.",
+                        "vietnamese": "Không sao, cái bục không cao lắm, tôi tự lên được. (bổ ngữ xu hướng（上）去 làm bổ ngữ khả năng)"
+                    },
+                    {
+                        "chinese": "你说吧，我听得见。",
+                        "pinyin": "Nǐ shuō ba, wǒ tīng de jiàn.",
+                        "vietnamese": "Anh cứ nói đi, tôi có thể nghe thấy (những gì anh nói). (bổ ngữ kết quả（听）见 làm bổ ngữ khả năng)"
+                    },
+                    {
+                        "chinese": "我看得懂中文。",
+                        "pinyin": "Wǒ kàn de dǒng Zhōngwén.",
+                        "vietnamese": "Tôi có thể đọc hiểu được tiếng Trung. (động từ 懂 làm bổ ngữ khả năng)"
+                    }
+                ]
+            },
+            {
+                "keyWords": ["不", "清楚", "上", "去", "听", "见", "懂"],
+                "description": "Dạng phủ định: Chủ ngữ + động từ + 不 + bổ ngữ khả năng",
+                "sub_descriptions": [
+                    "Dạng phủ định của bổ ngữ khả năng thường được dùng nhiều hơn, dạng khẳng định chủ yếu được dùng để trả lời câu hỏi."
+                ],
+                "examples": [
+                    {
+                        "chinese": "我眼睛不好，看不清楚黑板上的字。",
+                        "pinyin": "Wǒ yǎnjīng bù hǎo, kàn bù qīngchu hēibǎn shàng de zì.",
+                        "vietnamese": "Mắt tôi không tốt, tôi nhìn không rõ chữ trên bảng."
+                    },
+                    {
+                        "chinese": "太高了，我上不去。",
+                        "pinyin": "Tài gāole, wǒ shàng bù qù.",
+                        "vietnamese": "Cao quá, tôi không lên được."
+                    },
+                    {
+                        "chinese": "你说什么，我听不见。",
+                        "pinyin": "Nǐ shuō shénme, wǒ tīng bùjiàn.",
+                        "vietnamese": "Anh nói gì, tôi không nghe thấy."
+                    },
+                    {
+                        "chinese": "她写什么，我看不懂。",
+                        "pinyin": "Tā xiě shénme, wǒ kàn bù dǒng.",
+                        "vietnamese": "Cô ấy viết cái gì vậy, tôi xem không hiểu."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["得懂听不懂", "回得来回不来"],
+                "description": "Dạng nghi vấn: có hai dạng câu nghi vấn",
+                "sub_descriptions": [
+                    "Dạng khẳng định + dạng phủ định ?"
+                ],
+                "examples": [
+                    {
+                        "chinese": "你听得懂听不懂老师说的话？",
+                        "pinyin": "Nǐ tīng de dǒng tīng bù dǒng lǎoshī shuō dehuà?",
+                        "vietnamese": "Cậu có nghe hiểu những gì cô giáo nói không?"
+                    },
+                    {
+                        "chinese": "现在去，晚饭前回得来回不来？",
+                        "pinyin": "Xiànzài qù, wǎnfàn qián huídelái huíbùlái?",
+                        "vietnamese": "Bây giờ đi thì có về được trước bữa ăn tối không?"
+                    }
+                ]
+            },
+            {
+                "keyWords": ["吗", "看得见", "起得来吗"],
+                "sub_descriptions": [
+                    "Dạng khẳng định + 吗 ?"
+                ],
+                "examples": [
+                    {
+                        "chinese": "你看得见那个人吗？",
+                        "pinyin": "Nǐ kàn de jiàn nàgè rén ma?",
+                        "vietnamese": "Cậu có nhìn thấy cái người kia không?"
+                    },
+                    {
+                        "chinese": "现在还没睡觉，明天早上六点起得来吗？",
+                        "pinyin": "Xiànzài hái méi shuìjiào, míngtiān zǎoshang liù diǎn qǐ de lái ma?",
+                        "vietnamese": "Bây giờ còn chưa đi ngủ, 6 giờ sáng mai dậy được không?"
+                    }
+                ]
+            },
+            {
+                "keyWords": ["下"],
+                "description": "Một số bổ ngữ khả năng dạng đặc biệt:",
+                "sub_descriptions": [
+                    "{{下}} (xià): diễn tả không gian có khả năng chứa đựng hay không."
+                ],
+                "examples": [
+                    {
+                        "chinese": "这个包太小了，装不下那么大的毛衣。",
+                        "pinyin": "Zhège bāo tài xiǎole, zhuāng bùxià nàme dà de máoyī.",
+                        "vietnamese": "Cái túi này nhỏ quá, không đựng vừa cái áo len to thế kia đâu."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["了"],
+                "sub_descriptions": [
+                    "{{了}} (liǎo): diễn tả hành động, sự việc có thể diễn ra, hoàn thành hay không."
+                ],
+                "examples": [
+                    {
+                        "chinese": "我做不了，你找别人吧。",
+                        "pinyin": "Wǒ zuò bùliǎo, nǐ zhǎo biérén ba.",
+                        "vietnamese": "Tôi không làm được, cậu tìm người khác đi."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["动"],
+                "sub_descriptions": [
+                    "{{动}} (dòng): diễn tả động tác có thể khiến người hay vậy thay đổi vị trí hay không."
+                ],
+                "examples": [
+                    {
+                        "chinese": "太重了，我拿不动。",
+                        "pinyin": "Tài zhòngle, wǒ ná bù dòng.",
+                        "vietnamese": "Nặng quá, tôi nhấc không được."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["住"],
+                "sub_descriptions": [
+                    "{{住}} (zhù): diễn tả có khả năng (làm đồ vật) cố định tại một vị trí hay không."
+                ],
+                "examples": [
+                    {
+                        "chinese": "我太饿了，站不住了。",
+                        "pinyin": "Wǒ tài èle, zhàn bù zhùle.",
+                        "vietnamese": "Tớ đói quá, tớ đứng không vững nữa rồi."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["起"],
+                "sub_descriptions": [
+                    "{{起}} (qǐ): diễn tả khả năng tài chính có đáp ứng được điều kiện hay không."
+                ],
+                "examples": [
+                    {
+                        "chinese": "我买不起那么贵的房子。",
+                        "pinyin": "Wǒ mǎi bù qǐ nàme guì de fángzi.",
+                        "vietnamese": "Tôi không thể mua được căn nhà đắt như vậy đâu."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["着"],
+                "sub_descriptions": [
+                    "{{着}} (zháo): diễn tả hành động có đạt được mục đích nào đó không (giống với {{到}})."
+                ],
+                "examples": [
+                    {
+                        "chinese": "再过来一点点，我够不着。",
+                        "pinyin": "Zài guòlái yī diǎndiǎn, wǒ gòu bùzháo.",
+                        "vietnamese": "Qua bên này một chút, tớ không với tới."
+                    }
+                ]
+            }
+        ]
+    }
+]

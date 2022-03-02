@@ -1,0 +1,68 @@
+[
+    [
+        {
+            "chinese": "你爸爸妈妈做什么工作？",
+            "pinyin": "Nǐ bàba māma zuò shénme gōngzuò?",
+            "vietnamese": "Bố mẹ bạn làm nghề gì?"
+        },
+        {
+            "chinese": "我妈妈是老师，我爸爸是医生。你爸爸妈妈呢？",
+            "pinyin": "Wǒ māma shì lǎoshī, wǒ bàba shì yīshēng. Nǐ bàba māma ne?",
+            "vietnamese": "Mẹ mình là giáo viên, bố mình là bác sĩ. Bố mẹ bạn thì sao?"
+        },
+        {
+            "chinese": "我爸爸是工程师，我妈妈是家庭主妇。",
+            "pinyin": "Wǒ bàba shì gōngchéngshī, wǒ māma shì jiātíng zhǔfù.",
+            "vietnamese": "Bố mình là kỹ sư, mẹ mình làm nội trợ."
+        },
+        {
+            "chinese": "你妈妈不上班，只在家照顾你们全家是不是？",
+            "pinyin": "Nǐ māma bù shàngbān, zhǐ zàijiā zhàogù nǐmen quánjiā shì bùshì?",
+            "vietnamese": "Mẹ bạn không đi làm, chỉ ở nhà chăm sóc cho cả nhà bạn phải không?"
+        },
+        {
+            "chinese": "是的，她是一个伟大的妈妈。",
+            "pinyin": "Shì de, tā shì yīgè wěidà de māma.",
+            "vietnamese": "Đúng vậy, bà ấy là một người mẹ vĩ đại."
+        }
+    ],
+    [
+        {
+            "chinese": "你以后想做什么工作？",
+            "pinyin": "Nǐ yǐhòu xiǎng zuò shénme gōngzuò?",
+            "vietnamese": "Sau này bạn muốn làm nghề gì?"
+        },
+        {
+            "chinese": "我想当厨师。",
+            "pinyin": "Wǒ xiǎng dāng chúshī.",
+            "vietnamese": "Tôi muốn làm đầu bếp."
+        },
+        {
+            "chinese": "你为什么想当厨师？",
+            "pinyin": "Nǐ wèishéme xiǎng dāng chúshī?",
+            "vietnamese": "Tại sao bạn lại muốn làm đầu bếp?"
+        },
+        {
+            "chinese": "因为我喜欢做饭。你呢？",
+            "pinyin": "Yīnwèi wǒ xǐhuān zuò fàn. Nǐ ne?",
+            "vietnamese": "Bởi vì tôi thích nấu nướng. Bạn thì sao?"
+        },
+        {
+            "chinese": "小学的时候我很喜欢旅游，所以我想当一个导游。",
+            "pinyin": "Xiǎoxué de shíhòu wǒ hěn xǐhuān lǚyóu, suǒyǐ wǒ xiǎng dāng yīgè dǎoyóu.",
+            "vietnamese": "Hồi tiểu học mình rất thích đi du lịch, vì thế nên mình muốn trở thành một hướng dẫn viên du lịch."
+        }
+    ],
+    [
+        {
+            "chinese": "你对现在的工作满意吗？",
+            "pinyin": "Nǐ duì xiànzài de gōngzuò mǎnyì ma?",
+            "vietnamese": "Bạn có hài lòng với công việc hiện tại không?"
+        },
+        {
+            "chinese": "我很满意。我己经干了五年了，每天工作都很开心。",
+            "pinyin": "Wǒ hěn mǎnyì. Wǒ jǐ jīng gàn le wǔ niánle, měitiān gōngzuò dōu hěn kāixīn.",
+            "vietnamese": "Tôi rất hài lòng. Tôi đã làm 5 năm rồi, mỗi ngày đi làm đều rất vui."
+        }
+    ]
+]

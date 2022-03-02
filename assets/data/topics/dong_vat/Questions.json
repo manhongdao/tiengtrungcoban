@@ -1,0 +1,92 @@
+{
+    "listening": [
+        ["鸟", "鱼", "狗", "猫", "马", "鸡", "猪", "条", "匹", "种", "只"],
+        ["动物", "狮子", "大象", "老虎", "兔子", "熊猫", "奶牛"]
+    ],
+    "reading": [
+        [
+            {
+                "chinese": "动物",
+                "vietnamese": "Động vật"
+            },
+            {
+                "chinese": "动物园",
+                "vietnamese": "Sở thú, vườn bách thú"
+            },
+            {
+                "chinese": "鸟",
+                "vietnamese": "Con chim"
+            },
+            {
+                "chinese": "鱼",
+                "vietnamese": "Con cá"
+            },
+            {
+                "chinese": "狗",
+                "vietnamese": "Con chó"
+            },
+            {
+                "chinese": "猫",
+                "vietnamese": "Con mèo"
+            },
+            {
+                "chinese": "马",
+                "vietnamese": "Con ngựa"
+            },
+            {
+                "chinese": "狮子",
+                "vietnamese": "Con sư tử"
+            },
+            {
+                "chinese": "大象",
+                "vietnamese": "Con voi"
+            },
+            {
+                "chinese": "老虎",
+                "vietnamese": "Con hổ"
+            },
+            {
+                "chinese": "兔子",
+                "vietnamese": "Con thỏ"
+            },
+            {
+                "chinese": "鸡",
+                "vietnamese": "Con gà"
+            },
+            {
+                "chinese": "猪",
+                "vietnamese": "Con lợn"
+            },
+            {
+                "chinese": "熊猫",
+                "vietnamese": "Con gấu trúc"
+            },
+            {
+                "chinese": "奶牛",
+                "vietnamese": "Con bò sữa"
+            },
+            {
+                "chinese": "条",
+                "vietnamese": "Lượng từ dùng cho vật dài(dòng sông, con đường,..)"
+            },
+            {
+                "chinese": "匹",
+                "vietnamese": "Lượng từ dùng cho con ngựa, con lừa, cuộn vải"
+            },
+            {
+                "chinese": "种",
+                "vietnamese": "Loại"
+            },
+            {
+                "chinese": "只",
+                "vietnamese": "Lượng từ dùng cho động vật"
+            }
+        ]
+    ],
+    "speaking": [
+        ["动物", "动物园", "鸟", "鱼", "狗", "猫", "马", "狮子", "大象", "老虎", "兔子", "鸡", "猪", "熊猫", "奶牛", "条", "匹", "种", "只"]
+    ],
+    "writing": [
+        ["名字叫做牛。", "不会拉犁头。", "说它力气小。", "背着房子走。", "青菜萝卜吃个饱。", "面孔像猫。", "起飞像鸟。", "天天上夜班。", "捉鼠本领高。", "说它是马猜错了。", "穿的衣服净道道。", "把它放进动物园。", "大人小孩都爱瞧。", "一早催人起。", "会飞不是鸟。", "两翅没羽毛。", "白天休息晚活动。", "捕捉蚊子本领高。", "身穿白袍子。", "上肢下肢都是手。", "有时爬来有时走。", "走时很象一个人。", "身子粗壮头长角。", "给人奶汁它吃草。"]
+    ]
+}

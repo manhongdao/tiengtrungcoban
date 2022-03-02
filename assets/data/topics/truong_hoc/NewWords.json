@@ -1,0 +1,656 @@
+[
+    {
+        "chinese": "学校",
+        "pinyin": "xuéxiào",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Trường học",
+                "image": "school.png"
+            }
+        ]
+    },
+    {
+        "chinese": "校长",
+        "pinyin": "xiàozhǎnɡ",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Hiệu trưởng",
+                "image": "principle.png"
+            }
+        ]
+    },
+    {
+        "chinese": "学",
+        "pinyin": "xué",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Học",
+                "image": "learn.png"
+            }
+        ]
+    },
+    {
+        "chinese": "教",
+        "pinyin": "jiào",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Dạy, dạy dỗ",
+                "image": "teaching.png"
+            }
+        ]
+    },
+    {
+        "chinese": "学生",
+        "pinyin": "xuésheng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Học sinh",
+                "image": "student.png"
+            }
+        ]
+    },
+    {
+        "chinese": "学习",
+        "pinyin": "xuéxí",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Học",
+                "image": "learning.png",
+                "example": {
+                    "chinese": "我学习汉语。",
+                    "pinyin": "Wǒ xuéxí Hànyǔ.",
+                    "vietnamese": "Tôi học tiếng Hán."
+                }
+            },
+            {
+                "type": "danh từ",
+                "vietnamese": "Học tập",
+                "example": {
+                    "chinese": "学生的主要任务就是学习。",
+                    "pinyin": "Xuésheng de zhǔyào rènwù jiùshì xuéxí.",
+                    "vietnamese": "Nhiệm vụ chính của học sinh là học tập."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "汉语",
+        "pinyin": "Hànyǔ",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Hán ngữ, tiếng Hán"
+            }
+        ]
+    },
+    {
+        "chinese": "老师",
+        "pinyin": "lǎoshī",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Thầy, cô giáo",
+                "image": "teacher.png"
+            }
+        ]
+    },
+    {
+        "chinese": "复习",
+        "pinyin": "fùxí",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Ôn tập",
+                "example": {
+                    "chinese": "老师说上课前要复习功课。",
+                    "pinyin": "Lǎoshī shuō shàngkè qián yào fùxí gōngkè.",
+                    "vietnamese": "Cô giáo nói rằng trước khi lên lớp phải ôn lại bài vở."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "预习",
+        "pinyin": "yùxí",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Chuẩn bị bài",
+                "example": {
+                    "chinese": "预习新课",
+                    "pinyin": "Yùxí xīnkè",
+                    "vietnamese": "Chuẩn bị bài mới"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "同学",
+        "pinyin": "tóngxué",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bạn cùng lớp",
+                "image": "classmates.png"
+            }
+        ]
+    },
+    {
+        "chinese": "食堂",
+        "pinyin": "shítáng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Nhà ăn",
+                "image": "canteen.png"
+            }
+        ]
+    },
+    {
+        "chinese": "教学楼",
+        "pinyin": "jiàoxué lóu",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Tòa nhà giảng dạy",
+                "image": "building.png"
+            }
+        ]
+    },
+    {
+        "chinese": "宿舍",  
+        "pinyin": "sùshè",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Ký túc xá",
+                "image": "dorm.png"
+            }
+        ]
+    },
+    {
+        "chinese": "图书馆",
+        "pinyin": "túshū guǎn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Thư viện",
+                "image": "library.png"
+            }
+        ]
+    },
+    {
+        "chinese": "教室",
+        "pinyin": "jiàoshì",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Lớp học, phòng học",
+                "image": "classroom.png"
+            }
+        ]
+    },
+    {
+        "chinese": "班",
+        "pinyin": "bān",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Lớp (học)",
+                "example": {
+                    "chinese": "我们班有很多留学生。",
+                    "pinyin": "Wǒmen bān yǒu hěn duō liúxuéshēng.",
+                    "vietnamese": "Lớp tôi có rất nhiều du học sinh."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "黑板",
+        "pinyin": "hēibǎn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bảng đen",
+                "image": "blackboard.png"
+            }
+        ]
+    },
+    {
+        "chinese": "电脑",
+        "pinyin": "diànnǎo",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Máy tính",
+                "image": "computer.png"
+            }
+        ]
+    },
+    {
+        "chinese": "书包",
+        "pinyin": "shūbāo",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Cặp sách",
+                "image": "backpack.png"
+            }
+        ]
+    },
+    {
+        "chinese": "文具",
+        "pinyin": "wénjù",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Văn phòng phẩm",
+                "image": "stationery.png"
+            }
+        ]
+    },
+    {
+        "chinese": "笔",
+        "pinyin": "bǐ",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bút",
+                "image": "pen.png"
+            }
+        ]
+    },
+    {
+        "chinese": "铅笔",
+        "pinyin": "qiānbǐ",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bút chì",
+                "image": "pencil.png"
+            }
+        ]
+    },
+    {
+        "chinese": "纸",
+        "pinyin": "zhǐ",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Giấy",
+                "image": "paper.png"
+            }
+        ]
+    },
+    {
+        "chinese": "橡皮",
+        "pinyin": "xiàngpí",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Cục tẩy",
+                "image": "eraser.png"
+            }
+        ]
+    },
+    {
+        "chinese": "笔盒",
+        "pinyin": "bǐhé",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Hộp bút",
+                "image": "pencil-case.png"
+            }
+        ]
+    },
+    {
+        "chinese": "笔记本",
+        "pinyin": "bǐjìběn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Vở ghi",
+                "image": "notebook.png"
+            }
+        ]
+    },
+    {
+        "chinese": "词典",
+        "pinyin": "cídiǎn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Từ điển",
+                "image": "dictionary.png"
+            }
+        ]
+    },
+    {
+        "chinese": "书",
+        "pinyin": "shū",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Sách",
+                "image": "book.png"
+            }
+        ]
+    },
+    {
+        "chinese": "朋友",
+        "pinyin": "péngyou",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bạn bè, bạn",
+                "image": "friends.png"
+            }
+        ]
+    },
+    {
+        "chinese": "数学",
+        "pinyin": "shù xué",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Toán học, toán"
+            }
+        ]
+    },
+    {
+        "chinese": "中文",
+        "pinyin": "Zhōngwén",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Tiếng Trung"
+            }
+        ]
+    },
+    {
+        "chinese": "普通话",
+        "pinyin": "pǔtōnghuà",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Tiếng phổ thông"
+            }
+        ]
+    },
+    {
+        "chinese": "写",
+        "pinyin": "xiě",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Viết, miêu tả, sáng tác" 
+            }
+        ]
+    },
+    {
+        "chinese": "字",
+        "pinyin": "zì",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Chữ, con chữ"
+            }
+        ]
+    },
+    {
+        "chinese": "作业",
+        "pinyin": "zuòyè",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bài tập"
+            }
+        ]
+    },
+    {
+        "chinese": "考试",
+        "pinyin": "kǎoshì",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Thi, kiểm tra"
+            }
+        ]
+    },
+    {
+        "chinese": "题",
+        "pinyin": "tí",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Đề, đề mục"
+            }
+        ]
+    },
+    {
+        "chinese": "成绩",
+        "pinyin": "chéngjì",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Thành tích, kết quả"
+            }
+        ]
+    },
+    {
+        "chinese": "水平",
+        "pinyin": "shuǐpíng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Trình độ"
+            }
+        ]
+    },
+    {
+        "chinese": "提高",
+        "pinyin": "tígāo",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Đề cao, nâng cao, cải thiện",
+                "example": {
+                    "chinese": "为了提高汉语水平，我每天都跟中国朋友聊天儿。",
+                    "pinyin": "Wèile tígāo Hànyǔ shuǐpíng, wǒ měitiān dōu gēn Zhōngguó péngyou liáotiānr.",
+                    "vietnamese": "Để nâng cao trình độ tiếng Trung, mỗi ngày tôi đều trò chuyện với người bạn Trung Quốc."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "回答",
+        "pinyin": "huídá",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Trả lời"
+            }
+        ]
+    },
+    {
+        "chinese": "课",
+        "pinyin": "kè",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Giờ lên lớp, giờ học",
+                "example": {
+                    "chinese": "明天我不用上课。",
+                    "pinyin": "Míngtiān wǒ bùyòng shàngkè.",
+                    "vietnamese": "Ngày mai tôi không phải lên lớp."
+                }
+            },
+            {
+                "type": "danh từ",
+                "vietnamese": "Môn, môn học",
+                "example": {
+                    "chinese": "今天我们要上数学课。",
+                    "pinyin": "Jīntiān wǒmen yào shàng shùxué kè.",
+                    "vietnamese": "Hôm nay chúng tôi học môn toán."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "句子",
+        "pinyin": "jùzi",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Câu"
+            }
+        ]
+    },
+    {
+        "chinese": "必须",
+        "pinyin": "bìxū",
+        "meaning": [
+            {
+                "type": "phó từ",
+                "vietnamese": "Phải, nhất định phải"
+            }
+        ]
+    },
+    {
+        "chinese": "让",
+        "pinyin": "ràng",
+        "meaning": [
+            {
+                "type": "giới từ",
+                "vietnamese": "Cho phép, bảo, khiến",
+                "example": {
+                    "chinese": "他不让我走。",
+                    "pinyin": "Tā bù ràng wǒ zǒu.",
+                    "vietnamese": "Anh ấy không cho tôi đi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "年级",
+        "pinyin": "niánjí",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Lớp (1-12)",
+                "example": {
+                    "chinese": "我是高中三年级的学生。",
+                    "pinyin": "Wǒ shì gāozhōng sān niánjí de xuésheng.",
+                    "vietnamese": "Tôi là học sinh lớp 12."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "留学",
+        "pinyin": "liúxué",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Du học"
+            }
+        ]
+    },
+    {
+        "chinese": "留学生",
+        "pinyin": "liúxuéshēng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Du học sinh"
+            }
+        ]
+    },
+    {
+        "chinese": "懂",
+        "pinyin": "dǒng",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Hiểu, biết, hiểu biết"
+            }
+        ]
+    },
+    {
+        "chinese": "记得",
+        "pinyin": "jìde",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Nhớ, nhớ lại"
+            }
+        ]
+    },
+    {
+        "chinese": "忘记",
+        "pinyin": "wàngjì",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Quên, không nhớ"
+            }
+        ]
+    },
+    {
+        "chinese": "希望",
+        "pinyin": "xīwàng",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Hi vọng, mong, mong muốn"
+            }
+        ]
+    },
+    {
+        "chinese": "相信",
+        "pinyin": "xiāngxìn",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Tin tưởng, tin"
+            }
+        ]
+    },
+    {
+        "chinese": "为",
+        "pinyin": "wèi",
+        "meaning": [
+            {
+                "type": "giới từ",
+                "vietnamese": "Cho",
+                "example": {
+                    "chinese": "这道菜是为妈妈做的。",
+                    "pinyin": "Zhè dào cài shì wèi māma zuò de.",
+                    "vietnamese": "Món ăn này được làm cho mẹ."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "帮助",
+        "pinyin": "bāngzhù",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Giúp, giúp đỡ",
+                "example": {
+                    "chinese": "朋友要互相帮助。",
+                    "pinyin": "Péngyou yào hùxiāng bāngzhù.",
+                    "vietnamese": "Bạn bè phải giúp đỡ lẫn nhau."
+                }
+            }
+        ]
+    }
+]

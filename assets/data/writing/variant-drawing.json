@@ -1,0 +1,224 @@
+[
+    {
+        "title": "Cong móc (㇁)",
+        "titleImg": "cong-moc.png",
+        "sampleImgs": [
+            "ngang-moc-2.gif",
+            "cong-moc-2.gif",
+            "cong-moc-3.gif"
+        ]
+    },
+    {
+        "title": "Xiên móc (㇂)",
+        "titleImg": "xien-moc.png",
+        "sampleImgs": [
+            "xien-moc-1.gif",
+            "xien-moc-2.gif",
+            "xien-moc-3.gif"
+        ]
+    },
+    {
+        "title": "Móc nằm (㇃)",
+        "titleImg": "moc-nam.png",
+        "sampleImgs": [
+            "moc-nam-1.gif",
+            "moc-nam-2.gif",
+            "moc-nam-3.gif"
+        ]
+    },
+    {
+        "title": "Sổ cong (㇄)",
+        "titleImg": "so-cong.png",
+        "sampleImgs": [
+            "so-cong-1.gif",
+            "so-cong-2.gif",
+            "so-cong-3.gif"
+        ]
+    },
+    {
+        "title": "Ngang gập gập (㇅)",
+        "titleImg": "ngang-gap-gap.png",
+        "sampleImgs": [
+            "ngang-gap-gap-1.gif"
+        ]
+    },
+    {
+        "title": "Ngang gập móc (㇆)",
+        "titleImg": "ngang-gap-moc.png",
+        "sampleImgs": [
+            "ngang-gap-moc-1.gif",
+            "ngang-gap-moc-2.gif",
+            "ngang-gap-moc-3.gif"
+        ]
+    },
+    {
+        "title": "Ngang phẩy (㇇)",
+        "titleImg": "ngang-phay.png",
+        "sampleImgs": [
+            "ngang-phay-1.gif",
+            "ngang-phay-2.gif",
+            "ngang-phay-3.gif"
+        ]
+    },
+    {
+        "title": "Ngang gập cong móc (㇈)",
+        "titleImg": "ngang-gap-cong-moc.png",
+        "sampleImgs": [
+            "ngang-gap-cong-moc-1.gif",
+            "ngang-gap-cong-moc-2.gif",
+            "ngang-gap-cong-moc-3.gif"
+        ]
+    },
+    {
+        "title": "Sổ gập gập móc (㇉)",
+        "titleImg": "so-gap-gap-moc.png",
+        "sampleImgs": [
+            "so-gap-gap-moc-1.gif",
+            "so-gap-gap-moc-2.gif"
+        ]
+    },
+    {
+        "title": "Ngang gập hất (㇊)",
+        "titleImg": "ngang-gap-hat.png",
+        "sampleImgs": [
+            "ngang-gap-hat-1.gif",
+            "ngang-gap-hat-2.gif",
+            "ngang-gap-hat-3.gif"
+        ]
+    },
+    {
+        "title": "Ngang gập gập phẩy (㇋)",
+        "titleImg": "ngang-gap-gap-phay.png",
+        "sampleImgs": [
+            "ngang-gap-gap-phay-1.gif",
+            "ngang-gap-gap-phay-2.gif",
+            "ngang-gap-gap-phay-3.gif"
+        ]
+    },
+    {
+        "title": "Ngang phẩy cong móc (㇌)",
+        "titleImg": "ngang-phay-cong-moc.png",
+        "sampleImgs": [
+            "ngang-phay-cong-moc-1.gif",
+            "ngang-phay-cong-moc-2.gif",
+            "ngang-phay-cong-moc-3.gif"
+        ]
+    },
+    {
+        "title": "Ngang gập cong (㇍)",
+        "titleImg": "ngang-gap-cong.png",
+        "sampleImgs": [
+            "ngang-gap-cong-1.gif",
+            "ngang-gap-cong-2.gif",
+            "ngang-gap-cong-3.gif"
+        ]
+    },
+    {
+        "title": "Ngang gập gập gập (㇎)",
+        "titleImg": "ngang-gap-gap-gap.png",
+        "sampleImgs": [
+            "ngang-gap-gap-gap-1.gif"
+        ]
+    },
+    {
+        "title": "Ngang gập (㇕)",
+        "titleImg": "ngang-gap.png",
+        "sampleImgs": [
+            "ngang-gap-1.gif",
+            "ngang-gap-2.gif",
+            "ngang-gap-3.gif"
+        ]
+    },
+    {
+        "title": "Ngang móc (㇖)",
+        "titleImg": "ngang-moc.png",
+        "sampleImgs": [
+            "ngang-moc-1.gif",
+            "ngang-moc-2.gif",
+            "ngang-moc-3.gif"
+        ]
+    },
+    {
+        "title": "Sổ gập (㇗)",
+        "titleImg": "so-gap.png",
+        "sampleImgs": [
+            "so-gap-1.gif",
+            "so-gap-2.gif",
+            "so-gap-3.gif"
+        ]
+    },
+    {
+        "title": "Sổ hất (㇙)",
+        "titleImg": "so-hat.png",
+        "sampleImgs": [
+            "so-hat-1.gif",
+            "so-hat-2.gif",
+            "so-hat-3.gif"
+        ]
+    },
+    {
+        "title": "Sổ móc (㇚)",
+        "titleImg": "so-moc.png",
+        "sampleImgs": [
+            "so-moc-1.gif",
+            "so-moc-2.gif",
+            "so-moc-3.gif"
+        ]
+    },
+    {
+        "title": "Phẩy chấm (㇛)",
+        "titleImg": "phay-cham.png",
+        "sampleImgs": [
+            "phay-cham-1.gif",
+            "phay-cham-2.gif",
+            "phay-cham-3.gif"
+        ]
+    },
+    {
+        "title": "Phẩy gập (㇜)",
+        "titleImg": "phay-gap.png",
+        "sampleImgs": [
+            "phay-gap-1.gif",
+            "phay-gap-2.gif",
+            "phay-gap-3.gif"
+        ]
+    },
+    {
+        "title": "Sổ gập gập (㇞)",
+        "titleImg": "so-gap-gap.png",
+        "sampleImgs": []
+    },
+    {
+        "title": "Sổ cong móc (㇟)",
+        "titleImg": "so-cong-moc.png",
+        "sampleImgs": [
+            "so-cong-moc-1.gif",
+            "so-cong-moc-2.gif",
+            "so-cong-moc-3.gif"
+        ]
+    },
+    {
+        "title": "Ngang gập gập gập móc (㇡)",
+        "titleImg": "ngang-gap-gap-gap-moc.png",
+        "sampleImgs": [
+            "ngang-gap-gap-gap-moc-1.gif",
+            "ngang-gap-gap-gap-moc-2.gif",
+            "ngang-gap-gap-gap-moc-3.gif"
+        ]
+    },
+    {
+        "title": "Sổ gập phẩy (ㄣ)",
+        "titleImg": "so-gap-phay.png",
+        "sampleImgs": [
+            "so-gap-phay-1.gif"
+        ]
+    },
+    {
+        "title": "Ngang xiên móc (⺄)",
+        "titleImg": "ngang-xien-moc.png",
+        "sampleImgs": [
+            "ngang-xien-moc-1.gif",
+            "ngang-xien-moc-2.gif"
+        ]
+    }
+]

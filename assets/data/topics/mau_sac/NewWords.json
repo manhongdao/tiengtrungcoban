@@ -1,0 +1,164 @@
+[
+    {
+        "chinese": "颜色",
+        "pinyin": "yánsè",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Màu sắc",
+                "example": {
+                    "chinese": "这张画的颜色很和谐。",
+                    "pinyin": "Zhèzhāng huà de yánsè hěn héxié.",
+                    "vietnamese": "Bức tranh này màu sắc rất hài hoà."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "彩色",
+        "pinyin": "cǎisè",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Màu, màu sắc",
+                "example": {
+                    "chinese": "我家有一台彩色电视。",
+                    "pinyin": "Wǒjiā yǒuyī tái cǎisè diànshì.",
+                    "vietnamese": "Nhà tôi có một chiếc tivi màu."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "白色",
+        "pinyin": "báisè",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Màu trắng",
+                "image": "white.png"
+            }
+        ]
+    },
+    {
+        "chinese": "黑色",
+        "pinyin": "hēisè",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Màu đen",
+                "image": "black.png"
+            }
+        ]
+    },
+    {
+        "chinese": "红色",
+        "pinyin": "hóngsè",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Màu đỏ",
+                "image": "red.png"
+            }
+        ]
+    },
+    {
+        "chinese": "银色",
+        "pinyin": "yínsè",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Màu bạc",
+                "image": "silver.png"
+            }
+        ]
+    },
+    {
+        "chinese": "彩虹色",
+        "pinyin": "cǎihóngsè",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Màu cầu vồng",
+                "image": "rainbow.png"
+            }
+        ]
+    },
+    {
+        "chinese": "黄色",
+        "pinyin": "huángsè",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Màu vàng",
+                "image": "yellow.png"
+            }
+        ]
+    },
+    {
+        "chinese": "绿色",
+        "pinyin": "lǜsè",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Màu xanh lá",
+                "image": "green.png"
+            }
+        ]
+    },
+    {
+        "chinese": "蓝色",
+        "pinyin": "lánsè",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Màu xanh da trời",
+                "image": "blue.png"
+            }
+        ]
+    },
+    {
+        "chinese": "橙色",
+        "pinyin": "chéngsè",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Màu cam",
+                "image": "orange.png"
+            }
+        ]
+    },
+    {
+        "chinese": "灰色",
+        "pinyin": "huīsè",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Màu xám",
+                "image": "grey.png"
+            }
+        ]
+    },
+    {
+        "chinese": "粉红色",  
+        "pinyin": "fěnhóngsè",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Màu hồng",
+                "image": "pink.png"
+            }
+        ]
+    },
+    {
+        "chinese": "紫色",
+        "pinyin": "zǐsè",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Màu tím",
+                "image": "purple.png"
+            }
+        ]
+    }
+]

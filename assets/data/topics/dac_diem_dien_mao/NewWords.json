@@ -1,0 +1,954 @@
+[
+    {
+        "chinese": "快乐",
+        "pinyin": "kuàilè",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Vui vẻ, sung sướng, hạnh phúc",
+                "image": "happiness.png",
+                "example": {
+                    "chinese": "我很快乐。",
+                    "pinyin": "Wǒ hěn kuàilè.",
+                    "vietnamese": "Tôi đang rất hạnh phúc."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "高兴",
+        "pinyin": "gāoxìng",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Vui vẻ, vui mừng",
+                "image": "glad.png",
+                "example": {
+                    "chinese": "他脸上显露出高兴的神色。",
+                    "pinyin": "Tā liǎnshàng xiǎnlùchū gāoxìng de shénsè.",
+                    "vietnamese": "Trên mặt anh ấy lộ rõ nét vui mừng."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "生气",
+        "pinyin": "shēngqì",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Tức giận, giận dữ",
+                "image": "angry.png",
+                "example": {
+                    "chinese": "他生气了，别再撩逗他了。",
+                    "pinyin": "Tā shēngqì le, bié zài liāodòu tā le.",
+                    "vietnamese": "Anh ấy đang tức giận, đừng chọc ghẹo anh ấy nữa."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "担心",
+        "pinyin": "dānxīn",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Lo lắng",
+                "image": "nervous.png",
+                "example": {
+                    "chinese": "你别为那个担心。",
+                    "pinyin": "Nǐbié wèi nàgè dānxīn.",
+                    "vietnamese": "Anh chớ lo về việc ấy."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "害怕",
+        "pinyin": "hàipà",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Sợ hãi, sợ sệt",
+                "image": "fear.png",
+                "example": {
+                    "chinese": "洞里阴森森的，叫人害怕。",
+                    "pinyin": "Dònglǐ yīnsēnsēn de, jiào rén hàipà.",
+                    "vietnamese": "Trong hang tối om, khiến người ta sợ hãi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "小心",
+        "pinyin": "xiǎoxīn",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Cẩn thận, chú ý",
+                "image": "important.png",
+                "example": {
+                    "chinese": "路太滑，一不小心就要摔交。",
+                    "pinyin": "Lùtàihuá，yībùxiǎoxīn jìuyào shuāijiāo.",
+                    "vietnamese": "Đường rất trơn, không cẩn thận sẽ bị ngã."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "舒服",
+        "pinyin": "shūfu",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Thoải mái, dễ chịu",
+                "image": "comfort.png",
+                "example": {
+                    "chinese": "窑洞又舒服，又暖和。",
+                    "pinyin": "Yáodòng yòu shūfu, yòu nuǎnhuo.",
+                    "vietnamese": "Hang động vừa dễ chịu vừa ấm áp."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "简单",
+        "pinyin": "jiǎndān",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Đơn giản, giản đơn",
+                "example": {
+                    "chinese": "他简单说了几句话。",
+                    "pinyin": "Tā jiǎndān shuō le jījùhuà.",
+                    "vietnamese": "Anh ấy chỉ nói đơn giản vài ba câu."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "清楚",
+        "pinyin": "qīngchǔ",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Rõ ràng",
+                "example": {
+                    "chinese": "我打听清楚了。",
+                    "pinyin": "Wǒ dǎtīng qīngchǔle.",
+                    "vietnamese": "Tôi đã hỏi rõ rồi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "容易",
+        "pinyin": "róngyì",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Dễ, dễ dàng",
+                "example": {
+                    "chinese": "越慌神儿，越容易出错。",
+                    "pinyin": "Yuè huāngshénér，yuè róngyì chūcuò.",
+                    "vietnamese": "Càng hoang mang thì càng dễ xảy ra sai lầm."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "累",
+        "pinyin": "lèi",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Mệt, mệt mỏi",
+                "image": "tired.png",
+                "example": {
+                    "chinese": "累得支持不住了。",
+                    "pinyin": "Lèi dé zhīchíbùzhù le.",
+                    "vietnamese": "Mệt không thể chịu nổi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "着急",
+        "pinyin": "zháojí",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Sốt ruột, lo lắng",
+                "image": "nervous.png",
+                "example": {
+                    "chinese": "快告诉我吧，省得我着急。",
+                    "pinyin": "Kuài gàosù wǒ ba, shěngdé wǒ zháojí.",
+                    "vietnamese": "Mau nói cho tôi biết, để tôi khỏi sốt ruột."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "难过",  
+        "pinyin": "nánɡuò",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Buồn, buồn bã",
+                "image": "sad.png",
+                "example": {
+                    "chinese": "我为你的错误行为感到难过。",
+                    "pinyin": "Wǒ wèi nǐ de cuòwù xíngwéi gǎndào nánɡuò.",
+                    "vietnamese": "Tôi rất buồn vì hành vi sai trái của bạn."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "放心",
+        "pinyin": "fànɡxīn",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Yên tâm, yên lòng",
+                "example": {
+                    "chinese": "你只管放心，出不了错。",
+                    "pinyin": "Nǐ zhǐguǎn fànɡxīn, chū bùliǎo cuò.",
+                    "vietnamese": "Anh hãy yên tâm, không xảy ra việc gì đâu."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "满意",
+        "pinyin": "mǎnyì",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Hài lòng, vừa ý",
+                "image": "satisfied.png",
+                "example": {
+                    "chinese": "这件事两头都满意。",
+                    "pinyin": "Zhè jiàn shì liǎngtóu dōu mǎnyì.",
+                    "vietnamese": "Hai bên cùng hài lòng với việc này."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "疼",
+        "pinyin": "ténɡ",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Đau, nhức",
+                "image": "headache.png",
+                "example": {
+                    "chinese": "疼得他可地打滚儿。",
+                    "pinyin": "Ténɡ dé tā kě de dǎgǔn er.",
+                    "vietnamese": "Cậu ấy đau đến nỗi lăn lộn dưới đất."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "笑",
+        "pinyin": "xiào",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Cười",
+                "image": "smiling.png",
+                "example": {
+                    "chinese": "他苦涩地笑了笑。",
+                    "pinyin": "Tā kǔsè de xiàole xiào.",
+                    "vietnamese": "Anh ấy cười đau khổ."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "哭",
+        "pinyin": "kū",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Khóc, khóc lóc",
+                "image": "crying.png",
+                "example": {
+                    "chinese": "这孩子爱哭，别招他。",
+                    "pinyin": "Zhè háizǐ àikū, biézhāo tā.",
+                    "vietnamese": "Thằng bé này hay khóc, đừng trêu chọc nó."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "热情",
+        "pinyin": "rèqíng",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Nhiệt tình",
+                "example": {
+                    "chinese": "我很感谢他的热情帮助。",
+                    "pinyin": "Wǒ hěn gǎnxiè tā de rèqíngbāngzhù.",
+                    "vietnamese": "Tôi rất cảm ơn sự nhiệt tình giúp đỡ của anh ấy."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "安静",
+        "pinyin": "ānjìng",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Yên lặng, yên tĩnh",
+                "example": {
+                    "chinese": "病人需要安静。",
+                    "pinyin": "Bìngrén xūyào ānjìng.",
+                    "vietnamese": "Người bệnh cần được yên tĩnh."
+                }
+            },
+            {
+                "type": "tính từ",
+                "vietnamese": "Yên ổn, yên bình, ngon giấc",
+                "example": {
+                    "chinese": "孩子睡得很安静。",
+                    "pinyin": "Háizi shuì de hěn ānjìng.",
+                    "vietnamese": "Con ngủ rất yên giấc."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "年轻",
+        "pinyin": "niánqīng",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Trẻ, trẻ trung",
+                "image": "young-woman.png",
+                "example": {
+                    "chinese": "他既年轻，又有才干。",
+                    "pinyin": "Tā jì niánqīng, yòu yǒucáigān.",
+                    "vietnamese": "Anh ấy còn trẻ mà đã có tài rồi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "老",
+        "pinyin": "lǎo",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Già",
+                "image": "old-man.png",
+                "example": {
+                    "chinese": "老幼均安。",
+                    "pinyin": "Lǎoyòu jūn ān.",
+                    "vietnamese": "Tất cả già trẻ đều khoẻ mạnh."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "聪明",
+        "pinyin": "cōngming",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Thông minh, nhạy bén",
+                "example": {
+                    "chinese": "聪明过人。",
+                    "pinyin": "Cōngming guò rén.",
+                    "vietnamese": "Thông minh hơn người."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "明白",
+        "pinyin": "míngbái",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Rõ ràng, dễ hiểu",
+                "example": {
+                    "chinese": "到时候自然明白。",
+                    "pinyin": "Dàoshíhòu zìrán míngbái.",
+                    "vietnamese": "Đến lúc đó tự nhiên sẽ rõ."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "努力",
+        "pinyin": "nǔlì",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Cố gắng, nỗ lực",
+                "example": {
+                    "chinese": "要取得好成绩，就得努力学习。",
+                    "pinyin": "Yào qǔdé hǎo chéngjī, jìu dé nǔlìxuéxí.",
+                    "vietnamese": "Để đạt điểm cao, bạn phải nỗ lực học tập."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "奇怪",
+        "pinyin": "qíguài",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Kì lạ, kì cục",
+                "example": {
+                    "chinese": "海里有不少奇怪的动植物。",
+                    "pinyin": "Hǎilǐ yǒu bùshǎo qíguài de dòngzhíwù.",
+                    "vietnamese": "Dưới biển có nhiều động thực vật kì lạ."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "干净",
+        "pinyin": "gānjìng",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Sạch, sạch sẽ",
+                "example": {
+                    "chinese": "吃了不干净的食物容易坏肚子。",
+                    "pinyin": "Chī liǎo bù gānjìng de shíwù róngyì huài dùzi.",
+                    "vietnamese": "Ăn thức ăn không sạch sẽ dễ bị đau bụng."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "新鲜",
+        "pinyin": "xīnxiān",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Mới, tươi mới",
+                "image": "new-car.png",
+                "example": {
+                    "chinese": "电视机已经不算什么新鲜东西啦。",
+                    "pinyin": "Diànshì jī yǐjīng bù suàn shénme xīnxiān dōngxī la.",
+                    "vietnamese": "Ti vi này không còn là cái gì mới mẻ nữa."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "可爱",
+        "pinyin": "kě'ài",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Đáng yêu, dễ thương",
+                "image": "cute.png",
+                "example": {
+                    "chinese": "这个孩子很可爱。",
+                    "pinyin": "Zhègè háizǐ hěn kě'ài.",
+                    "vietnamese": "Đứa bé này rất dễ thương."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "漂亮",
+        "pinyin": "piàoliang",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Đẹp, xinh đẹp",
+                "image": "beautiful.png",
+                "example": {
+                    "chinese": "那姑娘更出息得漂亮了。",
+                    "pinyin": "Nà gūniáng gèng chūxī dé piàoliang le.",
+                    "vietnamese": "Cô nàng đó ngày càng xinh đẹp."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "长",
+        "pinyin": "cháng",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Dài",
+                "image": "long.png",
+                "example": {
+                    "chinese": "大象有长鼻子。",
+                    "pinyin": "Dàxiàng yǒu cháng bízi.",
+                    "vietnamese": "Con voi có vòi dài."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "短",
+        "pinyin": "duǎn",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Ngắn",
+                "image": "short-hair.png",
+                "example": {
+                    "chinese": "她的头发很短。",
+                    "pinyin": "Tā de tóufǎ hěn duǎn.",
+                    "vietnamese": "Tóc cô ấy rất ngắn."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "高",
+        "pinyin": "gāo",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Cao",
+                "image": "tall.png",
+                "example": {
+                    "chinese": "他没你高。",
+                    "pinyin": "Tā méi nǐ gāo.",
+                    "vietnamese": "Anh ấy không cao bằng bạn."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "矮",
+        "pinyin": "ǎi",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Thấp, lùn",
+                "image": "short.png",
+                "example": {
+                    "chinese": "他人矮，得踮着脚才能看见。",
+                    "pinyin": "Tārén ǎi, dé diǎnzhe jiǎo cáinéng kànjiàn.",
+                    "vietnamese": "Anh ấy người thấp, nhón chân lên mới nhìn thấy."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "胖",
+        "pinyin": "pàng",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Béo, mập, bụ bẫm",
+                "image": "fat.png",
+                "example": {
+                    "chinese": "这孩子长得真胖。",
+                    "pinyin": "Zhè háizi zhǎng dé zhēn pàng.",
+                    "vietnamese": "Đứa bé này bụ bẫm thật."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "瘦",
+        "pinyin": "shòu",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Gầy",
+                "image": "weight-loss.png",
+                "example": {
+                    "chinese": "小姑娘又黄又瘦，可怜巴巴的。",
+                    "pinyin": "Xiǎogūniáng yòuhuángyòushòu, kěliánbābā de.",
+                    "vietnamese": "Cô bé da thì vàng vọt người lại gầy gò, trông thật tội nghiệp."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "快",
+        "pinyin": "kuài",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Nhanh",
+                "image": "fast.png",
+                "example": {
+                    "chinese": "你走快一点儿！",
+                    "pinyin": "Nǐ zǒu kuài yīdiǎnr!",
+                    "vietnamese": "Bạn đi nhanh lên!"
+                }
+            },
+            {
+                "type": "phó từ",
+                "vietnamese": "Sắp, gần",
+                "example": {
+                    "chinese": "快七点了你还不起床吗？",
+                    "pinyin": "Kuài qī diǎnle nǐ hái bù qǐchuáng ma?",
+                    "vietnamese": "Sắp 7 giờ rồi bạn còn chưa dậy sao?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "慢",
+        "pinyin": "màn",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Chậm",
+                "image": "slow.png",
+                "example": {
+                    "chinese": "慢点吃，别哽着。",
+                    "pinyin": "Màn diǎn chī, bié gěngzhe.",
+                    "vietnamese": "Ăn chậm chậm thôi, đừng để nghẹn."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "久",
+        "pinyin": "jiǔ",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Lâu, lâu dài",
+                "example": {
+                    "chinese": "双方僵持了好久。",
+                    "pinyin": "Shuāngfāng jiāngchí le hǎojiǔ.",
+                    "vietnamese": "Hai bên giằng co khá lâu."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "新",
+        "pinyin": "xīn",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Mới",
+                "image": "new-car.png",
+                "example": {
+                    "chinese": "新年快乐。",
+                    "pinyin": "Xīnnián kuàilè.",
+                    "vietnamese": "Chúc mừng năm mới."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "旧",
+        "pinyin": "jiù",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Xưa, cũ",
+                "image": "old.png",
+                "example": {
+                    "chinese": "风物依旧。",
+                    "pinyin": "Fēngwù yījiù.",
+                    "vietnamese": "Cảnh vật vẫn như xưa."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "对",
+        "pinyin": "duì",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Đúng, chính xác",
+                "image": "checkmark.png",
+                "example": {
+                    "chinese": "老师说的对。",
+                    "pinyin": "Lǎoshī shuō de duì.",
+                    "vietnamese": "Cô giáo nói đúng rồi."
+                }
+            },
+            {
+                "type": "giới từ",
+                "vietnamese": "Với, đối với",
+                "example": {
+                    "chinese": "他对我说今天天气很好。",
+                    "pinyin": "Tā duì wǒ shuō jīntiān tiānqì hěn hǎo.",
+                    "vietnamese": "Anh ấy nói với tôi hôm nay thời tiết rất đẹp."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "错",
+        "pinyin": "cuò",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Sai, sai lầm",
+                "example": {
+                    "chinese": "矫正错误。",
+                    "pinyin": "Jiǎozhèng cuòwù.",
+                    "vietnamese": "Sửa chữa sai lầm."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "差",
+        "pinyin": "chà",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Dở, kém, tồi",
+                "image": "bad.png",
+                "example": {
+                    "chinese": "我的数学有点儿差。",
+                    "pinyin": "Wǒ de shùxué yǒudiǎnr chà.",
+                    "vietnamese": "Môn toán của tôi hơi kém."
+                }
+            },
+            {
+                "type": "động từ",
+                "vietnamese": "Thiếu, kém",
+                "image": "bad.png",
+                "example": {
+                    "chinese": "差五分就一百分。",
+                    "pinyin": "Chà wǔ fèn jiù yībǎi fēn.",
+                    "vietnamese": "Thiếu 5 điểm là đủ 100 điểm."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "声音",
+        "pinyin": "shēnɡyīn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Âm thanh, tiếng",
+                "image": "sound.png",
+                "example": {
+                    "chinese": "钟摆发出均匀的声音。",
+                    "pinyin": "Zhōngbǎi fāchū jūnyún de shēnɡyīn.",
+                    "vietnamese": "Quả lắc đồng hồ phát ra những tiếng kêu đều đặn."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "一样",
+        "pinyin": "yíyànɡ",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Như nhau, giống nhau",
+                "image": "similar.png",
+                "example": {
+                    "chinese": "哥儿俩相貌一样，脾气也一样。",
+                    "pinyin": "Gē'érliǎ xiāngmào yíyànɡ, píqì yě yíyànɡ.",
+                    "vietnamese": "Hai anh em mặt mũi giống nhau, tính tình cũng giống nhau."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "像",
+        "pinyin": "xiànɡ",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Giống",
+                "image": "similar.png",
+                "example": {
+                    "chinese": "他很像他哥哥。",
+                    "pinyin": "Tā hěn xiànɡ tā gēgē.",
+                    "vietnamese": "Anh ấy rất giống anh trai."
+                }
+            },
+            {
+                "type": "giới từ",
+                "vietnamese": "Như, giống như",
+                "image": "similar.png",
+                "example": {
+                    "chinese": "像他那么好的人很少。",
+                    "pinyin": "Xiànɡ tā nàme hǎo de rén hěn shǎo.",
+                    "vietnamese": "Người tốt giống anh ấy rất ít."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "真",
+        "pinyin": "zhēn",
+        "meaning": [
+            {
+                "type": "phó từ",
+                "vietnamese": "Thật, chính xác",
+                "example": {
+                    "chinese": "天气真好！",
+                    "pinyin": "Tiānqì zhēn hǎo!",
+                    "vietnamese": "Thời tiết thật là đẹp!"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "极",
+        "pinyin": "jí",
+        "meaning": [
+            {
+                "type": "phó từ",
+                "vietnamese": "Hết sức, rất, cực kì",
+                "example": {
+                    "chinese": "极为重要。",
+                    "pinyin": "Jíwéizhòngyào.",
+                    "vietnamese": "Cực kì quan trọng."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "比",
+        "pinyin": "bǐ",
+        "meaning": [
+            {
+                "type": "giới từ",
+                "vietnamese": "So sánh, so với",
+                "example": {
+                    "chinese": "比拟不伦。",
+                    "pinyin": "Bǐnǐ bùlún.",
+                    "vietnamese": "Không sánh được."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "最",
+        "pinyin": "zuì",
+        "meaning": [
+            {
+                "type": "phó từ",
+                "vietnamese": "Nhất",
+                "example": {
+                    "chinese": "火药是中国最早发明的。",
+                    "pinyin": "Huǒyào shì zhōngguó zuìzǎo fāmíng de.",
+                    "vietnamese": "Thuốc súng là phát minh sớm nhất của Trung Quốc."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "比较",
+        "pinyin": "bǐjiào",
+        "meaning": [
+            {
+                "type": "phó từ",
+                "vietnamese": "Tương đối, khá",
+                "example": {
+                    "chinese": "事情还是这么办比较活便。",
+                    "pinyin": "Shìqíng háishì zhème bàn bǐjiào huó bian.",
+                    "vietnamese": "Công việc làm như vậy tương đối thuận tiện."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "关心",
+        "pinyin": "guānxīn",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Quan tâm, lo lắng",
+                "example": {
+                    "chinese": "关心学生是教师分内的事。",
+                    "pinyin": "Guānxīn xuéshēng shì jiàoshī fēnnèi de shì.",
+                    "vietnamese": "Quan tâm học sinh là trách nhiệm của giáo viên."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "事情",
+        "pinyin": "shìqíng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Sự tình, sự việc",
+                "example": {
+                    "chinese": "你不能只看事情的表面。",
+                    "pinyin": "Nǐ bùnéng zhǐ kàn shìqíng de biǎomiàn.",
+                    "vietnamese": "Bạn không thể chỉ nhìn bề ngoài của sự việc."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "完成",
+        "pinyin": "wánchéng",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Hoàn thành",
+                "example": {
+                    "chinese": "咱们一定能完成任务。",
+                    "pinyin": "Zánmen yīdìng néng wánchéng rènwù.",
+                    "vietnamese": "Chúng ta nhất định có thể hoàn thành nhiệm vụ."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "重要",
+        "pinyin": "zhòngyào",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Quan trọng",
+                "example": {
+                    "chinese": "他曾担任过一些重要的职务。",
+                    "pinyin": "Tā céng dànrèn guò yīxiē zhòngyào de zhíwù.",
+                    "vietnamese": "Anh ấy đã từng đảm nhiệm một số chức vụ quan trọng."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "愿意",
+        "pinyin": "yuànyì",
+        "meaning": [
+            {
+                "type": "trợ động từ",
+                "vietnamese": "Vui lòng, bằng lòng",
+                "image": "satisfied.png",
+                "example": {
+                    "chinese": "这件事他可愿意？",
+                    "pinyin": "Zhè jiàn shì tā kě yuànyì?",
+                    "vietnamese": "Việc này anh ấy bằng lòng sao?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "关系",
+        "pinyin": "guānxì",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Quan hệ, mối quan hệ",
+                "example": {
+                    "chinese": "两人的关系很深。",
+                    "pinyin": "Liǎngrén de guānxì hěnshēn.",
+                    "vietnamese": "Hai người họ có mối quan hệ rất thắm thiết."
+                }
+            }
+        ]
+    }
+]

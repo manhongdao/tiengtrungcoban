@@ -1,0 +1,113 @@
+[
+    [
+        {
+            "chinese": "早上好。您需要什么帮助吗？",
+            "pinyin": "Zǎoshang hǎo. Nín xūyào shénme bāngzhù ma?",
+            "vietnamese": "Chào buổi sáng! Cô cần giúp đỡ gì không?"
+        },
+        {
+            "chinese": "早上好。我想做个旅行计划。",
+            "pinyin": "Zǎoshang hǎo. Wǒ xiǎng zuò gè lǚxíng jìhuà.",
+            "vietnamese": "Chào buổi sáng. Tôi muốn lập kế hoạch du lịch."
+        },
+        {
+            "chinese": "请问您想去哪儿？",
+            "pinyin": "Qǐngwèn nín xiǎng qù nǎr?",
+            "vietnamese": "Xin hỏi cô muốn đi đâu?"
+        },
+        {
+            "chinese": "我还没想好，你可以给我介绍几个旅游景点吗？",
+            "pinyin": "Wǒ hái méi xiǎng hǎo, nǐ kěyǐ gěi wǒ jièshào jǐ gè lǚyóu jǐngdiǎn ma?",
+            "vietnamese": "Tôi vẫn chưa nghĩ xong, cô có thể giới thiệu giúp tôi vài điểm du lịch không?"
+        },
+        {
+            "chinese": "好的。这段时间很多人都选去下龙湾，您觉得怎样？",
+            "pinyin": "Hǎo de. Zhè duàn shíjiān hěnduō rén dōu xuǎn Xiàlóngwān, nǐ juédé zěnyàng?",
+            "vietnamese": "Ok. Thời gian này rất nhiều người đều chọn đi vịnh Hạ Long, cô thấy sao?"
+        },
+        {
+            "chinese": "我去过了。我想这次最好是去那些历史文化名城。",
+            "pinyin": "Wǒ qùguòle. Wǒ xiǎng zhè cì zuìhǎo shì qù nàxiē lìshǐ wénhuà míngchéng.",
+            "vietnamese": "Tôi đi rồi. Tôi nghĩ lần này tốt nhất nên đi mấy thành phố lịch sử văn hóa ấy."
+        },
+        {
+            "chinese": "哦，那您可以考虑一下顺化，这是越南的一个文化旅游中心城市。",
+            "pinyin": "Ò, nà nín kěyǐ kǎolǜ yīxià Shùnhuà, zhè shì Yuènán de yīgè wénhuà lǚyóu zhōngxīn chéngshì.",
+            "vietnamese": "Ồ, vậy cô thử cân nhắc Huế xem sao. Đây là một trung tâm văn hóa du lịch của Việt Nam đấy."
+        },
+        {
+            "chinese": "不错啊，有介绍资料吗？给我一本。",
+            "pinyin": "Bù cuò a, yǒu méiyǒu jièshàozīliào? Gěi wǒ yī běn.",
+            "vietnamese": "Cũng không tồi, có tài liệu giới thiệu gì không, cho tôi một quyển đi."
+        },
+        {
+            "chinese": "有的，给您。",
+            "pinyin": "Yǒu de, gěi nín.",
+            "vietnamese": "Có, gửi cô xem."
+        },
+        {
+            "chinese": "谢谢你。",
+            "pinyin": "Xièxie nǐ.",
+            "vietnamese": "Cảm ơn cô."
+        }
+    ],
+    [
+        {
+            "chinese": "这是我第一次来越南，能给我推荐几个旅游的地方吗？",
+            "pinyin": "Zhè shì wǒ dì yī cì lái Yuènán, néng gěi wǒ tuījiàn jǐ gè lǚyóu de dìfang ma?",
+            "vietnamese": "Đây là lần đầu tiên tớ đến Việt Nam, có thể giới thiệu cho tớ vài địa điếm thăm quan được không?"
+        },
+        {
+            "chinese": "当然可以了，下龙湾、芽庄、沙巴、……这些都是很有名的旅游点。",
+            "pinyin": "Dāngrán kěyǐle, Xiàlóngwān, Yázhuāng, Shābā,……zhèxiē dōu shì hěn yǒumíng de lǚyóu diǎn.",
+            "vietnamese": "Tất nhiên rồi vịnh Hạ Long, Nha Trang, Sa Pa…Đây đều là những điểm du lịch rất nổi tiếng."
+        },
+        {
+            "chinese": "你有时间吗？陪我一起去吧！",
+            "pinyin": "Nǐ yǒu shíjiān ma? Péi wǒ yīqǐ qù ba!",
+            "vietnamese": "Cậu rảnh không? Đi cùng với tớ nhé!"
+        },
+        {
+            "chinese": "行啊，没问题！这个周末怎么样？",
+            "pinyin": "Xíng a, méi wèntí! Zhège zhōumò zěnme yàng?",
+            "vietnamese": "Được thôi, không thành vấn đề! Cuối tuần này được không?"
+        },
+        {
+            "chinese": "好，谢谢你！",
+            "pinyin": "Hǎo, xièxie nǐ!",
+            "vietnamese": "Ngày mai không gặp không về nhé."
+        }
+    ],
+    [
+        {
+            "chinese": "你们越南风景真好看，越南菜也很好吃。",
+            "pinyin": "Nǐmen Yuènán fēngjǐng zhēn hǎokàn, Yuènán cài yě hěn hǎochī.",
+            "vietnamese": "Việt Nam của các bạn phong cảnh đẹp thật, đồ ăn cũng rất ngon."
+        },
+        {
+            "chinese": "这几天玩得开心吗？",
+            "pinyin": "Zhè jǐ tiān wán de kāixīn ma?",
+            "vietnamese": "Mấy ngày nay chơi có vui không?"
+        },
+        {
+            "chinese": "很开心的。虽然我对你们的文化不太了解但是我很喜欢。",
+            "pinyin": "Hěn kāixīn de. Suīrán wǒ duì nǐmen de wénhuà bù tài liǎojiě dànshì wǒ hěn xǐhuān.",
+            "vietnamese": "Vui lắm, mặc dù mình không hiểu văn hóa của các bạn lắm, nhưng mình rất thích."
+        },
+        {
+            "chinese": "你想买一点礼物带回去吗？我带你去。",
+            "pinyin": "Nǐ xiǎng mǎi yīdiǎnr lǐwù dài huíqù ma? Wǒ dài nǐ qù.",
+            "vietnamese": "Bạn có muốn mua một ít quà mang về không, mình dẫn bạn đi."
+        },
+        {
+            "chinese": "好啊。下次我一定会带爸爸妈妈一起来这里玩，他们肯定会喜欢。",
+            "pinyin": "Hǎo a. Xià cì wǒ yīdìng huì dài bàba māma yī qǐlái zhèlǐ wán, tāmen kěndìng huì xǐhuān.",
+            "vietnamese": "Được, lần sau mình nhất định sẽ dẫn bố mẹ tới đây chơi. Họ chắc chắn sẽ rất thích."
+        },
+        {
+            "chinese": "走吧。",
+            "pinyin": "Zǒu ba.",
+            "vietnamese": "Đi thôi."
+        }
+    ]
+]

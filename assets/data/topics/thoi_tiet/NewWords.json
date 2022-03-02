@@ -1,0 +1,353 @@
+[
+    {
+        "chinese": "星",
+        "pinyin": "xīng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Sao, ngôi sao",
+                "image": "star.png"
+            }
+        ]
+    },
+    {
+        "chinese": "月亮",
+        "pinyin": "yuèliàng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Mặt trăng",
+                "image": "moon.png"
+            }
+        ]
+    },
+    {
+        "chinese": "太阳",
+        "pinyin": "tàiyáng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Mặt trời",
+                "image": "sun.png"
+            }
+        ]
+    },
+    {
+        "chinese": "天",
+        "pinyin": "tiān",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Trời, bầu trời",
+                "image": "sky.png"
+            }
+        ]
+    },
+    {
+        "chinese": "云",
+        "pinyin": "yún",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Mây",
+                "image": "clouds.png"
+            }
+        ]
+    },
+    {
+        "chinese": "天气",
+        "pinyin": "tiānqì",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Thời tiết",
+                "image": "weather.png",
+                "example": {
+                    "chinese": "看这天气，作兴要下雨。",
+                    "pinyin": "Kàn zhè tiānqì, zuòxīng yào xiàyǔ.",
+                    "vietnamese": "Xem thời tiết như vậy, có lẽ sắp mưa rồi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "空气",
+        "pinyin": "kōngqì",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Không khí",
+                "image": "air.png",
+                "example": {
+                    "chinese": "空气和水是每个人所必需的。",
+                    "pinyin": "Kōngqì hé shǔi shì měigè rén suǒ bìxū de.",
+                    "vietnamese": "Không khí và nước là thứ thiết yếu của mỗi người."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "雨",
+        "pinyin": "yǔ",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Mưa",
+                "image": "rain.png",
+                "example": {
+                    "chinese": "明天会下雨吗？",
+                    "pinyin": "Míngtiān huì xià yǔ ma?",
+                    "vietnamese": "Ngày mai có mưa không?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "下雨",
+        "pinyin": "xià yǔ",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Trời mưa",
+                "image": "rain.png",
+                "example": {
+                    "chinese": "明天会下雨吗？",
+                    "pinyin": "Míngtiān huì xià yǔ ma?",
+                    "vietnamese": "Ngày mai có mưa không?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "需要",
+        "pinyin": "xūyào",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Yêu cầu, cần"
+            }
+        ]
+    },
+    {
+        "chinese": "伞",
+        "pinyin": "sǎn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Ô",
+                "image": "umbrella.png"
+            }
+        ]
+    },
+    {
+        "chinese": "风",
+        "pinyin": "fēng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Gió",
+                "image": "wind.png"
+            }
+        ]
+    },
+    {
+        "chinese": "刮风",  
+        "pinyin": "guāfēng",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Có gió",
+                "image": "windy.png"
+            }
+        ]
+    },
+    {
+        "chinese": "台风",
+        "pinyin": "táifēng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bão",
+                "image": "storm.png"
+            }
+        ]
+    },
+    {
+        "chinese": "雪",
+        "pinyin": "xuě",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Tuyết",
+                "image": "snowing.png"
+            }
+        ]
+    },
+    {
+        "chinese": "风景",
+        "pinyin": "fēngjǐng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Phong cảnh",
+                "image": "river.png",
+                "example": {
+                    "chinese": "这里的风景多美呀！",
+                    "pinyin": "Zhèlǐ de fēngjǐng duō měi ya!",
+                    "vietnamese": "Phong cảnh nơi đây đẹp quá chừng!"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "晴天",
+        "pinyin": "qíngtiān",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Ngày nắng",
+                "image": "sunny.png"
+            }
+        ]
+    },
+    {
+        "chinese": "多云",
+        "pinyin": "duōyún",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Nhiều mây",
+                "image": "clouds.png"
+            }
+        ]
+    },
+    {
+        "chinese": "阴天",
+        "pinyin": "yīntiān",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Ngày âm u",
+                "image": "cloudy.png"
+            }
+        ]
+    },
+    {
+        "chinese": "雨天",
+        "pinyin": "yǔtiān",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Ngày mưa",
+                "image": "rainy.png"
+            }
+        ]
+    },
+    {
+        "chinese": "冷",
+        "pinyin": "lěng",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Lạnh",
+                "image": "cold.png"
+            }
+        ]
+    },
+    {
+        "chinese": "热",
+        "pinyin": "rè",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Nóng",
+                "image": "hot.png"
+            }
+        ]
+    },
+    {
+        "chinese": "暖和",
+        "pinyin": "nuǎnhuo",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Ấm áp",
+                "image": "warm.png"
+            }
+        ]
+    },
+    {
+        "chinese": "凉爽",
+        "pinyin": "liángshuǎng",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Mát mẻ",
+                "image": "cool.png"
+            }
+        ]
+    },
+    {
+        "chinese": "树",
+        "pinyin": "shù",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Cây, cây cối",
+                "image": "tree.png"
+            }
+        ]
+    },
+    {
+        "chinese": "草",
+        "pinyin": "cǎo",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Cỏ",
+                "image": "grass.png"
+            }
+        ]
+    },
+    {
+        "chinese": "花",
+        "pinyin": "huā",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Hoa",
+                "image": "flowers.png"
+            }
+        ]
+    },
+    {
+        "chinese": "季节",
+        "pinyin": "jìjié",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Tiết, mùa, vụ mùa",
+                "example": {
+                    "chinese": "隆冬季节。",
+                    "pinyin": "Lóngdōng jìjié.",
+                    "vietnamese": "Tiết đông rét đậm."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "变化",
+        "pinyin": "biànhuà",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Thay đổi",
+                "example": {
+                    "chinese": "这几年村里起了天翻地覆的变化。",
+                    "pinyin": "Zhè jīnián cūnlǐ qǐ le tiānfāndìfù de biànhuà.",
+                    "vietnamese": "Nông thôn mấy năm nay thay đổi rất lớn."
+                }
+            }
+        ]
+    }
+]

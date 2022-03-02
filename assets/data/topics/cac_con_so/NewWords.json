@@ -1,0 +1,239 @@
+[
+    {
+        "chinese": "零",
+        "pinyin": "líng",
+        "meaning": [
+            {
+                "type": "số từ",
+                "vietnamese": "Số 0",
+                "image": "0.png"
+            }
+        ]
+    },
+    {
+        "chinese": "一",
+        "pinyin": "yī",
+        "meaning": [
+            {
+                "type": "số từ",
+                "vietnamese": "Số 1",
+                "image": "1.png"
+            }
+        ]
+    },
+    {
+        "chinese": "二",
+        "pinyin": "èr",
+        "meaning": [
+            {
+                "type": "số từ",
+                "vietnamese": "Số 2",
+                "image": "2.png"
+            }
+        ]
+    },
+    {
+        "chinese": "三",
+        "pinyin": "sān",
+        "meaning": [
+            {
+                "type": "số từ",
+                "vietnamese": "Số 3",
+                "image": "3.png"
+            }
+        ]
+    },
+    {
+        "chinese": "四",
+        "pinyin": "sì",
+        "meaning": [
+            {
+                "type": "số từ",
+                "vietnamese": "Số 4",
+                "image": "4.png"
+            }
+        ]
+    },
+    {
+        "chinese": "五",
+        "pinyin": "wǔ",
+        "meaning": [
+            {
+                "type": "số từ",
+                "vietnamese": "Số 5",
+                "image": "5.png"
+            }
+        ]
+    },
+    {
+        "chinese": "六",
+        "pinyin": "liù",
+        "meaning": [
+            {
+                "type": "số từ",
+                "vietnamese": "Số 6",
+                "image": "6.png"
+            }
+        ]
+    },
+    {
+        "chinese": "七",
+        "pinyin": "qī",
+        "meaning": [
+            {
+                "type": "số từ",
+                "vietnamese": "Số 7",
+                "image": "7.png"
+            }
+        ]
+    },
+    {
+        "chinese": "八",
+        "pinyin": "bā",
+        "meaning": [
+            {
+                "type": "số từ",
+                "vietnamese": "Số 8",
+                "image": "8.png"
+            }
+        ]
+    },
+    {
+        "chinese": "九",
+        "pinyin": "jiǔ",
+        "meaning": [
+            {
+                "type": "số từ",
+                "vietnamese": "Số 9",
+                "image": "9.png"
+            }
+        ]
+    },
+    {
+        "chinese": "十",
+        "pinyin": "shí",
+        "meaning": [
+            {
+                "type": "số từ",
+                "vietnamese": "Số 10",
+                "image": "10.png"
+            }
+        ]
+    },
+    {
+        "chinese": "百",
+        "pinyin": "bǎi",
+        "meaning": [
+            {
+                "type": "số từ",
+                "vietnamese": "Trăm",
+                "image": "100.png"
+            }
+        ]
+    },
+    {
+        "chinese": "千",
+        "pinyin": "qiān",
+        "meaning": [
+            {
+                "type": "số từ",
+                "vietnamese": "Nghìn",
+                "image": "1000.png"
+            }
+        ]
+    },
+    {
+        "chinese": "万",
+        "pinyin": "wàn",
+        "meaning": [
+            {
+                "type": "số từ",
+                "vietnamese": "Chục nghìn (vạn)"
+            }
+        ]
+    },
+    {
+        "chinese": "亿",
+        "pinyin": "yì",
+        "meaning": [
+            {
+                "type": "số từ",
+                "vietnamese": "Trăm triệu (ức)"
+            }
+        ]
+    },
+    {
+        "chinese": "号码",
+        "pinyin": "hàomǎ",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Số, mã số"
+            }
+        ]
+    },
+    {
+        "chinese": "数字",
+        "pinyin": "shùzì",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Chữ số"
+            }
+        ]
+    },
+    {
+        "chinese": "数",
+        "pinyin": "shù",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Số"
+            },
+            {
+                "type": "động từ",
+                "vietnamese": "Đếm"
+            }
+        ]
+    },
+    {
+        "chinese": "两",
+        "pinyin": "liǎng",
+        "meaning": [
+            {
+                "type": "số từ",
+                "vietnamese": "Hai, lưỡng"
+            }
+        ]
+    },
+    {
+        "chinese": "百分之",
+        "pinyin": "bǎi fēn zhī",
+        "meaning": [
+            {
+                "type": "số từ",
+                "vietnamese": "Phần trăm (%)"
+            }
+        ]
+    },
+    {
+        "chinese": "谐音",
+        "pinyin": "xiéyīn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Hài âm (âm gần giống nhau)"
+            }
+        ]
+    },
+    {
+        "chinese": "同音",
+        "pinyin": "tóngyīn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Đồng âm (âm giống nhau)"
+            }
+        ]
+    }
+]

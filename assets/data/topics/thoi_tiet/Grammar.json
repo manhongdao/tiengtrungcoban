@@ -1,0 +1,253 @@
+[
+    {
+        "title": "Phó từ chỉ mức độ 最",
+        "content": [
+            {
+                "keyWords": ["最"],
+                "sub_descriptions": [
+                    "Diễn đạt ý nghĩa giữ vị trí hàng đầu trong các sự vật cùng loại, giữ vị trí thứ nhất xét về khía cạnh nào đó."
+                ],
+                "examples": [
+                    {
+                        "chinese": "大卫的汉语最好。",
+                        "pinyin": "Dà wèi de hànyǔ zuì hǎo.",
+                        "vietnamese": "Tiếng Hán của David giỏi nhất."
+                    },
+                    {
+                        "chinese": "我最喜欢吃米饭。",
+                        "pinyin": "Wǒ zuì xǐhuān chī mǐfàn.",
+                        "vietnamese": "Tôi thích ăn cơm nhất."
+                    },
+                    {
+                        "chinese": "它的眼睛最漂亮。",
+                        "pinyin": "Tā de yǎnjīng zuì piàoliang.",
+                        "vietnamese": "Đôi mắt của nó đẹp nhất."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Câu chữ 比",
+        "content": [
+            {
+                "keyWords": ["比"],
+                "sub_descriptions": [
+                    "Là câu dùng {{比}} để diễn tả ý so sánh. Vị ngữ trong câu có thể là tính từ: A + {{比}} + B + Tính từ"
+                ],
+                "examples": [
+                    {
+                        "chinese": "哥哥比我高。",
+                        "pinyin": "Gēgē bǐ wǒ gāo.",
+                        "vietnamese": "Anh trai tôi cao hơn tôi."
+                    },
+                    {
+                        "chinese": "今天比昨天冷。",
+                        "pinyin": "Jīntiān bǐ zuótiān lěng.",
+                        "vietnamese": "Hôm nay lạnh hơn hôm qua."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["比"],
+                "sub_descriptions": [
+                    "Dạng phủ định: A + {{没有}} + B……"
+                ],
+                "examples": [
+                    {
+                        "chinese": "我没有哥哥高。",
+                        "pinyin": "Wǒ méiyǒu gēgē gāo.",
+                        "vietnamese": "Tôi không cao bằng anh trai."
+                    },
+                    {
+                        "chinese": "今天没有昨天热。",
+                        "pinyin": "Jīntiān méiyǒu zuótiān rè.",
+                        "vietnamese": "Hôm nay không nóng bằng hôm qua."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["一点儿", "一些", "多了", "很多", "得多"],
+                "sub_descriptions": [
+                    "Khi muốn diễn tả sự chênh lệch với mức cụ thể giữa các đối tượng được so sánh, ta dùng số lượng cụ thể, {{一点儿}} hoặc {{一些}} được sử dụng để chỉ mức chênh lệch không lớn, {{多了}}/{{很多}}/{{得多}} được sử dụng để chỉ mức chênh lệch lớn."
+                ],
+                "examples": [
+                    {
+                        "chinese": "西瓜比苹果贵两块钱。",
+                        "pinyin": "Xīguā bǐ píngguǒ guì liǎng kuài qián.",
+                        "vietnamese": "Dưa hấu đắt hơn táo 2 đồng."
+                    },
+                    {
+                        "chinese": "我的学习比他好一点儿。",
+                        "pinyin": "Wǒ de xuéxí bǐ tā hǎo yīdiǎn er.",
+                        "vietnamese": "Tôi học tốt hơn anh ấy một chút."
+                    },
+                    {
+                        "chinese": "今天比昨天热得多。",
+                        "pinyin": "Jīntiān bǐ zuótiān rè dé duō.",
+                        "vietnamese": "Hôm nay nóng hơn hôm qua nhiều."
+                    },
+                    {
+                        "chinese": "哥哥比我大两岁。",
+                        "pinyin": "Gēgē bǐ wǒ dà liǎng suì.",
+                        "vietnamese": "Anh trai lớn hơn tôi 2 tuổi."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["比"],
+                "sub_descriptions": [
+                    "Nếu động từ có bổ ngữ chỉ trạng thái, ta có thể đặt {{比}} trước động từ hoặc trước bổ ngữ."
+                ],
+                "examples": [
+                    {
+                        "chinese": "他比我学得好。/他学得比我好。",
+                        "pinyin": "Tā bǐ wǒ xué dé hǎo. /Tā xué dé bǐ wǒ hǎo.",
+                        "vietnamese": "Anh ấy học tốt hơn tôi."
+                    },
+                    {
+                        "chinese": "哥哥比我跑得快。/哥哥跑得比我快。",
+                        "pinyin": "Gēgē bǐ wǒ pǎo dé kuài. /Gēgē pǎo dé bǐ wǒ kuài.",
+                        "vietnamese": "Anh trai chạy nhanh hơn tôi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Bổ ngữ trình độ (bổ ngữ trạng thái)",
+        "content": [
+            {
+                "keyWords": ["得"],
+                "description": "Dạng khẳng định",
+                "sub_descriptions": [
+                    "Bổ ngữ trình độ hay bổ ngữ trạng thái được dùng để mô tả hay đánh giá kết quả, mức độ hoặc trạng thái của hành động. Nó đứng sau động từ, giữa nó và động từ thường có trợ từ kết cấu {{得}}."
+                ],
+                "examples": [
+                    {
+                        "chinese": "我起得很早。",
+                        "pinyin": "Wǒ qǐ dé hěn zǎo.",
+                        "vietnamese": "Tôi dậy rất sớm."
+                    },
+                    {
+                        "chinese": "我睡得也早。",
+                        "pinyin": "Wǒ shuì dé yě zǎo.",
+                        "vietnamese": "Tôi ngủ cũng sớm."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["得"],
+                "sub_descriptions": [
+                    "Nếu động từ mang tân ngữ, ta phải đặt tân ngữ trước động từ hoặc lặp lại động từ."
+                ],
+                "examples": [
+                    {
+                        "chinese": "他汉语说得非常好。",
+                        "pinyin": "Tā hànyǔ shuō dé fēicháng hǎo.",
+                        "vietnamese": "Anh ấy nói tiếng Trung rất tốt."
+                    },
+                    {
+                        "chinese": "他唱歌唱得很好。",
+                        "pinyin": "Tā chànggē chàng dé hěn hǎo.",
+                        "vietnamese": "Anh ấy hát rất hay."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["得"],
+                "description": "Dạng phủ định",
+                "sub_descriptions": [
+                    "Đặt từ phủ định sau trợ từ kết cấu {{得}}."
+                ],
+                "examples": [
+                    {
+                        "chinese": "他唱得不太好。",
+                        "pinyin": "Tā chàng dé bù tài hǎo.",
+                        "vietnamese": "Anh ấy hát không hay lắm."
+                    },
+                    {
+                        "chinese": "她（写）汉字写得不好。",
+                        "pinyin": "Tā (xiě) hànzì xiě dé bù hǎo.",
+                        "vietnamese": "Cô ấy viết chữ Hán không đẹp."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["得"],
+                "description": "Dạng nghi vấn",
+                "sub_descriptions": [
+                    "Dùng cấu trúc tính từ + {{不}} + tính từ sau trợ từ kết cấu {{得}}"
+                ],
+                "examples": [
+                    {
+                        "chinese": "她说得好不好？",
+                        "pinyin": "Tā shuō dé hǎobù hǎo?",
+                        "vietnamese": "Cô ấy nói có tốt không?"
+                    },
+                    {
+                        "chinese": "他跑得快不快？",
+                        "pinyin": "Tā pǎo dé kuài bùkuài?",
+                        "vietnamese": "Anh ấy chạy có nhanh không?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Cấu trúc diễn tả trạng thái sắp xảy ra của hành động",
+        "content": [
+            {
+                "keyWords": ["快", "就", "要", "了"],
+                "sub_descriptions": [
+                    "Cấu trúc {{快要}}/{{快}}/{{就要}}/{{要}}……{{了}} được dùng để chỉ sự việc sắp diễn ra."
+                ],
+                "examples": [
+                    {
+                        "chinese": "火车快要来了。",
+                        "pinyin": "Huǒchē kuàiyào láile.",
+                        "vietnamese": "Xe sắp đến rồi."
+                    },
+                    {
+                        "chinese": "要下雨了。",
+                        "pinyin": "Yào xià yǔle.",
+                        "vietnamese": "Sắp mưa rồi."
+                    },
+                    {
+                        "chinese": "快写完了。",
+                        "pinyin": "Kuài xiě wánliǎo.",
+                        "vietnamese": "(Tôi) viết sắp xong rồi."
+                    },
+                    {
+                        "chinese": "新的一年快要到了。",
+                        "pinyin": "Xīn de yī nián kuàiyào dàole.",
+                        "vietnamese": "Một năm mới sắp đến rồi."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["就", "要", "了"],
+                "sub_descriptions": [
+                    "Nếu trong câu có trạng ngữ chỉ thời gian thì chỉ có thể dùng {{就要}}……{{了}}"
+                ],
+                "examples": [
+                    {
+                        "chinese": "下个月我就要回国了。",
+                        "pinyin": "Xià gè yuè wǒ jiù yào huíguóle.",
+                        "vietnamese": "Tháng sau tôi phải về nước rồi."
+                    },
+                    {
+                        "chinese": "明天她就要走了。",
+                        "pinyin": "Míngtiān tā jiù yào zǒule.",
+                        "vietnamese": "Mai là anh ấy phải đi rồi."
+                    },
+                    {
+                        "chinese": "下个星期就要考试了。",
+                        "pinyin": "Xià gè xīngqí jiù yào kǎoshìle.",
+                        "vietnamese": "Tuần sau thi rồi."
+                    }
+                ]
+            }
+        ]
+    }
+]

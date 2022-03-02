@@ -1,0 +1,86 @@
+[
+    [
+        {
+            "chinese": "叔叔，请问到图书馆怎么走？",
+            "pinyin": "Shūshu, qǐngwèn dào túshū guǎn zěnme zǒu?",
+            "vietnamese": "Chú ơi cho cháu hỏi muốn đến thư viện phải đi thế nào ạ?"
+        },
+        {
+            "chinese": "一直往前走，到十字路口往右拐会看见食堂，从食堂再走几步就到。",
+            "pinyin": "Yīzhí wǎng qián zǒu, dào shízìlù kǒu wǎng yòu guǎi huì kànjiàn shítáng, cóng shítáng zài zǒu jǐ bù jiù dào.",
+            "vietnamese": "Cứ đi thẳng, đến ngã tư thì rẽ phải sẽ nhìn thấy nhà ăn, từ nhà ăn đi thêm vài bước là sẽ tới."
+        },
+        {
+            "chinese": "要走多远啊？",
+            "pinyin": "Yào zǒu duō yuǎn a?",
+            "vietnamese": "Phải đi khoảng bao xa ạ?"
+        },
+        {
+            "chinese": "500米左右。",
+            "pinyin": "Wú bǎi mǐ zuǒyòu.",
+            "vietnamese": "Khoảng 500m."
+        },
+        {
+            "chinese": "谢谢。",
+            "pinyin": "Xièxie.",
+            "vietnamese": "Dạ cháu cảm ơn ạ."
+        },
+        {
+            "chinese": "不客气。",
+            "pinyin": "Bú kèqì.",
+            "vietnamese": "Không có gì."
+        }
+    ],
+    [
+        {
+            "chinese": "请问这里离北京大学远吗？",
+            "pinyin": "Qǐngwèn zhèlǐ lí běijīng dàxué yuǎn ma?",
+            "vietnamese": "Xin hỏi, đại học Bắc Kinh cách chỗ này có xa không?"
+        },
+        {
+            "chinese": "很远，你可以坐公共汽车或者地铁去。",
+            "pinyin": "Hěn yuǎn, nǐ kěyǐ zuò gōnggòng qìchē huòzhě dìtiě qù.",
+            "vietnamese": "Rất xa, bạn có thể đi bằng xe bus hoặc tàu điện ngầm."
+        },
+        {
+            "chinese": "这附近有地铁站吗？",
+            "pinyin": "Zhè fùjìn yǒu dìtiě zhàn ma?",
+            "vietnamese": "Gần đây có ga tàu điện ngầm không?"
+        },
+        {
+            "chinese": "有，前面就是地铁站。",
+            "pinyin": "Yǒu, qiánmiàn jiùshì dìtiě zhàn.",
+            "vietnamese": "Có, phía trước là ga tàu điện ngầm."
+        },
+        {
+            "chinese": "要坐几号线地铁？",
+            "pinyin": "Yào zuò jǐ hào xiàn dìtiě?",
+            "vietnamese": "Tôi phải ngồi tàu số mấy?"
+        },
+        {
+            "chinese": "三号。",
+            "pinyin": "Sān hào.",
+            "vietnamese": "Số 3."
+        },
+        {
+            "chinese": "要转车吗？",
+            "pinyin": "Yào zhuǎnchē ma?",
+            "vietnamese": "Có cần đổi tàu không?"
+        },
+        {
+            "chinese": "不必。",
+            "pinyin": "Bùbì.",
+            "vietnamese": "Không cần đâu."
+        },
+        {
+            "chinese": "好的，谢谢你。",
+            "pinyin": "Hǎo de, xièxiè nǐ.",
+            "vietnamese": "Vâng, cảm ơn bạn."
+        },
+        {
+            "chinese": "不客气。",
+            "pinyin": "Bú kèqì.",
+            "vietnamese": "Không có gì."
+        }
+    ]
+]

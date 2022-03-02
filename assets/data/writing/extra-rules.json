@@ -1,0 +1,57 @@
+[
+    {
+        "title": "Nét chấm nằm ở phần trên hoặc phần trên bên trái của chữ thì viết nét chấm đầu tiên.",
+        "sampleImgs": [
+            "bo-sung-1-1.gif",
+            "bo-sung-1-2.gif",
+            "ngoai-truoc-trong-sau-1.gif"
+        ]
+    },
+    {
+        "title": "Nét chấm nằm ở phần trên bên phải hoặc nằm bên trong chữ thì viết nét chấm cuối cùng.",
+        "sampleImgs": [
+            "bo-sung-2-1.gif",
+            "bo-sung-2-2.gif",
+            "bo-sung-2-3.gif"
+        ]
+    },
+    {
+        "title": "Kết cấu chữ được bao bọc ở bên trên và bên trái hoặc bên trên và bên phải thì viết từ ngoài vào trong.",
+        "sampleImgs": [
+            "bo-sung-3-1.gif",
+            "bo-sung-3-2.gif",
+            "bo-sung-3-3.gif"
+        ]
+    },
+    {
+        "title": "Kết cấu chữ được bao bọc ở bên trái và bên dưới (thường là bởi bộ quai xước 辶 và bộ dẫn 廴) thì viết từ trong ra ngoài (辶 và 廴 viết cuối cùng).",
+        "sampleImgs": [
+            "bo-sung-4-1.gif",
+            "bo-sung-4-2.gif",
+            "bo-sung-4-3.gif"
+        ]
+    },
+    {
+        "title": "Kết cấu chữ được bao bọc ở bên trái, bên dưới và bên phải thì viết từ trong ra ngoài.",
+        "sampleImgs": [
+            "bo-sung-5-1.gif",
+            "bo-sung-5-2.gif"
+        ]
+    },
+    {
+        "title": "Kết cấu chữ được bao bọc ở bên trái, bên trên và bên phải thì viết từ ngoài vào trong.",
+        "sampleImgs": [
+            "bo-sung-6-1.gif",
+            "ngoai-truoc-trong-sau-3.gif",
+            "bo-sung-6-3.gif"
+        ]
+    },
+    {
+        "title": "Kết cấu chữ được bao bọc bởi bên trên, bên trái và bên dưới thì viết nét bên trên trước, sau đó viết các nét bên trong, cuối cùng là nét bên trái dưới.",
+        "sampleImgs": [
+            "bo-sung-7-1.gif",
+            "bo-sung-7-2.gif",
+            "bo-sung-7-3.gif"
+        ]
+    }
+]

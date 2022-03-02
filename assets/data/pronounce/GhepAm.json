@@ -1,0 +1,2713 @@
+{
+  "thanhmau": [
+    "", "b", "p", "m", "f", "d", "t", "n", "l", "z", "c", "s", "zh", "ch", "sh", "r", "j", "q", "x", "g", "k", "h", "y", "w"
+  ],
+  "vanmau": [
+    "a", "ai", "an", "ao", "ang", "e", "er", "ei", "en", "eng", "i", "ia", "ie", "in", "iu", "ian", "iao", "ing", "iang", "iong", "o", "ou", "ong", "u", "ua", "ui", "un", "uo", "uai", "uan", "uang", "ü", "üe", "ün", "üan"
+  ],
+  "ghepam": [
+        [
+            {
+                "text": "a"
+            },
+            {
+                "text": "ai"
+            },
+            {
+                "text": "an"
+            },
+            {
+                "text": "ao"
+            },
+            {
+                "text": "ang"
+            },
+            {
+                "text": "e"
+            },
+            {
+                "text": "er",
+                "word": "二"
+            },
+            {
+                "text": "ei"
+            },
+            {
+                "text": "en"
+            },
+            {
+                "text": "eng"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "o"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            }
+        ],
+        [
+            {
+                "text": "ba"
+            },
+            {
+                "text": "bai"
+            },
+            {
+                "text": "ban"
+            },
+            {
+                "text": "bao"
+            },
+            {
+                "text": "bang"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "bei"
+            },
+            {
+                "text": "ben"
+            },
+            {
+                "text": "beng"
+            },
+            {
+                "text": "bi"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "bie"
+            },
+            {
+                "text": "bin"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "bian"
+            },
+            {
+                "text": "biao"
+            },
+            {
+                "text": "bing"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "bo",
+                "file": "b"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "bu"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            }
+        ],
+        [
+            {
+                "text": "pa"
+            },
+            {
+                "text": "pai"
+            },
+            {
+                "text": "pan"
+            },
+            {
+                "text": "pao"
+            },
+            {
+                "text": "pang"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "pei"
+            },
+            {
+                "text": "pen"
+            },
+            {
+                "text": "peng"
+            },
+            {
+                "text": "pi"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "pie"
+            },
+            {
+                "text": "pin"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "pian"
+            },
+            {
+                "text": "piao"
+            },
+            {
+                "text": "ping"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "po",
+                "file": "p"
+            },
+            {
+                "text": "pou"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "pu"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            }
+        ],
+        [
+            {
+                "text": "ma"
+            },
+            {
+                "text": "mai"
+            },
+            {
+                "text": "man"
+            },
+            {
+                "text": "mao"
+            },
+            {
+                "text": "mang"
+            },
+            {
+                "text": "me"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "mei"
+            },
+            {
+                "text": "men"
+            },
+            {
+                "text": "meng"
+            },
+            {
+                "text": "mi"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "mie"
+            },
+            {
+                "text": "min"
+            },
+            {
+                "text": "miu"
+            },
+            {
+                "text": "mian"
+            },
+            {
+                "text": "miao"
+            },
+            {
+                "text": "ming"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "mo",
+                "file": "m"
+            },
+            {
+                "text": "mou"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "mu"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            }
+        ],
+        [
+            {
+                "text": "fa"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "fan"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "fang"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "fei"
+            },
+            {
+                "text": "fen"
+            },
+            {
+                "text": "feng"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "fo",
+                "file": "f"
+            },
+            {
+                "text": "fou"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "fu"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            }
+        ],
+        [
+            {
+                "text": "da"
+            },
+            {
+                "text": "dai"
+            },
+            {
+                "text": "dan"
+            },
+            {
+                "text": "dao"
+            },
+            {
+                "text": "dang"
+            },
+            {
+                "text": "de",
+                "file": "d"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "dei",
+                "file": "dei"
+            },
+            {
+                "text": "den",
+                "file": "den"
+            },
+            {
+                "text": "deng"
+            },
+            {
+                "text": "di"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "die"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "diu"
+            },
+            {
+                "text": "dian"
+            },
+            {
+                "text": "diao"
+            },
+            {
+                "text": "ding"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "dou"
+            },
+            {
+                "text": "dong"
+            },
+            {
+                "text": "du"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "dui"
+            },
+            {
+                "text": "dun"
+            },
+            {
+                "text": "duo"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "duan"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            }
+        ],
+        [
+            {
+                "text": "ta"
+            },
+            {
+                "text": "tai"
+            },
+            {
+                "text": "tan"
+            },
+            {
+                "text": "tao"
+            },
+            {
+                "text": "tang"
+            },
+            {
+                "text": "te",
+                "file": "t"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "teng"
+            },
+            {
+                "text": "ti"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "tie"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "tian"
+            },
+            {
+                "text": "tiao"
+            },
+            {
+                "text": "ting"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "tou"
+            },
+            {
+                "text": "tong"
+            },
+            {
+                "text": "tu"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "tui"
+            },
+            {
+                "text": "tun"
+            },
+            {
+                "text": "tuo"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "tuan"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            }
+        ],
+        [
+            {
+                "text": "na"
+            },
+            {
+                "text": "nai"
+            },
+            {
+                "text": "nan"
+            },
+            {
+                "text": "nao"
+            },
+            {
+                "text": "nang"
+            },
+            {
+                "text": "ne",
+                "file": "n"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "nei"
+            },
+            {
+                "text": "nen"
+            },
+            {
+                "text": "neng"
+            },
+            {
+                "text": "ni"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "nie"
+            },
+            {
+                "text": "nin"
+            },
+            {
+                "text": "niu"
+            },
+            {
+                "text": "nian"
+            },
+            {
+                "text": "niao"
+            },
+            {
+                "text": "ning"
+            },
+            {
+                "text": "niang"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "nou"
+            },
+            {
+                "text": "nong"
+            },
+            {
+                "text": "nu"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "nuo"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "nuan"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "nü",
+                "file": "nu1"
+            },
+            {
+                "text": "nüe",
+                "file": "nu1e"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            }
+        ],
+        [
+            {
+                "text": "la"
+            },
+            {
+                "text": "lai"
+            },
+            {
+                "text": "lan"
+            },
+            {
+                "text": "lao"
+            },
+            {
+                "text": "lang"
+            },
+            {
+                "text": "le",
+                "file": "l"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "lei"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "leng"
+            },
+            {
+                "text": "li"
+            },
+            {
+                "text": "lia"
+            },
+            {
+                "text": "lie"
+            },
+            {
+                "text": "lin"
+            },
+            {
+                "text": "liu"
+            },
+            {
+                "text": "lian"
+            },
+            {
+                "text": "liao"
+            },
+            {
+                "text": "ling"
+            },
+            {
+                "text": "liang"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "lou"
+            },
+            {
+                "text": "long",
+                "file": "lo1ng"
+            },
+            {
+                "text": "lu"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "lun"
+            },
+            {
+                "text": "luo"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "luan"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "lü",
+                "file": "lu1"
+            },
+            {
+                "text": "lüe",
+                "file": "lu1e"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            }
+        ],
+        [
+            {
+                "text": "za",
+                "word": "咂"
+            },
+            {
+                "text": "zai",
+                "word": "哉"
+            },
+            {
+                "text": "zan",
+                "word": "簪"
+            },
+            {
+                "text": "zao",
+                "word": "遭"
+            },
+            {
+                "text": "zang",
+                "word": "臧"
+            },
+            {
+                "text": "ze",
+                "word": "仄"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "zei",
+                "word": "贼"
+            },
+            {
+                "text": "zen",
+                "word": "谮"
+            },
+            {
+                "text": "zeng",
+                "word": "增"
+            },
+            {
+                "text": "zi",
+                "file": "z"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "zou",
+                "word": "緅"
+            },
+            {
+                "text": "zong",
+                "word": "宗"
+            },
+            {
+                "text": "zu",
+                "word": "租"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "zui"
+            },
+            {
+                "text": "zun"
+            },
+            {
+                "text": "zuo"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "zuan"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            }
+        ],
+        [
+            {
+                "text": "ca",
+                "word": "擦"
+            },
+            {
+                "text": "cai",
+                "word": "偲"
+            },
+            {
+                "text": "can",
+                "word": "餐"
+            },
+            {
+                "text": "cao",
+                "word": "肏"
+            },
+            {
+                "text": "cang",
+                "word": "伧"
+            },
+            {
+                "text": "ce",
+                "word": "册"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "cen",
+                "word": "岑"
+            },
+            {
+                "text": "ceng",
+                "word": "噌"
+            },
+            {
+                "text": "ci",
+                "file": "c"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "cou",
+                "word": "凑"
+            },
+            {
+                "text": "cong",
+                "word": "匆"
+            },
+            {
+                "text": "cu",
+                "word": "粗"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "cui"
+            },
+            {
+                "text": "cun"
+            },
+            {
+                "text": "cuo"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "cuan"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            }
+        ],
+        [
+            {
+                "text": "sa",
+                "word": "仨"
+            },
+            {
+                "text": "sai",
+                "word": "噻"
+            },
+            {
+                "text": "san",
+                "word": "三"
+            },
+            {
+                "text": "sao",
+                "word": "臊"
+            },
+            {
+                "text": "sang",
+                "word": "桑"
+            },
+            {
+                "text": "se",
+                "word": "色"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "sen",
+                "word": "森"
+            },
+            {
+                "text": "seng",
+                "word": "僧"
+            },
+            {
+                "text": "si",
+                "file": "s"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "sou",
+                "word": "嗖"
+            },
+            {
+                "text": "song",
+                "word": "凇"
+            },
+            {
+                "text": "su",
+                "word": "窣"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "sui"
+            },
+            {
+                "text": "sun"
+            },
+            {
+                "text": "suo"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "suan"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            }
+        ],
+        [
+            {
+                "text": "zha",
+                "word": "扎"
+            },
+            {
+                "text": "zhai",
+                "word": "摘"
+            },
+            {
+                "text": "zhan",
+                "word": "旃"
+            },
+            {
+                "text": "zhao",
+                "word": "招"
+            },
+            {
+                "text": "zhang",
+                "word": "嫜"
+            },
+            {
+                "text": "zhe",
+                "word": "柘"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "zhen",
+                "word": "侦"
+            },
+            {
+                "text": "zheng",
+                "word": "争"
+            },
+            {
+                "text": "zhi",
+                "file": "zh"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "zhou",
+                "word": "侜"
+            },
+            {
+                "text": "zhong",
+                "word": "中"
+            },
+            {
+                "text": "zhu",
+                "word": "侏"
+            },
+            {
+                "text": "zhua"
+            },
+            {
+                "text": "zhui"
+            },
+            {
+                "text": "zhun"
+            },
+            {
+                "text": "zhuo"
+            },
+            {
+                "text": "zhuai"
+            },
+            {
+                "text": "zhuan"
+            },
+            {
+                "text": "zhuang"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            }
+        ],
+        [
+            {
+                "text": "cha",
+                "word": "嗏"
+            },
+            {
+                "text": "chai",
+                "word": "拆"
+            },
+            {
+                "text": "chan",
+                "word": "幨"
+            },
+            {
+                "text": "chao",
+                "word": "抄"
+            },
+            {
+                "text": "chang",
+                "word": "伥"
+            },
+            {
+                "text": "che",
+                "word": "呫"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "chen",
+                "word": "嗔"
+            },
+            {
+                "text": "cheng",
+                "word": "偁"
+            },
+            {
+                "text": "chi",
+                "file": "ch"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "chou",
+                "word": "抽"
+            },
+            {
+                "text": "chong",
+                "word": "憧"
+            },
+            {
+                "text": "chu",
+                "word": "摴"
+            },
+            {
+                "text": "chua"
+            },
+            {
+                "text": "chui"
+            },
+            {
+                "text": "chun"
+            },
+            {
+                "text": "chuo"
+            },
+            {
+                "text": "chuai"
+            },
+            {
+                "text": "chuan"
+            },
+            {
+                "text": "chuang"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            }
+        ],
+        [
+            {
+                "text": "sha",
+                "word": "沙"
+            },
+            {
+                "text": "shai",
+                "word": "筛"
+            },
+            {
+                "text": "shan",
+                "word": "删"
+            },
+            {
+                "text": "shao",
+                "word": "捎"
+            },
+            {
+                "text": "shang",
+                "word": "伤"
+            },
+            {
+                "text": "she",
+                "word": "奢"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "shei",
+                "word": "谁"
+            },
+            {
+                "text": "shen",
+                "word": "伸"
+            },
+            {
+                "text": "sheng",
+                "word": "升"
+            },
+            {
+                "text": "shi",
+                "file": "sh"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "shou",
+                "word": "收"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "shu",
+                "word": "书"
+            },
+            {
+                "text": "shua"
+            },
+            {
+                "text": "shui"
+            },
+            {
+                "text": "shun"
+            },
+            {
+                "text": "shuo"
+            },
+            {
+                "text": "shuai"
+            },
+            {
+                "text": "shuan"
+            },
+            {
+                "text": "shuang"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            }
+        ],
+        [
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "ran",
+                "word": "呥"
+            },
+            {
+                "text": "rao",
+                "word": "绕"
+            },
+            {
+                "text": "rang",
+                "word": "让"
+            },
+            {
+                "text": "re",
+                "word": "热"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "ren",
+                "word": "仞"
+            },
+            {
+                "text": "reng",
+                "word": "扔"
+            },
+            {
+                "text": "ri",
+                "file": "r"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "rou",
+                "word": "肉"
+            },
+            {
+                "text": "rong",
+                "word": "容"
+            },
+            {
+                "text": "ru",
+                "word": "入"
+            },
+            {
+                "text": "rua",
+                "word": "挼"
+            },
+            {
+                "text": "rui"
+            },
+            {
+                "text": "run"
+            },
+            {
+                "text": "ruo"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "ruan"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            }
+        ],
+        [
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "ji",
+                "file": "j"
+            },
+            {
+                "text": "jia"
+            },
+            {
+                "text": "jie"
+            },
+            {
+                "text": "jin"
+            },
+            {
+                "text": "jiu"
+            },
+            {
+                "text": "jian"
+            },
+            {
+                "text": "jiao",
+                "word": "交"
+            },
+            {
+                "text": "jing"
+            },
+            {
+                "text": "jiang"
+            },
+            {
+                "text": "jiong"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "ju",
+                "word": "居"
+            },
+            {
+                "text": "jue"
+            },
+            {
+                "text": "jun"
+            },
+            {
+                "text": "juan"
+            }
+        ],
+        [
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "qi",
+                "file": "q"
+            },
+            {
+                "text": "qia"
+            },
+            {
+                "text": "qie"
+            },
+            {
+                "text": "qin"
+            },
+            {
+                "text": "qiu"
+            },
+            {
+                "text": "qian"
+            },
+            {
+                "text": "qiao",
+                "word": "劁"
+            },
+            {
+                "text": "qing"
+            },
+            {
+                "text": "qiang"
+            },
+            {
+                "text": "qiong"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "qu",
+                "word": "佉"
+            },
+            {
+                "text": "que"
+            },
+            {
+                "text": "qun"
+            },
+            {
+                "text": "quan"
+            }
+        ],
+        [
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "xi",
+                "file": "x"
+            },
+            {
+                "text": "xia"
+            },
+            {
+                "text": "xie"
+            },
+            {
+                "text": "xin"
+            },
+            {
+                "text": "xiu"
+            },
+            {
+                "text": "xian"
+            },
+            {
+                "text": "xiao",
+                "word": "哓"
+            },
+            {
+                "text": "xing"
+            },
+            {
+                "text": "xiang"
+            },
+            {
+                "text": "xiong"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "xu",
+                "word": "圩"
+            },
+            {
+                "text": "xue"
+            },
+            {
+                "text": "xun"
+            },
+            {
+                "text": "xuan"
+            }
+        ],
+        [
+            {
+                "text": "ga"
+            },
+            {
+                "text": "gai"
+            },
+            {
+                "text": "gan"
+            },
+            {
+                "text": "gao"
+            },
+            {
+                "text": "gang"
+            },
+            {
+                "text": "ge",
+                "file": "g"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "gei"
+            },
+            {
+                "text": "gen"
+            },
+            {
+                "text": "geng"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "gou"
+            },
+            {
+                "text": "gong"
+            },
+            {
+                "text": "gu"
+            },
+            {
+                "text": "gua"
+            },
+            {
+                "text": "gui"
+            },
+            {
+                "text": "gun"
+            },
+            {
+                "text": "guo"
+            },
+            {
+                "text": "guai"
+            },
+            {
+                "text": "guan"
+            },
+            {
+                "text": "guang"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            }
+        ],
+        [
+            {
+                "text": "ka"
+            },
+            {
+                "text": "kai"
+            },
+            {
+                "text": "kan"
+            },
+            {
+                "text": "kao"
+            },
+            {
+                "text": "kang"
+            },
+            {
+                "text": "ke",
+                "file": "k"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "kei"
+            },
+            {
+                "text": "ken"
+            },
+            {
+                "text": "keng"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "kou"
+            },
+            {
+                "text": "kong"
+            },
+            {
+                "text": "ku"
+            },
+            {
+                "text": "kua"
+            },
+            {
+                "text": "kui"
+            },
+            {
+                "text": "kun"
+            },
+            {
+                "text": "kuo"
+            },
+            {
+                "text": "kuai"
+            },
+            {
+                "text": "kuan"
+            },
+            {
+                "text": "kuang"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            }
+        ],
+        [
+            {
+                "text": "ha"
+            },
+            {
+                "text": "hai"
+            },
+            {
+                "text": "han"
+            },
+            {
+                "text": "hao"
+            },
+            {
+                "text": "hang"
+            },
+            {
+                "text": "he",
+                "file": "h"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "hei"
+            },
+            {
+                "text": "hen"
+            },
+            {
+                "text": "heng"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "hou"
+            },
+            {
+                "text": "hong"
+            },
+            {
+                "text": "hu"
+            },
+            {
+                "text": "hua"
+            },
+            {
+                "text": "hui"
+            },
+            {
+                "text": "hun"
+            },
+            {
+                "text": "huo"
+            },
+            {
+                "text": "huai"
+            },
+            {
+                "text": "huan"
+            },
+            {
+                "text": "huang"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            }
+        ],
+        [
+            {
+                "text": "ya",
+                "file": "ia"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "yan",
+                "file": "ian"
+            },
+            {
+                "text": "yao",
+                "file": "iao"
+            },
+            {
+                "text": "yang",
+                "file": "iang"
+            },
+            {
+                "text": "ye",
+                "file": "ie"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "yi",
+                "file": "i"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "yin",
+                "file": "in"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "ying",
+                "file": "ing"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "you",
+                "file": "iou"
+            },
+            {
+                "text": "yong",
+                "file": "iong"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "yu",
+                "file": "u1"
+            },
+            {
+                "text": "yue",
+                "file": "u1e"
+            },
+            {
+                "text": "yun",
+                "file": "u1n"
+            },
+            {
+                "text": "yuan",
+                "file": "u1an"
+            }
+        ],
+        [
+            {
+                "text": "wa",
+                "word": "哇"
+            },
+            {
+                "text": "wai",
+                "word": "歪"
+            },
+            {
+                "text": "wan",
+                "word": "剜"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "wang",
+                "word": "尪"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "wei",
+                "word": "偎"
+            },
+            {
+                "text": "wen",
+                "word": "榅"
+            },
+            {
+                "text": "weng",
+                "word": "嗡"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "wo",
+                "word": "倭"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": "wu",
+                "word": "乌"
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            },
+            {
+                "text": ""
+            }
+        ]
+    ]
+}

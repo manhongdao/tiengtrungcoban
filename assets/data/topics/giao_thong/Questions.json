@@ -1,0 +1,92 @@
+{
+    "listening": [
+        ["开", "送", "等", "船", "接", "辆", "骑", "站", "灯"],
+        ["机场", "地铁", "飞机", "火车", "汽车", "火车站", "自行车", "摩托车", "出租车", "红绿灯"]
+    ],
+    "reading": [
+        [
+            {
+                "chinese": "开",
+                "vietnamese": "Lái, chạy"
+            },
+            {
+                "chinese": "火车站",
+                "vietnamese": "Ga tàu hỏa"
+            },
+            {
+                "chinese": "机场",
+                "vietnamese": "Sân bay"
+            },
+            {
+                "chinese": "送",
+                "vietnamese": "Đưa, tiễn"
+            },
+            {
+                "chinese": "等",
+                "vietnamese": "Đợi, chờ đợi"
+            },
+            {
+                "chinese": "自行车",
+                "vietnamese": "Xe đạp"
+            },
+            {
+                "chinese": "船",
+                "vietnamese": "Thuyền"
+            },
+            {
+                "chinese": "地铁",
+                "vietnamese": "Tàu điện ngầm"
+            },
+            {
+                "chinese": "接",
+                "vietnamese": "Đón, nhận"
+            },
+            {
+                "chinese": "辆",
+                "vietnamese": "Chiếc (dùng với xe cộ)"
+            },
+            {
+                "chinese": "骑",
+                "vietnamese": "Cưỡi, đi"
+            },
+            {
+                "chinese": "站",
+                "vietnamese": "Đứng"
+            },
+            {
+                "chinese": "飞机",
+                "vietnamese": "Máy bay"
+            },
+            {
+                "chinese": "火车",
+                "vietnamese": "Tàu hỏa"
+            },
+            {
+                "chinese": "摩托车",
+                "vietnamese": "Xe máy"
+            },
+            {
+                "chinese": "出租车",
+                "vietnamese": "Xe taxi"
+            },
+            {
+                "chinese": "灯",
+                "vietnamese": "Đèn"
+            },
+            {
+                "chinese": "红绿灯",
+                "vietnamese": "Đèn giao thông"
+            },
+            {
+                "chinese": "汽车",
+                "vietnamese": "Xe hơi"
+            }
+        ]
+    ],
+    "speaking": [
+        ["开", "送", "等", "船", "接", "辆", "骑", "站", "灯", "公共汽车", "火车站", "机场", "自行车", "地铁", "飞机", "火车", "摩托车", "出租车", "红绿灯", "汽车"]
+    ],
+    "writing": [
+        ["我们一起去图书馆吧。", "我们直接到图书馆吧。", "我会骑自行车去，你呢？", "我会走路去。", "不见不散。", "让你久等了。", "你是怎么来的？", "我下了飞机就坐出租车来。", "从北京到河内要坐几个小时飞机？", "三个半小时左右。", "小王怎么还没回来？", "可能是因为堵车。", "你给他打电话看看。", "我都打了好几次了。", "我回来了。", "怎么现在才回来？", "我的自行车坏了。", "所以要走路回来。", "电话怎么打不通？", "我家离学校很远。", "学校离机场有二十公里。", "我从小就喜欢吃苹果。", "我都等他一个小时了。", "可能你不认识他。", "今天怎么这么热？", "你怎么不开心呢？", "我请你吃饭。", "你让我想想。", "公司派他去中国工作。"]
+    ]
+}

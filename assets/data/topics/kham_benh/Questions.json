@@ -1,0 +1,159 @@
+{
+    "listening": [
+        ["医院", "护士", "住院", "检查", "出院", "结果", "身体", "健康", "休息", "照顾", "生病", "感冒", "咳嗽", "发烧", "恶心", "头痛", "胃痛", "症状", "吃药", "治疗", "病人", "病房", "药房", "受伤", "过敏", "手术", "晕倒", "几乎", "应该", "影响", "作用", "注意", "主要"]
+    ],
+    "reading": [
+        [
+            {
+                "chinese": "医院",
+                "vietnamese": "Bệnh viện"
+            },
+            {
+                "chinese": "护士",
+                "vietnamese": "Y tá"
+            },
+            {
+                "chinese": "住院",
+                "vietnamese": "Nằm viện"
+            },
+            {
+                "chinese": "检查",
+                "vietnamese": "Kiểm tra"
+            },
+            {
+                "chinese": "出院",
+                "vietnamese": "Xuất viện"
+            },
+            {
+                "chinese": "结果",
+                "vietnamese": "Kết quả"
+            },
+            {
+                "chinese": "身体",
+                "vietnamese": "Thân thể, cơ thể"
+            },
+            {
+                "chinese": "健康",
+                "vietnamese": "Khỏe mạnh"
+            },
+            {
+                "chinese": "累",
+                "vietnamese": "Mệt mỏi"
+            },
+            {
+                "chinese": "休息",
+                "vietnamese": "Nghỉ ngơi"
+            },
+            {
+                "chinese": "照顾",
+                "vietnamese": "Chăm sóc, chiếu cố"
+            },
+            {
+                "chinese": "生病",
+                "vietnamese": "Sinh bệnh, bị ốm"
+            },
+            {
+                "chinese": "感冒",
+                "vietnamese": "Cảm cúm, bị cảm"
+            },
+            {
+                "chinese": "咳嗽",
+                "vietnamese": "Ho"
+            },
+            {
+                "chinese": "发烧",
+                "vietnamese": "Sốt, lên cơn sốt"
+            },
+            {
+                "chinese": "恶心",
+                "vietnamese": "Buồn nôn"
+            },
+            {
+                "chinese": "头痛",
+                "vietnamese": "Đau đầu"
+            },
+            {
+                "chinese": "流鼻涕",
+                "vietnamese": "Chảy nước mũi"
+            },
+            {
+                "chinese": "胃痛",
+                "vietnamese": "Đau dạ dày"
+            },
+            {
+                "chinese": "症状",
+                "vietnamese": "Triệu chứng, dấu hiệu"
+            },
+            {
+                "chinese": "吃药",
+                "vietnamese": "Uống thuốc"
+            },
+            {
+                "chinese": "治疗",
+                "vietnamese": "Trị liệu, chữa bệnh"
+            },
+            {
+                "chinese": "病人",
+                "vietnamese": "Bệnh nhân"
+            },
+            {
+                "chinese": "病房",
+                "vietnamese": "Phòng bệnh"
+            },
+            {
+                "chinese": "药房",
+                "vietnamese": "Nhà thuốc"
+            },
+            {
+                "chinese": "受伤",
+                "vietnamese": "Bị thương"
+            },
+            {
+                "chinese": "过敏",
+                "vietnamese": "Dị ứng"
+            },
+            {
+                "chinese": "手术",
+                "vietnamese": "Phẫu thuật"
+            },
+            {
+                "chinese": "晕倒",
+                "vietnamese": "Ngất xỉu"
+            },
+            {
+                "chinese": "几乎",
+                "vietnamese": "Suýt nữa, xém"
+            },
+            {
+                "chinese": "应该",
+                "vietnamese": "Nên, cần phải"
+            },
+            {
+                "chinese": "影响",
+                "vietnamese": "Ảnh hưởng"
+            },
+            {
+                "chinese": "用",
+                "vietnamese": "Dùng, sử dụng"
+            },
+            {
+                "chinese": "作用",
+                "vietnamese": "Tác dụng, hiệu quả"
+            },
+            {
+                "chinese": "注意",
+                "vietnamese": "Chú ý"
+            },
+            {
+                "chinese": "主要",
+                "vietnamese": "Chủ yếu, chính"
+            }
+        ]
+    ],
+    "speaking": [
+        ["医院", "护士", "住院", "检查", "出院", "结果", "身体", "健康", "休息", "照顾", "生病", "感冒", "咳嗽", "发烧", "恶心", "头痛", "流鼻涕", "胃痛", "症状", "吃药", "治疗", "病人", "病房", "药房", "受伤", "过敏", "手术", "晕倒", "几乎", "应该", "影响", "作用", "注意", "主要"]
+    ],
+    "writing": [
+        ["今天我觉得很累。", "你觉得怎么样？", "我头有点儿疼。", "你发烧吗？", "好像有一点点。", "你可能感冒了。", "我帮你去买药。", "你身体怎么样？", "我头又痛又晕。", "以前有过这样吗？", "没有，这是第一次。", "我给你看看。", "你这个病要打点滴。", "可以不打码？", "只有打点滴才能快点好起来。", "我给你开药。", "这个西瓜又大又甜。", "外面又黑又冷。", "他工作又认真又热情。", "我只要喜欢就会买。", "除了我，大家都听懂了。", "除了他以外，大家都来了。", "除了你，谁都可以。", "她拿出来一本书。", "小狗从房间里跑出来。", "你帮我拿过来吧。", "老师走进教室里来。", "小狗跑进房间去。", "大家集合起来吧。", "看起来容易，做起来难。", "让他说下去。", "车停下来，天黑下来。"]
+    ]
+}

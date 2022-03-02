@@ -1,0 +1,92 @@
+{
+    "listening": [
+        ["叫", "姓", "是", "也", "新", "人", "谁", "岁", "几"],
+        ["什么", "名字", "越南", "河内", "中国", "美国", "英国", "法国", "先生", "女士"]
+    ],
+    "reading": [
+        [
+            {
+                "chinese": "叫",
+                "vietnamese": "Tên (là)"
+            },
+            {
+                "chinese": "姓",
+                "vietnamese": "Họ"
+            },
+            {
+                "chinese": "是",
+                "vietnamese": "Là"
+            },
+            {
+                "chinese": "也",
+                "vietnamese": "Cũng"
+            },
+            {
+                "chinese": "新",
+                "vietnamese": "Mới"
+            },
+            {
+                "chinese": "人",
+                "vietnamese": "Người"
+            },
+            {
+                "chinese": "谁",
+                "vietnamese": "Ai"
+            },
+            {
+                "chinese": "岁",
+                "vietnamese": "Tuổi"
+            },
+            {
+                "chinese": "几",
+                "vietnamese": "Mấy"
+            },
+            {
+                "chinese": "什么",
+                "vietnamese": "Gì, cái gì"
+            },
+            {
+                "chinese": "名字",
+                "vietnamese": "Tên"
+            },
+            {
+                "chinese": "越南",
+                "vietnamese": "Việt Nam"
+            },
+            {
+                "chinese": "河内",
+                "vietnamese": "Hà Nội"
+            },
+            {
+                "chinese": "中国",
+                "vietnamese": "Trung Quốc"
+            },
+            {
+                "chinese": "美国",
+                "vietnamese": "Mỹ"
+            },
+            {
+                "chinese": "英国",
+                "vietnamese": "Anh"
+            },
+            {
+                "chinese": "法国",
+                "vietnamese": "Pháp"
+            },
+            {
+                "chinese": "先生",
+                "vietnamese": "Ngài, ông, anh,…"
+            },
+            {
+                "chinese": "女士",
+                "vietnamese": "Bà, chị, cô,…"
+            }
+        ]
+    ],
+    "speaking": [
+        ["叫", "姓", "是", "也", "新", "人", "谁", "岁", "几", "什么", "名字", "越南", "河内", "中国", "美国", "英国", "法国", "先生", "女士"]
+    ],
+    "writing": [
+        ["我十八岁。", "我也是越南人。", "我姓范。", "你叫什么名字？", "你今年多大了？", "我今年二十二岁。", "您贵姓？", "你的名字是什么？", "您今年多大年纪了？", "你今年几岁了？", "你是哪国人？", "你是中国人吗？", "你是汉语老师吗？"]
+    ]
+}

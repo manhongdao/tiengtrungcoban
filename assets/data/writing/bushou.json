@@ -1,0 +1,971 @@
+[
+    {
+        "title": "Bộ nhân đứng",
+        "drawing": "亻",
+        "description": "Dùng trong những chữ Hán liên quan đến con người.",
+        "examples": [
+            {
+                "word": "你",
+                "meaning": "(nhĩ) đại từ nhân xưng ngôi thứ hai số ít"
+            },
+            {
+                "word": "仕",
+                "meaning": "(sĩ) làm quan, làm việc,..."
+            },
+            {
+                "word": "俩",
+                "meaning": "(lưỡng) chỉ hai người"
+            }
+        ]
+    },
+    {
+        "title": "Bộ đao đứng",
+        "drawing": "刂/刀",
+        "description": "Dùng trong những chữ Hán liên quan đến dao kéo, đao kiếm,...",
+        "examples": [
+            {
+                "word": "制",
+                "meaning": "(chế) làm ra (trong chế tạo)"
+            },
+            {
+                "word": "切",
+                "meaning": "(biệt) cắt, bổ, thái"
+            },
+            {
+                "word": "剑",
+                "meaning": "(kiếm) gươm, kiếm"
+            }
+        ]
+    },
+    {
+        "title": "Bộ lực",
+        "drawing": "力",
+        "description": "Dùng trong những chữ Hán liên quan đến sức mạnh.",
+        "examples": [
+            {
+                "word": "努",
+                "meaning": "(nỗ) cố sức, gắng sức (trong nỗ lực)"
+            },
+            {
+                "word": "劳",
+                "meaning": "(lao) trong lao động, công lao"
+            },
+            {
+                "word": "动",
+                "meaning": "(động) trong vận động"
+            }
+        ]
+    },
+    {
+        "title": "Bộ khẩu",
+        "drawing": "口",
+        "description": "Dùng trong những chữ Hán liên quan đến cái miệng.",
+        "examples": [
+            {
+                "word": "唱",
+                "meaning": "(xướng) ca hát"
+            },
+            {
+                "word": "吐",
+                "meaning": "(thổ) nhổ, nhả, nói ra"
+            },
+            {
+                "word": "吃",
+                "meaning": "(cật) ăn"
+            }
+        ]
+    },
+    {
+        "title": "Bộ vi",
+        "drawing": "囗",
+        "description": "Dùng trong những chữ Hán liên quan đến bao vây, vòng tròn, vòng quanh,...",
+        "examples": [
+            {
+                "word": "国",
+                "meaning": "(quốc) đất nước, quốc gia"
+            },
+            {
+                "word": "围",
+                "meaning": "(vi) bao vây, vây chặn"
+            },
+            {
+                "word": "园",
+                "meaning": "(viên) khu vườn"
+            }
+        ]
+    },
+    {
+        "title": "Bộ thổ",
+        "drawing": "土",
+        "description": "Dùng trong những chữ Hán liên quan đến bùn đất.",
+        "examples": [
+            {
+                "word": "地",
+                "meaning": "(địa) đất"
+            },
+            {
+                "word": "场",
+                "meaning": "(trường) khoảng đất (trong quảng trường)"
+            },
+            {
+                "word": "壤",
+                "meaning": "(nhưỡng) đất đai (trong thổ nhưỡng)"
+            }
+        ]
+    },
+    {
+        "title": "Bộ nữ",
+        "drawing": "女",
+        "description": "Dùng trong những chữ Hán liên quan đến nữ giới, con gái, đàn bà.",
+        "examples": [
+            {
+                "word": "娇",
+                "meaning": "(kiều) mềm mại, xinh đẹp, uyển chuyển"
+            },
+            {
+                "word": "妖",
+                "meaning": "(yêu) đẹp, mĩ miều"
+            },
+            {
+                "word": "妈",
+                "meaning": "(ma) mẹ"
+            }
+        ]
+    },
+    {
+        "title": "Bộ miên",
+        "drawing": "宀",
+        "description": "Dùng trong những chữ Hán liên quan đến nhà cửa.",
+        "examples": [
+            {
+                "word": "家",
+                "meaning": "(gia) nhà, gia đình"
+            },
+            {
+                "word": "室",
+                "meaning": "(thất) phòng, nhà (trong nội thất, mật thất)"
+            },
+            {
+                "word": "寞",
+                "meaning": "(mịch) lặng yên"
+            }
+        ]
+    },
+    {
+        "title": "Bộ sơn",
+        "drawing": "山",
+        "description": "Dùng trong những chữ Hán liên quan đến núi non.",
+        "examples": [
+            {
+                "word": "峻",
+                "meaning": "(tuấn) cao, to lớn, khắc nghiệt"
+            },
+            {
+                "word": "峰",
+                "meaning": "(phong) ngọn núi, đỉnh núi"
+            },
+            {
+                "word": "岛",
+                "meaning": "(đảo) đảo, cù lao,..."
+            }
+        ]
+    },
+    {
+        "title": "Bộ cân",
+        "drawing": "巾",
+        "description": "Dùng trong những chữ Hán liên quan đến đồ dệt may.",
+        "examples": [
+            {
+                "word": "幕",
+                "meaning": "(mịch) khăn che, bức màn"
+            },
+            {
+                "word": "帽",
+                "meaning": "(mạo) cái mũ"
+            },
+            {
+                "word": "布",
+                "meaning": "(bố) vải"
+            }
+        ]
+    },
+    {
+        "title": "Bộ nghiễm",
+        "drawing": "广",
+        "description": "Dùng trong những chữ Hán liên quan đến nhà cửa, phòng ốc, kiến trúc,...",
+        "examples": [
+            {
+                "word": "座",
+                "meaning": "(tọa) ngồi, tọa lạc"
+            },
+            {
+                "word": "店",
+                "meaning": "(điếm) cửa hiệu, cửa hàng"
+            },
+            {
+                "word": "庆",
+                "meaning": "(khánh) việc mừng, lễ mừng"
+            }
+        ]
+    },
+    {
+        "title": "Bộ xích/ bộ nhân kép/ bộ chim chích",
+        "drawing": "彳",
+        "description": "Dùng trong những chữ Hán liên quan đến đi lại, khoảng cách, động tác chân,...",
+        "examples": [
+            {
+                "word": "径",
+                "meaning": "(kính) lối tắt, đường nhỏ"
+            },
+            {
+                "word": "往",
+                "meaning": "(võng) đi, đến,..."
+            },
+            {
+                "word": "徐",
+                "meaning": "(từ) đi thong thả (trong từ tốn)"
+            }
+        ]
+    },
+    {
+        "title": "Bộ tâm đứng/ bộ tâm (nằm)",
+        "drawing": "忄/心",
+        "description": "Dùng trong những chữ Hán liên quan đến cảm xúc, trái tim.",
+        "examples": [
+            {
+                "word": "忆",
+                "meaning": "(ức) nhớ tới, ghi nhớ (trong kí ức)"
+            },
+            {
+                "word": "憾",
+                "meaning": "(hám) ăn năn, hối tiếc"
+            },
+            {
+                "word": "忘",
+                "meaning": "(vong) quên"
+            }
+        ]
+    },
+    {
+        "title": "Bộ thủ/ bộ tài gảy",
+        "drawing": "扌/才(手)",
+        "description": "Dùng trong những chữ Hán liên quan đến tay.",
+        "examples": [
+            {
+                "word": "提",
+                "meaning": "(đề) nhấc lên; đưa ra, đề ra,..."
+            },
+            {
+                "word": "打",
+                "meaning": "(đả) đánh, đập,..."
+            },
+            {
+                "word": "扫",
+                "meaning": "(tảo) quét, dọn,..."
+            }
+        ]
+    },
+    {
+        "title": "Bộ phộc",
+        "drawing": "攵/攴",
+        "description": "Dùng trong những chữ Hán liên quan đến hoạt động tay như gõ, đập,… hoặc hành động làm gì đó.",
+        "examples": [
+            {
+                "word": "收",
+                "meaning": "(thu) thu nạp, nhận lấy"
+            },
+            {
+                "word": "敲",
+                "meaning": "(xao) đập, gõ"
+            },
+            {
+                "word": "救",
+                "meaning": "(cứu) cứu giúp"
+            }
+        ]
+    },
+    {
+        "title": "Bộ nhật",
+        "drawing": "日",
+        "description": "Dùng trong những chữ Hán liên quan đến mặt trời.",
+        "examples": [
+            {
+                "word": "明",
+                "meaning": "(minh) sáng, rõ"
+            },
+            {
+                "word": "旭",
+                "meaning": "(húc) ánh sáng mặt trời mới mọc"
+            },
+            {
+                "word": "暮",
+                "meaning": "(mộ) buổi chiều tối"
+            }
+        ]
+    },
+    {
+        "title": "Bộ nguyệt",
+        "drawing": "月",
+        "description": "Dùng trong những chữ Hán liên quan đến mặt trăng.",
+        "examples": [
+            {
+                "word": "望",
+                "meaning": "(vọng) ngắm nhìn, ngước nhìn"
+            },
+            {
+                "word": "朝",
+                "meaning": "(triêu) sớm, buổi sáng ban mai"
+            },
+            {
+                "word": "朗",
+                "meaning": "(lãng) sáng, rực rỡ"
+            }
+        ]
+    },
+    {
+        "title": "Bộ mộc",
+        "drawing": "木",
+        "description": "Dùng trong những chữ Hán liên quan đến gỗ, cây cối.",
+        "examples": [
+            {
+                "word": "林",
+                "meaning": "(lâm) rừng"
+            },
+            {
+                "word": "森",
+                "meaning": "(sâm) rậm rạp"
+            },
+            {
+                "word": "树",
+                "meaning": "(thụ) cây cổ thụ"
+            }
+        ]
+    },
+    {
+        "title": "Bộ ba chấm thuỷ",
+        "drawing": "氵(水)",
+        "description": "Dùng trong những chữ Hán liên quan đến nước.",
+        "examples": [
+            {
+                "word": "渴",
+                "meaning": "(khát) khát nước; khát vọng"
+            },
+            {
+                "word": "河",
+                "meaning": "(hà) dòng sông"
+            },
+            {
+                "word": "溪",
+                "meaning": "(khê) dòng suối"
+            }
+        ]
+    },
+    {
+        "title": "Bộ băng/ bộ hai chấm thủy",
+        "drawing": "冫",
+        "description": "Dùng trong những chữ Hán liên quan đến nhiệt độ, nước,...",
+        "examples": [
+            {
+                "word": "凉",
+                "meaning": "(lương) mát, lạnh"
+            },
+            {
+                "word": "冷",
+                "meaning": "(lãnh) lạnh, rét"
+            },
+            {
+                "word": "冬",
+                "meaning": "(đông) mùa đông"
+            }
+        ]
+    },
+    {
+        "title": "Bộ bốn chấm hoả/ bộ hỏa",
+        "drawing": "灬/火",
+        "description": "Dùng trong những chữ Hán liên quan đến lửa.",
+        "examples": [
+            {
+                "word": "热",
+                "meaning": "(nhiệt) nóng, nhiệt độ,..."
+            },
+            {
+                "word": "燃",
+                "meaning": "(nhiên) đốt, cháy,..."
+            },
+            {
+                "word": "灯",
+                "meaning": "(đăng) đèn"
+            }
+        ]
+    },
+    {
+        "title": "Bộ ngưu",
+        "drawing": "牜/牛",
+        "description": "Dùng trong những chữ Hán liên quan đến trâu, các loài vật cùng loại với trâu,...",
+        "examples": [
+            {
+                "word": "牢",
+                "meaning": "(lao) chuồng, ngục,..."
+            },
+            {
+                "word": "牧",
+                "meaning": "(mục) chăn nuôi súc vật (trong du mục)"
+            },
+            {
+                "word": "犁",
+                "meaning": "(lê) cái cày; hủy hoại, tiêu diệt"
+            }
+        ]
+    },
+    {
+        "title": "Bộ khuyển",
+        "drawing": "犭/犬",
+        "description": "Dùng trong những chữ Hán liên quan đến con chó, một số loài vật khác.",
+        "examples": [
+            {
+                "word": "狗",
+                "meaning": "(cẩu) chó"
+            },
+            {
+                "word": "狐",
+                "meaning": "(hồ) con cáo (hồ li)"
+            },
+            {
+                "word": "猪",
+                "meaning": "(trư) con lợn"
+            }
+        ]
+    },
+    {
+        "title": "Bộ ngọc",
+        "drawing": "王/玉",
+        "description": "Dùng trong những chữ Hán liên quan đến đá quý, ngọc,...",
+        "examples": [
+            {
+                "word": "玫",
+                "meaning": "(mai) một loại đá đẹp"
+            },
+            {
+                "word": "珍珠",
+                "meaning": "(trân châu)"
+            },
+            {
+                "word": "珊瑚",
+                "meaning": "(san) san hô"
+            }
+        ]
+    },
+    {
+        "title": "Bộ điền",
+        "drawing": "田",
+        "description": "Dùng trong những chữ Hán liên quan đến đồng ruộng,...",
+        "examples": [
+            {
+                "word": "男",
+                "meaning": "(nam) đàn ông, con trai"
+            },
+            {
+                "word": "画",
+                "meaning": "(họa) vẽ, bức tranh, bức họa"
+            },
+            {
+                "word": "界",
+                "meaning": "(giới) khu vực, mốc,... (thế giới, ranh giới)"
+            }
+        ]
+    },
+    {
+        "title": "Bộ nạch/ bộ bệnh",
+        "drawing": "疒",
+        "description": "Dùng trong những chữ Hán liên quan đến bệnh tật.",
+        "examples": [
+            {
+                "word": "疾病",
+                "meaning": "(bệnh tật)"
+            },
+            {
+                "word": "疗",
+                "meaning": "(liệu) chữa trị, điều trị,... (trong trị liệu)"
+            },
+            {
+                "word": "疯",
+                "meaning": "(phong) điên, rồ, khùng"
+            }
+        ]
+    },
+    {
+        "title": "Bộ mục",
+        "drawing": "目",
+        "description": "Dùng trong những chữ Hán liên quan đến mắt.",
+        "examples": [
+            {
+                "word": "眼",
+                "meaning": "(nhãn) con mắt"
+            },
+            {
+                "word": "睡",
+                "meaning": "(thôi) ngủ"
+            },
+            {
+                "word": "眠",
+                "meaning": "(miên) giấc ngủ"
+            }
+        ]
+    },
+    {
+        "title": "Bộ thạch",
+        "drawing": "石",
+        "description": "Dùng trong những chữ Hán liên quan đến đá.",
+        "examples": [
+            {
+                "word": "岩",
+                "meaning": "(nham) núi đá hiểm trở"
+            },
+            {
+                "word": "磊",
+                "meaning": "(lỗi) cao; đá chồng chất (trong lỗi lạc)"
+            },
+            {
+                "word": "碗",
+                "meaning": "(oản) cái chén, cái bát"
+            }
+        ]
+    },
+    {
+        "title": "Bộ hòa",
+        "drawing": "禾",
+        "description": "Dùng trong những chữ Hán liên quan đến lúa, ngũ cốc,...",
+        "examples": [
+            {
+                "word": "种",
+                "meaning": "(chủng) hạt giống, giống; trồng (trong chủng loại)"
+            },
+            {
+                "word": "稻",
+                "meaning": "(đạo) lúa"
+            },
+            {
+                "word": "秋",
+                "meaning": "(thu) mùa thu"
+            }
+        ]
+    },
+    {
+        "title": "Bộ trúc",
+        "drawing": "⺮(竹)",
+        "description": "Dùng trong những chữ Hán liên quan đến tre trúc.",
+        "examples": [
+            {
+                "word": "笔",
+                "meaning": "(bút) cái bút"
+            },
+            {
+                "word": "篮",
+                "meaning": "(lam) cái rổ, cái giỏ"
+            },
+            {
+                "word": "笠",
+                "meaning": "(lạp) cái nón"
+            }
+        ]
+    },
+    {
+        "title": "Bộ mễ",
+        "drawing": "米",
+        "description": "Dùng trong những chữ Hán liên quan đến gạo, lương thực,...",
+        "examples": [
+            {
+                "word": "粒",
+                "meaning": "(lạp) hạt gạo"
+            },
+            {
+                "word": "粥",
+                "meaning": "(chúc) cháo"
+            },
+            {
+                "word": "料",
+                "meaning": "(liệu) trong nguyên liệu, tài liệu,..."
+            }
+        ]
+    },
+    {
+        "title": "Bộ mịch",
+        "drawing": "纟(糸)",
+        "description": "Dùng trong những chữ Hán liên quan đến sợi tơ, len,...",
+        "examples": [
+            {
+                "word": "纺",
+                "meaning": "(phưởng) xe sợi, đánh sợi, dệt"
+            },
+            {
+                "word": "织",
+                "meaning": "(chức) dệt, đan"
+            },
+            {
+                "word": "结",
+                "meaning": "(kết) thắt nút dây, gắn bó (trong kết hôn, kết giao)"
+            }
+        ]
+    },
+    {
+        "title": "Bộ nhục (viết giống bộ nguyệt)",
+        "drawing": "⺼↔月(肉)",
+        "description": "Dùng trong những chữ Hán liên quan đến thịt, bộ phận cơ thể người.",
+        "examples": [
+            {
+                "word": "肚",
+                "meaning": "(đỗ) cái bụng"
+            },
+            {
+                "word": "肥",
+                "meaning": "(phì) mỡ, béo mập"
+            },
+            {
+                "word": "肝",
+                "meaning": "(can) lá gan; can đảm"
+            }
+        ]
+    },
+    {
+        "title": "Bộ thảo đầu",
+        "drawing": "艹(艸)",
+        "description": "Dùng trong những chữ Hán liên quan đến cây cỏ, thực vật,...",
+        "examples": [
+            {
+                "word": "草",
+                "meaning": "(thảo) cây cỏ (trong thảo mộc)"
+            },
+            {
+                "word": "芳",
+                "meaning": "(phương) mùi thơm của cây cỏ"
+            },
+            {
+                "word": "茶",
+                "meaning": "(trà) cây trà, lá trà"
+            }
+        ]
+    },
+    {
+        "title": "Bộ trùng",
+        "drawing": "虫",
+        "description": "Dùng trong những chữ Hán liên quan đến sâu bọ.",
+        "examples": [
+            {
+                "word": "蜘蛛",
+                "meaning": "(tri chu) con nhện"
+            },
+            {
+                "word": "蟑螂",
+                "meaning": "(chương lang) con gián"
+            },
+            {
+                "word": "螳螂",
+                "meaning": "(đường lang) con bọ ngựa"
+            }
+        ]
+    },
+    {
+        "title": "Bộ y",
+        "drawing": "衤/衣",
+        "description": "Dùng trong những chữ Hán liên quan đến quần áo.",
+        "examples": [
+            {
+                "word": "裤",
+                "meaning": "(khố) cái quần"
+            },
+            {
+                "word": "裙",
+                "meaning": "(quần) cái váy"
+            },
+            {
+                "word": "裁",
+                "meaning": "(tài) cắt may"
+            }
+        ]
+    },
+    {
+        "title": "Bộ ngôn",
+        "drawing": "讠(言)",
+        "description": "Dùng trong những chữ Hán liên quan đến ngôn ngữ, lời nói, tri thức,...",
+        "examples": [
+            {
+                "word": "论",
+                "meaning": "(luận) nói về, bàn về (trong thảo luận, bình luận)"
+            },
+            {
+                "word": "计",
+                "meaning": "(kế) đếm, tính (trong kế hoạch, kế toán)"
+            },
+            {
+                "word": "识",
+                "meaning": "(thức) sự hiểu biết (trong kiến thức, tri thức, nhận thức)"
+            }
+        ]
+    },
+    {
+        "title": "Bộ bối",
+        "drawing": "贝",
+        "description": "Dùng trong những chữ Hán liên quan đến vật báu, tiền bạc.",
+        "examples": [
+            {
+                "word": "贡",
+                "meaning": "(cống) hiến nạp, dâng nạp (trong cống hiến)"
+            },
+            {
+                "word": "货",
+                "meaning": "(hóa) của cải, hàng hóa"
+            },
+            {
+                "word": "贸",
+                "meaning": "(mậu) trao đổi, mua bán (trong mậu dịch)"
+            }
+        ]
+    },
+    {
+        "title": "Bộ túc",
+        "drawing": "⻊(足)",
+        "description": "Dùng trong những chữ Hán liên quan đến chân.",
+        "examples": [
+            {
+                "word": "距",
+                "meaning": "(cự) cự li, khoảng cách"
+            },
+            {
+                "word": "踞",
+                "meaning": "(cứ) ngồi, dựa vào, tựa vào (trong căn cứ, chứng cứ)"
+            },
+            {
+                "word": "跳",
+                "meaning": "(khiêu) nhảy (trong khiêu vũ)"
+            }
+        ]
+    },
+    {
+        "title": "Bộ xa/ bộ xe",
+        "drawing": "车",
+        "description": "Dùng trong những chữ Hán liên quan đến xe cộ.",
+        "examples": [
+            {
+                "word": "辆",
+                "meaning": "(lượng) cỗ xe, lượng từ của xe cộ"
+            },
+            {
+                "word": "轮",
+                "meaning": "(luân) bánh xe, vòng quay (trong luân lưu, luân hồi)"
+            },
+            {
+                "word": "转",
+                "meaning": "(chuyển) đổi vị trí, xoay vòng (trong chuyển đổi, chuyển biến)"
+            }
+        ]
+    },
+    {
+        "title": "Bộ quai xước",
+        "drawing": "辶 (辵)",
+        "description": "Dùng trong những chữ Hán liên quan đến đi lại, các hoạt động của chân,...",
+        "examples": [
+            {
+                "word": "达",
+                "meaning": "(đạt) thông suốt; đạt đến, đạt được,... (trong thành đạt, đỗ đạt)"
+            },
+            {
+                "word": "逃避",
+                "meaning": "(đào tị) trốn tránh"
+            },
+            {
+                "word": "连",
+                "meaning": "(liên) tiếp tục, tiếp nối (trong liên tiếp, liên miên)"
+            }
+        ]
+    },
+    {
+        "title": "Bộ ấp (ở bên phải)",
+        "drawing": "阝(邑)",
+        "description": "Dùng trong những chữ Hán liên quan đến vùng đất, thành thị, tên họ...",
+        "examples": [
+            {
+                "word": "郡",
+                "meaning": "(quận) quận huyện"
+            },
+            {
+                "word": "邮",
+                "meaning": "(bưu) nhà, trạm (trong bưu cục, bưu chính)"
+            },
+            {
+                "word": "郑",
+                "meaning": "(trịnh) họ Trịnh"
+            }
+        ]
+    },
+    {
+        "title": "Bộ phụ (ở bên trái)",
+        "drawing": "阝(阜)",
+        "description": "Dùng trong những chữ Hán liên quan đến đống đất, gò đất,...",
+        "examples": [
+            {
+                "word": "陆",
+                "meaning": "(lục) đất"
+            },
+            {
+                "word": "防",
+                "meaning": "(phòng) đê; phòng ngừa, phòng tránh"
+            },
+            {
+                "word": "院",
+                "meaning": "(viện) sân; trường sở công cộng (trong bệnh viện, thư viện,...)"
+            }
+        ]
+    },
+    {
+        "title": "Bộ kim",
+        "drawing": "钅(金)",
+        "description": "Dùng trong những chữ Hán liên quan đến kim loại",
+        "examples": [
+            {
+                "word": "银",
+                "meaning": "(ngân) bạc"
+            },
+            {
+                "word": "铜",
+                "meaning": "(đồng) đồng"
+            },
+            {
+                "word": "铁",
+                "meaning": "(thiết) sắt, thép"
+            }
+        ]
+    },
+    {
+        "title": "Bộ môn",
+        "drawing": "门",
+        "description": "Dùng trong những chữ Hán liên quan đến cửa hai cánh.",
+        "examples": [
+            {
+                "word": "闹",
+                "meaning": "(náo) làm ồn (trong huyên náo, náo nhiệt)"
+            },
+            {
+                "word": "闭",
+                "meaning": "(bế) đóng lại, khép lại (trong bế mạc)"
+            },
+            {
+                "word": "闻",
+                "meaning": "(văn) nghe ngóng, truyền đạt"
+            }
+        ]
+    },
+    {
+        "title": "Bộ vũ",
+        "drawing": "雨",
+        "description": "Dùng trong những chữ Hán liên quan đến mưa gió, các hiện tượng thời tiết,...",
+        "examples": [
+            {
+                "word": "霜",
+                "meaning": "(sương) sương, sương sớm"
+            },
+            {
+                "word": "雾",
+                "meaning": "(vụ) sương mù"
+            },
+            {
+                "word": "雪",
+                "meaning": "(lôi) sấm"
+            }
+        ]
+    },
+    {
+        "title": "Bộ hiệt",
+        "drawing": "页",
+        "description": "Dùng trong những chữ Hán liên quan đến đầu, trán, mặt,...",
+        "examples": [
+            {
+                "word": "须",
+                "meaning": "(tu) râu"
+            },
+            {
+                "word": "颜",
+                "meaning": "(nhan) trán, mặt mũi (trong dung nhan, nhan sắc)"
+            },
+            {
+                "word": "项",
+                "meaning": "(hạng) gáy; điều mục, hạng mục"
+            }
+        ]
+    },
+    {
+        "title": "Bộ thực",
+        "drawing": "饣 (食)",
+        "description": "Dùng trong những chữ Hán liên quan đến ăn uống.",
+        "examples": [
+            {
+                "word": "饿",
+                "meaning": "(ngạ) đói"
+            },
+            {
+                "word": "饮",
+                "meaning": "(ẩm) uống (trong ẩm thực)"
+            },
+            {
+                "word": "饭",
+                "meaning": "(phạn) cơm"
+            }
+        ]
+    },
+    {
+        "title": "Bộ mã",
+        "drawing": "马",
+        "description": "Dùng trong những chữ Hán liên quan đến ngựa, các con vật tương tự con ngựa.",
+        "examples": [
+            {
+                "word": "骆驼",
+                "meaning": "(lạc đà) con lạc đà"
+            },
+            {
+                "word": "验",
+                "meaning": "(nghiệm) kiểm tra, xem xét"
+            },
+            {
+                "word": "驴",
+                "meaning": "(lư) con lừa"
+            }
+        ]
+    },
+    {
+        "title": "Bộ ngư",
+        "drawing": "鱼",
+        "description": "Dùng trong những chữ Hán liên quan đến các loại cá, ngư nghiệp,...",
+        "examples": [
+            {
+                "word": "鲜",
+                "meaning": "(tiên) cá tươi, cá sống; tươi sống, tươi mới"
+            },
+            {
+                "word": "鳄",
+                "meaning": "(ngạc) con cá sấu"
+            },
+            {
+                "word": "鲨",
+                "meaning": "(sa) con cá mập"
+            }
+        ]
+    },
+    {
+        "title": "Bộ điểu",
+        "drawing": "鸟",
+        "description": "Dùng trong những chữ Hán liên quan đến chim chóc.",
+        "examples": [
+            {
+                "word": "鸡",
+                "meaning": "(kê) con gà"
+            },
+            {
+                "word": "鸭",
+                "meaning": "(áp) con vịt"
+            },
+            {
+                "word": "鸦",
+                "meaning": "(nha) con quạ"
+            }
+        ]
+    }
+]

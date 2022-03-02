@@ -1,0 +1,89 @@
+{
+    "listening": [
+        ["你", "好", "我", "您", "他", "们"],
+        ["我们", "你好", "他们", "大家", "认识", "高兴", "同学", "老师", "没事", "谢谢", "晚安", "再见", "多谢"],
+        ["不用谢", "不客气", "没关系", "对不起", "大家好", "你们好", "早上好", "下午好", "晚上好"]
+    ],
+    "reading": [
+        [
+            {
+                "chinese": "我",
+                "vietnamese": "Tôi, tớ, tao, ta, mình"
+            },
+            {
+                "chinese": "你",
+                "vietnamese": "Bạn, anh, chị, mày, ngươi,..."
+            },
+            {
+                "chinese": "早上好",
+                "vietnamese": "Chào buổi sáng"
+            },
+            {
+                "chinese": "下午好",
+                "vietnamese": "Chào buổi chiều"
+            },
+            {
+                "chinese": "晚上好",
+                "vietnamese": "Chào buổi tối"
+            },
+            {
+                "chinese": "你好",
+                "vietnamese": "Xin chào"
+            },
+            {
+                "chinese": "大家好",
+                "vietnamese": "Chào mọi người"
+            },
+            {
+                "chinese": "好",
+                "vietnamese": "Đẹp, tốt, ổn, ngoan"
+            },
+            {
+                "chinese": "您",
+                "vietnamese": "ngài, anh, chị, quí khách,…"
+            },
+            {
+                "chinese": "认识",
+                "vietnamese": "Làm quen, quen biết"
+            },
+            {
+                "chinese": "高兴",
+                "vietnamese": "Vui"
+            },
+            {
+                "chinese": "同学",
+                "vietnamese": "Bạn học"
+            },
+            {
+                "chinese": "她",
+                "vietnamese": "Nó, cô ấy, chị ấy, bà ấy"
+            },
+            {
+                "chinese": "老师",
+                "vietnamese": "Thầy, cô giáo"
+            },
+            {
+                "chinese": "对不起",
+                "vietnamese": "Xin lỗi"
+            },
+            {
+                "chinese": "没关系",
+                "vietnamese": "Không sao"
+            },
+            {
+                "chinese": "谢谢",
+                "vietnamese": "Cảm ơn"
+            },
+            {
+                "chinese": "不客气",
+                "vietnamese": "Không có gì"
+            }
+        ]
+    ],
+    "speaking": [
+        ["你好", "我们", "你们", "他们", "他们", "它们", "不用谢", "不客气", "谢谢", "没事", "没关系", "对不起", "老师", "同学", "高兴", "认识", "大家", "好", "早上好", "下午好", "晚上好", "大家好", "再见", "晚安"]
+    ],
+    "writing": [
+        ["同学们好！", "很高兴认识你！", "我也很高兴。", "我很好。谢谢。", "真是一个好孩子。", "我是越南人。", "请您看。", "他是我的男朋友。", "她是我的女朋友。", "我不认识他。", "很高兴认识你。", "这是我的高中同学。", "刘老师是我的汉语老师。"]
+    ]
+}

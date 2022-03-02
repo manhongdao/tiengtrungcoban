@@ -1,0 +1,68 @@
+[
+    [
+        {
+            "chinese": "现在几点？",
+            "pinyin": "Xiànzài jǐ diǎn?",
+            "vietnamese": "Bây giờ là mấy giờ?"
+        },
+        {
+            "chinese": "现在八点一刻，我们几点出发？",
+            "pinyin": "Xiànzài bā diǎn yí kè, wǒmen jǐ diǎn chūfā?",
+            "vietnamese": "Bây giờ là 8 giờ 15 phút, mấy giờ chúng ta xuất phát?"
+        },
+        {
+            "chinese": "八点半出发好吗？",
+            "pinyin": "Bā diǎn bàn chūfā hǎo ma?",
+            "vietnamese": "8 giờ 30 phút có được không?"
+        },
+        {
+            "chinese": "好。",
+            "pinyin": "Hǎo.",
+            "vietnamese": "Được."
+        }
+    ],
+    [
+        {
+            "chinese": "早上你几点起床？",
+            "pinyin": "Zǎoshang nǐ jǐ diǎn qǐchuáng?",
+            "vietnamese": "Buổi sáng bạn thức dậy lúc mấy giờ?"
+        },
+        {
+            "chinese": "我七点就起床了。",
+            "pinyin": "Wǒ qī diǎn jiù qǐchuáng le.",
+            "vietnamese": "7 giờ tôi đã dậy rồi."
+        },
+        {
+            "chinese": "我八点才起床，你几点睡觉？",
+            "pinyin": "Wǒ bā diǎn cái qǐchuáng, nǐ jǐ diǎn shuìjiào?",
+            "vietnamese": "8 giờ tôi mới dậy, bạn đi ngủ lúc mấy giờ?"
+        },
+        {
+            "chinese": "十点就睡觉。",
+            "pinyin": "Shí diǎn jiù shuìjiào.",
+            "vietnamese": "10 giờ đã đi ngủ rồi."
+        }
+    ],
+    [
+        {
+            "chinese": "你先吃饭还是先洗澡？",
+            "pinyin": "Nǐ xiān chī fàn háishì xiān xǐzǎo?",
+            "vietnamese": "Con ăn cơm trước hay đi tắm trước?"
+        },
+        {
+            "chinese": "我先吃饭再洗澡，然后写作业。",
+            "pinyin": "Wǒ xiān chīfàn zài xǐzǎo, ránhòu xiě zuòyè.",
+            "vietnamese": "Con ăn cơm trước rồi tắm, sau đó sẽ đi làm bài tập ạ."
+        },
+        {
+            "chinese": "一定要在十一点前睡觉。明天七点就要上课了。",
+            "pinyin": "Yīdìng yào zài shíyī diǎn qián shuìjiào. Míngtiān qī diǎn jiù yào shàngkèle.",
+            "vietnamese": "Phải đi ngủ trước 11 giờ đấy nhé. Sáng mai 7 giờ phải lên lớp rồi."
+        },
+        {
+            "chinese": "好的，我明天六点前会起床。",
+            "pinyin": "Hǎo de, wǒ míngtiān liù diǎn qián huì qǐchuáng.",
+            "vietnamese": "Vâng ạ, sáng mai con sẽ dậy trước 6 giờ."
+        }
+    ]
+]

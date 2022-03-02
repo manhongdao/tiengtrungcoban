@@ -1,0 +1,143 @@
+{
+    "listening": [
+        ["家庭", "成员", "父母", "爸爸", "父亲", "妈妈", "母亲", "哥哥", "弟弟", "姐姐", "妹妹", "孩子", "儿子", "女儿", "爷爷", "奶奶", "外公", "外婆", "叔叔", "阿姨", "爱人", "丈夫", "老公", "妻子", "老婆", "幸福", "生活", "结婚"]
+    ],
+    "reading": [
+        [
+            {
+                "chinese": "家",
+                "vietnamese": "Gia đình, nhà, nơi ở"
+            },
+            {
+                "chinese": "家庭",
+                "vietnamese": "Gia đình"
+            },
+            {
+                "chinese": "成员",
+                "vietnamese": "Thành viên"
+            },
+            {
+                "chinese": "父母",
+                "vietnamese": "Bố mẹ"
+            },
+            {
+                "chinese": "爸爸",
+                "vietnamese": "Bố, ba, phụ thân (văn nói)"
+            },
+            {
+                "chinese": "父亲",
+                "vietnamese": "Bố, ba, phụ thân (văn viết)"
+            },
+            {
+                "chinese": "妈妈",
+                "vietnamese": "Mẹ, má, mẫu thân (văn nói)"
+            },
+            {
+                "chinese": "母亲",
+                "vietnamese": "Mẹ, má, mẫu thân (văn viết)"
+            },
+            {
+                "chinese": "哥哥",
+                "vietnamese": "Anh, anh trai"
+            },
+            {
+                "chinese": "弟弟",
+                "vietnamese": "Em trai"
+            },
+            {
+                "chinese": "姐姐",
+                "vietnamese": "Chị, chị gái"
+            },
+            {
+                "chinese": "妹妹",
+                "vietnamese": "Em gái"
+            },
+            {
+                "chinese": "孩子",
+                "vietnamese": "Trẻ con, trẻ em, em bé"
+            },
+            {
+                "chinese": "儿子",
+                "vietnamese": "Con trai"
+            },
+            {
+                "chinese": "女儿",
+                "vietnamese": "Con gái"
+            },
+            {
+                "chinese": "爷爷",
+                "vietnamese": "Ông, ông nội"
+            },
+            {
+                "chinese": "奶奶",
+                "vietnamese": "Bà, bà nội"
+            },
+            {
+                "chinese": "外公",
+                "vietnamese": "Ông ngoại"
+            },
+            {
+                "chinese": "外婆",
+                "vietnamese": "Bà ngoại"
+            },
+            {
+                "chinese": "叔叔",
+                "vietnamese": "Chú"
+            },
+            {
+                "chinese": "阿姨",
+                "vietnamese": "Cô, dì"
+            },
+            {
+                "chinese": "爱人",
+                "vietnamese": "Vợ, chồng"
+            },
+            {
+                "chinese": "丈夫",
+                "vietnamese": "Chồng"
+            },
+            {
+                "chinese": "老公",
+                "vietnamese": "Chồng"
+            },
+            {
+                "chinese": "妻子",
+                "vietnamese": "Vợ"
+            },
+            {
+                "chinese": "老婆",
+                "vietnamese": "Vợ"
+            },
+            {
+                "chinese": "口",
+                "vietnamese": "Lượng từ dùng để chỉ số người trong gia đình"
+            },
+            {
+                "chinese": "幸福",
+                "vietnamese": "Hạnh phúc"
+            },
+            {
+                "chinese": "爱",
+                "vietnamese": "Yêu, thương, yêu mến"
+            },
+            {
+                "chinese": "生活",
+                "vietnamese": "Cuộc sống"
+            },
+            {
+                "chinese": "和",
+                "vietnamese": "Và"
+            },
+            {
+                "chinese": "结婚",
+                "vietnamese": "Kết hôn"
+            }
+        ]
+    ],
+    "speaking": [
+        ["家", "家庭", "成员", "父母", "爸爸", "父亲", "妈妈", "母亲", "哥哥", "弟弟", "姐姐", "妹妹", "孩子", "儿子", "女儿", "爷爷", "奶奶", "外公", "外婆", "叔叔", "阿姨", "爱人", "丈夫", "老公", "妻子", "老婆", "口", "幸福", "爱", "生活", "和", "结婚"]
+    ],
+    "writing": [
+        ["你家有几口人？", "我家又五口人。", "你哥哥今年多大了？", "我哥哥今年二十二岁。", "你妹妹几岁了？", "我妹妹六岁。", "我妹妹是小学一年级的学生。", "我家有三口人。", "你爸妈都是老师吗？", "我爸爸是数学老师。", "我妈妈是英语老师。", "我们都是越南人。", "这些都是我的东西。", "我弟弟在写作业。", "我妈在做饭呢。", "我爸在医院工作。", "我们在图书馆看书。", "书在桌子上。", "我吃饭了。", "我的书呢？", "我喜欢夏天，你呢？", "我是越南人，你呢？"]
+    ]
+}

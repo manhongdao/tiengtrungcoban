@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "chinese": "你好！",
+            "pinyin": "Nǐ hǎo!",
+            "vietnamese": "Chào anh!"
+        },
+        {
+            "chinese": "你好！很高兴认识你！",
+            "pinyin": "Nǐ hǎo! Hěn gàoxìng rènshi nǐ!",
+            "vietnamese": "Chào anh! Rất vui được làm quen với anh!"
+        },
+        {
+            "chinese": "我也很高兴。",
+            "pinyin": "Wǒ yě hěn gàoxìng.",
+            "vietnamese": "Tôi cũng rất vui."
+        }
+    ],
+    [
+        {
+            "chinese": "您好！",
+            "pinyin": "Nín hǎo!",
+            "vietnamese": "Chào ngài!"
+        },
+        {
+            "chinese": "你们好！",
+            "pinyin": "Nǐmen hǎo!",
+            "vietnamese": "Chào anh chị!"
+        },
+        {
+            "chinese": "您好吗？",
+            "pinyin": "Nín hǎo ma?",
+            "vietnamese": "Ngài có khỏe không?"
+        },
+        {
+            "chinese": "我很好。谢谢。",
+            "pinyin": "Wǒ hěn hǎo. Xièxie.",
+            "vietnamese": "Tôi rất khỏe. Cảm ơn anh chị."
+        }
+    ],
+    [
+        {
+            "chinese": "同学们好！",
+            "pinyin": "Tóngxuémen hǎo!",
+            "vietnamese": "Chào các bạn!"
+        },
+        {
+            "chinese": "老师好！",
+            "pinyin": "Lǎoshī hǎo!",
+            "vietnamese": "Chào cô ạ!"
+        }
+    ],
+    [
+        {
+            "chinese": "对不起。",
+            "pinyin": "Duìbuqǐ",
+            "vietnamese": "Xin lỗi (anh/chị)."
+        },
+        {
+            "chinese": "没事。/ 没关系。",
+            "pinyin": "Méishì. / Méi guānxi.",
+            "vietnamese": "Không sao. / Không vấn đề gì đâu."
+        }
+    ],
+    [
+        {
+            "chinese": "谢谢。",
+            "pinyin": "Xièxie.",
+            "vietnamese": "Cảm ơn (anh/chị)."
+        },
+        {
+            "chinese": "不用谢。/ 不客气。",
+            "pinyin": "Bùyòngxiè. / Bùkèqī.",
+            "vietnamese": "Không có gì. / Đừng khách sáo."
+        }
+    ]
+]

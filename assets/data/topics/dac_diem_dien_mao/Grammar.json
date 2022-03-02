@@ -1,0 +1,553 @@
+[
+    {
+        "title": "Trợ từ động thái 着(zhe)",
+        "content": [
+            {
+                "keyWords": ["着"],
+                "description": "Dạng khẳng định",
+                "sub_descriptions": [
+                    "Động từ kết hợp với trợ từ động thái {{着}} có thể chỉ sự kéo dài của trạng thái nào đó."
+                ],
+                "examples": [
+                    {
+                        "chinese": "门开着。",
+                        "pinyin": "Mén kāizhe.",
+                        "vietnamese": "Cửa mở."
+                    },
+                    {
+                        "chinese": "我听着呢。",
+                        "pinyin": "Wǒ tīng zhene.",
+                        "vietnamese": "Mình đang nghe đây."
+                    },
+                    {
+                        "chinese": "我一直等着你。",
+                        "pinyin": "Wǒ yīzhí děngzhe nǐ.",
+                        "vietnamese": "Mình vẫn luôn đợi cậu."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["没", "着"],
+                "description": "Dạng phủ định",
+                "sub_descriptions": [
+                    "{{没}} + động từ + {{着}}"
+                ],
+                "examples": [
+                    {
+                        "chinese": "门没开着。",
+                        "pinyin": "Mén méi kāizhe.",
+                        "vietnamese": "Cửa không mở."
+                    },
+                    {
+                        "chinese": "他没穿着一件白衬衫。",
+                        "pinyin": "Tā méi chuānzhe yī jiàn bái chènshān.",
+                        "vietnamese": "Anh ấy không mặc một chiếc áo sơ mi trắng."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["没有", "着"],
+                "description": "Dạng nghi vấn",
+                "sub_descriptions": [
+                    "Thêm {{没有}} vào cuối câu"
+                ],
+                "examples": [
+                    {
+                        "chinese": "门开着没有？",
+                        "pinyin": "Mén kāizhe méiyǒu?",
+                        "vietnamese": "Cửa có đang mở không?"
+                    },
+                    {
+                        "chinese": "你拿着书没有？",
+                        "pinyin": "Nǐ názhe shū méiyǒu?",
+                        "vietnamese": "Cậu có (đang) mang sách không?"
+                    }
+                ]
+            },
+            {
+                "keyWords": ["着"],
+                "description": "Cấu trúc: Động từ 1 + 着 (+ tân ngữ) + động từ 2 (+ tân ngữ)",
+                "sub_descriptions": [
+                    "Dùng để diễn tả hai hành động xảy ra cùng lúc, trong đó hành động thứ hai là hành động chính, hành động thứ nhất là hành động đi kèm hoặc làm rõ phương thức thực hiện hành động thứ hai."
+                ],
+                "examples": [
+                    {
+                        "chinese": "弟弟吃着苹果写作业。",
+                        "pinyin": "Dìdi chīzhe píngguǒ xiě zuòyè.",
+                        "vietnamese": "Em trai tôi vừa ăn táo vừa làm bài tập."
+                    },
+                    {
+                        "chinese": "她笑着跟大家说话。",
+                        "pinyin": "Tā xiàozhe gēn dàjiā shuōhuà.",
+                        "vietnamese": "Cô ấy mỉm cười nói chuyện với mọi người."
+                    },
+                    {
+                        "chinese": "很多人手拿着花站在学校门口。",
+                        "pinyin": "Hěnduō rénshǒu názhe huā zhàn zài xuéxiào ménkǒu.",
+                        "vietnamese": "Rất nhiều người đang cầm hoa đứng ở cổng trường."
+                    },
+                    {
+                        "chinese": "她哭着对我说。",
+                        "pinyin": "Tā kūzhe duì wǒ shuō.",
+                        "vietnamese": "Cô ấy vừa khóc vừa nói với tôi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Câu tồn hiện",
+        "content": [
+            {
+                "sub_descriptions": [
+                    "Diễn tả ý ở nơi nào đó, thời điểm nào đó có sự vật gì đó xuất hiện, tồn tại hoặc biến mất.",
+                    "Các danh từ thường được dùng là các danh từ chỉ sự vật chưa xác định ({{一本书}}: một quyển sách, {{几个人}}: một vài người,… ) chứ không dùng các danh từ chỉ sự vật xác định chính xác ({{我的书}}: sách của tôi, {{王老师}}: cô Vương,… ).",
+                    "Trước từ chỉ địa điểm, không dùng thêm giới từ."
+                ]
+            },
+            {
+                "keyWords": ["是", "有"],
+                "description": "Biểu thị sự tồn tại",
+                "sub_descriptions": [
+                    "Từ chỉ vị trí + {{是}}/{{有}} + từ chỉ số lượng + danh từ"
+                ],
+                "examples": [
+                    {
+                        "chinese": "桌子上有三本书。",
+                        "pinyin": "Zhuōzi shàng yǒusān běn shū.",
+                        "vietnamese": "Có ba quyển sách trên bàn."
+                    },
+                    {
+                        "chinese": "我家前面是一个公园。",
+                        "pinyin": "Wǒjiā qiánmiàn shì yīgè gōngyuán.",
+                        "vietnamese": "Trước nhà tôi là một công viên."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["着"],
+                "sub_descriptions": [
+                    "Từ chỉ vị trí + động từ + 着 + từ chỉ số lượng + danh từ. Các động từ thường được dùng trong cấu trúc này là: {{放}}, {{写}}, {{坐}}, {{住}},…"
+                ],
+                "examples": [
+                    {
+                        "chinese": "黑板上写着几个汉字。",
+                        "pinyin": "Hēibǎn shàng xiězhe jǐ gè Hànzì.",
+                        "vietnamese": "Trên bảng có ghi vài chữ Hán."
+                    },
+                    {
+                        "chinese": "门口停着几辆汽车。",
+                        "pinyin": "Ménkǒu tíngzhe jǐ liàng qìchē.",
+                        "vietnamese": "Có mấy chiếc xe đỗ ở trước cửa."
+                    },
+                    {
+                        "chinese": "床上躺着一个人。",
+                        "pinyin": "Chuángshàng tǎngzhe yīgè rén.",
+                        "vietnamese": "Có một người đang nằm trên giường."
+                    }
+                ]
+            },
+            {
+                "sub_descriptions": [
+                    "Trong câu phủ định không có từ chỉ số lượng trước danh từ."
+                ]
+            },
+            {
+                "description": "Biểu thị xuất hiện/biến mất",
+                "sub_descriptions": [
+                    "Từ chỉ vị trí/Từ chỉ thời gian + động từ + {{了}}/bổ ngữ (thường là bổ ngữ xu hướng) + từ chỉ số lượng + danh từ."
+                ],
+                "examples": [
+                    {
+                        "chinese": " 车里走下来几个人。",
+                        "pinyin": "Chē lǐ zǒu xiàlái jǐ gèrén.",
+                        "vietnamese": "Trong xe có mấy người đi xuống."
+                    },
+                    {
+                        "chinese": "那边跑过来一个小孩。",
+                        "pinyin": "Nà biān pǎo guòlái yīgè xiǎohái.",
+                        "vietnamese": "Một đứa trẻ từ bên kia chạy đến."
+                    },
+                    {
+                        "chinese": "昨天我家来了一位客人。",
+                        "pinyin": "Zuótiān wǒjiā láile yī wèi kèrén.",
+                        "vietnamese": "Hôm qua có một vị khách đến nhà tôi."
+                    },
+                    {
+                        "chinese": "十分钟前来了三个人，现在又来了两个人。",
+                        "pinyin": "Shí fēnzhōng qián láile sān gèrén, xiànzài yòu láile liǎng gèrén.",
+                        "vietnamese": "10 phút trước có 3 người đến, bây giờ lại có 2 người đến."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Lặp lại tính từ",
+        "content": [
+            {
+                "sub_descriptions": [
+                    "Để miêu tả đặc trưng của người hay sự vật với mức độ tăng thêm ta sử dụng cấu trúc lặp lại tính từ."
+                ]
+            },
+            {
+                "keyWords": ["早早", "好好", "慢慢", "大大"],
+                "description": "Dạng lặp lại của tính từ đơn âm tiết: A -> AA",
+                "examples": [
+                    {
+                        "chinese": "马路两旁的店铺已经早早关上门。",
+                        "pinyin": "Mǎlù liǎngpáng de diànpù yǐjīng zǎozǎo guān shàngmén.",
+                        "vietnamese": "Các cửa hàng hai bên đường đã đóng cửa từ sớm."
+                    },
+                    {
+                        "chinese": "你要好好儿跟他谈，别着急。",
+                        "pinyin": "Nǐ yào hǎohǎo er gēn tā tán, bié zhāojí.",
+                        "vietnamese": "Cậu phải nói chuyện tử tế với anh ta, đừng gấp."
+                    },
+                    {
+                        "chinese": "慢慢喜欢你。",
+                        "pinyin": "Màn man xǐhuān nǐ.",
+                        "vietnamese": "Chầm chậm thích em."
+                    },
+                    {
+                        "chinese": "小小的心中装着大大的梦想。",
+                        "pinyin": "Xiǎo xiǎo de xīnzhōng zhuāngzhe dàdà de mèngxiǎng.",
+                        "vietnamese": "Trong một trái tim nho nhỏ có một ước mơ to to."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["清清楚楚", "痛痛快快", "漂漂亮亮", "整整齐齐"],
+                "description": "Dạng lặp lại của tính từ song âm tiết",
+                "sub_descriptions": [
+                    "AB -> AABB (với các tính từ thông thường)."
+                ],
+                "examples": [
+                    {
+                        "chinese": "他说的每句话我都记得清清楚楚。",
+                        "pinyin": "Tā shuō de měi jù huà wǒ dū jìdé qīngqīngchǔchǔ.",
+                        "vietnamese": "Từng lời anh ta nói, tôi vẫn ghi nhớ rất rõ ràng."
+                    },
+                    {
+                        "chinese": "快乐的暑假终于到了，我可以开开心心痛痛快快地玩一顿了！",
+                        "pinyin": "Kuàilè de shǔjià zhōngyú dàole, wǒ kěyǐ kāi kāixīn xīn tòngtòngkuàikuài dì wán yī dùnle!",
+                        "vietnamese": "Cuối cùng kì nghỉ hè đã đến, mình có thể vui chơi thoải mái rồi!"
+                    },
+                    {
+                        "chinese": "她穿着漂漂亮亮的衣服，打扮得整整齐齐，准备去见他的男朋友。",
+                        "pinyin": "Tā chuānzhuó piàopiàoliangliàng de yīfú, dǎbàn dé zhěng zhěngqí qí, zhǔnbèi qù jiàn tā de nán péngyǒu.",
+                        "vietnamese": "Cô ấy mặc chiếc váy thật đẹp, trang điểm gọn gàng, đi gặp bạn trai của cô ấy."
+                    },
+                    {
+                        "chinese": "书都放得整整齐齐，井井有条。",
+                        "pinyin": "Shū dōu fàng dé zhěngzhěngqíqí, jǐngjǐngyǒutiáo.",
+                        "vietnamese": "Sách được xếp ngăn nắp gọn gàng."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["清清楚楚", "痛痛快快", "漂漂亮亮", "整整齐齐"],
+                "sub_descriptions": [
+                    "AB -> ABAB (với các tính từ mang ý nghĩa so sánh ngầm)."
+                ],
+                "examples": [
+                    {
+                        "chinese": "她喝了酒的脸通红通红的。",
+                        "pinyin": "Tā hēle jiǔ de liǎn tōnghóngtōnghóng de.",
+                        "vietnamese": "Gương mặt cô ấy sau khi uống rượu ửng hồng."
+                    },
+                    {
+                        "chinese": "家里新刷的墙壁雪白雪白的。",
+                        "pinyin": "Jiālǐ xīn shuā de qiángbì xuěbáixuěbái de.",
+                        "vietnamese": "Bức tường nhà mới sơn trắng phau phau."
+                    },
+                    {
+                        "chinese": "两边的树笔直笔直的，像两道绿色的墙。",
+                        "pinyin": "Liǎngbiān de shù bǐzhí bǐzhí de, xiàng liǎng dào lǜsè de qiáng.",
+                        "vietnamese": "Hai hàng cây bên đường thẳng tăm tắm, giống nhưu hai bức tường xanh."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["通红通红", "雪白雪白", "笔直笔直"],
+                "sub_descriptions": [
+                    "AB -> ABAB (với các tính từ mang ý nghĩa so sánh ngầm)."
+                ],
+                "examples": [
+                    {
+                        "chinese": "她喝了酒的脸通红通红的。",
+                        "pinyin": "Tā hēle jiǔ de liǎn tōnghóngtōnghóng de.",
+                        "vietnamese": "Gương mặt cô ấy sau khi uống rượu ửng hồng."
+                    },
+                    {
+                        "chinese": "家里新刷的墙壁雪白雪白的。",
+                        "pinyin": "Jiālǐ xīn shuā de qiángbì xuěbáixuěbái de.",
+                        "vietnamese": "Bức tường nhà mới sơn trắng phau phau."
+                    },
+                    {
+                        "chinese": "两边的树笔直笔直的，像两道绿色的墙。",
+                        "pinyin": "Liǎngbiān de shù bǐzhí bǐzhí de, xiàng liǎng dào lǜsè de qiáng.",
+                        "vietnamese": "Hai hàng cây bên đường thẳng tăm tắm, giống nhưu hai bức tường xanh."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["马里马虎", "糊里糊涂", "小里小气", "傻里傻气"],
+                "sub_descriptions": [
+                    "AB -> A{{里}}AB (với các tính từ mang ý nghĩa chê bai, tiêu cực)."
+                ],
+                "examples": [
+                    {
+                        "chinese": "这件工作干得马里马虎。",
+                        "pinyin": "Zhè jiàn gōngzuò gàn dé mǎlǐ mǎhu.",
+                        "vietnamese": "Việc này làm qua loa đại khái quá."
+                    },
+                    {
+                        "chinese": "糊里糊涂是办不好事的。",
+                        "pinyin": "Húlǐ hútu shì bàn bù hǎoshì de.",
+                        "vietnamese": "Mơ mơ hồ hồ thì không thể làm tốt việc được."
+                    },
+                    {
+                        "chinese": "她这人什么都好，就是有点小里小气的。",
+                        "pinyin": "Tā zhè rén shénme dōu hǎo, jiùshì yǒudiǎn xiǎolǐ xiǎoqì de.",
+                        "vietnamese": "Con người cô ta cái gì cũng tốt, chỉ có điều hơi nhỏ nhen hẹp hòi."
+                    },
+                    {
+                        "chinese": "他雖然傻里傻氣，卻有著一副好心腸。",
+                        "pinyin": "Tā suīrán shǎlǐ shǎqì, què yǒuzhe yī fù hǎo xīncháng.",
+                        "vietnamese": "Anh ta tuy ngơ ngơ ngác ngác nhưng lại rất tốt bụng."
+                    }
+                ]
+            },
+            {
+                "sub_descriptions": [
+                    "Cấu trúc lặp lại tính từ không được sử dụng với phó từ chỉ mức độ.",
+                    "Không nói: {{很大大，挺安安静静的}}，…",
+                    "Có một số tính từ không thể lặp lại để sử dụng."
+                ]
+            }
+        ]
+    },
+    {
+        "title": "不仅……而且……",
+        "content": [
+            {
+                "keyWords": ["不仅", "而且", "也", "还"],
+                "sub_descriptions": [
+                    "Cấu trúc {{不仅}}/{{不但}}……（{{而且}}）{{也}}/{{还}}…… (Không chỉ/không những… mà cũng/ mà còn/ hơn nữa…)",
+                    "{{不仅}} = {{不只}}({{是}}), {{不光}}({{是}})"
+                ],
+                "examples": [
+                    {
+                        "chinese": "他不仅足球踢得好，性格也不错。",
+                        "pinyin": "Tā bùjǐn zúqiú tī dé hǎo, xìnggé yě bùcuò.",
+                        "vietnamese": "Anh ấy không chỉ đá bóng giỏi mà tinh cách cũng rất tốt."
+                    },
+                    {
+                        "chinese": "小时候，他经常生病，所以每天都去跑步锻炼身体。谁也没有想到，长大以后，他不仅身体健康，还成了一名长跑运动员。",
+                        "pinyin": "Xiǎoshíhòu, tā jīngcháng shēngbìng, suǒyǐ měitiān dōu qù pǎobù duànliàn shēntǐ. Shéi yě méiyǒu xiǎngdào, zhǎng dà yǐhòu, tā bùjǐn shēntǐ jiànkāng, hái chéngle yī míng chángpǎo yùndòngyuán.",
+                        "vietnamese": "Ngày còn nhỏ, anh ta thường xuyên đau ốm nên ngày nào cũng chạy bộ, tập thể dục. Không ai nghĩ rằng khi lớn lên, anh ta không chỉ khỏe mạnh mà còn trở thành một vận động viên chạy đường dài."
+                    },
+                    {
+                        "chinese": "越南不仅风景好看，而且人也很热情。",
+                        "pinyin": "Yuènán bùjǐn fēngjǐng hǎokàn, érqiě rén yě hěn rèqíng.",
+                        "vietnamese": "Việt Nam không chỉ có phong cảnh đẹp mà con người cũng rất nhiệt tình."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["不仅", "也"],
+                "sub_descriptions": [
+                    "Khi hai mệnh đề có cùng một chủ ngữ, {{不仅}}/{{不但}} đứng sau chủ ngữ; khi hai mệnh đề mang hai chủ ngữ khác nhau, {{不仅}}/{{不但}} đứng trước chủ ngữ của mệnh đề 1."
+                ],
+                "examples": [
+                    {
+                        "chinese": "不仅你喜欢她，隔壁班的小王也很喜欢她。",
+                        "pinyin": "Bùjǐn nǐ xǐhuān tā, gébì bān de xiǎo wáng yě hěn xǐhuān tā.",
+                        "vietnamese": "Không chỉ mỗi cậu thích cô ấy đâu, anh bạn Vương lớp bên cạnh cũng rất thích cô ấy."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "……跟……一样",
+        "content": [
+            {
+                "keyWords": ["跟", "一样"],
+                "description": "Dạng khẳng định",
+                "sub_descriptions": [
+                    "Cấu trúc A{{跟}}B{{一样}} diễn tả ý A và B giống nhau, nếu muốn chỉ rõ khía cạnh được so sánh ta thêm tính từ vào sau {{一样}}."
+                ],
+                "examples": [
+                    {
+                        "chinese": "儿子跟爸爸一样高了。",
+                        "pinyin": "Ér zǐ gēn bàba yīyàng gāole.",
+                        "vietnamese": "Con trai cao bằng bố rồi."
+                    },
+                    {
+                        "chinese": "这本书跟那本书一样。",
+                        "pinyin": "Zhè běn shū gēn nà běn shū yīyàng.",
+                        "vietnamese": "Quyển sách này và quyển sách kia giống nhau."
+                    },
+                    {
+                        "chinese": "她汉语说得跟中国人一样好。",
+                        "pinyin": "Tā Hànyǔ shuō dé gēn Zhōngguó rén yīyàng hǎo.",
+                        "vietnamese": "Cô ấy nói tiếng Trung tốt như người Trung Quốc vậy."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["跟", "不", "一样"],
+                "description": "Dạng phủ định",
+                "sub_descriptions": [
+                    "Thêm {{不}} vào trước {{一样}}"
+                ],
+                "examples": [
+                    {
+                        "chinese": "这辆车跟那辆车不一样。",
+                        "pinyin": "Zhè liàng chē gēn nà liàng chē bù yīyàng.",
+                        "vietnamese": "Cái xe này và cái xe kia không giống nhau."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "又 và 再",
+        "content": [
+            {
+                "sub_descriptions": [
+                    "Cả hai phó từ này đều có thể được dùng trước động từ để chỉ một hành động, tình huống được lặp lại."
+                ]
+            },
+            {
+                "keyWords": ["又"],
+                "description": "又",
+                "sub_descriptions": [
+                    "{{又}} + động từ thường diễn tả hành động, tình huống đã xảy ra (lặp lại trong quá khứ, hiện tại)"
+                ],
+                "examples": [
+                    {
+                        "chinese": "上个星期我买了一条裙子，今天又买了一条。",
+                        "pinyin": "Shàng gè xīngqí wǒ mǎile yītiáo qúnzi, jīntiān yòu mǎile yītiáo.",
+                        "vietnamese": "Tuần trước em mua một cái váy, hôm qua lại mua thêm một cái."
+                    },
+                    {
+                        "chinese": "今天上午你已经喝了一杯咖啡了，现在怎么又喝了？",
+                        "pinyin": "Jīntiān shàngwǔ nǐ yǐjīng hēle yībēi kāfēile, xiànzài zěnme yòu hēle?",
+                        "vietnamese": "Sáng nay cậu uống một cốc cà phê rồi mà, sao giờ lại uống nữa?"
+                    },
+                    {
+                        "chinese": "昨天下雨，今天又下雨。",
+                        "pinyin": "Zuótiān xià yǔ, jīntiān yòu xià yǔ.",
+                        "vietnamese": "Hôm qua mưa, hôm nay lại mưa."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["再"],
+                "description": "再",
+                "sub_descriptions": [
+                    "再 + động từ thường diễn tả hành động, tình huống chưa xảy ra (có thể lặp lại trong tương lai)"
+                ],
+                "examples": [
+                    {
+                        "chinese": "你才吃了一点儿饭，再吃一点儿吧。",
+                        "pinyin": "Nǐ cái chīle yīdiǎnr fàn, zài chī yīdiǎnr ba.",
+                        "vietnamese": "Cậu mới ăn có một chút cơm, ăn thêm chút nữa đi."
+                    },
+                    {
+                        "chinese": "她不在家，你回去吧，明天再来。",
+                        "pinyin": "Tā bù zàijiā, nǐ huíqù ba, míngtiān zàilái.",
+                        "vietnamese": "Cô ấy không có nhà, cậu về đi, mai lại đến."
+                    },
+                    {
+                        "chinese": "上个星期我买了一条裙子，今天又买了一条，明天再去买一条。",
+                        "pinyin": "Shàng gè xīngqī wǒ mǎile yītiáo qúnzi, jīntiān yòu mǎile yītiáo, míngtiān zài qù mǎi yītiáo.",
+                        "vietnamese": "Tuần trước em mua một cái váy, hôm qua lại mua thêm một cái, mai em lại đi mua cái nữa."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Câu bị động với chữ 被",
+        "content": [
+            {
+                "sub_descriptions": [
+                    "Cấu trúc “chủ ngữ + {{被}}/{{让}}/{{叫}} + tân ngữ + động từ + thành phần khác”",
+                    "Trong đó, chủ ngữ là đối tượng chịu sự tác động của hành động, tân ngữ là đối tượng thực hiện hành động. Chủ ngữ phải là thành phần được xác định rõ ràng, không mang ý nói ước chừng.",
+                    "Khi dùng {{被}}, tân ngữ sau {{被}} có thể được lược bỏ. Khi dùng {{让}}/{{叫}}, tân ngữ không thể lược bỏ."
+                ],
+                "examples": [
+                    {
+                        "chinese": "我的书被他拿走了。",
+                        "pinyin": "Wǒ de shū bèi tā ná zǒule.",
+                        "vietnamese": "Sách của tôi bị anh ấy lấy đi rồi."
+                    },
+                    {
+                        "chinese": "他的狗被打死了。",
+                        "pinyin": "Tā de gǒu bèi dǎ sǐle.",
+                        "vietnamese": "Con chó của anh ta bị đánh chết rồi."
+                    },
+                    {
+                        "chinese": "钱包叫人偷走了。",
+                        "pinyin": "Qiánbāo jiào rén tōu zǒule.",
+                        "vietnamese": "Ví tiền bị người ta trộm mất rồi."
+                    },
+                    {
+                        "chinese": "我的眼镜让妹妹弄丢了。",
+                        "pinyin": "Wǒ de yǎnjìng ràng mèimei nòng diūle.",
+                        "vietnamese": "Kính mắt của tôi bị em gái làm mất rồi."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["被"],
+                "sub_descriptions": [
+                    "Phó từ phủ định, động từ năng nguyện phải được đặt trước {{被}}."
+                ],
+                "examples": [
+                    {
+                        "chinese": "这本书已经被我读完了。",
+                        "pinyin": "Zhè běn shū yǐjīng bèi wǒ dú wánle.",
+                        "vietnamese": "Quyển sách này đã được tôi đọc hết."
+                    },
+                    {
+                        "chinese": "他的报告没被批准。",
+                        "pinyin": "Tā de bàogào méi bèi pīzhǔn.",
+                        "vietnamese": "Bài báo cáo của anh vẫn chưa được phê duyệt."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "极了",
+        "content": [
+            {
+                "sub_descriptions": [
+                    "Cấu trúc tính từ/ động từ chỉ trạng thái thường được dùng để miêu tả mức độ cao (gần như cao nhất)"
+                ],
+                "examples": [
+                    {
+                        "chinese": "我的狗可爱极了。",
+                        "pinyin": "Wǒ de gǒu kě'ài jíle.",
+                        "vietnamese": "Con chó của tôi đáng yêu cực."
+                    },
+                    {
+                        "chinese": "这道题难极了。",
+                        "pinyin": "Zhè dào tí nán jíle.",
+                        "vietnamese": "Đề này khó quá đi mất."
+                    },
+                    {
+                        "chinese": "他满意极了。",
+                        "pinyin": "Tā mǎnyì jíle.",
+                        "vietnamese": "Anh ấy vô cùng hài lòng luôn."
+                    }
+                ]
+            }
+        ]
+    }
+]

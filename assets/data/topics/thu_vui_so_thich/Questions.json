@@ -1,0 +1,196 @@
+{
+    "listening": [
+        ["读", "看", "听", "玩", "画", "讲", "踢", "打", "完"],
+        ["报纸", "电影", "电视", "新闻", "音乐", "游戏", "玩具", "爱好", "喜欢", "故事", "唱歌", "运动", "跑步", "游泳", "足球", "散步", "篮球", "跳舞", "锻炼", "比赛", "上网", "聊天", "爬山", "体育", "参加", "节目", "放松", "除了", "结束", "经过", "练习", "了解", "习惯", "有名"]
+    ],
+    "reading": [
+        [
+            {
+                "chinese": "读",
+                "vietnamese": "Đọc"
+            },
+            {
+                "chinese": "报纸",
+                "vietnamese": "Báo"
+            },
+            {
+                "chinese": "看",
+                "vietnamese": "Xem"
+            },
+            {
+                "chinese": "电影",
+                "vietnamese": "Phim, điện ảnh"
+            },
+            {
+                "chinese": "电视",
+                "vietnamese": "Tivi, truyền hình"
+            },
+            {
+                "chinese": "新闻",
+                "vietnamese": "Tin tức"
+            },
+            {
+                "chinese": "听",
+                "vietnamese": "Nghe"
+            },
+            {
+                "chinese": "音乐",
+                "vietnamese": "Âm nhạc"
+            },
+            {
+                "chinese": "玩",
+                "vietnamese": "Chơi, chơi đùa"
+            },
+            {
+                "chinese": "游戏",
+                "vietnamese": "Trò chơi"
+            },
+            {
+                "chinese": "玩具",
+                "vietnamese": "Đồ chơi"
+            },
+            {
+                "chinese": "爱好",
+                "vietnamese": "Sở thích"
+            },
+            {
+                "chinese": "喜欢",
+                "vietnamese": "Thích, yêu thích"
+            },
+            {
+                "chinese": "画",
+                "vietnamese": "Vẽ"
+            },
+            {
+                "chinese": "讲",
+                "vietnamese": "Nói, kể, thuyết minh"
+            },
+            {
+                "chinese": "故事",
+                "vietnamese": "Truyện, câu chuyện"
+            },
+            {
+                "chinese": "唱歌",
+                "vietnamese": "Hát, ca hát"
+            },
+            {
+                "chinese": "运动",
+                "vietnamese": "Vận động"
+            },
+            {
+                "chinese": "跑步",
+                "vietnamese": "Chạy bộ"
+            },
+            {
+                "chinese": "游泳",
+                "vietnamese": "Bơi lội"
+            },
+            {
+                "chinese": "踢",
+                "vietnamese": "Đá (bóng)"
+            },
+            {
+                "chinese": "足球",
+                "vietnamese": "Bóng đá"
+            },
+            {
+                "chinese": "散步",
+                "vietnamese": "Đi bộ"
+            },
+            {
+                "chinese": "打",
+                "vietnamese": "Đánh"
+            },
+            {
+                "chinese": "篮球",
+                "vietnamese": "Bóng rổ"
+            },
+            {
+                "chinese": "跳舞",
+                "vietnamese": "Nhảy, múa, vũ đạo"
+            },
+            {
+                "chinese": "锻炼",
+                "vietnamese": "Luyện tập, rèn luyện"
+            },
+            {
+                "chinese": "比赛",
+                "vietnamese": "Cuộc thi"
+            },
+            {
+                "chinese": "上网",
+                "vietnamese": "Lên mạng"
+            },
+            {
+                "chinese": "聊天",
+                "vietnamese": "Nói chuyện, trò chuyện"
+            },
+            {
+                "chinese": "爬山",
+                "vietnamese": "Leo núi"
+            },
+            {
+                "chinese": "体育",
+                "vietnamese": "Thể dục, thể thao"
+            },
+            {
+                "chinese": "参加",
+                "vietnamese": "Tham gia"
+            },
+            {
+                "chinese": "节目",
+                "vietnamese": "Tiết mục, chương trình"
+            },
+            {
+                "chinese": "放松",
+                "vietnamese": "Thả lỏng"
+            },
+            {
+                "chinese": "有意思",
+                "vietnamese": "Thú vị"
+            },
+            {
+                "chinese": "感兴趣",
+                "vietnamese": "Có hứng thú, thích thú"
+            },
+            {
+                "chinese": "完",
+                "vietnamese": "Hết, kết thúc, xong"
+            },
+            {
+                "chinese": "除了",
+                "vietnamese": "Ngoài ra, trừ ra"
+            },
+            {
+                "chinese": "结束",
+                "vietnamese": "Kết thúc"
+            },
+            {
+                "chinese": "经过",
+                "vietnamese": "Trải qua, qua"
+            },
+            {
+                "chinese": "练习",
+                "vietnamese": "Luyện tập, ôn tập"
+            },
+            {
+                "chinese": "了解",
+                "vietnamese": "Hiểu rõ, biết rõ"
+            },
+            {
+                "chinese": "习惯",
+                "vietnamese": "Thói quen"
+            },
+            {
+                "chinese": "有名",
+                "vietnamese": "Nổi tiếng"
+            }
+        ]
+    ],
+    "speaking": [
+        ["报纸", "电影", "电视", "新闻", "音乐", "游戏", "玩具", "爱好", "喜欢", "故事", "唱歌", "运动", "跑步", "游泳", "足球", "散步", "篮球", "跳舞", "锻炼", "比赛", "上网", "聊天", "爬山", "体育", "参加", "节目", "放松", "有意思", "感兴趣", "除了", "结束", "经过", "练习", "了解", "习惯", "有名"]
+    ],
+    "writing": [
+        ["你的爱好是什么？", "哇你好厉害，你唱歌很好听吧。", "还不错，要我唱给你听吗？", "可以啊，下次我们去唱卡拉OK。", "好，去放松一下。", "有空的时候会做什么？", "我去运动，打篮球或者跑步。", "你很喜欢运动，对吧？", "我一般，偶尔会去散步。", "有空的话我们一起去散步。", "你经常跟他一起去吗？", "那你妈妈呢？", "她喜欢画画。", "她画的很好看。", "除了画画以外，她还喜欢做饭。", "对了，你妈妈是不是很喜欢唱歌？", "对，她最喜欢唱歌和听音乐。", "我对音乐很感兴趣。", "他对我非常好。"]
+    ]
+}

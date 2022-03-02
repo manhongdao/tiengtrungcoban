@@ -1,0 +1,168 @@
+[
+    {
+        "title": "Trợ từ nghi vấn “呢”",
+        "content": [
+            {
+                "keyWords": ["呢"],
+                "sub_descriptions": [
+                    "Trợ từ nghi vấn ne được dùng sau danh từ hay đại từ để đặt câu hỏi nhằm yêu cầu cho biết thông tin về một đối tượng, thông tin này đã được đề cập trong câu trước đó. Mẫu câu thường gặp là A……B{{呢}}？(A thì... Còn B thì sao?)"
+                ],
+                "examples": [
+                    {
+                        "chinese": "我喜欢夏天，你呢？",
+                        "pinyin": "Wǒ xǐhuān xiàtiān, nǐ ne?",
+                        "vietnamese": "Tớ thích mùa hè, còn cậu?"
+                    },
+                    {
+                        "chinese": "我是越南人，你呢？",
+                        "pinyin": "Wǒ shì Yuènán rén, nǐ ne?",
+                        "vietnamese": "Tôi là người Việt Nam, còn bạn?"
+                    }
+                ]
+            },
+            {
+                "keyWords": ["呢"],
+                "sub_descriptions": [
+                    "Trợ từ nghi vấn {{呢}} còn được dùng để hỏi về vị trí của người, sự vật."
+                ],
+                "examples": [
+                    {
+                        "chinese": "我的书呢？",
+                        "pinyin": "Wǒ de shū ne?",
+                        "vietnamese": "Sách của tớ đâu?"
+                    },
+                    {
+                        "chinese": "我妈（在哪儿）了？",
+                        "pinyin": "Wǒ mā (zài nǎ'er) le?",
+                        "vietnamese": "Mẹ tớ đâu?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Đại từ nghi vấn “几”",
+        "content": [
+            {
+                "keyWords": ["几"],
+                "sub_descriptions": [
+                    "Đại từ nghi vấn {{几}} được dùng để hỏi về số lượng khi người hỏi dự đoán câu trả lời là những con số dưới 10."
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Trợ từ “了”",
+        "content": [
+            {
+                "keyWords": ["了"],
+                "description": "了 được dùng cuối câu để chỉ sự thay đổi hay sự xuất hiện của một tình huống mới.",
+                "examples": [
+                    {
+                        "chinese": "我朋友的女儿今年三岁了。",
+                        "pinyin": "Wǒ péngyou de nǚ'ér jīnnián sān suì le.",
+                        "vietnamese": "Con gái của bạn tôi năm nay đã 3 tuổi rồi."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["了"],
+                "description": "Diễn tả hành động đã xảy ra trong quá khứ.",
+                "examples": [
+                    {
+                        "chinese": "我吃饭了。",
+                        "pinyin": "Wǒ chī fàn le.",
+                        "vietnamese": "Tôi đã ăn cơm rồi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "“在”",
+        "content": [
+            {
+                "keyWords": ["在"],
+                "description": "Động từ {{在}} kết hợp với từ ngữ chỉ nơi chốn làm vị ngữ trong câu, diễn tả nơi chốn, vị trí của người và sự vật.",
+                "examples": [
+                    {
+                        "chinese": "我在学校，我妈在家。",
+                        "pinyin": "Wǒ zài xuéxiào, wǒ mā zài jiā.",
+                        "vietnamese": "Tôi ở trường, mẹ tôi ở nhà."
+                    },
+                    {
+                        "chinese": "书在桌子上。",
+                        "pinyin": "hū zài zhuōzi shàng.",
+                        "vietnamese": "Quyển sách ở trên bàn."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["在"],
+                "description": "Giới từ 在 kết hợp với từ ngữ chỉ nơi chốn làm trạng ngữ cho động từ, diễn tả nơi chốn, địa điểm mà hành động xảy ra.",
+                "examples": [
+                    {
+                        "chinese": "我们在图书馆看书。",
+                        "pinyin": "Wǒmen zài túshūguǎn kàn shū.",
+                        "vietnamese": "Chúng tôi đọc sách ở thư viện."
+                    },
+                    {
+                        "chinese": "我爸在医院工作。",
+                        "pinyin": "Wǒ bà zài yīyuàn gōngzuò.",
+                        "vietnamese": "Bố tôi làm việc ở bệnh viện."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["在"],
+                "description": "Phó từ 在 kết hợp với động từ làm vị ngữ, diễn tả hành động đang diễn ra. Có thể dùng cùng trợ từ ngữ khí 呢.",
+                "examples": [
+                    {
+                        "chinese": "我妈在做饭呢。",
+                        "pinyin": "Wǒmā zài zuò fàn ne.",
+                        "vietnamese": "Mẹ tôi đang nấu cơm."
+                    },
+                    {
+                        "chinese": "我弟弟在写作业。",
+                        "pinyin": "Wǒ dìdi zài xiě zuòyè.",
+                        "vietnamese": "Em trai tôi đang làm bài tập."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Liên từ “和”",
+        "content": [
+            {
+                "keyWords": ["和"],
+                "sub_descriptions": [
+                    "Liên từ “{{和}}” được dùng để nối hai (hoặc nhiều hơn hai) thành phần ngang nhau nhằm thể hiện quan hệ ngang cấp."
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Phó từ “都”",
+        "content": [
+            {
+                "keyWords": ["都"],
+                "sub_descriptions": [
+                    "Phó từ {{都}} bao gồm ý toàn bộ, đồng loại. Các đối tượng được bao gồm được đặt trước {{都}}."
+                ],
+                "examples": [
+                    {
+                        "chinese": "我们都是越南人。",
+                        "pinyin": "Wǒmen dōu shì Yuènán rén.",
+                        "vietnamese": "Chúng tôi đều là người Việt Nam."
+                    },
+                    {
+                        "chinese": "这些都是我的东西。",
+                        "pinyin": "Zhè xiē dōu shì wǒ de dōngxi.",
+                        "vietnamese": "Những thứ này đều là đồ của tôi."
+                    }
+                ]
+            }
+        ]
+    }
+]

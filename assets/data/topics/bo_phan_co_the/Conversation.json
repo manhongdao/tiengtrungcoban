@@ -1,0 +1,51 @@
+[
+    [
+        {
+            "chinese": "脸上有什么？",
+            "pinyin": "Liǎn shàng yǒu shén me?",
+            "vietnamese": "Trên mặt có những gì?"
+        },
+        {
+            "chinese": "脸上有眼睛，鼻子，嘴巴。",
+            "pinyin": "Liǎn shàng yǒu yǎnjīng, bízi, zuǐbā.",
+            "vietnamese": "Trên mặt có mắt, mũi, miệng."
+        },
+        {
+            "chinese": "头上有什么？",
+            "pinyin": "Tóu shàng yǒu shén me?",
+            "vietnamese": "Trên đầu có gì?"
+        },
+        {
+            "chinese": "头上有头发。",
+            "pinyin": "Tóu shàng yǒu tóufǎ.",
+            "vietnamese": "Trên đầu có tóc."
+        }
+    ],
+    [
+        {
+            "chinese": "你的眼睛真好看，又大又圆。",
+            "pinyin": "Nǐ de yǎnjīng zhēn hǎokàn, yòu dà yòu yuán.",
+            "vietnamese": "Mắt của bạn đẹp thật, vừa to vừa tròn."
+        },
+        {
+            "chinese": "我的眼睛像妈妈，我妈妈的眼睛特别好看。",
+            "pinyin": "Wǒ de yǎnjīng xiàng māma, wǒ māma de yǎnjīng tèbié hǎokàn.",
+            "vietnamese": "Mắt mình giống mắt của mẹ, mắt của mẹ mình vô cùng đẹp."
+        },
+        {
+            "chinese": "你高高的鼻子也是像妈妈吧？",
+            "pinyin": "Nǐ gāo gāo de bízi yěshì xiàng māma ba?",
+            "vietnamese": "Chiếc mũi cao của bạn chắc cũng giống mẹ nhỉ?"
+        },
+        {
+            "chinese": "不是，我的鼻子像爸爸。",
+            "pinyin": "Búshì, wǒ de bízi xiàng bàba.",
+            "vietnamese": "Không, mũi của mình giống bố."
+        },
+        {
+            "chinese": "你爸爸妈妈肯定都很好看。",
+            "pinyin": "Nǐ bàba māma kěndìng dōu hěn hǎokàn.",
+            "vietnamese": "Bố mẹ bạn chắc chắn đều rất đẹp."
+        }
+    ]
+]

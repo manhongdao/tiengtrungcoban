@@ -1,0 +1,28 @@
+[
+    {
+        "title": "Nét cuối phần bên trái là nét ngang thì viết thành nét hất.",
+        "sample": [
+            {
+                "description": "Chữ “địa” được cấu tạo bởi bộ địa ở bên trái và chữ dã ở bên phải, nét ngang cuối cùng của bộ thổ được viết thành nét hất.",
+                "img": "tranform-rules-1-1.png"
+            },
+            {
+                "description": "Chữ “hiện” được cấu tạo bởi bộ ngọc ở bên trái và chữ kiến ở bên phải, nét ngang cuối cùng của bộ ngọc được viết thành nét hất.",
+                "img": "tranform-rules-1-2.png"
+            }
+        ]
+    },
+    {
+        "title": "Nét cuối phần bên trái là nét mác thì viết thành nét chấm.",
+        "sample": [
+            {
+                "description": "Chữ “lâm” được cấu tạo bởi hai bộ mộc, nét mác cuối cùng của bộ mộc ở bên trái được viết thành nét chấm.",
+                "img": "tranform-rules-2-1.png"
+            },
+            {
+                "description": "Chữ “thu” được cấu tạo bởi bộ hòa ở bên trái và bộ hỏa ở bên phải, nét mác cuối cùng của bộ hòa được viết thành nét chấm.",
+                "img": "tranform-rules-2-2.png"
+            }
+        ]
+    }
+]

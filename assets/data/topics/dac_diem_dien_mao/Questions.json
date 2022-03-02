@@ -1,0 +1,252 @@
+{
+    "listening": [
+        ["累", "疼", "笑", "哭", "老", "长", "短", "高", "矮", "胖", "瘦", "快", "慢", "久", "新", "旧", "对", "错", "差", "像", "真", "极", "比", "最"],
+        ["快乐", "高兴", "生气", "担心", "害怕", "小心", "舒服", "简单", "清楚", "容易", "着急", "难过", "放心", "满意", "热情", "安静", "年轻", "聪明", "明白", "努力", "奇怪", "干净", "新鲜", "可爱", "漂亮", "声音", "一样", "比较", "关心", "事情", "完成", "重要", "愿意", "关系"]
+    ],
+    "reading": [
+        [
+            {
+                "chinese": "快乐",
+                "vietnamese": "Vui vẻ, sung sướng, hạnh phúc"
+            },
+            {
+                "chinese": "高兴",
+                "vietnamese": "Vui vẻ, vui mừng"
+            },
+            {
+                "chinese": "生气",
+                "vietnamese": "Tức giận, giận dữ"
+            },
+            {
+                "chinese": "担心",
+                "vietnamese": "Lo lắng"
+            },
+            {
+                "chinese": "害怕",
+                "vietnamese": "Sợ hãi, sợ sệt"
+            },
+            {
+                "chinese": "小心",
+                "vietnamese": "Cẩn thận, chú ý"
+            },
+            {
+                "chinese": "舒服",
+                "vietnamese": "Thoải mái, dễ chịu"
+            },
+            {
+                "chinese": "简单",
+                "vietnamese": "Đơn giản, giản đơn"
+            },
+            {
+                "chinese": "清楚",
+                "vietnamese": "Rõ ràng"
+            },
+            {
+                "chinese": "容易",
+                "vietnamese": "Dễ, dễ dàng"
+            },
+            {
+                "chinese": "累",
+                "vietnamese": "Mệt, mệt mỏi"
+            },
+            {
+                "chinese": "着急",
+                "vietnamese": "Sốt ruột, lo lắng"
+            },
+            {
+                "chinese": "难过",
+                "vietnamese": "Buồn, buồn bã"
+            },
+            {
+                "chinese": "放心",
+                "vietnamese": "Yên tâm, yên lòng"
+            },
+            {
+                "chinese": "满意",
+                "vietnamese": "Hài lòng, vừa ý"
+            },
+            {
+                "chinese": "疼",
+                "vietnamese": "Đau, nhức"
+            },
+            {
+                "chinese": "笑",
+                "vietnamese": "Cười"
+            },
+            {
+                "chinese": "哭",
+                "vietnamese": "Khóc, khóc lóc"
+            },
+            {
+                "chinese": "热情",
+                "vietnamese": "Nhiệt tình"
+            },
+            {
+                "chinese": "安静",
+                "vietnamese": "Yên lặng, yên tĩnh"
+            },
+            {
+                "chinese": "年轻",
+                "vietnamese": "Trẻ, trẻ trung"
+            },
+            {
+                "chinese": "老",
+                "vietnamese": "Già"
+            },
+            {
+                "chinese": "聪明",
+                "vietnamese": "Thông minh, nhạy bén"
+            },
+            {
+                "chinese": "明白",
+                "vietnamese": "Rõ ràng, dễ hiểu"
+            },
+            {
+                "chinese": "努力",
+                "vietnamese": "Cố gắng, nỗ lực"
+            },
+            {
+                "chinese": "奇怪",
+                "vietnamese": "Kì lạ, kì cục"
+            },
+            {
+                "chinese": "干净",
+                "vietnamese": "Sạch, sạch sẽ"
+            },
+            {
+                "chinese": "新鲜",
+                "vietnamese": "Mới, tươi mới"
+            },
+            {
+                "chinese": "可爱",
+                "vietnamese": "Đáng yêu"
+            },
+            {
+                "chinese": "漂亮",
+                "vietnamese": "Đẹp, xinh đẹp"
+            },
+            {
+                "chinese": "长",
+                "vietnamese": "Dài"
+            },
+            {
+                "chinese": "短",
+                "vietnamese": "Ngắn"
+            },
+            {
+                "chinese": "高",
+                "vietnamese": "Cao"
+            },
+            {
+                "chinese": "矮",
+                "vietnamese": "Thấp, lùn"
+            },
+            {
+                "chinese": "胖",
+                "vietnamese": "Béo"
+            },
+            {
+                "chinese": "瘦",
+                "vietnamese": "Gầy"
+            },
+            {
+                "chinese": "快",
+                "vietnamese": "Nhanh"
+            },
+            {
+                "chinese": "慢",
+                "vietnamese": "Chậm"
+            },
+            {
+                "chinese": "久",
+                "vietnamese": "Lâu, lâu dài"
+            },
+            {
+                "chinese": "新",
+                "vietnamese": "Mới"
+            },
+            {
+                "chinese": "旧",
+                "vietnamese": "Cũ"
+            },
+            {
+                "chinese": "对",
+                "vietnamese": "Đúng, chính xác"
+            },
+            {
+                "chinese": "错",
+                "vietnamese": "Sai, sai lầm"
+            },
+            {
+                "chinese": "差",
+                "vietnamese": "Dở, kém, tồi"
+            },
+            {
+                "chinese": "声音",
+                "vietnamese": "Âm thanh, tiếng"
+            },
+            {
+                "chinese": "一样",
+                "vietnamese": "Như nhau, giống nhau"
+            },
+            {
+                "chinese": "像",
+                "vietnamese": "Giống"
+            },
+            {
+                "chinese": "真",
+                "vietnamese": "Thật, chính xác"
+            },
+            {
+                "chinese": "极",
+                "vietnamese": "Hết sức, rất, cực kì"
+            },
+            {
+                "chinese": "比",
+                "vietnamese": "So sánh, so với"
+            },
+            {
+                "chinese": "最",
+                "vietnamese": "Nhất"
+            },
+            {
+                "chinese": "比较",
+                "vietnamese": "Tương đối, khá"
+            },
+            {
+                "chinese": "关心",
+                "vietnamese": "Quan tâm, lo lắng"
+            },
+            {
+                "chinese": "事情",
+                "vietnamese": "Sự tình, sự việc"
+            },
+            {
+                "chinese": "完成",
+                "vietnamese": "Hoàn thành"
+            },
+            {
+                "chinese": "重要",
+                "vietnamese": "Quan trọng"
+            },
+            {
+                "chinese": "愿意",
+                "vietnamese": "Vui lòng, bằng lòng"
+            },
+            {
+                "chinese": "关系",
+                "vietnamese": "Quan hệ, mối quan hệ"
+            },
+            {
+                "chinese": "对",
+                "vietnamese": "Đúng vậy."
+            }
+        ]
+    ],
+    "speaking": [
+        ["累", "疼", "笑", "哭", "老", "长", "短", "高", "矮", "胖", "瘦", "快", "慢", "久", "新", "旧", "对", "错", "差", "像", "真", "极", "比", "最", "快乐", "高兴", "生气", "担心", "害怕", "小心", "舒服", "简单", "清楚", "容易", "着急", "难过", "放心", "满意", "热情", "安静", "年轻", "聪明", "明白", "努力", "奇怪", "干净", "新鲜", "可爱", "漂亮", "声音", "一样", "比较", "关心", "事情", "完成", "重要", "愿意", "关系"]
+    ],
+    "writing": [
+        ["说，听着呢。", "你看看那个女的。", "在窗边坐着的那个。", "高高的个子。", "白白的皮肤。", "鼻梁又高。", "眼睛又大。", "长得真漂亮。", "她是我们学校新来的老师。", "她不仅漂亮而且还很优秀。", "这么厉害。", "她人也挺可爱的。", "总是笑着跟别人说话。", "她跟仙女一样漂亮。", "生起气来会是什么样子的？", "外面停着一辆汽车。", "是谁的呀？", "什么样的车？", "一辆红色的雷克萨斯。", "看上去很贵的。", "走进我们公司来。", "看起来很眼生。", "应该是吧。", "不简单啊。", "我一直等着你。", "我听着呢。", "门没开着。", "门开着没有？", "你拿着书没有？", "弟弟吃着苹果写作业。", "她笑着跟大家说话。", "她哭着对我说。", "桌子上有三本书。", "我家前面是一个公园。", "黑板上写着几个汉字。", "门口停着几辆汽车。", "车里走下来几个人。", "那边跑过来一个小孩。", "昨天我家来了一位客人。", "慢慢喜欢你。", "儿子跟爸爸一样高了。", "这本书跟那本书一样。", "这辆车跟那辆车不一样。", "我的书被他拿走了。", "他的狗被打死了。", "钱包叫人偷走了。", "我的眼镜让妹妹弄丢了。", "他的报告没被批准。", "我的狗可爱极了。", "这道题难极了。", "他满意极了。"]
+    ]
+}

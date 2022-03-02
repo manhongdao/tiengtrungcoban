@@ -1,0 +1,547 @@
+[
+    {
+        "chinese": "在",
+        "pinyin": "zài",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Đang",
+                "example": {
+                    "chinese": "他在睡觉。",
+                    "pinyin": "Tā zài shuìjiào.",
+                    "vietnamese": "Anh ấy đang ngủ."
+                }
+            },
+            {
+                "type": "động từ",
+                "vietnamese": "Ở (chỉ vị trí của người hoặc sự vật)",
+                "example": {
+                    "chinese": "你的铅笔在桌子上。",
+                    "pinyin": "Nǐ de qiānbǐ zài zhuōzi shàng.",
+                    "vietnamese": "Bút chì của bạn ở trên bàn."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "哪儿/哪里",
+        "pinyin": "nǎr/nǎlǐ",
+        "meaning": [
+            {
+                "type": "đại từ",
+                "vietnamese": "Đâu, chỗ nào",
+                "example": {
+                    "chinese": "你在哪儿（/哪里）？",
+                    "pinyin": "Nǐ zài nǎr (/nǎlǐ)?",
+                    "vietnamese": "Bạn đang ở đâu?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "哪",
+        "pinyin": "nǎ",
+        "meaning": [
+            {
+                "type": "đại từ",
+                "vietnamese": "Nào (đằng sau phải đi kèm lượng từ hoặc số từ)",
+                "example": {
+                    "chinese": "哪本书是你的？",
+                    "pinyin": "Nǎ běn shū shì nǐ de?",
+                    "vietnamese": "Quyển sách nào là của bạn?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "这里/这儿",
+        "pinyin": "zhèlǐ/zhèr",
+        "meaning": [
+            {
+                "type": "đại từ",
+                "vietnamese": "Ở đây, nơi đây, tại đây",
+                "example": {
+                    "chinese": "快来这里（/这儿）。",
+                    "pinyin": "Kuài lái zhèlǐ (/zhèr).",
+                    "vietnamese": "Đến đây nhanh."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "这",
+        "pinyin": "zhè",
+        "meaning": [
+            {
+                "type": "đại từ",
+                "vietnamese": "Này, cái này (đằng sau phải đi kèm lượng từ, số từ hoặc danh từ)",
+                "example": {
+                    "chinese": "这小孩真可爱。",
+                    "pinyin": "Zhè xiǎohái zhēn kě'ài.",
+                    "vietnamese": "Em bé này thật đáng yêu."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "那里/那儿",
+        "pinyin": "nàlǐ/nàr",
+        "meaning": [
+            {
+                "type": "đại từ",
+                "vietnamese": "Chỗ đó, nơi đó, chỗ ấy",
+                "example": {
+                    "chinese": "她自己来那里（/那儿）。",
+                    "pinyin": "Tā zìjǐ lái nàlǐ (/nàr).",
+                    "vietnamese": "Cô ấy đến chỗ đó một mình."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "那",
+        "pinyin": "nà",
+        "meaning": [
+            {
+                "type": "đại từ",
+                "vietnamese": "Kia, ấy (đằng sau phải đi kèm lượng từ hoặc số từ)",
+                "example": {
+                    "chinese": "那两个人我认识。",
+                    "pinyin": "Nà liǎng gèrén wǒ rènshi.",
+                    "vietnamese": "Tôi quen hai người kia."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "路",
+        "pinyin": "lù",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Đường, đường xá",
+                "image": "road.png",
+                "example": {
+                    "chinese": "到村庄有条窄路。",
+                    "pinyin": "Dào cūnzhuāng yǒu tiáo zhǎi lù.",
+                    "vietnamese": "Có một con đường hẹp vào làng."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "街道",
+        "pinyin": "jiēdào",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Phố, đường",
+                "image": "street.png",
+                "example": {
+                    "chinese": "许多灯照亮了街道。",
+                    "pinyin": "Xǔduō dēng zhào liàngle jiēdào.",
+                    "vietnamese": "Đường phố được chiếu sáng bởi nhiều đèn."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "告诉",
+        "pinyin": "gàosù",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Nói với, tố giác",
+                "image": "conversation.png",
+                "example": {
+                    "chinese": "请告诉我真相。",
+                    "pinyin": "Qǐng gàosù wǒ zhēnxiàng.",
+                    "vietnamese": "Làm ơn hãy nói cho tôi biết sự thật."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "对面",
+        "pinyin": "duìmiàn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Đối diện, trước mặt",
+                "image": "face-to-face.png",
+                "example": {
+                    "chinese": "花园在房子对面。",
+                    "pinyin": "Huāyuán zài fángzi duìmiàn.",
+                    "vietnamese": "Khu vườn ở đối diện nhà."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "前面",
+        "pinyin": "qiánmiàn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Phía trước, đằng trước",
+                "example": {
+                    "chinese": "房子前面有一棵树。",
+                    "pinyin": "Fángzi qiánmiàn yǒuyī kē shù.",
+                    "vietnamese": "Có một cái cây trước nhà."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "后面",  
+        "pinyin": "hòumiàn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Phía sau, đằng sau",
+                "example": {
+                    "chinese": "我在他后面。",
+                    "pinyin": "Wǒ zài tā hòumiàn.",
+                    "vietnamese": "Tôi ở phía sau anh ta."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "中间",
+        "pinyin": "zhōngjiān",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Ở giữa, bên trong",
+                "example": {
+                    "chinese": "老虎躺在笼子的中间。",
+                    "pinyin": "Lǎohǔ tǎng zài lóngzi de zhōngjiān.",
+                    "vietnamese": "Con hổ nằm bên trong chuồng."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "旁边",
+        "pinyin": "pángbiān",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bên cạnh, hai bên trái phải",
+                "example": {
+                    "chinese": "沙发旁边有一只猫。",
+                    "pinyin": "Shāfā pángbiān yǒuyī zhǐ māo.",
+                    "vietnamese": "Có một con mèo bên cạnh ghế sofa."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "左边",
+        "pinyin": "zuǒbiān",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bên trái",
+                "example": {
+                    "chinese": "走左边的道路。",
+                    "pinyin": "Zǒu zuǒbiān de dàolù.",
+                    "vietnamese": "Đi bên trái đường."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "右边",
+        "pinyin": "yòubiān",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bên phải",
+                "example": {
+                    "chinese": "他往右边移了书桌。",
+                    "pinyin": "Tā wǎng yòubiān yíle shūzhuō.",
+                    "vietnamese": "Anh ấy chuyển bàn làm việc sang bên phải."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "外",
+        "pinyin": "wài",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bên ngoài, ở ngoài",
+                "example": {
+                    "chinese": "如果你要开快车，请用外车道。",
+                    "pinyin": "Rúguǒ nǐ yào kāi kuàichē, qǐng yòng wài chēdào.",
+                    "vietnamese": "Nếu bạn muốn lái xe nhanh, vui lòng sử dụng làn đường bên ngoài."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "外面",
+        "pinyin": "wàimiàn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bên ngoài, ở ngoài",
+                "example": {
+                    "chinese": "外面的高温真让人难以忍受。",
+                    "pinyin": "Wàimiàn de gāowēn zhēn ràng rén nányǐ rěnshòu.",
+                    "vietnamese": "Nhiệt độ cao bên ngoài thực sự không thể chịu nổi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "里",
+        "pinyin": "lǐ",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bên trong, ở trong",
+                "example": {
+                    "chinese": "盒子里有什么呢？",
+                    "pinyin": "Hézi lǐ yǒu shé me ne?",
+                    "vietnamese": "Có cái gì trong hộp vậy?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "里面",
+        "pinyin": "lǐmiàn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bên trong, ở trong",
+                "example": {
+                    "chinese": "有人推我到里面。",
+                    "pinyin": "Yǒurén tuī wǒ dào lǐmiàn.",
+                    "vietnamese": "Ai đó đã đẩy tôi vào trong."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "上面",
+        "pinyin": "shàngmiàn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bên trên, ở trên",
+                "example": {
+                    "chinese": "办公桌上面有一张地图。",
+                    "pinyin": "Bàngōng zhuō shàngmiàn yǒuyī zhāng dìtú.",
+                    "vietnamese": "Có một bản đồ trên bàn làm việc."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "下面",
+        "pinyin": "xiàmiàn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bên dưới, ở dưới",
+                "example": {
+                    "chinese": "树荫下面有茶座儿。",
+                    "pinyin": "Shùyìn xiàmiàn yǒu cházuò ér.",
+                    "vietnamese": "Dưới bóng cây có một quán trà."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "下",
+        "pinyin": "xià",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Dưới, bên dưới"
+            },
+            {
+                "type": "động từ",
+                "vietnamese": "Rơi (từ trên xuống dưới)",
+                "example": {
+                    "chinese": "下雨",
+                    "pinyin": "xià yǔ",
+                    "vietnamese": "Mưa rơi"
+                }
+            },
+            {
+                "type": "danh từ",
+                "vietnamese": "Sau (thứ tự hoặc thời gian)",
+                "example": {
+                    "chinese": "下个月",
+                    "pinyin": "xià gè yuè",
+                    "vietnamese": "Tháng sau"
+                }
+            },
+            {
+                "type": "động từ",
+                "vietnamese": "Xuống, hạ (từ cao xuống)",
+                "example": {
+                    "chinese": "下飞机，下山",
+                    "pinyin": "xià fēijī, xiàshān",
+                    "vietnamese": "Xuống máy bay, xuống núi"
+                }
+            },
+            {
+                "type": "động từ",
+                "vietnamese": "Xuống, tan (kết thúc công việc theo thời gian quy định)",
+                "example": {
+                    "chinese": "下课，下班",
+                    "pinyin": "xiàkè, xiàbān",
+                    "vietnamese": "Tan học, tan làm"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "米",
+        "pinyin": "mǐ",
+        "meaning": [
+            {
+                "type": "",
+                "vietnamese": "Mét",
+                "image": "meter.png",
+                "example": {
+                    "chinese": "我身高1米70厘米。",
+                    "pinyin": "Wǒ shēngāo 1 mǐ 70 límǐ.",
+                    "vietnamese": "Tôi cao 1 mét 70 cen-ti-mét."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "离",
+        "pinyin": "lí",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Khoảng cách, cự ly",
+                "image": "distance.png",
+                "example": {
+                    "chinese": "离这儿有多远？",
+                    "pinyin": "Lí zhèr yǒu duō yuǎn?",
+                    "vietnamese": "Khoảng cách từ đây đến đó bao xa?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "近",
+        "pinyin": "jìn",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Gần, cận",
+                "example": {
+                    "chinese": "他住得离公司并不近。",
+                    "pinyin": "Tā zhù dé lí gōngsī bìng bù jìn.",
+                    "vietnamese": "Anh ấy không sống gần công ty."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "远",
+        "pinyin": "yuǎn",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Xa, viễn",
+                "example": {
+                    "chinese": "地铁站有点儿远。",
+                    "pinyin": "Dìtiě zhàn yǒudiǎn er yuǎn.",
+                    "vietnamese": "Ga tàu điện ngầm ở khá xa."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "东",
+        "pinyin": "dōng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Đông (hướng)",
+                "image": "east.png",
+                "example": {
+                    "chinese": "大江东去。",
+                    "pinyin": "Dàjiāngdōngqù.",
+                    "vietnamese": "Sông Trường Giang chảy về phía đông."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "西",
+        "pinyin": "xī",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Tây (hướng)",
+                "image": "west.png",
+                "example": {
+                    "chinese": "太阳在西方落下。",
+                    "pinyin": "Tàiyáng zài xīfāng luòxià.",
+                    "vietnamese": "Mặt trời lặn ở hướng Tây."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "南",
+        "pinyin": "nán",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Nam (hướng)",
+                "image": "south.png",
+                "example": {
+                    "chinese": "群鸟南翔。",
+                    "pinyin": "Qún niǎo nán xiáng.",
+                    "vietnamese": "Đàn chim bay về phương nam."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "北",
+        "pinyin": "běi",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bắc (hướng)",
+                "image": "north.png",
+                "example": {
+                    "chinese": "我们朝着正北走去。",
+                    "pinyin": "Wǒmen cháozhe zhèng běi zǒu qù.",
+                    "vietnamese": "Chúng tôi đi về phía bắc."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "能",
+        "pinyin": "néng",
+        "meaning": [
+            {
+                "type": "trợ động từ",
+                "vietnamese": "Có thể",
+                "example": {
+                    "chinese": "你能办到的！",
+                    "pinyin": "Nǐ néng bàn dào de!",
+                    "vietnamese": "Bạn có thể làm được!"
+                }
+            }
+        ]
+    }
+]

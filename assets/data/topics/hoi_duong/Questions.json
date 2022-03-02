@@ -1,0 +1,132 @@
+{
+    "listening": [
+        ["在", "哪", "这", "那", "路", "外", "里", "下", "米", "离", "近", "远", "东", "西", "南", "北", "能"],
+        ["街道", "告诉", "对面", "前面", "后面", "中间", "旁边", "左边", "右边", "外面", "里面", "上面", "下面"]
+    ],
+    "reading": [
+        [
+            {
+                "chinese": "在",
+                "vietnamese": "Đang"
+            },
+            {
+                "chinese": "这",
+                "vietnamese": "Này, cái này"
+            },
+            {
+                "chinese": "那",
+                "vietnamese": "Kia, ấy"
+            },
+            {
+                "chinese": "路",
+                "vietnamese": "Đường, đường xá"
+            },
+            {
+                "chinese": "街道",
+                "vietnamese": "Phố, đường"
+            },
+            {
+                "chinese": "告诉",
+                "vietnamese": "Nói với, tố giác"
+            },
+            {
+                "chinese": "对面",
+                "vietnamese": "Đối diện, trước mặt"
+            },
+            {
+                "chinese": "前面",
+                "vietnamese": "Phía trước, đằng trước"
+            },
+            {
+                "chinese": "后面",
+                "vietnamese": "Phía sau, đằng sau"
+            },
+            {
+                "chinese": "中间",
+                "vietnamese": "Ở giữa, bên trong"
+            },
+            {
+                "chinese": "旁边",
+                "vietnamese": "Bên cạnh, hai bên trái phải"
+            },
+            {
+                "chinese": "左边",
+                "vietnamese": "Bên trái"
+            },
+            {
+                "chinese": "右边",
+                "vietnamese": "Bên phải"
+            },
+            {
+                "chinese": "外",
+                "vietnamese": "Bên ngoài, ở ngoài"
+            },
+            {
+                "chinese": "外面",
+                "vietnamese": "Bên ngoài, ở ngoài"
+            },
+            {
+                "chinese": "里",
+                "vietnamese": "Bên trong, ở trong"
+            },
+            {
+                "chinese": "里面",
+                "vietnamese": "Bên trong, ở trong"
+            },
+            {
+                "chinese": "上面",
+                "vietnamese": "Bên trên, ở trên"
+            },
+            {
+                "chinese": "下面",
+                "vietnamese": "Bên dưới, ở dưới"
+            },
+            {
+                "chinese": "下",
+                "vietnamese": "Dưới, bên dưới"
+            },
+            {
+                "chinese": "米",
+                "vietnamese": "Mét"
+            },
+            {
+                "chinese": "离",
+                "vietnamese": "Khoảng cách, cự ly"
+            },
+            {
+                "chinese": "近",
+                "vietnamese": "Gần, cận"
+            },
+            {
+                "chinese": "远",
+                "vietnamese": "Xa, viễn"
+            },
+            {
+                "chinese": "东",
+                "vietnamese": "Đông"
+            },
+            {
+                "chinese": "西",
+                "vietnamese": "Tây"
+            },
+            {
+                "chinese": "南",
+                "vietnamese": "Nam"
+            },
+            {
+                "chinese": "北",
+                "vietnamese": "Bắc"
+            },
+            {
+                "chinese": "能",
+                "vietnamese": "Có thể"
+            }
+        ]
+    ],
+    "speaking": [
+        ["在", "哪", "这", "那", "路", "外", "里", "下", "米", "离", "近", "远", "东", "西", "南", "北", "能", "街道", "告诉", "对面", "前面", "后面", "中间", "旁边", "左边", "右边", "外面", "里面", "上面", "下面", "谢谢你", "三号", "不客气"]
+    ],
+    "writing": [
+        ["请问到图书馆怎么走？", "一直往前走。", "从食堂再走几步就到。", "要走多远啊？", "500米左右。", "请问这里离北京大学远吗？", "这附近有地铁站吗？", "前面就是地铁站。", "要坐几号线地铁？", "三号。", "要转车吗？", "到图书馆怎么走？", "食堂在哪儿？", "你哥哥多高？", "从你家到学校多远？", "万里长城有多长？", "明天再来吧。", "再走几步就到。", "我想想再告诉你。", "以后再说。"]
+    ]
+}

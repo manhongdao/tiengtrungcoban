@@ -1,0 +1,176 @@
+[
+    {
+        "title": "Cấu trúc nói thời gian",
+        "content": [
+            {
+                "keyWords": ["的时候"],
+                "description": "的时候 (Lúc…)",
+                "sub_descriptions": [
+                    "Để diễn tả thời gian, ta dùng cấu trúc sau: Cụm từ chỉ số lượng + {{的时候}}"
+                ],
+                "examples": [
+                    {
+                        "chinese": "今天早上八点的时候我没在家。",
+                        "pinyin": "Jīntiān zǎoshang bā diǎn de shíhòu wǒ méi zàijiā.",
+                        "vietnamese": "Lúc 8 giờ sáng hôm nay tôi không ở nhà."
+                    },
+                    {
+                        "chinese": "我十八岁的时候一个人来到北京。",
+                        "pinyin": "Wǒ shíbā suì de shíhòu yīgè rén lái dào běijīng.",
+                        "vietnamese": "Lúc 18 tuổi, tôi đã một mình đến Bắc Kinh."
+                    },
+                    {
+                        "chinese": "我十一岁的时候开始踢足球。",
+                        "pinyin": "Wǒ shíyī suì de shíhòu kāishǐ tī zúqiú.",
+                        "vietnamese": "Tôi bắt đầu đá bóng lúc 11 tuổi."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["的时候"],
+                "sub_descriptions": [
+                    "Hoặc cấu trúc: Động từ + {{的时候}}"
+                ],
+                "examples": [
+                    {
+                        "chinese": "我睡觉的时候，我妈妈在做饭。",
+                        "pinyin": "Wǒ shuìjiào de shíhòu, wǒ māmā zài zuò fàn.",
+                        "vietnamese": "Mẹ tôi nấu cơm lúc tôi đang ngủ."
+                    },
+                    {
+                        "chinese": "麦克到学校的时候下雨了。",
+                        "pinyin": "Màikè dào xuéxiào de shíhòu xià yǔle.",
+                        "vietnamese": "Lúc Mike đến trường thì trời mưa."
+                    },
+                    {
+                        "chinese": "王老师工作的时候，她丈夫开车去医院了。",
+                        "pinyin": "Wáng lǎoshī gōngzuò de shíhòu, tā zhàngfū kāichē qù yīyuànle.",
+                        "vietnamese": "Lúc cô Vương đang làm việc, chồng của cô ấy đã lái xe đến bệnh viện."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "是不是",
+        "content": [
+            {
+                "keyWords": ["能", "吗"],
+                "sub_descriptions": [
+                    "Khi đặt câu hỏi, nếu có sự phỏng đoán khá chắc chắn về một sự việc hay tình huống nào đó thì ta có thể dùng mẫu câu này để khẳng định điều mình suy đoán. {{是不是}} thường đứng trước vị ngữ nhưng cũng có thể đứng ở đầu hay cuối câu."
+                ],
+                "examples": [
+                    {
+                        "chinese": "你很少生病，是不是喜欢运动？",
+                        "pinyin": "Nǐ hěn shǎo shēngbìng, shì bùshì xǐhuān yùndòng?",
+                        "vietnamese": "Cậu ít bị ốm như thế, có phải là rất thích chơi thể thao không?"
+                    },
+                    {
+                        "chinese": "是不是明天爸爸休息？",
+                        "pinyin": "Shì bùshì míngtiān bàba xiūxí?",
+                        "vietnamese": "Có phải mai bố được nghỉ không?"
+                    },
+                    {
+                        "chinese": "我们星期一去北京，是不是？",
+                        "pinyin": "Wǒmen xīngqí yī qù běijīng, shì bùshì?",
+                        "vietnamese": "Thứ hai mọi người đi Bắc Kinh phải không?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "已经",
+        "content": [
+            {
+                "keyWords": ["已经"],
+                "sub_descriptions": [
+                    "Diễn tả hành động đã hoàn thành hay đạt đến mức độ nào đó."
+                ],
+                "examples": [
+                    {
+                        "chinese": "王老师已经回家了。",
+                        "pinyin": "Wáng lǎoshī yǐjīng huí jiāle.",
+                        "vietnamese": "Cô Vương đã về nhà rồi."
+                    },
+                    {
+                        "chinese": "我的身体已经好了。",
+                        "pinyin": "Wǒ de shēntǐ yǐjīng hǎole.",
+                        "vietnamese": "Sức khỏe tôi đã tốt hơn rồi."
+                    },
+                    {
+                        "chinese": "足球我）已经踢了十年了。",
+                        "pinyin": "(Zúqiú wǒ) yǐjīng tīle shí niánle.",
+                        "vietnamese": "Tôi đã đá 10 năm (bóng đá) rồi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Giới từ 对",
+        "content": [
+            {
+                "keyWords": ["对"],
+                "sub_descriptions": [
+                    "Giới từ {{对}} có thể được dùng để chỉ mối tương quan giữa người và người, người và sự vật, sự vật và sự vật. (thường có hướng một chiều)"
+                ],
+                "examples": [
+                    {
+                        "chinese": "跑步对身体很好。",
+                        "pinyin": "Pǎobù duì shēntǐ hěn hǎo.",
+                        "vietnamese": "Chạy bộ rất tốt cho sức khỏe."
+                    },
+                    {
+                        "chinese": "老师对学生非常好。",
+                        "pinyin": "Lǎoshī duì xuéshēng fēicháng hǎo.",
+                        "vietnamese": "Thầy cô rất tốt với học sinh."
+                    },
+                    {
+                        "chinese": "我对自己的分数很满意。",
+                        "pinyin": "Wǒ duì zìjǐ de fēnshù hěn mǎnyì.",
+                        "vietnamese": "Tôi rất hài lòng với số điểm của mình."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Trợ từ động thái 了",
+        "content": [
+            {
+                "keyWords": ["了"],
+                "description": "Diễn tả sự việc đã xảy ra hay hoàn thành, được dùng ở cuối câu.",
+                "sub_descriptions": [
+                    "{{了}} đứng giữa động từ và tân ngữ khi trước tân ngữ có định ngữ (như từ chỉ số lượng, tính từ, đại từ,…)."
+                ],
+                "examples": [
+                    {
+                        "chinese": "你去哪儿了？",
+                        "pinyin": "Nǐ qù nǎ'er le?",
+                        "vietnamese": "Anh đi đâu rồi?"
+                    },
+                    {
+                        "chinese": "我去图书馆了。",
+                        "pinyin": "Wǒ qù túshū guǎnle.",
+                        "vietnamese": "Tôi đến thư viện rồi."
+                    },
+                    {
+                        "chinese": "他买了一些苹果。",
+                        "pinyin": "Tā mǎile yīxiē píngguǒ.",
+                        "vietnamese": "Anh ấy đã mua một ít táo."
+                    },
+                    {
+                        "chinese": "你看见了几个人？",
+                        "pinyin": "Nǐ kànjiànle jǐ gèrén?",
+                        "vietnamese": "Anh đã nhìn thấy mấy người?"
+                    }
+                ]
+            },
+            {
+                "keyWords": ["了"],
+                "description": "Dạng phủ định: 没 + Động từ + Tân ngữ (了 được lược bỏ)"
+            }
+        ]
+    }
+]

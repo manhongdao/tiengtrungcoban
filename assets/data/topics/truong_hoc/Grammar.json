@@ -1,0 +1,191 @@
+[
+    {
+        "title": "Động từ năng nguyện “会”",
+        "content": [
+            {
+                "keyWords": ["会"],
+                "description": "Động từ năng nguyện 会 được dùng trước động từ khác để diễn tả việc có được khả năng nào đó thông qua việc học.",
+                "examples": [
+                    {
+                        "chinese": "我会说汉语，不会说英语。",
+                        "pinyin": "Wǒ huì shuō Hànyǔ, bùhuì shuō Yīngyǔ.",
+                        "vietnamese": "Mình biết nói tiếng Trung, không biết nói tiếng Anh."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["会"],
+                "description": "Diễn tả tình huống có khả năng xảy ra trong tương lai.",
+                "examples": [
+                    {
+                        "chinese": "你会回来吗？",
+                        "pinyin": "Nǐ huì huílái ma?",
+                        "vietnamese": "Cậu có quay lại không?"
+                    },
+                    {
+                        "chinese": "我会/不会回来。",
+                        "pinyin": "Wǒ huì/bùhuì huílái.",
+                        "vietnamese": "Mình sẽ/không quay lại."
+                    }
+                ]
+            },
+            {
+                "description": "Dạng phủ định: 不会"
+            }
+        ]
+    },
+    {
+        "title": "Đại từ nghi vấn “怎么” và “怎么样”",
+        "content": [
+            {
+                "keyWords": ["怎么"],
+                "description": "怎么 được dùng trước động từ để hỏi về cách thức thực hiện hành động.",
+                "examples": [
+                    {
+                        "chinese": "这个汉字怎么念？",
+                        "pinyin": "Zhè gè Hànzì zěnme niàn?",
+                        "vietnamese": "Chữ Hán này đọc thế nào?"
+                    },
+                    {
+                        "chinese": "你的中文名字怎么写？",
+                        "pinyin": "Nǐ de Zhōngwén míngzi zěnme xiě?",
+                        "vietnamese": "Tên tiếng Trung của cậu viết thế nào?"
+                    }
+                ]
+            },
+            {
+                "keyWords": ["怎么样"],
+                "description": "怎么样 được dùng để hỏi về tình hình/tình trạng.",
+                "examples": [
+                    {
+                        "chinese": "你的中文怎么样？",
+                        "pinyin": "Nǐ de Zhōngwén zěnmeyàng?",
+                        "vietnamese": "Tiếng Trung của cậu thế nào?"
+                    },
+                    {
+                        "chinese": "你身体怎么样了？还好吗？",
+                        "pinyin": "Nǐ shēntǐ zěnmeyàng le? Hái hǎo ma?",
+                        "vietnamese": "Sức khỏe của cậu thế nào rồi? Vẫn khỏe chứ?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Trợ từ kết cấu “的”",
+        "content": [
+            {
+                "keyWords": ["的"],
+                "description": "Cấu trúc Đại từ/ Danh từ + 的 + Danh từ được dùng để chỉ quan hệ sở hữu.",
+                "sub_descriptions": [
+                    "Khi danh từ đứng sau {{的}} là danh từ chỉ người hay chỉ cách xưng hô với người thân thì {{的}} có thể lược bỏ."
+                ],
+                "examples": [
+                    {
+                        "chinese": "这是我的书。",
+                        "pinyin": "Zhè shì wǒ de shū.",
+                        "vietnamese": "Đây là sách của tôi."
+                    },
+                    {
+                        "chinese": "她不是我妹妹，她是我同学。",
+                        "pinyin": "Tā bùshì wǒ mèimei, tā shì wǒ tóngxué.",
+                        "vietnamese": "Bạn ấy không phải em gái tôi, bạn ấy là bạn học của tôi."
+                    }
+                ]
+            },
+            {
+                "sub_descriptions": [
+                    "Đại từ, tính từ hay động từ kết hợp với {{的}} sẽ tạo thành cụm từ có tính chất như danh từ (cụm danh từ) trong đó thành phần trọng tâm được lược bỏ."
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Câu chữ “有”",
+        "content": [
+            {
+                "keyWords": ["有"],
+                "sub_descriptions": [
+                    "Động từ “{{有}}” có thể được dùng trong câu diễn tả sự tồn tại, để cho biết một người, vật đang ở vị trí nào đó."
+                ],
+                "examples": [
+                    {
+                        "chinese": "桌子上有一台电脑和一本书。",
+                        "pinyin": "Zhuōzi shàng yǒu yī tái diànnǎo hé yī běn shū.",
+                        "vietnamese": "Trên bàn có một chiếc máy tính và một quyển sách."
+                    },
+                    {
+                        "chinese": "椅子下有一条狗。",
+                        "pinyin": "Yǐzi xià yǒu yī tiáo gǒu.",
+                        "vietnamese": "Dưới ghế có một chú chó."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Trợ từ ngữ khí “吧”",
+        "content": [
+            {
+                "keyWords": ["吧"],
+                "sub_descriptions": [
+                    "Dùng cuối câu cầu khiến, diễn tả đề nghị hay mệnh lệnh, làm cho câu nhẹ nhàng hơn."
+                ],
+                "examples": [
+                    {
+                        "chinese": "你坐吧。",
+                        "pinyin": "Nǐ zuò ba.",
+                        "vietnamese": "Cậu ngồi đi."
+                    },
+                    {
+                        "chinese": "我们上课吧。",
+                        "pinyin": "Wǒmen shàngkè ba.",
+                        "vietnamese": "Chúng ta vào bài nhé."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Phó từ mức độ",
+        "content": [
+            {
+                "keyWords": ["很"],
+                "description": "Phó từ mức độ “很”",
+                "sub_descriptions": [
+                    "Phó từ {{很}} đứng trước tính từ hoặc động từ chỉ hoạt động tâm lí, diễn tả mức độ cao hơn mức độ thông thường."
+                ],
+                "examples": [
+                    {
+                        "chinese": "很漂亮",
+                        "pinyin": "hěn piàoliang",
+                        "vietnamese": "rất đẹp"
+                    },
+                    {
+                        "chinese": "很喜欢",
+                        "pinyin": "hěn xǐhuān",
+                        "vietnamese": "rất thích"
+                    },
+                    {
+                        "chinese": "很想",
+                        "pinyin": "hěn xiǎng",
+                        "vietnamese": "rất nhớ"
+                    },
+                    {
+                        "chinese": "很喜欢",
+                        "pinyin": "hěn jiǔ",
+                        "vietnamese": "rất lâu"
+                    }
+                ]
+            },
+            {
+                "keyWords": ["太"],
+                "description": "Phó từ mức độ “太”",
+                "sub_descriptions": [
+                    "Phó từ {{太}} diễn tả mức độ cao hơn mức độ thông thường.",
+                    "Khi câu có {{太}} ở thể khẳng định, cần thêm trợ từ {{了}} ở cuối câu; khi câu ở thể phủ định, người ta không dùng {{了}}."
+                ]
+            }
+        ]
+    }
+]

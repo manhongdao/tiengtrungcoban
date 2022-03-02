@@ -1,0 +1,153 @@
+[
+    {
+        "title": "Cách chào hỏi",
+        "content": [
+            {
+                "description": "Có 2 cách chào hỏi cơ bản nhất:",
+                "sub_descriptions": [
+                    "Chào một cá nhân cụ thể:"
+                ],
+                "examples": [
+                    {
+                        "chinese": "你好！",
+                        "pinyin": "Nǐ hǎo!",
+                        "vietnamese": "Xin chào!"
+                    }
+                ]
+            },
+            {
+                "sub_descriptions": [
+                    "Chào chung tất cả mọi người đang có mặt:"
+                ],
+                "examples": [
+                    {
+                        "chinese": "大家好！/你们好！",
+                        "pinyin": "Dàjiā hǎo!/Nǐmen hǎo!",
+                        "vietnamese": "Chào mọi người!"
+                    }
+                ]
+            },
+            {
+                "sub_descriptions": [
+                    "Ngoài ra có thể chào bằng chức danh cụ thể của đối phương:"
+                ],
+                "examples": [
+                    {
+                        "chinese": "老师好！/林总好！/王律师好！",
+                        "pinyin": "Lǎoshī hǎo!/Lín zǒng hǎo!/Wáng lǜshī hǎo!",
+                        "vietnamese": "Xin chào thầy! / Xin chào, anh Lin! / Xin chào, Luật sư Wang!"
+                    }
+                ]
+            },
+            {
+                "description": "Hoặc chào theo từng thời điểm trong ngày:",
+                "examples": [
+                    {
+                        "chinese": "早上好！/早！/早安！",
+                        "pinyin": "Zǎoshang hǎo!/Zǎo!/Zǎo ān!",
+                        "vietnamese": "Chào buổi sáng!/ Buổi sáng tốt lành! (Dùng cho buổi sáng sớm, trước 9h)"
+                    },
+                    {
+                        "chinese": "上午好！",
+                        "pinyin": "Shàngwǔ hǎo!",
+                        "vietnamese": "Xin chào! (Dùng cho khoảng thời gian 9-12h sáng)"
+                    },
+                    {
+                        "chinese": "下午好！",
+                        "pinyin": "Xiàwǔ hǎo!",
+                        "vietnamese": "Xin chào! (Dùng cho buổi chiều, khoảng sau 12h-6h)"
+                    },
+                    {
+                        "chinese": "晚上好！",
+                        "pinyin": "Wǎnshàng hǎo!",
+                        "vietnamese": "Xin chào! (Dùng cho buổi tối, khoảng sau 7h tối)"
+                    },
+                    {
+                        "chinese": "晚安！",
+                        "pinyin": "Wǎn'ān!",
+                        "vietnamese": "Chúc ngủ ngon!"
+                    }
+                ]
+            },
+            {
+                "description": "Tạm biệt và hẹn gặp lại:",
+                "examples": [
+                    {
+                        "chinese": "再见！",
+                        "pinyin": "Zàijiàn!",
+                        "vietnamese": "Tạm biệt!"
+                    },
+                    {
+                        "chinese": "明天见！",
+                        "pinyin": "Míngtiān jiàn!",
+                        "vietnamese": "Hẹn gặp lại ngày mai!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Cách nói xin lỗi và cảm ơn",
+        "content": [
+            {
+                "description": "Xin lỗi:",
+                "examples": [
+                    {
+                        "chinese": "对不起！",
+                        "pinyin": "Duìbùqǐ!",
+                        "vietnamese": "Dùng khi người nói cảm thấy mình đã làm điều sai, có lỗi."
+                    },
+                    {
+                        "chinese": "不好意思！",
+                        "pinyin": "Bù hǎoyìsi!",
+                        "vietnamese": "Dùng khi người nói cảm thấy mình đang làm phiền hoặc muốn nhờ vả người khác."
+                    }
+                ]
+            },
+            {
+                "sub_descriptions": [
+                    "Trả lời:"
+                ],
+                "examples": [
+                    {
+                        "chinese": "没事。/没关系。",
+                        "pinyin": "Méishì. / Méiguānxì.",
+                        "vietnamese": "Không sao/Không vấn đề gì đâu."
+                    }
+                ]
+            },
+            {
+                "description": "Cảm ơn:",
+                "examples": [
+                    {
+                        "chinese": "谢了！",
+                        "pinyin": "Xièle!",
+                        "vietnamese": "Ngữ khí nhẹ, thường dùng với bạn bè thân thiết, cảm giác tương đối tùy ý."
+                    },
+                    {
+                        "chinese": "谢谢！",
+                        "pinyin": "Xièxiè!",
+                        "vietnamese": "Câu cảm ơn cơ bản, có thể dùng trong tất cả trường hợp."
+                    },
+                    {
+                        "chinese": "多谢！",
+                        "pinyin": "Duōxiè!",
+                        "vietnamese": "Ngữ khí khá nặng, thể hiện sự biết ơn, cảm kích khi người khác đã giúp mình một việc quan trọng."
+                    }
+                ]
+            },
+            {
+                "sub_descriptions": [
+                    "Trả lời:"
+                ],
+                "examples": [
+                    {
+                        "chinese": "没什么。/不用谢。/不客气。/别客气。",
+                        "pinyin": "Méishénme./ Bùyòng xiè./ Bù kèqì./ Bié kèqì.",
+                        "vietnamese": "Không có gì."
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,83 @@
+[
+    [
+        {
+            "chinese": "今天去食堂吃饭还是去饭店吃饭？",
+            "pinyin": "Jīntiān qù shítáng chīfàn háishì qù fàndiàn chīfàn?",
+            "vietnamese": "Hôm nay đến nhà ăn hay đến quán cơm ăn cơm?"
+        },
+        {
+            "chinese": "我们去食堂吃吧。",
+            "pinyin": "Wǒmen qù shítáng chī ba.",
+            "vietnamese": "Mình đi nhà ăn ăn đi."
+        },
+        {
+            "chinese": "你想吃什么？",
+            "pinyin": "Nǐ xiǎng chī shénme?",
+            "vietnamese": "Bạn muốn ăn gì?"
+        },
+        {
+            "chinese": "我想吃包子，很久没吃了。你呢？",
+            "pinyin": "Wǒ xiǎng chī bāozi, hěnjiǔ méi chīle. Nǐ ne?",
+            "vietnamese": "Mình muốn ăn bánh bao, lâu quá rồi không ăn. Bạn thì sao?"
+        },
+        {
+            "chinese": "我吃面条，喝奶茶。你喝什么？",
+            "pinyin": "Wǒ chī miàntiáo, hē nǎichá. Nǐ hē shénme?",
+            "vietnamese": "Mình ăn mì và uống trà sữa. Bạn uống gì?"
+        },
+        {
+            "chinese": "我也喝奶茶。",
+            "pinyin": "Wǒ yě hē nǎichá.",
+            "vietnamese": "Mình cũng uống trà sữa."
+        }
+    ],
+    [
+        {
+            "chinese": "你最喜欢吃的东西是什么？",
+            "pinyin": "Nǐ zuì xǐhuān chī de dōngxī shì shénme?",
+            "vietnamese": "Bạn thích ăn gì nhất?"
+        },
+        {
+            "chinese": "我最喜欢吃面条和鸡蛋。",
+            "pinyin": "Wǒ zuì xǐhuān chī miàntiáo hé jīdàn.",
+            "vietnamese": "Tôi thích ăn mì và trứng nhất."
+        },
+        {
+            "chinese": "饮料呢？",
+            "pinyin": "Yǐnliào ne?",
+            "vietnamese": "Đồ uống thì sao?"
+        },
+        {
+            "chinese": "我最喜欢喝咖啡，每天我都喝一杯咖啡。",
+            "pinyin": "Wǒ zuì xǐhuān hē kāfēi, měitiān wǒ dōu hè yībēi kāfēi.",
+            "vietnamese": "Tôi thích nhất là cà phê, mỗi ngày tôi đều uống một cốc cà phê."
+        },
+        {
+            "chinese": "我也很喜欢喝咖啡。",
+            "pinyin": "Wǒ yě hěn xǐhuān hē kāfēi.",
+            "vietnamese": "Tôi cũng rất thích uống cà phê."
+        }
+    ],
+    [
+        {
+            "chinese": "你喜欢吃什么水果？",
+            "pinyin": "Nǐ xǐhuān chī shénme shuǐguǒ?",
+            "vietnamese": "Bạn thích ăn loại quả nào?"
+        },
+        {
+            "chinese": "我喜欢西瓜。",
+            "pinyin": "Wǒ xǐhuān xīguā.",
+            "vietnamese": "Tôi thích ăn dưa hấu."
+        },
+        {
+            "chinese": "你喜欢橙子吗？",
+            "pinyin": "Nǐ xǐhuān chéngzi ma?",
+            "vietnamese": "Bạn có thích ăn cam không?"
+        },
+        {
+            "chinese": "我不喜欢橙子，太酸了。",
+            "pinyin": "Wǒ bù xǐhuān chéngzi, tài suānle.",
+            "vietnamese": "Tôi không thích, chua lắm."
+        }
+    ]
+]

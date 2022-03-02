@@ -1,0 +1,280 @@
+[
+    {
+        "chinese": "叫",
+        "pinyin": "jiào",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Tên (là)",
+                "example": {
+                    "chinese": "你叫什么名字？",
+                    "pinyin": "Nǐ jiào shénme míngzi?",
+                    "vietnamese": "Bạn tên là gì?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "什么",
+        "pinyin": "shénme",
+        "meaning": [
+            {
+                "type": "",
+                "vietnamese": "Gì, cái gì",
+                "example": {
+                    "chinese": "这是什么东西？",
+                    "pinyin": "Zhè shì shénme dōngxi?",
+                    "vietnamese": "Đây là cái gì?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "名字",
+        "pinyin": "míngzi",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Tên",
+                "example": {
+                    "chinese": "你的名字真好听。",
+                    "pinyin": "Nǐ de míngzi zhēn hǎotīng.",
+                    "vietnamese": "Tên của bạn nghe hay thật."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "姓",
+        "pinyin": "xìng",
+        "meaning": [
+            {
+                "type": "",
+                "vietnamese": "Họ",
+                "example": {
+                    "chinese": "我姓范。",
+                    "pinyin": "Wǒ xìng Fàn.",
+                    "vietnamese": "Mình họ Phạm."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "是",
+        "pinyin": "shì",
+        "meaning": [
+            {
+                "type": "",
+                "vietnamese": "Là",
+                "example": {
+                    "chinese": "河内是越南的首都。",
+                    "pinyin": "Hénèi shì Yuènán de shǒudū.",
+                    "vietnamese": "Hà Nội là thủ đô của Việt Nam."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "也",
+        "pinyin": "yě",
+        "meaning": [
+            {
+                "type": "",
+                "vietnamese": "Cũng",
+                "example": {
+                    "chinese": "我也是越南人。",
+                    "pinyin": "Wǒ yě shì Yuènán rén.",
+                    "vietnamese": "Tôi cũng là người Việt Nam."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "新",
+        "pinyin": "xīn",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Mới",
+                "image": "new.png",
+                "example": {
+                    "chinese": "这是新产品。",
+                    "pinyin": "Zhè shì xīn chǎnpǐn.",
+                    "vietnamese": "Đây là sản phẩm mới."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "人",
+        "pinyin": "rén",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Người",
+                "image": "people.png",
+                "example": {
+                    "chinese": "他是一个很好的人。",
+                    "pinyin": "Tā shì yī gè hěn hǎo de rén.",
+                    "vietnamese": "Anh ấy là một người rất tốt."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "越南",
+        "pinyin": "Yuènán",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Việt Nam",
+                "image": "vietnam.png",
+                "example": {
+                    "chinese": "越南是一个漂亮的国家。",
+                    "pinyin": "Yuènán shì yī gè piàoliang de guójiā.",
+                    "vietnamese": "Việt Nam là một đất nước xinh đẹp."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "河内",
+        "pinyin": "Hénèi",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Hà Nội",
+                "example": {
+                    "chinese": "河内是越南的首都。",
+                    "pinyin": "Hénèi shì Yuènán de shǒudū.",
+                    "vietnamese": "Hà Nội là thủ đô của Việt Nam."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "中国",
+        "pinyin": "Zhōngguó",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Trung Quốc",
+                "image": "china.png",
+                "example": {
+                    "chinese": "中国是一个发展的国家。",
+                    "pinyin": "Zhōngguó shì yī gè fāzhǎn de guójiā.",
+                    "vietnamese": "Trung Quốc là một nước phát triển."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "美国",  
+        "pinyin": "Měiguó",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "nước Mỹ",
+                "image": "united-states.png",
+                "example": {
+                    "chinese": "我的英语老师是美国人。",
+                    "pinyin": "Wǒ de Yīngyǔ lǎoshī shì Měiguó rén.",
+                    "vietnamese": "Cô giáo tiếng Anh của tôi là người Mỹ."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "英国",
+        "pinyin": "Yīngguó",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "nước Anh",
+                "image": "united-kingdom.png"
+            }
+        ]
+    },
+    {
+        "chinese": "法国",
+        "pinyin": "Fǎguó",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "nước Pháp",
+                "image": "france.png",
+                "example": {
+                    "chinese": "我想去法国旅游。",
+                    "pinyin": "Wǒ xiǎng qù Fǎguó lǚyóu.",
+                    "vietnamese": "Tôi muốn đi Pháp du lịch."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "谁",
+        "pinyin": "shéi/shuí",
+        "meaning": [
+            {
+                "type": "đại từ",
+                "vietnamese": "Ai",
+                "example": {
+                    "chinese": "那个女人是谁？",
+                    "pinyin": "Nà gè nǚrén shì shéi?",
+                    "vietnamese": "Người phụ nữ kia là ai?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "先生",
+        "pinyin": "xiānsheng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Ngài, ông, anh,… (xưng hô với nam giới một cách lịch sự, thể hiện đề cao, tôn trọng đối phương; có thể dùng sau tên riêng)"
+            }
+        ]
+    },
+    {
+        "chinese": "女士",
+        "pinyin": "nǚshì",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bà, chị, cô,… (dùng để xưng hô với nữ giới một cách lịch sự, thể hiện đề cao, tôn trọng đối phương; có thể dùng sau tên riêng)"
+            }
+        ]
+    },
+    {
+        "chinese": "岁",
+        "pinyin": "suì",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Tuổi",
+                "image": "age.png",
+                "example": {
+                    "chinese": "我十八岁。",
+                    "pinyin": "Wǒ shíbā suì.",
+                    "vietnamese": "Tôi 18 tuổi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "几",
+        "pinyin": "jǐ",
+        "meaning": [
+            {
+                "type": "lượng từ",
+                "vietnamese": "Mấy",
+                "example": {
+                    "chinese": "你儿子几岁了？",
+                    "pinyin": "Nǐ érzi jǐ suì le?",
+                    "vietnamese": "Con chị mấy tuổi rồi?"
+                }
+            }
+        ]
+    }
+]

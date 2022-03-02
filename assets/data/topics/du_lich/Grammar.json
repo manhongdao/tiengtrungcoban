@@ -1,0 +1,508 @@
+[
+    {
+        "title": "Phân biệt 来 và 到, 走 và 去",
+        "content": [
+            {
+                "keyWords": ["来", "到"],
+                "description": "来 và 到",
+                "sub_descriptions": [
+                    "Cùng dịch là “đến, tới”, tuy nhiên {{来}} nghiêng về nhấn mạnh quá trình, còn {{到}} nghiêng về nhấn mạnh đã hoàn thành, đã đến địa điểm nói.",
+                    "Khi nói “{{你来我这儿}}” (bạn đến chỗ tôi) thì ý là vẫn chưa xuất phát, hoặc đang trong quá trình đến, vẫn chưa {{到}}.",
+                    "Khi nói “{{我到这儿}}” (tôi đến đây) thì ý là đã đến nơi, đã hoàn thành quá trình {{来}}."
+                ],
+                "examples": [
+                    {
+                        "chinese": "你来我这儿"
+                    },
+                    {
+                        "chinese": "我到这儿"
+                    }
+                ]
+            },
+            {
+                "keyWords": ["去", "走"],
+                "description": "去 và 走",
+                "sub_descriptions": [
+                    "Cùng dịch là “đi”, tuy nhiên {{去}} biểu thị hướng tới một địa điểm nào đó, còn {{走}} chỉ nhấn mạnh hành động rời khỏi vị trí ban đầu, không bao hàm điểm đến."
+                ],
+                "examples": [
+                    {
+                        "chinese": "我们走吧。",
+                        "pinyin": "Wǒmen zǒu ba.",
+                        "vietnamese": "Chúng ta đi thôi."
+                    },
+                    {
+                        "chinese": "我们去哪儿？",
+                        "pinyin": "Wǒmen qù nǎ'er?",
+                        "vietnamese": "Chúng ta đi đâu?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Trợ từ động thái 过",
+        "content": [
+            {
+                "keyWords": ["见", "懂", "好", "到"],
+                "description": "Dạng khẳng định",
+                "sub_descriptions": [
+                    "Một số động từ hoặc tính từ có thể được dùng sau động từ để bổ sung thêm thông tin, cho biết rõ kết quả của hành động."
+                ],
+                "examples": [
+                    {
+                        "chinese": "我看见你女朋友了。",
+                        "pinyin": "Tôi nhìn thấy bạn gái anh rồi.",
+                        "vietnamese": "我 (chủ ngữ), 看 (động từ), 见 (bổ ngữ kết quả), 你女朋友了 (tân ngữ)"
+                    },
+                    {
+                        "chinese": "我听懂老师说的话了。",
+                        "pinyin": "Tôi (nghe) hiểu những gì cô giáo nói rồi.",
+                        "vietnamese": "我 (chủ ngữ), 听 (động từ), 懂 (bổ ngữ kết quả), 老师说的话了 (tân ngữ)"
+                    },
+                    {
+                        "chinese": "她做好饭了。",
+                        "pinyin": "Cô ấy nấu xong cơm rồi.",
+                        "vietnamese": "她 (chủ ngữ), 做 (động từ), 好 (bổ ngữ kết quả), 饭了 (tân ngữ)"
+                    },
+                    {
+                        "chinese": "他找到书了。",
+                        "pinyin": "Anh ấy tìm thấy sách rồi.",
+                        "vietnamese": "他 (chủ ngữ), 找 (động từ), 到 (bổ ngữ kết quả), 书了 (tân ngữ)"
+                    }
+                ]
+            },
+            {
+                "keyWords": ["没", "有", "见", "懂", "好", "到"],
+                "description": "Dạng phủ định",
+                "sub_descriptions": [
+                    "Thêm {{没}}（{{有}}）trước động từ, cuối câu không dùng {{了}}"
+                ],
+                "examples": [
+                    {
+                        "chinese": "我没有做完作业。",
+                        "pinyin": "Wǒ méiyǒu zuò wán zuòyè.",
+                        "vietnamese": "Tôi chưa làm xong bài."
+                    },
+                    {
+                        "chinese": "你说什么，我没听见。",
+                        "pinyin": "Nǐ shuō shénme, wǒ méi tīngjiàn.",
+                        "vietnamese": "Anh nói gì, tôi chưa nghe thấy."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["没", "有", "见", "懂", "好", "到"],
+                "description": "Dạng nghi vấn",
+                "sub_descriptions": [
+                    "Thêm {{了没}}（{{有}}） vào cuối câu khẳng định"
+                ],
+                "examples": [
+                    {
+                        "chinese": "你听见了没？",
+                        "pinyin": "Nǐ tīngjiànle méi?",
+                        "vietnamese": "Anh đã nghe thấy chưa?"
+                    },
+                    {
+                        "chinese": "你找到书了没有？",
+                        "pinyin": "Nǐ zhǎodào shūle méiyǒu?",
+                        "vietnamese": "Anh đã tìm thấy sách chưa?"
+                    }
+                ]
+            },
+            {
+                "description": "Bổ ngữ kết quả 好 được dùng để diễn tả hành động được hoàn thành và còn làm cho người ta thấy hài lòng"
+            }
+        ]
+    },
+    {
+        "title": "Trợ từ động thái 过",
+        "content": [
+            {
+                "keyWords": ["过"],
+                "description": "Dạng khẳng định",
+                "sub_descriptions": [
+                    "Cấu trúc động từ + trợ từ động thái {{过}} được dùng để chỉ một trải nghiệm từng có, một hành động từng xảy ra trong quá khứ nhưng không kéo dài đến hiện tại."
+                ],
+                "examples": [
+                    {
+                        "chinese": "他们来过我家。",
+                        "pinyin": "Tāmen láiguò wǒjiā.",
+                        "vietnamese": "Họ từng đến nhà tôi."
+                    },
+                    {
+                        "chinese": "我看过那部电影。",
+                        "pinyin": "Wǒ kànguò nà bù diànyǐng.",
+                        "vietnamese": "Tôi đã từng xem bộ phim ấy."
+                    },
+                    {
+                        "chinese": "我去过中国。",
+                        "pinyin": "Wǒ qùguò Zhōngguó.",
+                        "vietnamese": "Tôi đã từng đi Trung Quốc."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["没", "有", "过"],
+                "description": "Dạng phủ định",
+                "sub_descriptions": [
+                    "{{没}}（{{有}}）động từ + trợ từ động thái {{过}}"
+                ],
+                "examples": [
+                    {
+                        "chinese": "我没有见过他。",
+                        "pinyin": "Wǒ méiyǒu jiànguò tā.",
+                        "vietnamese": "Tôi chưa từng gặp anh ta."
+                    },
+                    {
+                        "chinese": "我没吃过榴莲。",
+                        "pinyin": "Wǒ méi chīguò liúlián.",
+                        "vietnamese": "Tôi chưa từng ăn sầu riêng."
+                    },
+                    {
+                        "chinese": "他没爱过谁。",
+                        "pinyin": "Tā méi àiguò shéi.",
+                        "vietnamese": "Anh ấy chưa từng yêu ai."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["没有", "了吗"],
+                "description": "Dạng nghi vấn",
+                "sub_descriptions": [
+                    "Thêm {{没有}}/{{了吗}} vào cuối câu"
+                ],
+                "examples": [
+                    {
+                        "chinese": "你来过中国没有？",
+                        "pinyin": "Nǐ láiguò Zhōngguó méiyǒu?",
+                        "vietnamese": "Bạn đã từng đến Trung Quốc chưa?"
+                    },
+                    {
+                        "chinese": "你爱过我没有？",
+                        "pinyin": "Nǐ àiguò wǒ méiyǒu?",
+                        "vietnamese": "Anh đã từng yêu em chưa?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Bổ ngữ tần suất 次",
+        "content": [
+            {
+                "keyWords": ["次"],
+                "sub_descriptions": [
+                    "Bổ ngữ chỉ tần suất 次 thường được dùng sau động từ để chỉ số lần xảy ra hay thực hiện hành động nào đó."
+                ],
+                "examples": [
+                    {
+                        "chinese": "我在这儿买过一次（东西）。",
+                        "pinyin": "Wǒ zài zhèr mǎiguò yīcì (dōngxi).",
+                        "vietnamese": "Tôi đã từng mua đồ ở đây một lần."
+                    },
+                    {
+                        "chinese": "我坐过两次飞机。",
+                        "pinyin": "Wǒ zuòguò liǎng cì fēijī.",
+                        "vietnamese": "Tôi đã từng đi máy bay hai lần."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["次"],
+                "sub_descriptions": [
+                    "Khi tân ngữ là danh từ chỉ nơi chốn, ta có thể đặt bổ ngữ chỉ tần suất ở trước hoặc sau tân ngữ."
+                ],
+                "examples": [
+                    {
+                        "chinese": "我来过北京三次。/我来过三次北京。",
+                        "pinyin": "Wǒ láiguò Běijīng sāncì. /Wǒ láiguò sāncì Běijīng.",
+                        "vietnamese": "Tôi đã đến Bắc Kinh ba lần."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["次"],
+                "sub_descriptions": [
+                    "Khi tân ngữ là đại từ nhân xưng, ta phải đặt bổ ngữ chỉ tần suất sau tân ngữ."
+                ],
+                "examples": [
+                    {
+                        "chinese": "我见过她五次。",
+                        "pinyin": "Wǒ jiànguò tā wǔ cì.",
+                        "vietnamese": "Tôi đã gặp cô ấy năm lần."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "第",
+        "content": [
+            {
+                "keyWords": ["第"],
+                "sub_descriptions": [
+                    "Được dùng trước cụm từ chỉ số lượng để diễn đạt thứ tự."
+                ],
+                "examples": [
+                    {
+                        "chinese": "第一次",
+                        "pinyin": "Dìyī cì",
+                        "vietnamese": "Lần thứ nhất"
+                    },
+                    {
+                        "chinese": "第一个人",
+                        "pinyin": "Dìyī gè rén",
+                        "vietnamese": "Người đầu tiên"
+                    },
+                    {
+                        "chinese": "第三课",
+                        "pinyin": "Dìsān kè",
+                        "vietnamese": "Bài 3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "能 và 可以",
+        "content": [
+            {
+                "keyWords": ["能", "可以"],
+                "sub_descriptions": [
+                    "{{能}} và {{可以}} đều biểu thị khả năng, có thể làm được điều gì đó, đạt đến một mức độ nhất định."
+                ],
+                "examples": [
+                    {
+                        "chinese": "他可以/能用英文写小说。",
+                        "pinyin": "Tā kěyǐ/néng yòng yīngwén xiě xiǎoshuō.",
+                        "vietnamese": "Anh ấy có thể viết tiểu thuyết bằng tiếng Anh."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["能", "可以"],
+                "sub_descriptions": [
+                    "{{能}} và {{可以}} đều biểu thị sự xin phép/ cho phép được làm gì đó, nhưng thông thường {{可以}} dùng trong câu khẳng định, {{能}} dùng trong câu phủ định."
+                ],
+                "examples": [
+                    {
+                        "chinese": "这里可以/能抽烟吗？",
+                        "pinyin": "Zhèlǐ kěyǐ/néng chōuyān ma?",
+                        "vietnamese": "Ở đây có được hút thuốc không?"
+                    },
+                    {
+                        "chinese": "可以的。",
+                        "pinyin": "Kěyǐ de.",
+                        "vietnamese": "Được."
+                    },
+                    {
+                        "chinese": "对不起，这里不能抽烟。",
+                        "pinyin": "Duìbuqǐ, zhèlǐ bùnéng chōuyān.",
+                        "vietnamese": "Xin lỗi, ở đây không được hút thuốc."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["能", "可以"],
+                "sub_descriptions": [
+                    "{{能}} biểu thị rất giỏi trong việc gì đó, {{可以}} không thể."
+                ],
+                "examples": [
+                    {
+                        "chinese": "他很能睡，一天可以/能睡十个小时。",
+                        "pinyin": "Tā hěn néng shuì, yītiān kěyǐ/néng shuì shí gè xiǎoshí.",
+                        "vietnamese": "Anh ta ngủ giỏi lắm, một ngày có thể ngủ 10 tiếng."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["能", "可以"],
+                "sub_descriptions": [
+                    "{{可以}} biểu thị rất “đáng” để làm một việc gì đó, {{能}} không thể."
+                ],
+                "examples": [
+                    {
+                        "chinese": "这种苹果很好吃，对身体很好，价格也不贵，可以多买一些",
+                        "pinyin": "Zhè zhǒng píngguǒ hěn hào chī, duì shēntǐ hěn hǎo, jiàgé yě bù guì, kěyǐ duō mǎi yīxiē.",
+                        "vietnamese": "Loại táo này rất ngon, rất tốt cho sức khỏe, giá cả cũng không đắt, có thể mua thêm một chút."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["能", "可以"],
+                "sub_descriptions": [
+                    "{{可以}} có thể đơn độc làm vị ngữ, {{能}} không thể."
+                ],
+                "examples": [
+                    {
+                        "chinese": "这种机器很好用，插上电源就可以了。",
+                        "pinyin": "Zhè zhǒng jīqì hěn hǎo yòng, chā shàng diànyuán jiù kěyǐle.",
+                        "vietnamese": "Cái máy này rất dễ dùng, cắm điện vào là được."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Phó từ ngữ khí 真",
+        "content": [
+            {
+                "keyWords": ["真"],
+                "sub_descriptions": [
+                    "{{真}} + tính từ dùng để nhấn mạnh mức độ cao, thể hiện cảm xúc “thật...”, “quả là...”"
+                ],
+                "examples": [
+                    {
+                        "chinese": "真好看。",
+                        "vietnamese": "Quả là đẹp."
+                    },
+                    {
+                        "chinese": "好吃。",
+                        "vietnamese": "Ngon thật."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "虽然……但是……(tuy... nhưng...)",
+        "content": [
+            {
+                "keyWords": ["虽然", "但是"],
+                "sub_descriptions": [
+                    "Cấu trúc {{虽然}}……{{但是}}…… được dùng để nối hai mệnh đề nhằm thể hiện qua hệ đối lập."
+                ],
+                "examples": [
+                    {
+                        "chinese": "虽然汉字很难但是我很喜欢汉字。",
+                        "pinyin": "Suīrán Hànzì hěn nán dànshì wǒ hěn xǐhuan Hànzì.",
+                        "vietnamese": "Tuy chữ Hán rất khó, nhưng tôi rất thích chữ Hán."
+                    },
+                    {
+                        "chinese": "虽然是晴天但是很冷。",
+                        "pinyin": "Suīrán shì qíngtiān dànshì hěn lěng.",
+                        "vietnamese": "Tuy trời nắng nhưng rất lạnh."
+                    },
+                    {
+                        "chinese": "虽然我听不懂但是他的声音很好听。",
+                        "pinyin": "Suīrán wǒ tīng bù dǒng dànshì tā de shēngyīn hěn hǎotīng.",
+                        "vietnamese": "Mặc dù tôi nghe không hiểu, nhưng giọng của anh ấy nghe rất hay."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "A跟B (一起) + động từ",
+        "content": [
+            {
+                "keyWords": ["跟", "一起"],
+                "sub_descriptions": [
+                    "Có nghĩa là: A cùng làm gì đó với B",
+                    "Mẫu câu tương tự: A{{和}}B ({{一起}}) + động từ，A{{陪}}B ({{一起}}) + động từ"
+                ],
+                "examples": [
+                    {
+                        "chinese": "你跟/和/陪我一起去吧。",
+                        "pinyin": "Nǐ gēn/hé/péi wǒ yīqǐ qù ba.",
+                        "vietnamese": "Cậu cùng đi với tớ nhé."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Giới từ 给",
+        "content": [
+            {
+                "keyWords": ["给"],
+                "sub_descriptions": [
+                    "Giới từ {{给}} dùng để dẫn ra đối tượng của hành động hoặc đối tượng tiếp nhận động tác.",
+                    "Cấu trúc A{{给}}B+ động từ + tân ngữ"
+                ],
+                "examples": [
+                    {
+                        "chinese": "我给你买咖啡。",
+                        "pinyin": "Wǒ gěi nǐ mǎi kāfēi.",
+                        "vietnamese": "Tôi mua cà phê cho cậu."
+                    },
+                    {
+                        "chinese": "我给妈妈打电话。",
+                        "pinyin": "Wǒ gěi māma dǎ diànhuà.",
+                        "vietnamese": "Tôi gọi điện thoại cho mẹ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Bổ ngữ xu hướng cơ bản với 来 và 去",
+        "content": [
+            {
+                "keyWords": ["来", "去"],
+                "sub_descriptions": [
+                    "Cấu trúc Động từ + {{来}}/{{去}} được dùng để chỉ phương hướng của hành động, {{来}} chỉ hướng tiến về phía người nói còn {{去}} chỉ hướng rời xa người nói, các động từ thường dùng nhất là: {{上}}(lên), {{下}}(xuống), {{进}}(vào), {{出}}(ra), {{回}}(về), {{过}}(qua, đi qua),…"
+                ],
+                "examples": [
+                    {
+                        "chinese": "我回来了。",
+                        "pinyin": "Wǒ huíláile.",
+                        "vietnamese": "Tôi về rồi."
+                    },
+                    {
+                        "chinese": "你过来还是我过去？",
+                        "pinyin": "Nǐ guòlai háishì wǒ guòqu?",
+                        "vietnamese": "Anh qua đây hay tôi qua đó?"
+                    },
+                    {
+                        "chinese": "你出来还是我进去？",
+                        "pinyin": "Nǐ chulai háishì wǒ jìnqu?",
+                        "vietnamese": "Mày ra đây hay tao vào đấy? (Người nói đang ở ngoài)"
+                    }
+                ]
+            },
+            {
+                "keyWords": ["来", "去"],
+                "sub_descriptions": [
+                    "Nếu tân ngữ là danh từ chỉ nơi chốn, ta phải đặt tân ngữ trước {{来}}/{{去}}"
+                ],
+                "examples": [
+                    {
+                        "chinese": "朋友回家去了。",
+                        "pinyin": "Péngyou huí jiā qùle.",
+                        "vietnamese": "Các bạn về nhà rồi."
+                    },
+                    {
+                        "chinese": "我上楼去。",
+                        "pinyin": "Wǒ shàng lóu qù.",
+                        "vietnamese": "Con lên lầu đây."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["来", "去"],
+                "sub_descriptions": [
+                    "Nếu tân ngữ là danh từ chỉ sự vật, ta có thể đặt tân ngữ trước hoặc sau {{来}}/{{去}}"
+                ],
+                "examples": [
+                    {
+                        "chinese": "明天要带作业来。",
+                        "pinyin": "Míngtiān yào dài zuòyè lái.",
+                        "vietnamese": "Ngày mai phải mang bài tập đến."
+                    },
+                    {
+                        "chinese": "给我买来一点面包吧。",
+                        "pinyin": "Gěi wǒ mǎi lái yīdiǎn miànbāo ba.",
+                        "vietnamese": "Mua cho tôi ít bánh mì đến đây nhé."
+                    },
+                    {
+                        "chinese": "这次旅游，我想带去这本书。",
+                        "pinyin": "Zhè cì lǚyóu, wǒ xiǎng dài qù zhè běn shū.",
+                        "vietnamese": "Lần này đi du lịch tôi muốn mang quyển sách này đi."
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,239 @@
+[
+    {
+        "title": "Cách nói số lượng",
+        "content": [
+            {
+                "description": "Số đếm từ 0 đến 10",
+                "sub_descriptions": [
+                    "{{零、一、二、三、四、五、六、七、八、九、十}}"
+                ]
+            },
+            {
+                "keyWords": ["两"],
+                "description": "Số 2",
+                "sub_descriptions": [
+                    "{{二}} và {{两}} đều chỉ số 2 nhưng có một số cách dùng khác nhau",
+                    "{{两}} dùng khi chỉ số lượng, đi với lượng từ tạo thành cụm từ số lượng làm định ngữ cho danh từ."
+                ],
+                "examples": [
+                    {
+                        "chinese": "两个人",
+                        "pinyin": "Liǎng gèrén",
+                        "vietnamese": "Hai người"
+                    },
+                    {
+                        "chinese": "两本书",
+                        "pinyin": "Liǎng běn shū",
+                        "vietnamese": "Hai quyển sách"
+                    },
+                    {
+                        "chinese": "两件衣服",
+                        "pinyin": "Liǎng jiàn yīfú",
+                        "vietnamese": "Hai bộ quần áo"
+                    }
+                ]
+            },
+            {
+                "keyWords": ["二"],
+                "sub_descriptions": [
+                    "{{二}} dùng trong số đếm, số thứ tự,… ({{第二}}、{{二月}}、{{二楼}})",
+                    "Số 2 đứng ở hàng chục, hàng trăm thì dùng {{二}} ({{二十}}、{{二百}}), đứng ở hàng nghìn trở lên thì dùng {{两}} ({{两千}}、{{两万}})"
+                ]
+            },
+            {
+                "keyWords": ["十"],
+                "description": "Số có 2 chữ số",
+                "sub_descriptions": [
+                    "Chữ số thứ nhất + {{十}} + chữ số thứ hai"
+                ],
+                "examples": [
+                    {
+                        "chinese": "三十六",
+                        "pinyin": "Sān shí liù",
+                        "vietnamese": "36"
+                    },
+                    {
+                        "chinese": "九十九",
+                        "pinyin": "Jiǔ shí jiǔ",
+                        "vietnamese": "99"
+                    }
+                ]
+            },
+            {
+                "description": "Hàng trăm trở lên",
+                "sub_descriptions": [
+                    "{{百}}: trăm",
+                    "{{千}}: nghìn",
+                    "{{万}}: chục nghìn (1 vạn = 10,000)",
+                    "{{亿}}: trăm triệu (1 ức = 100,000,000; 1 tỉ = 10{{亿}})",
+                    "100-999：(1-9){{百}} + (1-9){{十}} + (1-9)",
+                    "1,000-9,999：(1+9){{千}} + (1-9){{百}} + (1-9){{十}} + (1-9)",
+                    "10,000-99,999：(1+9){{万}} + (1+9){{千}} + (1-9){{百}} + (1-9){{十}} + (1-9)"
+                ],
+                "examples": [
+                    {
+                        "chinese": "一百二十三",
+                        "pinyin": "Yībǎi èrshí sān",
+                        "vietnamese": "123"
+                    },
+                    {
+                        "chinese": "一百一十二",
+                        "pinyin": "Yībǎi yīshí èr",
+                        "vietnamese": "112"
+                    },
+                    {
+                        "chinese": "一百零五",
+                        "pinyin": "Yībǎi líng wǔ",
+                        "vietnamese": "105"
+                    },
+                    {
+                        "chinese": "一万两千三百四十五",
+                        "pinyin": "Yīwàn liǎngqiān sānbǎi sìshí wǔ",
+                        "vietnamese": "12,345"
+                    },
+                    {
+                        "chinese": "一百二十三万四千五百六十七",
+                        "pinyin": "Yībǎi èrshí sān)wàn (sìqiān wǔbǎi liùshí qī)",
+                        "vietnamese": "1,234,567"
+                    },
+                    {
+                        "chinese": "十二亿 三千四百五十六万 七千八百九十",
+                        "pinyin": "(Shí'èr) yì (sānqiān sìbǎi wǔshí liù)wàn (qīqiān bābǎi jiǔshí)",
+                        "vietnamese": "1,234,567,890"
+                    }
+                ]
+            },
+            {
+                "keyWords": ["左右"],
+                "description": "Cách nói ước lượng",
+                "sub_descriptions": [
+                    "Khoảng: Số lượng + {{左右}}/zuǒyòu/: khoảng…"
+                ],
+                "examples": [
+                    {
+                        "chinese": "十多个人左右",
+                        "pinyin": "Shí duō gèrén zuǒyòu",
+                        "vietnamese": "Tầm mười người, khoảng mười người"
+                    }
+                ]
+            },
+            {
+                "keyWords": ["多"],
+                "sub_descriptions": [
+                    "Hơn: ({多}}/duō/): khi số lượng là con số tròn chục thì {{多}} đứng sau số từ, khi số lượng từ không phải số tròn chục thì {{多}} đứng sau lượng từ."
+                ],
+                "examples": [
+                    {
+                        "chinese": "十多个人",
+                        "pinyin": "Shí duō gèrén",
+                        "vietnamese": "Hơn 10 người"
+                    },
+                    {
+                        "chinese": "两个多小时",
+                        "pinyin": "Liǎng gè duō xiǎoshí",
+                        "vietnamese": "Hơn 2 tiếng"
+                    }
+                ]
+            },
+            {
+                "keyWords": ["几"],
+                "sub_descriptions": [
+                    "Mấy (một vài): {{几}}"
+                ],
+                "examples": [
+                    {
+                        "chinese": "还剩几个苹果，你都吃吧。",
+                        "pinyin": "Hái shèng jǐ gè píngguǒ, nǐ dōu chī ba.",
+                        "vietnamese": "Vẫn còn mấy quả táo, cậu ăn nốt đi."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["一些"],
+                "sub_descriptions": [
+                    "Một vài, một ít: 一些"
+                ],
+                "examples": [
+                    {
+                        "chinese": "能帮我买一些面包吗？",
+                        "pinyin": "Néng bāng wǒ mǎi yīxiē miànbāo ma?",
+                        "vietnamese": "Mua giúp tớ một ít bánh mì được không?"
+                    }
+                ]
+            },
+            {
+                "description": "Cách nói phần trăm",
+                "sub_descriptions": [
+                    "Khi muốn nói số phần trăm, ta dùng công thức: {{百分之}} + con số"
+                ],
+                "examples": [
+                    {
+                        "chinese": "百分之十",
+                        "pinyin": "Bǎi fēn zhī shí",
+                        "vietnamese": "10%"
+                    }
+                ]
+            },
+            {
+                "description": "Cách nói phân số",
+                "sub_descriptions": [
+                    "x/y đọc là “y{{分之}}x”"
+                ],
+                "examples": [
+                    {
+                        "chinese": "四分之三",
+                        "pinyin": "Sì fēn zhī sān",
+                        "vietnamese": "3/4"
+                    },
+                    {
+                        "chinese": "五分之二",
+                        "pinyin": "Wǔ fēn zhī èr",
+                        "vietnamese": "2/5"
+                    }
+                ]
+            },
+            {
+                "description": "Cách đọc dãy số",
+                "sub_descriptions": [
+                    "Khi đọc số điện thoại, số nhà, biển số… ta đọc lần lượt từng số một.”",
+                    "Ngoài ra, cần ghi nhớ nguyên tắc sau: Số 1 trong dãy số phải đọc là /Yāo/, không đọc là /Yī/"
+                ],
+                "examples": [
+                    {
+                        "pinyin": "Líng jiǔ liù yāo líng sì sān liù sì líng.",
+                        "vietnamese": "Số điện thoại 0961043640"
+                    },
+                    {
+                        "pinyin": "Sān líng yāo sì.",
+                        "vietnamese": "Số phòng 3014"
+                    }
+                ]
+            },
+            {
+                "description": "成 /chéng / (phần mười)",
+                "examples": [
+                    {
+                        "chinese": "一成",
+                        "pinyin": "Yīchéng",
+                        "vietnamese": "1/10, 10%"
+                    },
+                    {
+                        "chinese": "五成",
+                        "pinyin": "Wǔchéng",
+                        "vietnamese": "5/10, 50%"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Cách hỏi số lượng",
+        "content": [
+            {
+                "sub_descriptions": [
+                    "“{{几}}” và “{{多少}}” được dùng để hỏi số lượng. Trong trường hợp số lượng được hỏi ít (<10), ta dùng từ “{{几}}”, khi hỏi về số lượng nhiều (>10), ta dùng “{{多少}}”. Sau “{{几}}” và “{{多少}}” cũng phải thêm lượng từ giống như số từ."
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,125 @@
+[
+    {
+        "title": "Giới thiệu bản thân",
+        "content": [
+            {
+                "description": "Tên",
+                "sub_descriptions": [
+                    "Hỏi:"
+                ],
+                "examples": [
+                    {
+                        "chinese": "你叫什么名字？/你的名字是（什么）？",
+                        "pinyin": "Nǐ jiào shénme míngzì? /Nǐ de míngzì shì (shénme)?",
+                        "vietnamese": "Bạn tên là gì?/Tên bạn là gì?"
+                    },
+                    {
+                        "chinese": "您贵姓？",
+                        "pinyin": "Nín guìxìng?",
+                        "vietnamese": "Xin cho hỏi quí danh?"
+                    }
+                ]
+            },
+            {
+                "sub_descriptions": [
+                    "Trả lời: {{我叫}} + tên /{{我姓}} + họ"
+                ]
+            },
+            {
+                "description": "Tuổi",
+                "sub_descriptions": [
+                    "Hỏi:"
+                ],
+                "examples": [
+                    {
+                        "chinese": "你（今年）几岁了？",
+                        "pinyin": "Nǐ (jīnnián) jǐ suìle?",
+                        "vietnamese": "Dùng để hỏi tuổi trẻ nhỏ."
+                    },
+                    {
+                        "chinese": "你（今年）多大了？",
+                        "pinyin": "Nǐ (jīnnián) duōdàle?",
+                        "vietnamese": "Dùng để hỏi tuổi nói chung, thường dùng cho người ngang hàng với mình."
+                    },
+                    {
+                        "chinese": "您（今年）多大年纪了？",
+                        "pinyin": "Nín (jīnnián) duōdà niánjìle?",
+                        "vietnamese": "Dùng để hỏi tuổi người lớn"
+                    }
+                ]
+            },
+            {
+                "sub_descriptions": [
+                    "Trả lời: số tuổi + {{岁}}"
+                ]
+            },
+            {
+                "description": "Xuất thân",
+                "sub_descriptions": [
+                    "Hỏi:"
+                ],
+                "examples": [
+                    {
+                        "chinese": "你是哪国人？",
+                        "pinyin": "Nǐ shì nǎ guórén?",
+                        "vietnamese": "Bạn là người nước nào?"
+                    },
+                    {
+                        "chinese": "你从哪里来？",
+                        "pinyin": "Nǐ cóng nǎlǐ lái?",
+                        "vietnamese": "Bạn đến từ đâu?"
+                    }
+                ]
+            },
+            {
+                "sub_descriptions": [
+                    "Trả lời: {{我是……人。}}"
+                ],
+                "examples": [
+                    {
+                        "chinese": "我是海防人。",
+                        "pinyin": "Wǒ shì Hǎifáng rén.",
+                        "vietnamese": "Tôi là người Hải Phòng."
+                    },
+                    {
+                        "chinese": "他是越南人。",
+                        "pinyin": "Tā shì Yuènán rén.",
+                        "vietnamese": "Anh ấy là người Việt Nam."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Câu có từ “是”(là)",
+        "content": [
+            {
+                "description": "A是B (có nghĩa: A là B)",
+                "sub_descriptions": [
+                    "Khẳng định: Chủ ngữ + {{是}} + danh từ",
+                    "Phủ định: Chủ ngữ + {{不是}} + danh từ"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Câu hỏi với từ “吗”",
+        "content": [
+            {
+                "description": "“吗” là trợ từ nghi vấn, được thêm vào cuối câu trần thuật để tạo câu hỏi.",
+                "examples": [
+                    {
+                        "chinese": "你是中国人吗？",
+                        "pinyin": "Nǐ shì Zhōngguó rén ma?",
+                        "vietnamese": "Bạn là người Trung Quốc phải không?"
+                    },
+                    {
+                        "chinese": "你是汉语老师吗？",
+                        "pinyin": "Nǐ shì Hànyǔ lǎoshī ma?",
+                        "vietnamese": "Bạn là cô giáo tiếng Trung phải không?"
+                    }
+                ]
+            }
+        ]
+    }
+]

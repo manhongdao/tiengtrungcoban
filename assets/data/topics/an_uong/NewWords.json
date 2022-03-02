@@ -1,0 +1,656 @@
+[
+    {
+        "chinese": "吃",
+        "pinyin": "chī",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Ăn",
+                "image": "eating.png",
+                "example": {
+                    "chinese": "我喜欢吃面条。",
+                    "pinyin": "Wǒ xǐhuān chī miàntiáo.",
+                    "vietnamese": "Tôi thích ăn mì."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "菜",
+        "pinyin": "cài",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Món ăn",
+                "image": "breakfast.png",
+                "example": {
+                    "chinese": "这道菜很好吃。",
+                    "pinyin": "Zhè dào cài hěn hǎo chī.",
+                    "vietnamese": "Món ăn này rất ngon."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "道",
+        "pinyin": "dào",
+        "meaning": [
+            {
+                "type": "lượng từ",
+                "vietnamese": "Lượng từ dùng cho món ăn",
+                "example": {
+                    "chinese": "这道菜很好吃。",
+                    "pinyin": "Zhè dào cài hěn hǎo chī.",
+                    "vietnamese": "Món ăn này rất ngon."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "米饭",
+        "pinyin": "mǐfàn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Cơm",
+                "image": "rice-bowl.png",
+                "example": {
+                    "chinese": "你是吃米饭是吃面？",
+                    "pinyin": "Nǐ shì chī mǐfàn shì chī miàn?",
+                    "vietnamese": "Bạn ăn cơm hay là ăn mì?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "鸡蛋",
+        "pinyin": "jīdàn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Trứng gà",
+                "image": "eggs.png",
+                "example": {
+                    "chinese": "鸡蛋煮老了。",
+                    "pinyin": "Jīdàn zhǔ lǎo le.",
+                    "vietnamese": "Trứng gà luộc quá chín rồi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "面包",
+        "pinyin": "miànbāo",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bánh mì",
+                "image": "bread.png",
+                "example": {
+                    "chinese": "面包儿渣。",
+                    "pinyin": "Miànbāo érzhā.",
+                    "vietnamese": "Vụn bánh mì."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "面条",
+        "pinyin": "miàntiáo",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Mì",
+                "image": "noodles.png",
+                "example": {
+                    "chinese": "这种面条吃起来口感好。",
+                    "pinyin": "Zhèzhǒng miàntiáo chī qǐlái kǒugǎn hǎo.",
+                    "vietnamese": "Loại mì này có vị ngon."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "饺子",
+        "pinyin": "jiăozi",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Sủi cảo",
+                "image": "dumpling.png",
+                "example": {
+                    "chinese": "饺子馅儿。",
+                    "pinyin": "Jiăozixiàn ér.",
+                    "vietnamese": "Nhân bánh sủi cảo."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "肉",
+        "pinyin": "ròu",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Thịt",
+                "image": "meat.png",
+                "example": {
+                    "chinese": "这块肉膘厚。",
+                    "pinyin": "Zhè kuài ròu biāo hòu.",
+                    "vietnamese": "Miếng thịt này mỡ dày."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "蛋糕",
+        "pinyin": "dàngāo",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bánh kem",
+                "image": "cream-cake.png",
+                "example": {
+                    "chinese": "你再来一块蛋糕好吗？",
+                    "pinyin": "Nǐ zàilái yīkuài dàngāo hǎo ma?",
+                    "vietnamese": "Bạn có muốn thêm một miếng bánh kem không?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "好吃",
+        "pinyin": "hǎo chī",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Ngon",
+                "image": "delicious.png",
+                "example": {
+                    "chinese": "在越南南方的粉面真好吃。",
+                    "pinyin": "Zài yuènán nánfāng de fěn miàn zhēn hǎochī.",
+                    "vietnamese": "Hủ tiếu ở miền nam Việt Nam thật sự ngon."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "饱",
+        "pinyin": "bǎo",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "No",
+                "image": "full.png",
+                "example": {
+                    "chinese": "我饱了，一点也吃不下了。",
+                    "pinyin": "Wǒ bǎo le，yīdiǎn yě chībùxià le.",
+                    "vietnamese": "Tôi no rồi, không ăn thêm được chút nào nữa đâu."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "饿",  
+        "pinyin": "è",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Đói",
+                "image": "hungry.png",
+                "example": {
+                    "chinese": "我饿了，想吃点儿什么。",
+                    "pinyin": "Wǒ èle, xiǎng chī diǎn er shénme.",
+                    "vietnamese": "Tôi đói rồi, muốn ăn một chút gì đó."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "喝",
+        "pinyin": "hē",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Uống",
+                "image": "drinking-water.png",
+                "example": {
+                    "chinese": "我每天都喝綠豆沙牛奶。",
+                    "pinyin": "Wǒ měitiān dū hē lǜdòu shā niúnǎi.",
+                    "vietnamese": "Tôi mỗi ngày đều uống sữa đậu xanh."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "水",
+        "pinyin": "shuĭ",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Nước",
+                "image": "water.png",
+                "example": {
+                    "chinese": "这衣裳洗几水也不变色。",
+                    "pinyin": "Zhè yīshang xǐ jǐ shuĭ yě bù biànsè.",
+                    "vietnamese": "Áo này giặt mấy nước cũng không đổi màu."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "饮料",
+        "pinyin": "yǐnliào",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Đồ uống",
+                "image": "soft-drink.png",
+                "example": {
+                    "chinese": "小孩子用吸管来喝饮料。",
+                    "pinyin": "Xiǎo háizi yòng xīguǎn lái hē yǐnliào.",
+                    "vietnamese": "Đứa trẻ dùng ống hút để uống nước ngọt."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "牛奶",
+        "pinyin": "niúnǎi",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Sữa bò",
+                "image": "milk.png",
+                "example": {
+                    "chinese": "这杯牛奶你喝了它。",
+                    "pinyin": "Zhè bēi niúnǎi nǐ hēle tā.",
+                    "vietnamese": "Bạn uống ly sữa bò này đi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "茶",
+        "pinyin": "chá",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Trà",
+                "image": "green-tea.png",
+                "example": {
+                    "chinese": "请用茶。",
+                    "pinyin": "Qǐngyòngchá.",
+                    "vietnamese": "Mời dùng trà."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "奶茶",
+        "pinyin": "nǎichá",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Trà sữa",
+                "image": "bubble-tea.png",
+                "example": {
+                    "chinese": "我要杯芒果味的珍珠奶茶。",
+                    "pinyin": "Wǒ yào bēi mángguǒ wèi de zhēnzhū nǎichá.",
+                    "vietnamese": "Tôi muốn một ly trà sữa trân châu vị xoài."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "咖啡",
+        "pinyin": "kāfēi",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Cà phê",
+                "image": "coffee.png",
+                "example": {
+                    "chinese": "三听咖啡。",
+                    "pinyin": "Sān tīng kāfēi.",
+                    "vietnamese": "Ba hộp cà phê."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "啤酒",
+        "pinyin": "píjiǔ",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bia",
+                "image": "beer.png",
+                "example": {
+                    "chinese": "他通常在晚餐时喝啤酒。",
+                    "pinyin": "Tā tōngcháng zài wǎncān shí hē píjiǔ.",
+                    "vietnamese": "Anh ấy thường uống bia vào bữa tối."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "果汁",
+        "pinyin": "guǒzhī",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Nước hoa quả",
+                "image": "juice.png",
+                "example": {
+                    "chinese": "甘美的果汁。",
+                    "pinyin": "Gānměi de guǒzhī.",
+                    "vietnamese": "Nước hoa quả ngọt thơm."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "可口可乐",
+        "pinyin": "kěkǒu kělè",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Coca Cola",
+                "image": "cola.png",
+                "example": {
+                    "chinese": "如果现在有可口可乐就太上头了。",
+                    "pinyin": "Rúguǒ xiànzài yǒu kěkǒu kělè jiù tài shàngtoule.",
+                    "vietnamese": "Bây giờ mà có coca uống thì thật là phê quá rồi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "渴",
+        "pinyin": "kě",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Khát",
+                "image": "thirsty.png",
+                "example": {
+                    "chinese": "骆驼的习性是耐渴。",
+                    "pinyin": "Luòtuó de xíxìng shì nàikě.",
+                    "vietnamese": "Đặc tính của lạc đà là chịu được khát."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "饭店",
+        "pinyin": "fàndiàn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Tiệm ăn, quán cơm",
+                "image": "food-stall.png",
+                "example": {
+                    "chinese": "饭店停业整顿。",
+                    "pinyin": "Fàndiàn tíngyè zhěngdùn.",
+                    "vietnamese": "Tiệm ăn đã đóng cửa để sửa chữa."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "菜单",
+        "pinyin": "càidān",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Thực đơn",
+                "image": "menu.png",
+                "example": {
+                    "chinese": "菜单上有米饭和面条。",
+                    "pinyin": "Càidān shàng yǒu mǐfàn hé miàntiáo.",
+                    "vietnamese": "Trong thực đơn có cơm và mì."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "筷子",
+        "pinyin": "kuàizi",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Đũa",
+                "image": "chopstick.png",
+                "example": {
+                    "chinese": "越南人吃米饭时用筷子。",
+                    "pinyin": "Yuènán rén chī mǐfàn shí yòng kuàizi.",
+                    "vietnamese": "Người Việt Nam dùng đũa khi ăn cơm."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "盘子",
+        "pinyin": "pánzi",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Đĩa",
+                "image": "hot-dish.png",
+                "example": {
+                    "chinese": "还是买几个塑料的盘子好。",
+                    "pinyin": "Háishì mǎi jǐ gè sùliào de pánzi hǎo.",
+                    "vietnamese": "Cứ mua mấy cái đĩa nhựa này là tốt."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "碗",
+        "pinyin": "wǎn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bát",
+                "image": "bowl.png",
+                "example": {
+                    "chinese": "碗上有个豁子。",
+                    "pinyin": "Wǎn shàng yǒu gè huōzǐ.",
+                    "vietnamese": "Chiếc bát có một lỗ thủng."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "水果",
+        "pinyin": "shuǐguǒ",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Hoa quả",
+                "image": "fruits.png",
+                "example": {
+                    "chinese": "我喜欢吃水果捞。",
+                    "pinyin": "Wǒ xǐhuān chī shuǐguǒ lāo.",
+                    "vietnamese": "Tôi thích ăn hoa quả dầm."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "苹果",
+        "pinyin": "píngguǒ",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Quả táo",
+                "image": "apple.png",
+                "example": {
+                    "chinese": "这种苹果多汁而甜美。",
+                    "pinyin": "Zhèzhǒng píngguǒ duōzhī ér tiánměi.",
+                    "vietnamese": "Loại táo này nhiều nước nhưng ngọt."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "香蕉",
+        "pinyin": "xiāngjiāo",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Quả chuối",
+                "image": "banana.png",
+                "example": {
+                    "chinese": "那里出产香蕉和荔枝。",
+                    "pinyin": "Nàlǐ chūchǎn xiāngjiāo hé lìzhī.",
+                    "vietnamese": "Nơi ấy trồng chuối và vải."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "西瓜",
+        "pinyin": "xīguā",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Quả dưa hấu",
+                "image": "watermelon.png",
+                "example": {
+                    "chinese": "这西瓜真甜。",
+                    "pinyin": "Zhè xīguā zhēntián.",
+                    "vietnamese": "Quả dưa này rất ngọt."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "芒果",
+        "pinyin": "mángguǒ",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Quả xoài",
+                "image": "mango.png",
+                "example": {
+                    "chinese": "果园的芒果树都已坐果。",
+                    "pinyin": "Guǒyuán de mángguǒ shù dōu yǐ zuòguǒ.",
+                    "vietnamese": "Những cây xoài trong vườn đã kết trái."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "橙子",
+        "pinyin": "chéngzi",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Quả cam",
+                "image": "orange.png",
+                "example": {
+                    "chinese": "我喜欢吃橙子而不是苹果。",
+                    "pinyin": "Wǒ xǐhuān chī chéngzi ér bùshì píngguǒ.",
+                    "vietnamese": "Tôi thích ăn cam hơn là táo."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "草莓",
+        "pinyin": "cǎoméi",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Quả dâu tây",
+                "image": "strawberry.png",
+                "example": {
+                    "chinese": "我买了一盒草莓。",
+                    "pinyin": "Wǒ mǎile yī hé cǎoméi.",
+                    "vietnamese": "Tôi đã mua 1 hộp dâu tây."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "柠檬",
+        "pinyin": "níngméng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Quả chanh",
+                "image": "lemon.png",
+                "example": {
+                    "chinese": "我想喝柠檬水。",
+                    "pinyin": "Wǒ xiǎng hē níngméng shuǐ.",
+                    "vietnamese": "Tôi muốn uống nước chanh."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "酸",
+        "pinyin": "suān",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Chua",
+                "example": {
+                    "chinese": "还没熟的羊奶果很酸。",
+                    "pinyin": "Hái méi shú de yáng nǎi guǒ hěn suān.",
+                    "vietnamese": "Quả nhót chưa chín rất chua."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "甜",
+        "pinyin": "tián",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Ngọt",
+                "image": "sweets.png",
+                "example": {
+                    "chinese": "这个瓜呀，甜得很！",
+                    "pinyin": "Zhège guā ya, tián dé hěn!",
+                    "vietnamese": "Quả dưa này ngọt quá!"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "苦",
+        "pinyin": "kǔ",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Đắng",
+                "image": "bitter-gourd.png",
+                "example": {
+                    "chinese": "黑咖啡在口中留下苦涩的味道。",
+                    "pinyin": "Hēi kāfēi zài kǒuzhōng liú xià kǔsè de wèidào.",
+                    "vietnamese": "Cà phê đen để lại vị đắng trong miệng."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "辣",
+        "pinyin": "là",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Cay",
+                "image": "chilli.png",
+                "example": {
+                    "chinese": "我爱吃辣的。",
+                    "pinyin": "Wǒ ài chī là de.",
+                    "vietnamese": "Tôi thích ăn cay."
+                }
+            }
+        ]
+    }
+]

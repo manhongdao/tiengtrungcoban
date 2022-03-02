@@ -1,0 +1,215 @@
+[
+    {
+        "chinese": "职业",
+        "pinyin": "zhíyè",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Nghề nghiệp",
+                "example": {
+                    "chinese": "他选择的职业是医生。",
+                    "pinyin": "Tā xuǎnzé de zhíyè shì yīshēng.",
+                    "vietnamese": "Nghề nghiệp anh ấy chọn là bác sĩ."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "医生",
+        "pinyin": "yīshēng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bác sĩ",
+                "image": "doctor.png"
+            }
+        ]
+    },
+    {
+        "chinese": "警察",
+        "pinyin": "jǐngchá",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Cảnh sát",
+                "image": "policeman.png"
+            }
+        ]
+    },
+    {
+        "chinese": "老师",
+        "pinyin": "lǎoshī",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Giáo viên",
+                "image": "teacher.png"
+            }
+        ]
+    },
+    {
+        "chinese": "工人",
+        "pinyin": "gōngrén",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Công nhân",
+                "image": "worker.png"
+            }
+        ]
+    },
+    {
+        "chinese": "司机",
+        "pinyin": "sījī",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Tài xế",
+                "image": "driver.png"
+            }
+        ]
+    },
+    {
+        "chinese": "服务员",
+        "pinyin": "fúwùyuán",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Nhân viên phục vụ",
+                "image": "waiters.png"
+            }
+        ]
+    },
+    {
+        "chinese": "记者",
+        "pinyin": "jìzhě",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Phóng viên",
+                "image": "reporter.png"
+            }
+        ]
+    },
+    {
+        "chinese": "助理",
+        "pinyin": "zhùlǐ",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Trợ lí",
+                "image": "assistant.png"
+            }
+        ]
+    },
+    {
+        "chinese": "演员",
+        "pinyin": "yǎnyuán",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Diễn viên",
+                "image": "actress.png"
+            }
+        ]
+    },
+    {
+        "chinese": "厨师",
+        "pinyin": "chúshī",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Đầu bếp",
+                "image": "chef.png"
+            }
+        ]
+    },
+    {
+        "chinese": "售货员",
+        "pinyin": "shòuhuòyuán",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Thu ngân",
+                "image": "cashier.png"
+            }
+        ]
+    },
+    {
+        "chinese": "农民",  
+        "pinyin": "nóngmín",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Nông dân",
+                "image": "farmer.png"
+            }
+        ]
+    },
+    {
+        "chinese": "工程师",
+        "pinyin": "gōngchéngshī",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Kỹ sư",
+                "image": "engineers.png"
+            }
+        ]
+    },
+    {
+        "chinese": "律师",
+        "pinyin": "lǜshī",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Luật sư",
+                "image": "lawyer.png"
+            }
+        ]
+    },
+    {
+        "chinese": "商人",
+        "pinyin": "shāngrén",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Doanh nhân",
+                "image": "businessman.png"
+            }
+        ]
+    },
+    {
+        "chinese": "摄影师",
+        "pinyin": "shèyǐngshī",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Nhiếp ảnh gia",
+                "image": "photographer.png"
+            }
+        ]
+    },
+    {
+        "chinese": "导游",
+        "pinyin": "dǎoyóu",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Hướng dẫn viên du lịch",
+                "image": "tour-guide.png"
+            }
+        ]
+    },
+    {
+        "chinese": "牙医",
+        "pinyin": "yáyī",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Nha sĩ",
+                "image": "dentist.png"
+            }
+        ]
+    }
+]

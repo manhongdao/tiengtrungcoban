@@ -1,0 +1,715 @@
+[
+    {
+        "chinese": "客厅",
+        "pinyin": "kètīng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Phòng khách",
+                "image": "living-room.png"
+            }
+        ]
+    },
+    {
+        "chinese": "沙发",
+        "pinyin": "shāfā",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Ghế sofa",
+                "image": "sofa.png"
+            }
+        ]
+    },
+    {
+        "chinese": "窗户",
+        "pinyin": "chuānghù",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Cửa sổ",
+                "image": "window.png"
+            }
+        ]
+    },
+    {
+        "chinese": "窗帘",
+        "pinyin": "chuānglián",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Rèm",
+                "image": "curtains.png"
+            }
+        ]
+    },
+    {
+        "chinese": "灯",
+        "pinyin": "dēng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Đèn",
+                "image": "desk-lamp.png"
+            }
+        ]
+    },
+    {
+        "chinese": "电视机",
+        "pinyin": "diànshìjī",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Tivi",
+                "image": "television.png"
+            }
+        ]
+    },
+    {
+        "chinese": "墙",
+        "pinyin": "qiáng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bức tường",
+                "image": "wall.png"
+            }
+        ]
+    },
+    {
+        "chinese": "门",
+        "pinyin": "mén",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Cửa ra vào",
+                "image": "door.png"
+            }
+        ]
+    },
+    {
+        "chinese": "卧室",
+        "pinyin": "wòshì",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Phòng ngủ",
+                "image": "bedroom.png"
+            }
+        ]
+    },
+    {
+        "chinese": "床",
+        "pinyin": "chuáng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Giường",
+                "image": "bed.png"
+            }
+        ]
+    },
+    {
+        "chinese": "柜子",
+        "pinyin": "guìzi",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Tủ",
+                "image": "cabinet.png"
+            }
+        ]
+    },
+    {
+        "chinese": "镜子",
+        "pinyin": "jìngzi",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Gương",
+                "image": "mirror.png"
+            }
+        ]
+    },
+    {
+        "chinese": "衣柜",  
+        "pinyin": "yī guì",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Tủ quần áo",
+                "image": "closet.png"
+            }
+        ]
+    },
+    {
+        "chinese": "空调",
+        "pinyin": "kōngtiáo",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Điều hòa",
+                "image": "air-conditioner.png"
+            }
+        ]
+    },
+    {
+        "chinese": "烤箱",
+        "pinyin": "kǎoxiāng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Lò nướng",
+                "image": "microwave.png"
+            }
+        ]
+    },
+    {
+        "chinese": "冰箱",
+        "pinyin": "bīngxiāng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Tủ lạnh",
+                "image": "refrigerator.png"
+            }
+        ]
+    },
+    {
+        "chinese": "马桶",
+        "pinyin": "mǎtǒng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bồn cầu",
+                "image": "toilet.png"
+            }
+        ]
+    },
+    {
+        "chinese": "阳台",
+        "pinyin": "yángtái",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Ban công",
+                "image": "balcony.png"
+            }
+        ]
+    },
+    {
+        "chinese": "浴缸",
+        "pinyin": "yùgāng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bồn tắm",
+                "image": "bathtub.png"
+            }
+        ]
+    },
+    {
+        "chinese": "电梯",
+        "pinyin": "diàntī",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Thang máy",
+                "image": "elevator.png"
+            }
+        ]
+    },
+    {
+        "chinese": "垃圾桶",
+        "pinyin": "lājī tǒng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Thùng rác",
+                "image": "garbage.png"
+            }
+        ]
+    },
+    {
+        "chinese": "厨房",
+        "pinyin": "chúfáng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Phòng bếp",
+                "image": "kitchen.png"
+            }
+        ]
+    },
+    {
+        "chinese": "搬",
+        "pinyin": "bān",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Chuyển, chuyển chỗ, dọn",
+                "example": {
+                    "chinese": "这些粗笨家具搬运起来挺费劲。",
+                    "pinyin": "Zhèxiē cūbèn jiājù bānyùn qǐlái tǐng fèijìng.",
+                    "vietnamese": "Những đồ gia dụng này cồng kềnh, vận chuyển rất khó."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "书房",
+        "pinyin": "shūfáng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Phòng sách, thư phòng",
+                "image": "book-room.png"
+            }
+        ]
+    },
+    {
+        "chinese": "厕所",
+        "pinyin": "cèsuǒ",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Nhà vệ sinh",
+                "image": "toilets.png"
+            }
+        ]
+    },
+    {
+        "chinese": "洗手间",
+        "pinyin": "xǐshǒujiān",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Nhà vệ sinh",
+                "image": "toilets.png"
+            }
+        ]
+    },
+    {
+        "chinese": "牙刷",
+        "pinyin": "yáshuā",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bàn chải đánh răng",
+                "image": "toothbrush.png"
+            }
+        ]
+    },
+    {
+        "chinese": "牙膏",
+        "pinyin": "yágāo",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Kem đánh răng",
+                "image": "toothpaste.png"
+            }
+        ]
+    },
+    {
+        "chinese": "杯子",
+        "pinyin": "bēizi",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Cốc, ly",
+                "image": "glass.png"
+            }
+        ]
+    },
+    {
+        "chinese": "起床",
+        "pinyin": "qǐchuáng",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Thức dậy",
+                "image": "wake-up.png",
+                "example": {
+                    "chinese": "他通常六点钟就起床。",
+                    "pinyin": "Tā tōngcháng lìudiǎnzhōng jìu qǐchuáng.",
+                    "vietnamese": "Anh ấy thường thức dậy lúc sáu giờ."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "刷牙",
+        "pinyin": "shuāyá",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Đánh răng",
+                "image": "brush-teeth.png",
+                "example": {
+                    "chinese": "上床睡觉前要刷牙。",
+                    "pinyin": "Shàngchuáng shuìjiào qián yào shuāyá.",
+                    "vietnamese": "Đánh răng trước khi đi ngủ."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "洗脸",
+        "pinyin": "xǐliǎn",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Rửa mặt",
+                "image": "wash-face.png",
+                "example": {
+                    "chinese": "我每天早上洗脸。",
+                    "pinyin": "Wǒ měitiān zǎoshang xǐliǎn.",
+                    "vietnamese": "Tôi rửa mặt mỗi sáng."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "上课",
+        "pinyin": "shàngkè",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Đi học",
+                "image": "walking-to-school.png",
+                "example": {
+                    "chinese": "你什么时候去上课？",
+                    "pinyin": "Nǐ shénme shíhòu qù shàngkè?",
+                    "vietnamese": "Khi nào bạn đi học?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "上班",
+        "pinyin": "shàngbān",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Đi làm",
+                "image": "go-to-work.png",
+                "example": {
+                    "chinese": "他有病还硬挺着上班。",
+                    "pinyin": "Tā yǒu bìng hái yìngtǐngzhe shàngbān.",
+                    "vietnamese": "Anh ấy bị bệnh vẫn gắng gượng đi làm."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "做饭",
+        "pinyin": "zuòfàn",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Nấu cơm",
+                "image": "cooking.png",
+                "example": {
+                    "chinese": "我睡觉的时候，我妈妈在做饭。",
+                    "pinyin": "Wǒ shuìjiào de shíhòu, wǒ māmā zài zuòfàn.",
+                    "vietnamese": "Lúc tôi ngủ, mẹ tôi đang nấu cơm."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "洗碗",
+        "pinyin": "xǐwǎn",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Rửa bát",
+                "image": "wash-dishes.png",
+                "example": {
+                    "chinese": "帮我洗碗好吗？",
+                    "pinyin": "Bāng wǒ xǐwǎn hǎo ma?",
+                    "vietnamese": "Bạn có thể giúp tôi rửa bát không?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "洗澡",
+        "pinyin": "xǐzǎo",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Tắm",
+                "image": "bathing.png",
+                "example": {
+                    "chinese": "我们每天洗澡。",
+                    "pinyin": "Wǒmen měitiān xǐzǎo.",
+                    "vietnamese": "Chúng tôi tắm mỗi ngày."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "打扫",
+        "pinyin": "dǎsǎo",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Quét dọn, dọn dẹp",
+                "image": "clean-up.png",
+                "example": {
+                    "chinese": "屋子经过打扫，干净多了。",
+                    "pinyin": "Wūzǐ jīngguò dǎsǎo, gānjìng duō le.",
+                    "vietnamese": "Nhà đã được quét dọn, sạch sẽ nhiều rồi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "睡觉",
+        "pinyin": "shuìjiào",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Đi ngủ",
+                "image": "sleep.png",
+                "example": {
+                    "chinese": "别嚷了，人家都睡觉了。",
+                    "pinyin": "Bié rǎngle, rénjiā dōu shuìjiàole.",
+                    "vietnamese": "Đừng gào lên nữa, mọi người đã ngủ cả rồi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "房间",
+        "pinyin": "fángjiān",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Phòng, gian phòng",
+                "image": "room.png",
+                "example": {
+                    "chinese": "这套房子有五个房间。",
+                    "pinyin": "Zhètào fángzǐ yǒu wǔgè fángjiān.",
+                    "vietnamese": "Căn nhà này có năm phòng."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "层",
+        "pinyin": "céng",
+        "meaning": [
+            {
+                "type": "số từ",
+                "vietnamese": "Tầng, lớp",
+                "image": "floor.png",
+                "example": {
+                    "chinese": "这个超市有三层。",
+                    "pinyin": "Zhège chāoshì yǒusān céng.",
+                    "vietnamese": "Siêu thị này có 3 tầng."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "住",
+        "pinyin": "zhù",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Ở, cư trú, trọ",
+                "example": {
+                    "chinese": "我住在5层。",
+                    "pinyin": "Wǒ zhù zài 5 céng.",
+                    "vietnamese": "Tôi sống ở tầng 5."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "坐",
+        "pinyin": "zuò",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Ngồi",
+                "image": "sit.png",
+                "example": {
+                    "chinese": "端坐读书。",
+                    "pinyin": "Duānzuò dúshū.",
+                    "vietnamese": "Ngồi ngay ngắn đọc sách."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "进",
+        "pinyin": "jìn",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Tiến, vào",
+                "image": "go-in.png",
+                "example": {
+                    "chinese": "请进！",
+                    "pinyin": "Qǐng jìn!",
+                    "vietnamese": "Mời vào!"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "楼",
+        "pinyin": "lóu",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Lầu, tầng, gác",
+                "example": {
+                    "chinese": "下楼时注意点儿。",
+                    "pinyin": "Xiàlóu shí zhùyì diǎnér.",
+                    "vietnamese": "Khi xuống lầu nên chú ý một chút."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "附近",
+        "pinyin": "fùjìn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Xung quanh, lân cận",
+                "example": {
+                    "chinese": "我家附近有很多小孩儿。",
+                    "pinyin": "Wǒjiā fùjìn yǒu hěnduō xiǎo háir.",
+                    "vietnamese": "Xung quanh nhà tôi có rất nhiều trẻ con."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "邻居",
+        "pinyin": "línjū",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Hàng xóm",
+                "image": "neighbor.png",
+                "example": {
+                    "chinese": "起程前他到邻居家一一道别。",
+                    "pinyin": "Qǐchéng qián tā dào línjūjiā yīyī dàobié。",
+                    "vietnamese": "Trước khi đi anh ấy đến từng nhà hàng xóm chào tạm biệt."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "地方",
+        "pinyin": "dìfāng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Chỗ, nơi, bộ phận",
+                "example": {
+                    "chinese": "这鬼地方连棵草都不长。",
+                    "pinyin": "Zhè guǐ dìfāng lián kē cǎo dōu bù cháng.",
+                    "vietnamese": "Cái nơi quái quỷ này đến ngọn cỏ cũng không mọc được."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "银行",
+        "pinyin": "yínháng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Ngân hàng",
+                "image": "bank.png",
+                "example": {
+                    "chinese": "把积聚起来的钱存入银行。",
+                    "pinyin": "Bǎ jījù qǐlái de qián cún rù yínháng.",
+                    "vietnamese": "Đem số tiền dành dụm được gởi vào ngân hàng."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "便利店",
+        "pinyin": "biànlì diàn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Cửa hàng tiện lợi",
+                "image": "market.png"
+            }
+        ]
+    },
+    {
+        "chinese": "电影院",
+        "pinyin": "diànyǐngyuàn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Rạp chiếu phim",
+                "image": "cinema.png"
+            }
+        ]
+    },
+    {
+        "chinese": "公园",
+        "pinyin": "gōngyuán",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Công viên",
+                "image": "park.png"
+            }
+        ]
+    },
+    {
+        "chinese": "超市",
+        "pinyin": "chāoshì",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Siêu thị",
+                "image": "supermarket.png"
+            }
+        ]
+    },
+    {
+        "chinese": "一会儿",
+        "pinyin": "yīhuìr",
+        "meaning": [
+            {
+                "type": "",
+                "vietnamese": "Một chốc, lát nữa, một lát",
+                "example": {
+                    "chinese": "他想睡一会儿，但是睡不着。",
+                    "pinyin": "Tā xiǎng shùi yīhuìr, dànshì shùibùzháo.",
+                    "vietnamese": "Anh ấy muốn ngủ một chút, nhưng ngủ không được."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "一般",
+        "pinyin": "yìbān",
+        "meaning": [
+            {
+                "type": "phó từ",
+                "vietnamese": "Thông thường, phổ biến",
+                "example": {
+                    "chinese": "他一般要到天黑才回来。",
+                    "pinyin": "Tā yìbān yào dào tiānhēi cái húilái.",
+                    "vietnamese": "Anh ấy thường đến tối mới về."
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,230 @@
+[
+    {
+        "title": "Cách nói thời gian",
+        "content": [
+            {
+                "description": "Cách nói giờ",
+                "examples": [
+                    {
+                        "chinese": "八点",
+                        "pinyin": "Bā diǎn",
+                        "vietnamese": "08:00"
+                    },
+                    {
+                        "chinese": "八点零五（分）",
+                        "pinyin": "Bā diǎn líng wǔ (fēn)",
+                        "vietnamese": "08:05 (8 giờ 5 phút)"
+                    },
+                    {
+                        "chinese": "八点一刻/八点十五（分）",
+                        "pinyin": "Bā diǎn yī kè/bā diǎn shíwǔ (fēn)",
+                        "vietnamese": "08:15 (8 giờ 15 phút)"
+                    },
+                    {
+                        "chinese": "八点半/八点三十（分）",
+                        "pinyin": "Bā diǎn bàn/bā diǎn sānshí (fēn)",
+                        "vietnamese": "08:30 (8 rưỡi /8 giờ 30 phút)"
+                    },
+                    {
+                        "chinese": "八点三刻/八点四十五（分）/差一刻九点",
+                        "pinyin": "Bā diǎn sān kè/ bā diǎn sìshíwǔ (fēn)/chà yīkè jiǔ diǎn",
+                        "vietnamese": "08:45 (8 giờ 45 phút /8 giờ 45 phút /9 giờ kém 15)"
+                    },
+                    {
+                        "chinese": "八点五十五（分）/差五分九点",
+                        "pinyin": "Bā diǎn wǔshíwǔ (fēn) /chà wǔ fēn jiǔ diǎn",
+                        "vietnamese": "08:55 (8 giờ 55 phút /9 giờ kém 5)"
+                    }
+                ]
+            },
+            {
+                "description": "Cách nói ngày tháng năm",
+                "sub_descriptions": [
+                    "Năm: đọc từng con số + {{年}}",
+                    "12 tháng: số thứ tự (1-12) + {{月}}",
+                    "Ngày: số thứ tự (1-31) + {{日}}/{{号}} ({{日}} thường dùng trong văn viết, {{号}} thường dùng trong văn nói)"
+                ],
+                "examples": [
+                    {
+                        "chinese": "1919年7月31日",
+                        "pinyin": "Yījǔyījiǔ nián qī yuè sānshíyī rì",
+                        "vietnamese": "Ngày 31 tháng 7 năm 1919"
+                    },
+                    {
+                        "chinese": "2003年4月15日",
+                        "pinyin": "Èrlínglíngsān nián sì yuè shíwǔ rì",
+                        "vietnamese": "Ngày 15 tháng 4 năm 2003"
+                    },
+                    {
+                        "chinese": "1997年6月17日",
+                        "pinyin": "Yījiǔjiǔqī nián liù yuè shíqī rì",
+                        "vietnamese": "Ngày 17 tháng 6 năm 1997"
+                    },
+                    {
+                        "chinese": "1945年9月2日",
+                        "pinyin": "Yījiǔsìwǔnián jiǔ yuè èr rì",
+                        "vietnamese": "Ngày mùng 2 tháng 9 năm 1945"
+                    }
+                ]
+            },
+            {
+                "description": "Thứ tự thời gian",
+                "sub_descriptions": [
+                    "Thời gian được sắp xếp từ lớn đến nhỏ: Năm – Tháng – Ngày – Giờ – Phút"
+                ],
+                "examples": [
+                    {
+                        "chinese": "1999年6月30日8点12分",
+                        "pinyin": "1999 nián 6 yuè 30 rì 8 diǎn 12 fēn",
+                        "vietnamese": "8 giờ 12 phút ngày 30 tháng 6 năm 1999"
+                    }
+                ]
+            },
+            {
+                "sub_descriptions": [
+                    "Trong câu vừa có trạng ngữ chỉ địa điểm vừa có trạng ngữ chỉ thời gian thì trạng ngữ chỉ thời gian thường đứng trước trạng ngữ chỉ địa điểm."
+                ],
+                "examples": [
+                    {
+                        "chinese": "我昨天晚上十点在家看书。",
+                        "pinyin": "Wǒ zuótiān wǎnshàng shí diǎn zàijiā kànshū.",
+                        "vietnamese": "10 giờ tối hôm qua tôi ở nhà đọc sách."
+                    },
+                    {
+                        "chinese": "我去年在河内学习，今年在家学习。",
+                        "pinyin": "Wǒ qùnián zài hénèi xuéxí, jīnnián zàijiā xuéxí.",
+                        "vietnamese": "Năm ngoái tôi học tập ở Hà Nội, năm nay tôi học ở nhà."
+                    }
+                ]
+            },
+            {
+                "sub_descriptions": [
+                    "Không nói: {{我在家昨天晚上八点看书。}} và {{我在河内去年学习，在家今年学习。}}"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Phân biệt 才 và 就",
+        "content": [
+            {
+                "keyWords": ["才"],
+                "description": "才 + động từ",
+                "sub_descriptions": [
+                    "Diễn tả hành động xảy ra muộn, chậm và không thuận lợi  (Dịch: mới…)"
+                ],
+                "examples": [
+                    {
+                        "chinese": "我每天八点起床，今天我九点才起床。",
+                        "pinyin": "Wǒ měitiān bā diǎn qǐchuáng, jīntiān wǒ jiǔ diǎn cái qǐchuáng.",
+                        "vietnamese": "Mọi hôm tôi dậy lúc 8 giờ , hôm nay tôi mới dậy lúc 9 giờ."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["就"],
+                "description": "就 + V (了)",
+                "sub_descriptions": [
+                    "Diễn tả hành động xảy ra sớm, nhanh, thuận lợi.  (Dịch: đã…)"
+                ],
+                "examples": [
+                    {
+                        "chinese": "我每天八点起床，今天我七点就起床了。",
+                        "pinyin": "Wǒ měitiān bā diǎn qǐchuáng, jīntiān wǒ qī diǎn jiù qǐchuángle.",
+                        "vietnamese": "Mọi hôm tôi dậy lúc 8 giờ , hôm nay tôi đã dậy lúc 7 giờ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Mẫu câu 先……然后",
+        "content": [
+            {
+                "keyWords": ["先", "然后"],
+                "description": "Diễn tả thứ tự thực hiện các hành động",
+                "sub_descriptions": [
+                    "{{先}} + động từ : làm gì đó trước tiên",
+                    "{{然后}}（{{再}}）+ động từ: sau đó (thì)...",
+                    "{{最后}}（{{才}}）+ động từ: cuối cùng (mới)..."
+                ],
+                "examples": [
+                    {
+                        "chinese": "你先吃饭，然后去做作业。",
+                        "pinyin": "Nǐ xiān chīfàn, ránhòu qù zuò zuo yè.",
+                        "vietnamese": "Bạn ăn trước, sau đó làm bài tập."
+                    },
+                    {
+                        "chinese": "你先做作业，然后看电视。",
+                        "pinyin": "Nǐ xiān zuò zuo yè, ránhòu kàn diànshì.",
+                        "vietnamese": "Bạn làm bài tập về nhà trước, sau đó xem TV."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Danh từ 前",
+        "content": [
+            {
+                "keyWords": ["前"],
+                "sub_descriptions": [
+                    "Danh từ {{前}} có thể được dùng để chỉ khoảng thời gian trước hiện tại hay thời điểm được đề cập đến trong câu."
+                ],
+                "examples": [
+                    {
+                        "chinese": "三天前",
+                        "pinyin": "Sān tiān qián",
+                        "vietnamese": "Ba ngày trước"
+                    },
+                    {
+                        "chinese": "一周前",
+                        "pinyin": "Yīzhōu qián",
+                        "vietnamese": "Một tuần trước"
+                    },
+                    {
+                        "chinese": "五分钟前",
+                        "pinyin": "Wǔ fēnzhōng qián",
+                        "vietnamese": "Năm phút trước"
+                    }
+                ]
+            },
+            {
+                "keyWords": ["前"],
+                "sub_descriptions": [
+                    "Hoặc:"
+                ],
+                "examples": [
+                    {
+                        "chinese": "你什么时候回海防？",
+                        "pinyin": "Nǐ shénme shíhou huí Hǎifáng?",
+                        "vietnamese": "Khi nào bạn về Hải Phòng."
+                    },
+                    {
+                        "chinese": "星期六前。",
+                        "pinyin": "Xīngqīliù qián.",
+                        "vietnamese": "Trước thứ 7."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["前"],
+                "sub_descriptions": [
+                    "Tương tự, danh từ {{后}} có thể được dùng để chỉ khoảng thời gian sau hiện tại hay thời điểm được đề cập đến trong câu."
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Động từ năng nguyện 能",
+        "content": [
+            {
+                "keyWords": ["能"],
+                "sub_descriptions": [
+                    "Động từ năng nguyên {{能}} thường đứng trước một động từ khác, kết hợp với động từ đó tạo thành vị ngữ nhằm diễn tả năng lực hay khả năng làm việc gì đó.",
+                    "{{能}} cũng thường được dùng trong câu hỏi có cấu trúc “{{能……吗？}}”để diễn tả lời thỉnh cầu hoặc mong muốn được làm gì đó."
+                ]
+            }
+        ]
+    }
+]

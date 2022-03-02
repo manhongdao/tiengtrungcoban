@@ -1,0 +1,716 @@
+[
+    {
+        "chinese": "读",
+        "pinyin": "dú",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Đọc",
+                "image": "read.png",
+                "example": {
+                    "chinese": "老师读一句，同学们跟着读一句。",
+                    "pinyin": "Lǎoshī dú yījù, tóngxuémen gēnzhe dú yījù.",
+                    "vietnamese": "Thầy giáo đọc một câu, học sinh đọc theo một câu."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "报纸",
+        "pinyin": "bàozhǐ",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Báo",
+                "image": "newspaper.png",
+                "example": {
+                    "chinese": "我把报纸一沓一沓地整理好了。",
+                    "pinyin": "Wǒ bǎ bàozhǐ yī dá yī dá de zhěnglǐ hǎole.",
+                    "vietnamese": "Tôi đã sắp xếp báo thành từng chồng rồi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "看",
+        "pinyin": "kàn",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Xem",
+                "image": "watching-tv.png",
+                "example": {
+                    "chinese": "他看书看上瘾了。",
+                    "pinyin": "Tā kànshū kàn shàngyǐn le.",
+                    "vietnamese": "Anh ấy xem sách đến mức ghiền luôn."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "电影",
+        "pinyin": "diànyǐng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Phim, điện ảnh",
+                "image": "film.png",
+                "example": {
+                    "chinese": "这部电影是十四本。",
+                    "pinyin": "Zhèbù diànyǐng shì shísì běn.",
+                    "vietnamese": "Bộ phim này có 14 tập."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "电视",
+        "pinyin": "diànshì",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Tivi, truyền hình",
+                "image": "tv.png",
+                "example": {
+                    "chinese": "做完功课再看电视。",
+                    "pinyin": "Zuò wán gōngkè zài kàndiànshì.",
+                    "vietnamese": "Làm xong bài tập mới xem tivi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "新闻",
+        "pinyin": "xīnwén",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Tin tức",
+                "image": "news.png",
+                "example": {
+                    "chinese": "你听到新闻了吗？",
+                    "pinyin": "Nǐ tīng dào xīnwénle ma?",
+                    "vietnamese": "Bạn đã nghe tin tức gì chưa?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "听",
+        "pinyin": "tīng",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Nghe",
+                "image": "listening.png",
+                "example": {
+                    "chinese": "他们没听。",
+                    "pinyin": "Tāmen méi tīng.",
+                    "vietnamese": "Họ không nghe."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "音乐",
+        "pinyin": "yīnyuè",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Âm nhạc",
+                "image": "music.png",
+                "example": {
+                    "chinese": "我在听音乐。",
+                    "pinyin": "Wǒ zài tīng yīnyuè.",
+                    "vietnamese": "Tôi đang nghe nhạc."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "玩",
+        "pinyin": "wán",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Chơi, chơi đùa",
+                "image": "playing.png",
+                "example": {
+                    "chinese": "我想玩电脑。",
+                    "pinyin": "Wǒ xiǎng wán diànnǎo.",
+                    "vietnamese": "Tôi muốn chơi trên máy tính."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "游戏",
+        "pinyin": "yóuxì",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Trò chơi",
+                "image": "game-console.png",
+                "example": {
+                    "chinese": "游戏几点开始？",
+                    "pinyin": "Yóuxì jǐ diǎn kāishǐ?",
+                    "vietnamese": "Khi nào trò chơi bắt đầu?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "玩具",
+        "pinyin": "wánjù",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Đồ chơi",
+                "image": "toys.png",
+                "example": {
+                    "chinese": "她为了个玩具在哭。",
+                    "pinyin": "Tā wèile gè wánjù zài kū.",
+                    "vietnamese": "Cô bé ấy đang khóc vì một món đồ chơi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "爱好",
+        "pinyin": "àihào",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Sở thích",
+                "example": {
+                    "chinese": "你的爱好是什么？",
+                    "pinyin": "Nǐ de àihào shì shénme?",
+                    "vietnamese": "Sở thích của bạn là gì?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "喜欢",  
+        "pinyin": "xǐhuān",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Thích, yêu thích",
+                "example": {
+                    "chinese": "我喜欢猫。",
+                    "pinyin": "Wǒ xǐhuān māo.",
+                    "vietnamese": "Tôi thích mèo."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "画",
+        "pinyin": "huà",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Vẽ",
+                "image": "drawing.png",
+                "example": {
+                    "chinese": "给我画只绵羊。",
+                    "pinyin": "Gěi wǒ huà zhǐ miányáng.",
+                    "vietnamese": "Hãy vẽ cho tôi một con cừu."
+                }
+            },
+            {
+                "type": "danh từ",
+                "vietnamese": "Bức tranh",
+                "image": "picture.png",
+                "example": {
+                    "chinese": "这些画很美。",
+                    "pinyin": "Zhèxiē huà hěn měi.",
+                    "vietnamese": "Những bức tranh này thật đẹp."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "讲",
+        "pinyin": "jiǎng",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Nói, kể, thuyết minh",
+                "image": "talk.png",
+                "example": {
+                    "chinese": "请讲慢一点。",
+                    "pinyin": "Qǐng jiǎng màn yīdiǎn.",
+                    "vietnamese": "Làm ơn nói chậm lại."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "故事",
+        "pinyin": "gùshì",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Truyện, câu chuyện",
+                "image": "story.png",
+                "example": {
+                    "chinese": "他给我讲了很多历史故事。",
+                    "pinyin": "Tā gěi wǒ jiǎngle hěnduō lìshǐ gùshì.",
+                    "vietnamese": "Anh ấy kể cho tôi nghe rất nhiều truyện về lịch sử."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "唱歌",
+        "pinyin": "chànggē",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Hát, ca hát",
+                "image": "singing.png",
+                "example": {
+                    "chinese": "你给我唱歌。",
+                    "pinyin": "Nǐ gěi wǒ chànggē.",
+                    "vietnamese": "Bạn hát cho tôi nghe."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "运动",
+        "pinyin": "yùndòng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Vận động",
+                "image": "motion.png",
+                "example": {
+                    "chinese": "运动对身体很好。",
+                    "pinyin": "Yùndòng duì shēntǐ hěn hǎo.",
+                    "vietnamese": "Vận động rất tốt cho sức khỏe."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "跑步",
+        "pinyin": "pǎobù",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Chạy bộ",
+                "image": "running.png",
+                "example": {
+                    "chinese": "他每天都在公园中跑步。",
+                    "pinyin": "Tā měitiān dū zài gōngyuán zhōng pǎobù.",
+                    "vietnamese": "Anh ấy chạy bộ ở công viên mỗi ngày."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "游泳",
+        "pinyin": "yóuyǒng",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Bơi lội",
+                "image": "swim.png",
+                "example": {
+                    "chinese": "我会游泳。",
+                    "pinyin": "Wǒ huì yóuyǒng.",
+                    "vietnamese": "Tôi có thể bơi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "踢",
+        "pinyin": "tī",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Đá (bóng)",
+                "image": "kick-off.png",
+                "example": {
+                    "chinese": "他一回家就去踢足球。",
+                    "pinyin": "Tā yī huí jiā jiù qù tī zúqiú.",
+                    "vietnamese": "Anh ta vừa về nhà đã đi đá bóng."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "足球",
+        "pinyin": "zúqiú",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bóng đá",
+                "image": "football.png",
+                "example": {
+                    "chinese": "他擅长足球。",
+                    "pinyin": "Tā shàncháng zúqiú.",
+                    "vietnamese": "Anh ấy giỏi bóng đá."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "散步",
+        "pinyin": "sànbù",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Đi bộ",
+                "image": "walking.png",
+                "example": {
+                    "chinese": "他出去散步。",
+                    "pinyin": "Tā chūqù sànbù.",
+                    "vietnamese": "Anh ấy ra ngoài đi dạo."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "打",
+        "pinyin": "dǎ",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Đánh",
+                "image": "tennis.png",
+                "example": {
+                    "chinese": "他网球打得很好。",
+                    "pinyin": "Tā wǎngqiú dǎ dé hěn hǎo.",
+                    "vietnamese": "Anh ấy đánh quần vợt rất giỏi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "篮球",
+        "pinyin": "lánqiú",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bóng rổ",
+                "image": "basketball.png",
+                "example": {
+                    "chinese": "我喜欢看篮球比赛。",
+                    "pinyin": "Wǒ xǐhuān kàn lánqiú bǐsài.",
+                    "vietnamese": "Tôi thích xem các trận đấu bóng rổ."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "跳舞",
+        "pinyin": "tiàowǔ",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Nhảy, múa, vũ đạo",
+                "image": "dancing.png",
+                "example": {
+                    "chinese": "你会跳舞吗？",
+                    "pinyin": "Nǐ huì tiàowǔ ma?",
+                    "vietnamese": "Bạn nhảy được chứ?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "锻炼",
+        "pinyin": "duànliàn",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Luyện tập, rèn luyện",
+                "example": {
+                    "chinese": "你得多锻炼锻炼才能健康。",
+                    "pinyin": "Nǐ dé duō duànliàn duànliàn cáinéng jiànkāng.",
+                    "vietnamese": "Bạn phải tập luyện nhiều thì mới khỏe mạnh."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "比赛",
+        "pinyin": "bǐsài",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Cuộc thi",
+                "example": {
+                    "chinese": "他在第二轮比赛中被淘汰。",
+                    "pinyin": "Tā zài dìèrlún bǐsài zhōng bèi táotài.",
+                    "vietnamese": "Anh ấy bị loại khỏi lần thi thứ hai."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "上网",
+        "pinyin": "shàngwǎng",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Lên mạng",
+                "example": {
+                    "chinese": "我们每天都上网聊天。",
+                    "pinyin": "Wǒmen měitiān dū shàngwǎng liáotiān.",
+                    "vietnamese": "Chúng tôi ngày nào cũng lên mạng nói chuyện."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "聊天",
+        "pinyin": "liáotiān",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Nói chuyện, trò chuyện",
+                "image": "talking.png",
+                "example": {
+                    "chinese": "我们每天都上网聊天。",
+                    "pinyin": "Wǒmen měitiān dū shàngwǎng liáotiān.",
+                    "vietnamese": "Chúng tôi ngày nào cũng lên mạng nói chuyện."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "爬山",
+        "pinyin": "páshān",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Leo núi",
+                "image": "climbing.png",
+                "example": {
+                    "chinese": "爬山是锻鍊的好方法。",
+                    "pinyin": "Páshān shì duàn liàn de hǎo fāngfǎ.",
+                    "vietnamese": "Leo núi là một cách tuyệt vời để rèn luyện."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "体育",
+        "pinyin": "tǐyù",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Thể dục, thể thao",
+                "image": "exercise.png",
+                "example": {
+                    "chinese": "发展体育运动，增强人民体质。",
+                    "pinyin": "Fāzhǎn tǐyùyùndòng, zēngqiáng rénmín tǐzhí.",
+                    "vietnamese": "Phát triển phong trào thể dục, tăng cường sức khoẻ của nhân dân."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "参加",
+        "pinyin": "cānjiā",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Tham gia",
+                "example": {
+                    "chinese": "我自从参加了体育锻炼，身体强健多了。",
+                    "pinyin": "Wǒ zìcóng cānjiā le tǐyùduànliàn, shēntǐ qiángjiàn duō le.",
+                    "vietnamese": "Tôi từ khi tham gia tập thể dục, đã khoẻ nhiều."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "节目",
+        "pinyin": "jiémù",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Tiết mục, chương trình",
+                "image": "stage.png",
+                "example": {
+                    "chinese": "那个节目现在正在播出。",
+                    "pinyin": "Nàgè jiémù xiànzài zhèngzài bō chū.",
+                    "vietnamese": "Chương trình đó đang được phát sóng."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "放松",
+        "pinyin": "fàngsōng",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Thả lỏng",
+                "example": {
+                    "chinese": "深呼吸，然后放松。",
+                    "pinyin": "Shēnhūxī, ránhòu fàngsōng.",
+                    "vietnamese": "Hít thở sâu, sau đó thả lỏng."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "有意思",
+        "pinyin": "yǒuyìsi",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Thú vị",
+                "example": {
+                    "chinese": "我得找点有意思的事做。",
+                    "pinyin": "Wǒ dé zhǎo diǎn yǒuyìsi de shì zuò.",
+                    "vietnamese": "Tôi cần tìm một cái gì đó thú vị để làm."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "感兴趣",
+        "pinyin": "gǎn xìngqù",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Có hứng thú, thích thú",
+                "example": {
+                    "chinese": "我对游泳很感兴趣。",
+                    "pinyin": "Wǒ duì yóuyǒng hěn gǎn xìngqù.",
+                    "vietnamese": "Tôi rất có hứng thú với bơi lội."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "完",
+        "pinyin": "wán",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Hết, kết thúc, xong",
+                "example": {
+                    "chinese": "我们工作完后就回家了。",
+                    "pinyin": "Wǒmen gōngzuò wán hòu jiù huí jiāle.",
+                    "vietnamese": "Chúng tôi về nhà sau khi hết giờ làm việc."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "除了",
+        "pinyin": "chúle",
+        "meaning": [
+            {
+                "type": "giới từ",
+                "vietnamese": "Ngoài ra, trừ ra",
+                "example": {
+                    "chinese": "我们家除了我都很喜欢运动。",
+                    "pinyin": "Wǒmen jiā chúle wǒ dū hěn xǐhuān yùndòng.",
+                    "vietnamese": "Gia đình tôi ngoài tôi ra thì mọi người đều thích thể thao."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "结束",
+        "pinyin": "jiéshù",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Kết thúc, chấm dứt",
+                "example": {
+                    "chinese": "他们决定结束彼此的关系。",
+                    "pinyin": "Tāmen juédìng jiéshù bǐcǐ de guānxì.",
+                    "vietnamese": "Họ quyết định chấm dứt mối quan hệ của mình."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "经过",
+        "pinyin": "jīngguò",
+        "meaning": [
+            {
+                "type": "giới từ",
+                "vietnamese": "Trải qua, qua",
+                "example": {
+                    "chinese": "一切经过现在还记得。",
+                    "pinyin": "Yīqiè jīngguò xiànzài hái jìdé.",
+                    "vietnamese": "Tất cả những gì đã qua bây giờ vẫn còn nhớ."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "练习",
+        "pinyin": "liànxí",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Luyện tập, ôn tập",
+                "example": {
+                    "chinese": "你需要每天练习。",
+                    "pinyin": "Nǐ xūyào měitiān liànxí.",
+                    "vietnamese": "Bạn cần luyện tập mỗi ngày."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "了解",
+        "pinyin": "liǎojiě",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Hiểu rõ, biết rõ",
+                "example": {
+                    "chinese": "我了解她在说什么。",
+                    "pinyin": "Wǒ liǎojiě tā zài shuō shénme.",
+                    "vietnamese": "Tôi hiểu rõ cô ấy đang nói về điều gì."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "习惯",
+        "pinyin": "xíguàn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Thói quen",
+                "example": {
+                    "chinese": "小猫还有偷吃的坏习惯。",
+                    "pinyin": "Xiǎo māo hái yǒu tōu chī de huài xíguàn.",
+                    "vietnamese": "Mèo con có thói quen xấu là ăn trộm thức ăn."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "有名",
+        "pinyin": "yǒumíng",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Nổi tiếng",
+                "image": "famous.png",
+                "example": {
+                    "chinese": "他哥哥是个有名的足球员。",
+                    "pinyin": "Tā gēgē shìgè yǒumíng de zúqiú yuán.",
+                    "vietnamese": "Anh trai của anh ấy là một cầu thủ bóng đá nổi tiếng."
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,371 @@
+[
+    {
+        "chinese": "开",
+        "pinyin": "kāi",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Lái, chạy",
+                "image": "driver.png",
+                "example": {
+                    "chinese": "我和妹妹都会开车。",
+                    "pinyin": "Wǒ hé mèimei dōu huì kāichē.",
+                    "vietnamese": "Tôi và em gái đều biết lái xe hơi."
+                }
+            },
+            {
+                "type": "động từ",
+                "vietnamese": "Thành lập, mở",
+                "image": "company.png",
+                "example": {
+                    "chinese": "我爸爸在河内开一家公司。",
+                    "pinyin": "Wǒ bàba zài hénèi kāi yījiā gōngsī.",
+                    "vietnamese": "Bố tôi mở một công ty tại Hà Nội."
+                }
+            },
+            {
+                "type": "động từ",
+                "vietnamese": "Mở, mở ra",
+                "image": "door.png",
+                "example": {
+                    "chinese": "请帮我开门。",
+                    "pinyin": "Qǐng bāng wǒ kāimén.",
+                    "vietnamese": "Hãy mở cửa giúp tôi."
+                }
+            },
+            {
+                "type": "động từ",
+                "vietnamese": "Tổ chức, tiến hành",
+                "image": "festival.png",
+                "example": {
+                    "chinese": "明天我们学校开运动会。",
+                    "pinyin": "Míngtiān wǒmen xuéxiào kāi yùndònghuì.",
+                    "vietnamese": "Trường tôi ngày mai tổ chức hội thao."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "公共汽车",
+        "pinyin": "gōnggòng qìchē",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Xe bus",
+                "image": "bus.png",
+                "example": {
+                    "chinese": "让我们坐公共汽车去。",
+                    "pinyin": "Ràng wǒmen zuò gōnggòng qìchē qù.",
+                    "vietnamese": "Chúng ta hãy đi bằng xe bus."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "火车站",
+        "pinyin": "huǒchē zhàn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Ga tàu hỏa",
+                "image": "train-station.png",
+                "example": {
+                    "chinese": "火车站在哪里？",
+                    "pinyin": "Huǒchē zhàn zài nǎlǐ?",
+                    "vietnamese": "Ga tàu hỏa ở đâu vậy?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "机场",
+        "pinyin": "jīchǎng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Sân bay",
+                "image": "airport.png",
+                "example": {
+                    "chinese": "我陪你去机场吧。",
+                    "pinyin": "Wǒ péi nǐ qù jīchǎng ba.",
+                    "vietnamese": "Hãy để tôi đi cùng bạn đến sân bay."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "送",
+        "pinyin": "sòng",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Đưa, tiễn",
+                "example": {
+                    "chinese": "明天我送你去机场。",
+                    "pinyin": "Míngtiān wǒ sòng nǐ qù jīchǎng.",
+                    "vietnamese": "Ngày mai tôi đưa bạn đến sân bay."
+                }
+            },
+            {
+                "type": "động từ",
+                "vietnamese": "Tặng",
+                "image": "gift.png",
+                "example": {
+                    "chinese": "我送你一本书。",
+                    "pinyin": "Wǒ sòng nǐ yī běn shū.",
+                    "vietnamese": "Tôi tặng bạn một quyển sách."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "等",
+        "pinyin": "děng",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Đợi, chờ đợi",
+                "image": "waiting.png",
+                "example": {
+                    "chinese": "等火车很无聊。",
+                    "pinyin": "Děng huǒchē hěn wúliáo.",
+                    "vietnamese": "Chờ tàu thật chán."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "自行车",
+        "pinyin": "zìxíngchē",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Xe đạp",
+                "image": "bicycle.png",
+                "example": {
+                    "chinese": "我有新的自行车。",
+                    "pinyin": "Wǒ yǒu xīn de zìxíngchē.",
+                    "vietnamese": "Tôi có một chiếc xe đạp mới."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "船",
+        "pinyin": "chuán",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Thuyền",
+                "image": "sailing.png",
+                "example": {
+                    "chinese": "船触礁沉没。",
+                    "pinyin": "Chuán chùjiāo chénmò.",
+                    "vietnamese": "Con thuyền va phải một tảng đá và bị chìm."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "地铁",
+        "pinyin": "dìtiě",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Tàu điện ngầm",
+                "image": "underground.png",
+                "example": {
+                    "chinese": "请问，地铁在哪儿？",
+                    "pinyin": "Qǐngwèn, dìtiě zài nǎr?",
+                    "vietnamese": "Xin lỗi, tàu điện ngầm ở đâu vậy?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "接",
+        "pinyin": "jiē",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Đón, nhận",
+                "image": "receive.png",
+                "example": {
+                    "chinese": "我会去接他的。",
+                    "pinyin": "Wǒ huì qù jiē tā de.",
+                    "vietnamese": "Tôi sẽ đến đón anh ấy."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "辆",
+        "pinyin": "liàng",
+        "meaning": [
+            {
+                "type": "lượng từ",
+                "vietnamese": "Chiếc (dùng với xe cộ)",
+                "image": "car.png",
+                "example": {
+                    "chinese": "一辆汽车",
+                    "pinyin": "Yī liàng qìchē",
+                    "vietnamese": "Một chiếc xe hơi"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "骑",
+        "pinyin": "qí",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Cưỡi, đi",
+                "image": "riding.png",
+                "example": {
+                    "chinese": "骑自行车",
+                    "pinyin": "qí zìxíngchē",
+                    "vietnamese": "Đi xe đạp"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "站",  
+        "pinyin": "zhàn",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Đứng",
+                "image": "standing.png",
+                "example": {
+                    "chinese": "爸爸站在我旁边。",
+                    "pinyin": "Bàba zhàn zài wǒ pángbiān.",
+                    "vietnamese": "Bố đứng bên cạnh tôi."
+                }
+            },
+            {
+                "type": "danh từ",
+                "vietnamese": "Trạm, ga",
+                "image": "train-station.png",
+                "example": {
+                    "chinese": "我在火车站等你。",
+                    "pinyin": "Wǒ zài huǒchē zhàn děng nǐ.",
+                    "vietnamese": "Tôi đợi bạn ở ga tàu."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "飞机",
+        "pinyin": "fēijī",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Máy bay",
+                "image": "airplane.png",
+                "example": {
+                    "chinese": "飞机在天顶上盘旋。",
+                    "pinyin": "Fēijī zài tiān dǐngshàng pánxuán.",
+                    "vietnamese": "Máy bay lượn vòng trên bầu trời."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "火车",
+        "pinyin": "huǒchē",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Tàu hỏa",
+                "image": "train.png",
+                "example": {
+                    "chinese": "火车于下午3时到达北京。",
+                    "pinyin": "Huǒchē yú xiàwǔ 3 shí dàodá běijīng.",
+                    "vietnamese": "Tàu hoả ba giờ chiều đến Bắc Kinh."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "摩托车",
+        "pinyin": "mótuō chē",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Xe máy",
+                "image": "motorcycle.png",
+                "example": {
+                    "chinese": "开摩托车不戴头盔是很危险的。",
+                    "pinyin": "Kāi mótuō chē bù dài tóukuī shì hěn wéixiǎn de.",
+                    "vietnamese": "Điều khiển xe máy không đội mũ bảo hiểm rất nguy hiểm."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "出租车",
+        "pinyin": "chūzū chē",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Xe taxi",
+                "image": "taxi.png",
+                "example": {
+                    "chinese": "我等着出租车。",
+                    "pinyin": "Wǒ děngzhe chūzū chē.",
+                    "vietnamese": "Tôi đang đợi taxi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "灯",
+        "pinyin": "dēng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Đèn",
+                "image": "street-light.png",
+                "example": {
+                    "chinese": "灯亮着。",
+                    "pinyin": "Dēngliàngzhe.",
+                    "vietnamese": "Bóng đèn đang bật."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "红绿灯",
+        "pinyin": "hónglǜdēng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Đèn giao thông",
+                "image": "traffic-lights.png",
+                "example": {
+                    "chinese": "红绿灯变成绿色了。",
+                    "pinyin": "Hónglǜdēng biàn chéng lǜsèle.",
+                    "vietnamese": "Đèn giao thông chuyển sang màu xanh."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "汽车",
+        "pinyin": "qìchē",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Xe hơi",
+                "image": "car.png",
+                "example": {
+                    "chinese": "我没有汽车。",
+                    "pinyin": "Wǒ méiyǒu qìchē.",
+                    "vietnamese": "Tôi không có một chiếc xe hơi."
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,199 @@
+[
+    {
+        "header": "Vận mẫu đơn",
+        "data": [
+        {
+            "title": "a",
+            "value": "Cách phát âm gần giống “a” trong tiếng Việt. Là nguyên âm dài, không tròn môi."
+        },
+        {
+            "title": "o",
+            "value": "Cách phát âm hơi giống “ô” trong tiếng Việt. Là nguyên âm dài, tròn môi."
+        },
+        {
+            "title": "e",
+            "value": "Cách phát âm hơi giống “ơ” và “ưa” trong tiếng Việt. Là nguyên âm dài, không tròn môi."
+        },
+        {
+            "title": "i (khi đứng sau b,p,m,f,d,t,n,l,j,q,x)",
+            "file": "i",
+            "value": "Cách phát âm hơi giống “i” trong tiếng Việt. Là nguyên âm dài, không tròn môi."
+        },
+        {
+            "title": "i (khi đứng sau z,c,s,zh,ch,sh,r)",
+            "file": "i1",
+            "value": "Cách phát âm hơi giống “ư” trong tiếng Việt. Là nguyên âm dài, không tròn môi."
+        },
+        {
+            "title": "u",
+            "value": "Cách phát âm hơi giống “u” trong tiếng Việt. Là nguyên âm dài, tròn môi."
+        },
+        {
+            "title": "ü",
+            "file": "u1",
+            "value": "Cách phát âm hơi giống “uy” trong tiếng Việt. Là nguyên âm dài, tròn môi."
+        }
+        ]
+    },
+    {
+        "header": "Vận mẫu kép",
+        "data": [
+        {
+            "title": "ai",
+            "value": "Cách phát âm gần giống âm “ai” trong tiếng Việt."
+        },
+        {
+            "title": "ao",
+            "value": "Cách phát âm gần giống âm “ao” trong tiếng Việt."
+        },
+        {
+            "title": "ou",
+            "value": "Cách phát âm gần giống âm “âu” trong tiếng Việt,",
+            "note": "âm mô phỏng: ô-u."
+        },
+        {
+            "title": "ei",
+            "value": "Cách phát âm gần giống âm “ây” trong tiếng Việt,",
+            "note": "âm mô phỏng: ê-i."
+        },
+        {
+            "title": "ia",
+            "value": "Phát nguyên âm “i” trước, sau đó lập tức chuyển sang phát nguyên âm “a”,",
+            "note": "âm mô phỏng: i-a."
+        },
+        {
+            "title": "ie",
+            "value": "Cách phát âm gần giống âm “ia” trong tiếng Việt,",
+            "note": "âm mô phỏng: i-ia."
+        },
+        {
+            "title": "iao",
+            "value": "Phát nguyên âm “i” trước, sau đó lập tức chuyển sang phát nguyên âm kép “ao”,",
+            "note": "âm mô phỏng: i-ao (từ không tròn môi đến tròn môi)."
+        },
+        {
+            "title": "iou (iu)",
+            "file": "iou",
+            "value": "Phát nguyên âm “i” trước, sau đó lập tức chuyển sang phát nguyên âm kép “ou”, phát âm na ná âm “yêu” trong tiếng Việt."
+        },
+        {
+            "title": "ua",
+            "value": "Cách phát âm gần giống âm “oa” trong tiếng Việt,",
+            "note": "âm mô phỏng: u-a."
+        },
+        {
+            "title": "uo",
+            "value": "Cách phát âm gần giống âm “ua” trong tiếng Việt,",
+            "note": "âm mô phỏng: u-ua."
+        },
+        {
+            "title": "uai",
+            "value": "Cách phát âm gần giống âm “oai” trong tiếng Việt,",
+            "note": "âm mô phỏng: u-ai."
+        },
+        {
+            "title": "uei (ui)",
+            "file": "ui",
+            "value": "Cách phát âm na ná âm “uây” trong tiếng Việt,",
+            "note": "âm mô phỏng: u-uây."
+        },
+        {
+            "title": "üe",
+            "file": "u1e",
+            "value": "Cách phát âm gần giống âm “uê” trong tiếng Việt,",
+            "note": "âm mô phỏng: uy-ê (uy tròn môi)."
+        }
+
+        ]
+    },
+    {
+        "header": "Âm mũi",
+        "data": [
+            {
+                "title": "an",
+                "value": "Cách phát âm gần giống “an” trong tiếng Việt."
+            },
+            {
+                "title": "ang",
+                "value": "Cách phát âm gần giống “ang” trong tiếng Việt."
+            },
+            {
+                "title": "ong",
+                "value": "Cách phát âm na ná “ung” trong tiếng Việt."
+            },
+            {
+                "title": "en",
+                "value": "Cách phát âm gần giống âm “ân” trong tiếng Việt."
+            },
+            {
+                "title": "eng",
+                "value": "Cách phát âm gần giống “âng” trong tiếng Việt."
+            },
+            {
+                "title": "ian",
+                "value": "Cách phát âm gần giống âm “iên” trong tiếng Việt,",
+                "note": "âm mô phỏng: ia-en."
+            },
+            {
+                "title": "in",
+                "value": "Cách phát âm gần giống âm “in” trong tiếng Việt."
+            },
+            {
+                "title": "iang",
+                "value": "Cách phát âm giống với âm “yang”,",
+                "note": "âm mô phỏng: i-ang."
+            },
+            {
+                "title": "ing",
+                "value": "Cách phát âm gần giống “inh” trong tiếng Việt nhưng kéo dài,",
+                "note": "âm mô phỏng: i-ưng."
+            },
+            {
+                "title": "iong",
+                "value": "Cách phát âm giống với âm “yung”",
+                "note": "âm mô phỏng: i-ung."
+            },
+            {
+                "title": "uan",
+                "value": "Cách phát âm gần giống âm “oan” trong tiếng Việt,",
+                "note": "âm mô phỏng: u-an."
+            },
+            {
+                "title": "uen(un)",
+                "file": "un",
+                "value": "Cách phát âm gần giống âm “uân” trong tiếng Việt,",
+                "note": "âm mô phỏng: u-ân."
+            },
+            {
+                "title": "uang",
+                "value": "Cách phát âm gần giống “oang” trong tiếng Việt,",
+                "note": "âm mô phỏng: u-ang."
+            },
+            {
+                "title": "ueng",
+                "value": "Cách phát âm gần giống “uâng” trong tiếng Việt.",
+                "note": "âm mô phỏng: u-âng."
+            },
+            {
+                "title": "üan",
+                "file": "u1an",
+                "value": "Cách phát âm gần giống âm “oen” trong tiếng Việt,",
+                "note": "âm mô phỏng: uy-an (uy tròn môi)."
+            },
+            {
+                "title": "ün",
+                "file": "u1n",
+                "value": "Cách phát âm na ná âm “uyn” trong tiếng Việt."
+            }
+        ]
+    },
+    {
+        "header": "Âm uốn lưỡi",
+        "data": [
+            {
+                "title": "er",
+                "value": "Đọc giống âm “ơ” trong tiếng Việt, há to miệng, lưỡi uốn dần vào trong, đầu lưỡi chạm vào ngạc cứng."
+            }
+        ]
+    }
+]

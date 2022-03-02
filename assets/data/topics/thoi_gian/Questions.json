@@ -1,0 +1,217 @@
+{
+    "listening": [
+        ["天", "年", "月", "日", "周", "先", "点", "分", "秒", "每", "刻", "半", "才", "就"],
+        ["昨天", "今天", "明天", "去年", "今年", "明年", "春天", "它们", "秋天", "冬天", "周末", "星期", "以前", "过去", "现在", "最近", "未来", "后来", "以后", "然后", "马上", "早上", "上午", "中午", "下午", "晚上", "半夜", "小时", "分钟", "时候", "时间", "节日", "生日", "刚才", "终于", "开始"]
+    ],
+    "reading": [
+        [
+            {
+                "chinese": "天",
+                "vietnamese": "Ngày"
+            },
+            {
+                "chinese": "昨天",
+                "vietnamese": "Ngày hôm qua"
+            },
+            {
+                "chinese": "今天",
+                "vietnamese": "Ngày hôm nay"
+            },
+            {
+                "chinese": "明天",
+                "vietnamese": "Ngày mai"
+            },
+            {
+                "chinese": "年",
+                "vietnamese": "Năm"
+            },
+            {
+                "chinese": "去年",
+                "vietnamese": "Năm ngoái, năm qua"
+            },
+            {
+                "chinese": "今年",
+                "vietnamese": "Năm nay"
+            },
+            {
+                "chinese": "明年",
+                "vietnamese": "Năm sau"
+            },
+            {
+                "chinese": "月",
+                "vietnamese": "Tháng"
+            },
+            {
+                "chinese": "日",
+                "vietnamese": "Ngày"
+            },
+            {
+                "chinese": "春天",
+                "vietnamese": "Mùa xuân"
+            },
+            {
+                "chinese": "它们",
+                "vietnamese": "Mùa hè"
+            },
+            {
+                "chinese": "秋天",
+                "vietnamese": "Mùa thu"
+            },
+            {
+                "chinese": "冬天",
+                "vietnamese": "Mùa đông"
+            },
+            {
+                "chinese": "周末",
+                "vietnamese": "Cuối tuần"
+            },
+            {
+                "chinese": "周",
+                "vietnamese": "Tuần lễ"
+            },
+            {
+                "chinese": "星期",
+                "vietnamese": "Ngày, thứ (ghép liền với các ngày trong tuần)"
+            },
+            {
+                "chinese": "以前",
+                "vietnamese": "Trước đây, trước kia"
+            },
+            {
+                "chinese": "过去",
+                "vietnamese": "Quá khứ, trước đây"
+            },
+            {
+                "chinese": "现在",
+                "vietnamese": "Hiện tại, bây giờ"
+            },
+            {
+                "chinese": "最近",
+                "vietnamese": "Gần đây"
+            },
+            {
+                "chinese": "未来",
+                "vietnamese": "Tương lai, sau này"
+            },
+            {
+                "chinese": "后来",
+                "vietnamese": "Về sau, sau này"
+            },
+            {
+                "chinese": "以后",
+                "vietnamese": "Sau đó, sau này"
+            },
+            {
+                "chinese": "先",
+                "vietnamese": "Trước, tiên"
+            },
+            {
+                "chinese": "然后",
+                "vietnamese": "Sau đó, tiếp đó"
+            },
+            {
+                "chinese": "马上",
+                "vietnamese": "Lập tức, ngay"
+            },
+            {
+                "chinese": "早上",
+                "vietnamese": "Sáng sớm"
+            },
+            {
+                "chinese": "上午",
+                "vietnamese": "Buổi sáng"
+            },
+            {
+                "chinese": "中午",
+                "vietnamese": "Buổi trưa"
+            },
+            {
+                "chinese": "下午",
+                "vietnamese": "Buổi chiều"
+            },
+            {
+                "chinese": "晚上",
+                "vietnamese": "Buổi tối"
+            },
+            {
+                "chinese": "半夜",
+                "vietnamese": "Nửa đêm"
+            },
+            {
+                "chinese": "小时",
+                "vietnamese": "Giờ đồng hồ"
+            },
+            {
+                "chinese": "点",
+                "vietnamese": "Giờ"
+            },
+            {
+                "chinese": "分钟",
+                "vietnamese": "Phút"
+            },
+            {
+                "chinese": "分",
+                "vietnamese": "Phút"
+            },
+            {
+                "chinese": "秒",
+                "vietnamese": "Giây"
+            },
+            {
+                "chinese": "每",
+                "vietnamese": "Mỗi, từng"
+            },
+            {
+                "chinese": "时候",
+                "vietnamese": "Lúc, khi"
+            },
+            {
+                "chinese": "刻",
+                "vietnamese": "15 phút"
+            },
+            {
+                "chinese": "半",
+                "vietnamese": "Một nửa, rưỡi"
+            },
+            {
+                "chinese": "时间",
+                "vietnamese": "Thời gian"
+            },
+            {
+                "chinese": "才",
+                "vietnamese": "Mới, mới chịu"
+            },
+            {
+                "chinese": "就",
+                "vietnamese": "Đã"
+            },
+            {
+                "chinese": "节日",
+                "vietnamese": "Ngày lễ"
+            },
+            {
+                "chinese": "生日",
+                "vietnamese": "Ngày sinh, sinh nhật"
+            },
+            {
+                "chinese": "刚才",
+                "vietnamese": "Vừa, vừa mới"
+            },
+            {
+                "chinese": "终于",
+                "vietnamese": "Cuối cùng"
+            },
+            {
+                "chinese": "开始",
+                "vietnamese": "Bắt đầu, khởi đầu"
+            }
+        ]
+    ],
+    "speaking": [
+        ["天", "昨天", "今天", "明天", "年", "去年", "今年", "明年", "月", "日", "春天", "它们", "秋天", "冬天", "周末", "周", "星期", "以前", "过去", "现在", "最近", "未来", "后来", "以后", "先", "然后", "马上", "早上", "上午", "中午", "下午", "晚上", "半夜", "小时", "点", "分钟", "分", "秒", "每", "时候", "刻", "半", "时间", "才", "就", "节日", "生日", "刚才", "终于", "开始"]
+    ],
+    "writing": [
+        ["现在几点？", "现在八点一刻。", "我们几点出发？", "八点半出发好吗？", "早上你几点起床？", "我七点就起床了。", "我八点才起床，你几点睡觉？", "十点就睡觉。", "你先吃饭还是先洗澡？", "然后写作业。", "一定要在十一点前睡觉。", "明天七点就要上课了。", "我明天六点前会起床。", "星期六前。", "五分钟前。", "我昨天晚上十点在家看书。", "差五分九点。", "八点十五分。"]
+    ]
+
+}

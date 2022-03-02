@@ -1,0 +1,518 @@
+[
+    {
+        "chinese": "家",
+        "pinyin": "jiā",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Gia đình, nhà, nơi ở",
+                "image": "home.png",
+                "example": {
+                    "chinese": "我家有四口人。",
+                    "pinyin": "Wǒjiā yǒu sì kǒu rén.",
+                    "vietnamese": "Gia đình tôi có 4 người."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "家庭",
+        "pinyin": "jiātíng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Gia đình",
+                "image": "family.png",
+                "example": {
+                    "chinese": "他们家是一个幸福的家庭。",
+                    "pinyin": "Tāmen jiā shì yīgè xìngfú de jiātíng.",
+                    "vietnamese": "Gia đình họ là một gia đình hạnh phúc."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "成员",
+        "pinyin": "chéngyuán",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Thành viên",
+                "image": "family_members.png",
+                "example": {
+                    "chinese": "我的家人刚刚迎来了一位新成员。",
+                    "pinyin": "Wǒ de jiārén gānggāng yíng láile yī wèi xīn chéngyuán.",
+                    "vietnamese": "Gia đình tôi vừa chào đón một thành viên mới."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "父母",
+        "pinyin": "fùmǔ",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bố mẹ",
+                "image": "parents.png",
+                "example": {
+                    "chinese": "父母应该倾听孩子的心里话。",
+                    "pinyin": "Fùmǔ yīnggāi qīngtīng háizi de xīnlǐ huà.",
+                    "vietnamese": "Bố mẹ nên lắng nghe tâm sự của trẻ nhỏ."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "爸爸",
+        "pinyin": "bàba",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bố, ba, phụ thân (văn nói)",
+                "image": "father.png",
+                "example": {
+                    "chinese": "这孩子的模样像他爸爸。",
+                    "pinyin": "Zhè háizi de múyàng xiàng tā bàba.",
+                    "vietnamese": "Thằng bé này trông giống bố nó."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "父亲",
+        "pinyin": "fùqīn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bố, ba, phụ thân (văn viết)",
+                "image": "father.png",
+                "example": {
+                    "chinese": "他长得随他父亲。",
+                    "pinyin": "Tā zhǎng dé suí tā fùqīn.",
+                    "vietnamese": "Anh ấy rất giống ba."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "妈妈",
+        "pinyin": "māma",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Mẹ, má, mẫu thân (văn nói)",
+                "image": "mother.png",
+                "example": {
+                    "chinese": "小孩儿睡在妈妈怀里。",
+                    "pinyin": "Xiǎoháiér shùi zài māma huáilǐ.",
+                    "vietnamese": "Đứa bé ngủ trong lòng mẹ."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "母亲",
+        "pinyin": "mǔqīn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Mẹ, má, mẫu thân (văn viết)",
+                "image": "mother.png",
+                "example": {
+                    "chinese": "她长得酷似母亲。",
+                    "pinyin": "Tā zhǎng dé kùsì mǔqīn.",
+                    "vietnamese": "Cô ta lớn lên rất giống mẹ."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "哥哥",
+        "pinyin": "gēge",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Anh, anh trai",
+                "image": "brothers.png",
+                "example": {
+                    "chinese": "我比哥哥低一班。",
+                    "pinyin": "Wǒ bǐ gēge dī yībān.",
+                    "vietnamese": "Tôi học dưới anh trai một lớp."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "弟弟",
+        "pinyin": "dìdi",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Em trai",
+                "image": "brothers.png",
+                "example": {
+                    "chinese": "他是我的小弟弟。",
+                    "pinyin": "Tā shì wǒ de xiǎodìdi.",
+                    "vietnamese": "Nó là em trai út của tôi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "姐姐",
+        "pinyin": "jiějie",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Chị, chị gái",
+                "image": "sisters.png",
+                "example": {
+                    "chinese": "姐姐送我六本书。",
+                    "pinyin": "Jiějie sòng wǒ lìu běnshū.",
+                    "vietnamese": "Chị gái tặng tôi sáu quyển sách."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "妹妹",
+        "pinyin": "mèimei",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Em gái",
+                "image": "sisters.png",
+                "example": {
+                    "chinese": "我的妹妹在做功课。",
+                    "pinyin": "Wǒ de mèimei zài zuò gōngkè.",
+                    "vietnamese": "Em gái tôi đang làm bài tập về nhà."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "孩子",  
+        "pinyin": "háizi",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Trẻ con, trẻ em, em bé",
+                "image": "kid.png",
+                "example": {
+                    "chinese": "这是女孩子。",
+                    "pinyin": "Zhè shì nǚ háizi.",
+                    "vietnamese": "Đây là em bé gái."
+                }
+            },
+            {
+                "type": "danh từ",
+                "vietnamese": "Con, con cái",
+                "image": "children.png",
+                "example": {
+                    "chinese": "他有两个孩子。",
+                    "pinyin": "Tā yǒu liǎng gè háizi.",
+                    "vietnamese": "Anh ấy có hai đứa con."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "儿子",
+        "pinyin": "érzi",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Con trai",
+                "image": "boy.png",
+                "example": {
+                    "chinese": "我们有两个儿子。",
+                    "pinyin": "Wǒmen yǒu liǎng gè érzi.",
+                    "vietnamese": "Chúng tôi có hai đứa con trai."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "女儿",
+        "pinyin": "nǚ\"ér",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Con gái",
+                "image": "girl.png",
+                "example": {
+                    "chinese": "母亲最疼爱小女儿。",
+                    "pinyin": "Mǔqīn zuì téng'ài xiǎo nǚ'ér.",
+                    "vietnamese": "Mẹ yêu nhất đứa con gái nhỏ."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "爷爷",
+        "pinyin": "yéye",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Ông, ông nội",
+                "image": "dad_grandfa.png",
+                "example": {
+                    "chinese": "爷爷的头发都脱光了。",
+                    "pinyin": "Yéye de tóufǎ dōu tuōguāngle.",
+                    "vietnamese": "Tóc của ông nội đều rụng hết rồi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "奶奶",
+        "pinyin": "nǎinai",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bà, bà nội",
+                "image": "dad_grandma.png",
+                "example": {
+                    "chinese": "奶奶最疼小孙女儿。",
+                    "pinyin": "Nǎinai zuì téng xiǎo sūn nǚ'ér.",
+                    "vietnamese": "Bà nội cưng nhất là đứa cháu gái út."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "外公",
+        "pinyin": "wàigōng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Ông ngoại",
+                "image": "mom_grandfa.png",
+                "example": {
+                    "chinese": "老外公的背部驼了。",
+                    "pinyin": "Lǎowàigōng de bèibù tuó le.",
+                    "vietnamese": "Lưng của ông ngoại còng rồi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "外婆",
+        "pinyin": "wàipó",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bà ngoại",
+                "image": "mom_grandma.png",
+                "example": {
+                    "chinese": "他外婆少说也有七八十岁了。",
+                    "pinyin": "Tā wàipó shǎo shuō yěyǒu qībāshí suìle.",
+                    "vietnamese": "Bà ngoại anh ấy ít nhất cũng 70-80 tuổi rồi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "叔叔",
+        "pinyin": "shūshu",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Chú",
+                "image": "uncle.png",
+                "example": {
+                    "chinese": "叔叔比侄子长一辈。",
+                    "pinyin": "Shūshu bǐ zhízi zhǎng yī bèi.",
+                    "vietnamese": "Chú trên cháu một bậc."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "阿姨",
+        "pinyin": "āyí",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Cô, dì",
+                "image": "aunt.png",
+                "example": {
+                    "chinese": "小宝很乖，阿姨都喜欢他。",
+                    "pinyin": "Xiǎo bǎo hěn guāi, āyí dōu xǐhuān tā.",
+                    "vietnamese": "Tiểu Bảo rất ngoan, các dì đều rất thích nó."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "爱人",
+        "pinyin": "àirén",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Vợ, chồng",
+                "image": "spouse.png"
+            }
+        ]
+    },
+    {
+        "chinese": "丈夫",
+        "pinyin": "zhàngfu",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Chồng",
+                "image": "husband.png",
+                "example": {
+                    "chinese": "丈夫说什么她都依随。",
+                    "pinyin": "Zhàngfu shuō shénme tā dōu yī suí.",
+                    "vietnamese": "Chồng nói cái gì cô ấy đều vâng theo cái đó."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "老公",
+        "pinyin": "lǎogōng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Chồng",
+                "image": "husband.png",
+                "example": {
+                    "chinese": "她的老公通常醉醺醺的。",
+                    "pinyin": "Tā de lǎogōng tōngcháng zuìxūnxūn de.",
+                    "vietnamese": "Chồng cô ấy thường say xỉn."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "妻子",
+        "pinyin": "qīzi",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Vợ",
+                "image": "wife.png",
+                "example": {
+                    "chinese": "他不敢拒绝妻子的要求。",
+                    "pinyin": "Tā bùgǎn jùjué qīzi de yàoqíu.",
+                    "vietnamese": "Anh ta không dám từ chối yêu cầu của vợ."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "老婆",
+        "pinyin": "lǎopó",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Vợ",
+                "image": "wife.png",
+                "example": {
+                    "chinese": "他和老婆分居。",
+                    "pinyin": "Tā hé lǎopó fēnjū.",
+                    "vietnamese": "Anh ấy và vợ đã ly thân."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "口",
+        "pinyin": "kǒu",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Lượng từ dùng để chỉ số người trong gia đình",
+                "image": "quantity_members.png",
+                "example": {
+                    "chinese": "你家有几口人？",
+                    "pinyin": "Nǐ jiā yǒu jǐ kǒu rén?",
+                    "vietnamese": "Nhà bạn có bao nhiêu người?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "幸福",
+        "pinyin": "xìngfú",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Hạnh phúc",
+                "image": "happy.png",
+                "example": {
+                    "chinese": "幸福的未来。",
+                    "pinyin": "Xìngfú de wèilái.",
+                    "vietnamese": "Tương lai hạnh phúc."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "爱",
+        "pinyin": "ài",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Yêu, thương, yêu mến",
+                "image": "love.png",
+                "example": {
+                    "chinese": "我很爱我的家庭。",
+                    "pinyin": "Wǒ hěn ài wǒ de jiātíng.",
+                    "vietnamese": "Tôi rất yêu gia đình tôi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "生活",
+        "pinyin": "shēnghuó",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Cuộc sống",
+                "image": "life.png",
+                "example": {
+                    "chinese": "我家的生活很幸福。",
+                    "pinyin": "Wǒ jiā de shēnghuó hěn xìngfú.",
+                    "vietnamese": "Cuộc sống của gia đình tôi rất hạnh phúc."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "和",
+        "pinyin": "hé",
+        "meaning": [
+            {
+                "type": "liên từ",
+                "vietnamese": "Và",
+                "example": {
+                    "chinese": "我们有两个儿子和一个女儿。",
+                    "pinyin": "Wǒmen yǒu liǎng gè érzi hé yīgè nǚ'ér.",
+                    "vietnamese": "Chúng tôi có hai con trai và một con gái."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "结婚",
+        "pinyin": "jiéhūn",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Kết hôn",
+                "image": "married.png",
+                "example": {
+                    "chinese": "他们是年时才结婚的。",
+                    "pinyin": "Tāmen shì nián shí cái jiéhūn de.",
+                    "vietnamese": "Họ kết hôn vào năm ngoái."
+                }
+            }
+        ]
+    }
+]

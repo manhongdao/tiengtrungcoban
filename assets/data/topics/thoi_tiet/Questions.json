@@ -1,0 +1,128 @@
+{
+    "listening": [
+        ["星", "天", "云", "雨", "伞", "风", "雪", "冷", "热", "树", "草", "花"],
+        ["月亮", "太阳", "天气", "空气", "下雨", "刮风", "台风", "风景", "晴天", "多云", "阴天", "雨天", "暖和", "凉爽", "季节", "变化"]
+    ],
+    "reading": [
+        [
+            {
+                "chinese": "星",
+                "vietnamese": "Sao, ngôi sao"
+            },
+            {
+                "chinese": "月亮",
+                "vietnamese": "Mặt trăng"
+            },
+            {
+                "chinese": "太阳",
+                "vietnamese": "Mặt trời"
+            },
+            {
+                "chinese": "天",
+                "vietnamese": "Trời, bầu trời"
+            },
+            {
+                "chinese": "云",
+                "vietnamese": "Mây"
+            },
+            {
+                "chinese": "天气",
+                "vietnamese": "Thời tiết"
+            },
+            {
+                "chinese": "空气",
+                "vietnamese": "Không khí"
+            },
+            {
+                "chinese": "雨",
+                "vietnamese": "Mưa"
+            },
+            {
+                "chinese": "下雨",
+                "vietnamese": "Trời mưa"
+            },
+            {
+                "chinese": "伞",
+                "vietnamese": "Ô"
+            },
+            {
+                "chinese": "风",
+                "vietnamese": "Gió"
+            },
+            {
+                "chinese": "刮风",
+                "vietnamese": "Có gió"
+            },
+            {
+                "chinese": "台风",
+                "vietnamese": "Bão"
+            },
+            {
+                "chinese": "雪",
+                "vietnamese": "Tuyết"
+            },
+            {
+                "chinese": "风景",
+                "vietnamese": "Phong cảnh"
+            },
+            {
+                "chinese": "晴天",
+                "vietnamese": "Ngày nắng"
+            },
+            {
+                "chinese": "多云",
+                "vietnamese": "Mây"
+            },
+            {
+                "chinese": "阴天",
+                "vietnamese": "Ngày âm u"
+            },
+            {
+                "chinese": "雨天",
+                "vietnamese": "Ngày mưa"
+            },
+            {
+                "chinese": "冷",
+                "vietnamese": "Lạnh"
+            },
+            {
+                "chinese": "热",
+                "vietnamese": "Nóng"
+            },
+            {
+                "chinese": "暖和",
+                "vietnamese": "Ấm áp"
+            },
+            {
+                "chinese": "凉爽",
+                "vietnamese": "Mát mẻ"
+            },
+            {
+                "chinese": "树",
+                "vietnamese": "Cây, cây cối"
+            },
+            {
+                "chinese": "草",
+                "vietnamese": "Cỏ"
+            },
+            {
+                "chinese": "花",
+                "vietnamese": "Hoa"
+            },
+            {
+                "chinese": "季节",
+                "vietnamese": "Tiết, mùa, vụ mùa"
+            },
+            {
+                "chinese": "变化",
+                "vietnamese": "Thay đổi"
+            }
+        ]
+    ],
+    "speaking": [
+        ["月亮", "太阳", "天气", "空气", "下雨", "刮风", "台风", "风景", "晴天", "多云", "阴天", "雨天", "暖和", "凉爽", "季节", "变化"]
+    ],
+    "writing": [
+        ["你最喜欢哪个季节？", "我最喜欢夏天。", "为什么你喜欢夏天？", "夏天太热了。", "夏天我可以去游泳。", "你最喜欢哪个季节？", "我最喜欢春天，很暖和。", "今天天气怎么样？", "很不错。", "太阳不是很大的。", "今天的天气适合去玩。", "今年的夏天比去年热是吧？", "但是今天不太热。", "外面风刮得好大。", "天上好多云。", "快下雨了吧。", "明天她就要走了。", "快写完了。", "要下雨了。", "火车快要来了。", "她说得好不好？", "他跑得快不快？", "他唱得不太好。", "他唱歌唱得很好。", "他汉语说得非常好。", "我睡得也早。", "我起得很早。", "哥哥比我跑得快。", "哥哥比我大两岁。", "今天比昨天热得多。", "今天比昨天冷。", "我最喜欢吃米饭。", "它的眼睛最漂亮。"]
+    ]
+}

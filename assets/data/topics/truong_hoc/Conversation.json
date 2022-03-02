@@ -1,0 +1,100 @@
+[
+    [
+        {
+            "chinese": "那个人是谁？",
+            "pinyin": "Nà gè rén shì shéi?",
+            "vietnamese": "Người kia là ai vậy?"
+        },
+        {
+            "chinese": "那是王老师，是我的汉语老师。",
+            "pinyin": "Nà shì Wáng lǎoshī, shì wǒ de Hànyǔ lǎoshī.",
+            "vietnamese": "Đó là cô Vương, là cô giáo dạy tiếng Trung của tôi."
+        },
+        {
+            "chinese": "她会说英语吗？",
+            "pinyin": "Tā huì shuō Yīngyǔ ma?",
+            "vietnamese": "Cô ấy biết nói tiếng Anh không?"
+        },
+        {
+            "chinese": "她会说英语。",
+            "pinyin": "Tā huì shuō Yīngyǔ.",
+            "vietnamese": "Cô ấy biết nói tiếng Anh."
+        },
+        {
+            "chinese": "太厉害了。",
+            "pinyin": "Tài lìhài le.",
+            "vietnamese": "(Cô ấy) Giỏi quá nhỉ."
+        }
+    ],
+    [
+        {
+            "chinese": "这个汉字怎么写？你会吗？",
+            "pinyin": "Zhè gè Hànzì zěnme xiě? Nǐ huì ma?",
+            "vietnamese": "Chữ Hán này viết như thế nào? Cậu có biết (viết) không?"
+        },
+        {
+            "chinese": "我会，我教你吧。",
+            "pinyin": "Wǒ huì, wǒ jiào nǐ ba.",
+            "vietnamese": "Tớ biết, để tớ dạy cậu nhé."
+        },
+        {
+            "chinese": "谢谢。",
+            "pinyin": "Xièxie.",
+            "vietnamese": "Cảm ơn cậu."
+        }
+    ],
+    [
+        {
+            "chinese": "你知道他是谁吗？",
+            "pinyin": "Nǐ zhīdao tā shì shéi ma?",
+            "vietnamese": "Cậu có biết bạn ấy là ai không?"
+        },
+        {
+            "chinese": "他是我们的班长。",
+            "pinyin": "Tā shì wǒmen de bānzhǎng.",
+            "vietnamese": "Bạn ấy là lớp trưởng lớp tớ."
+        },
+        {
+            "chinese": "他学习怎么样？",
+            "pinyin": "Tā xuéxí zěnmeyàng?",
+            "vietnamese": "Bạn ấy học tập thế nào?"
+        },
+        {
+            "chinese": "他的学习成绩很好，每次考试都拿满分。",
+            "pinyin": "Tā de xuéxí chéngjì hěn hǎo, měi cì kǎoshì dōu ná mǎn fēn.",
+            "vietnamese": "Thành tích học tập rất tốt, kì thi nào bạn ấy cũng được điểm tuyệt đối."
+        },
+        {
+            "chinese": "他是怎么学习的？",
+            "pinyin": "Tā shì zěnme xuéxí de?",
+            "vietnamese": "Bạn ấy học như thế nào vậy?"
+        },
+        {
+            "chinese": "上课时他很认真听讲，回家认真写作业。上课前都复习旧课，预习新课。",
+            "pinyin": "Shàngkè shí tā hěn rènzhēn tīng jiǎng, huíjiā rènzhēn xiě zuòyè. Shàngkè qián dōu fùxí jiùkè, yùxí xīnkè.",
+            "vietnamese": "Trên lớp bạn ấy rất chăm chú nghe giảng, về nhà chăm chỉ làm bài tập. Trước khi lên lớp luôn ôn lại bài cũ và chuẩn bị bài mới."
+        }
+    ],
+    [
+        {
+            "chinese": "这些书包是谁的？",
+            "pinyin": "Zhè xiē shūbāo shì shéi de?",
+            "vietnamese": "Mấy cái cặp sách này là của ai vậy?"
+        },
+        {
+            "chinese": "红色的是我的，蓝色的是小梅的。",
+            "pinyin": "Hóngsè de shì wǒ de, lánsè de shì xiǎo Méi de.",
+            "vietnamese": "Cái màu đỏ là của tớ, cái màu xanh là của Mai."
+        },
+        {
+            "chinese": "你的书包太重了。",
+            "pinyin": "Nǐ de shūbāo tài zhòng le.",
+            "vietnamese": "Cặp của cậu nặng quá."
+        },
+        {
+            "chinese": "里面有很多书。",
+            "pinyin": "Lǐmian yǒu hěn duō shū.",
+            "vietnamese": "Bên trong có rất nhiều sách."
+        }
+    ]
+]

@@ -1,0 +1,413 @@
+[
+    {
+        "title": "一点儿 và 有点儿",
+        "content": [
+            {
+                "sub_descriptions": [
+                    "Cùng có ý chỉ mức độ, số lượng ít (hơi, một chút)"
+                ]
+            },
+            {
+                "keyWords": ["一点儿"],
+                "description": "一点儿",
+                "sub_descriptions": [
+                    "Khi đứng sau tính từ, mang sắc thái trung tính; khi đứng trước danh từ không đếm được biểu thị số lượng ít; khi đi với {{也}}/{{都}} + {{不}}/{{没}} biểu thị “một chút cũng không”"
+                ],
+                "examples": [
+                    {
+                        "chinese": "喝一点儿水吧。",
+                        "pinyin": "Hè yīdiǎn er shuǐ ba.",
+                        "vietnamese": "Uống chút nước đi."
+                    },
+                    {
+                        "chinese": "我一点儿也不喜欢他。",
+                        "pinyin": "Wǒ yīdiǎn er yě bù xǐhuān tā.",
+                        "vietnamese": "Tôi không thích anh ta chút nào cả."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["有点儿"],
+                "description": "有点儿",
+                "sub_descriptions": [
+                    "Đứng trước tính từ, mang sắc thái tiêu cực, có ý chê bai, phàn nàn"
+                ],
+                "examples": [
+                    {
+                        "chinese": "这个有点儿大，有大一点儿的吗？",
+                        "pinyin": "Zhège yǒudiǎn er dà, yǒu dà yīdiǎn er de ma?",
+                        "vietnamese": "Cái này hơi to, có cái nhỏ hơn một chút không?"
+                    },
+                    {
+                        "chinese": "我头有点儿疼。",
+                        "pinyin": "Wǒ tóu yǒudiǎn er téng.",
+                        "vietnamese": "Đầu tôi hơi đau."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "多少",
+        "content": [
+            {
+                "keyWords": ["多少"],
+                "sub_descriptions": [
+                    "Đại từ nghi vấn {{多少}} được dùng để hỏi số lượng trên 10, lượng từ đứng sau {{多少}} có thể được lược bỏ.",
+                    "{{多少}} cũng được sử dụng để hỏi giá cả với cấu trúc thường gặp là ……{{多少钱}}?"
+                ],
+                "examples": [
+                    {
+                        "chinese": "你的学校有多少（个）学生？",
+                        "pinyin": "Nǐ de xuéxiào yǒu duōshǎo (gè) xuéshēng?",
+                        "vietnamese": "Trường bạn có bao nhiêu học sinh?"
+                    },
+                    {
+                        "chinese": "他买了多少（个）苹果？",
+                        "pinyin": "Tā mǎile duōshǎo (gè) píngguǒ?",
+                        "vietnamese": "Anh ấy mua mấy quả táo?"
+                    },
+                    {
+                        "chinese": "这个杯子多少钱？",
+                        "pinyin": "Zhège bēizi duōshǎo qián?",
+                        "vietnamese": "Cái cốc này bao nhiêu tiền?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Lặp lại động từ",
+        "content": [
+            {
+                "sub_descriptions": [
+                    "Lặp lại động từ được dùng như một cách diễn tả thời gian ngắn, số lượng ít, mức độ nhẹ hay hành động làm thử điều gì đó, mang sắc thái khá nhẹ nhàng, thoải mái và thường xuất hiện trong văn nói.",
+                    "Hình thức lặp lại của động từ đơn âm tiết là AA hoặc A{{一}}A, hình thức lặp lại của động từ song âm tiết là ABAB",
+                    "AA:"
+                ],
+                "examples": [
+                    {
+                        "chinese": "看看",
+                        "pinyin": "Kànkàn",
+                        "vietnamese": "Xem thử, xem qua"
+                    },
+                    {
+                        "chinese": "听听",
+                        "pinyin": "Tīngtīng",
+                        "vietnamese": "Nghe thử, nghe qua"
+                    },
+                    {
+                        "chinese": "试试",
+                        "pinyin": "Shìshì",
+                        "vietnamese": "Thử xem"
+                    }
+                ]
+            },
+            {
+                "sub_descriptions": [
+                    "A{{一}}A:"
+                ],
+                "examples": [
+                    {
+                        "chinese": "看一看",
+                        "pinyin": "Kànyīkàn",
+                        "vietnamese": ""
+                    },
+                    {
+                        "chinese": "试一试",
+                        "pinyin": "Shìyīshì",
+                        "vietnamese": ""
+                    },
+                    {
+                        "chinese": "听一听",
+                        "pinyin": "Tīngyītīng",
+                        "vietnamese": ""
+                    }
+                ]
+            },
+            {
+                "sub_descriptions": [
+                    "ABAB:"
+                ],
+                "examples": [
+                    {
+                        "chinese": "参观参观",
+                        "pinyin": "Cānguān cānguān",
+                        "vietnamese": "Tham quan qua một chút"
+                    },
+                    {
+                        "chinese": "休息休息",
+                        "pinyin": "Xiūxí xiūxí",
+                        "vietnamese": "Tạm nghỉ ngơi một lát"
+                    },
+                    {
+                        "chinese": "复习复习",
+                        "pinyin": "Fùxí fùxí",
+                        "vietnamese": "Ôn tập lại một chút"
+                    }
+                ]
+            },
+            {
+                "sub_descriptions": [
+                    "Nếu hành động đã xảy ra trong quá khứ, hình thức phủ định là A{{了}}A và AB{{了}}AB",
+                    "A{{了}}A:"
+                ],
+                "examples": [
+                    {
+                        "chinese": "看了看",
+                        "pinyin": "Kànle kàn",
+                        "vietnamese": ""
+                    },
+                    {
+                        "chinese": "试了试",
+                        "pinyin": "Shìle shì",
+                        "vietnamese": ""
+                    }
+                ]
+            },
+            {
+                "sub_descriptions": [
+                    "AB{{了}}AB:"
+                ],
+                "examples": [
+                    {
+                        "chinese": "复习了复习",
+                        "pinyin": "Fùxíle fùxí",
+                        "vietnamese": ""
+                    },
+                    {
+                        "chinese": "预习了预习",
+                        "pinyin": "Yùxíle yùxí",
+                        "vietnamese": ""
+                    }
+                ]
+            },
+            {
+                "sub_descriptions": [
+                    "Những động từ không mang tính hành động như “{{有}}”, “{{在}}”, “{{是}}” không thể dùng hình thức lặp lại.",
+                    "Những hành động đang diễn ra không dùng phương thức lặp lại động từ.",
+                    "Không nói: {{我正在听听音乐。}}"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一下",
+        "content": [
+            {
+                "keyWords": ["一下"],
+                "sub_descriptions": [
+                    "{{一下}} được dùng sau động từ để diễn tả hành động xảy ra trong thời gian ngắn, tương đương với việc lặp lại động từ. Trong trường hợp này ta có thể lược bỏ tân ngữ."
+                ],
+                "examples": [
+                    {
+                        "chinese": "我看一下。",
+                        "pinyin": "Wǒ kàn yīxià.",
+                        "vietnamese": "Tôi xem một chút."
+                    },
+                    {
+                        "chinese": "你休息一下吧。",
+                        "pinyin": "Nǐ xiūxí yīxià ba.",
+                        "vietnamese": "Anh nghỉ ngơi chút đi."
+                    },
+                    {
+                        "chinese": "我问一下老师。",
+                        "pinyin": "Wǒ wèn yīxià lǎoshī.",
+                        "vietnamese": "Để tôi hỏi cô xem."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "别……了 và 不要……了",
+        "content": [
+            {
+                "keyWords": ["别", "不要", "了"],
+                "sub_descriptions": [
+                    "Hai mẫu câu này được dùng để diễn tả ý ngăn cản hay cấm đoán ai làm việc gì."
+                ],
+                "examples": [
+                    {
+                        "chinese": "快起来，别睡了。",
+                        "pinyin": "Kuài qǐlái, bié shuìle.",
+                        "vietnamese": "Mau dậy đi, đừng ngủ nữa."
+                    },
+                    {
+                        "chinese": "不要看电视了，去写作业吧。",
+                        "pinyin": "Bùyào kàn diànshìle, qù xiě zuòyè ba.",
+                        "vietnamese": "Đừng xem ti vi nữa, mau đi làm bài tập đi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "要",
+        "content": [
+            {
+                "keyWords": ["要", "不想"],
+                "sub_descriptions": [
+                    "Trợ động từ {{要}} được dùng trước động từ để cho biết người nào đó có nguyện vọng, mong muốn thực hiện việc gì.",
+                    "Ở dạng phủ định, người ta dùng {{不想}}"
+                ],
+                "examples": [
+                    {
+                        "chinese": "小王要去，我不想去。",
+                        "pinyin": "Xiǎo wáng yào qù, wǒ bùxiǎng qù.",
+                        "vietnamese": "Tiểu Vương muốn đi, tôi không muốn đi."
+                    },
+                    {
+                        "chinese": "你要吃米饭吗？",
+                        "pinyin": "Nǐ yào chī mǐfàn ma?",
+                        "vietnamese": "Anh ăn cơm không?"
+                    },
+                    {
+                        "chinese": "我不想吃米饭。",
+                        "pinyin": "Wǒ bùxiǎng chī mǐfàn.",
+                        "vietnamese": "Tôi không muốn ăn."
+                    },
+                    {
+                        "chinese": "我要去超市买水果，你去吗？",
+                        "pinyin": "我要去超市买水果，你去吗？",
+                        "vietnamese": "Tôi muốn đi siêu thị mua ít hoa quả, cậu đi không?"
+                    },
+                    {
+                        "chinese": "我不去，我不想买。",
+                        "pinyin": "Wǒ bù qù, wǒ bùxiǎng mǎi.",
+                        "vietnamese": "Tôi không đi đâu, tôi không muốn mua."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "可以 (có thể)",
+        "content": [
+            {
+                "keyWords": ["可以"],
+                "description": "Thể hiện khả năng có thể làm gì đó",
+                "examples": [
+                    {
+                        "chinese": "我一个小时可以写两篇作文。",
+                        "pinyin": "Wǒ yīgè xiǎoshí kěyǐ xiě liǎng piān zuòwén.",
+                        "vietnamese": "Một tiếng tôi có thể viết được hai bài văn."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["可以"],
+                "description": "Thể hiện sự xin phép và cho phép thực hiện hành động.",
+                "examples": [
+                    {
+                        "chinese": "我可以用你的词典吗？",
+                        "pinyin": "Wǒ kěyǐ yòng nǐ de cídiǎn ma?",
+                        "vietnamese": "Tớ có thể dùng từ điển của cậu không?"
+                    },
+                    {
+                        "chinese": "可以。",
+                        "pinyin": "Kěyǐ.",
+                        "vietnamese": "Được chứ."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["可以"],
+                "description": "Dùng như tính từ (biểu thị trình độ đang ở mức tương đối cao) để thể hiện ý khen.",
+                "examples": [
+                    {
+                        "chinese": "他的英语水平很可以。",
+                        "pinyin": "Tā de yīngyǔ shuǐpíng hěn kěyǐ.",
+                        "vietnamese": "Tiếng Anh của cậu ấy được lắm."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "就",
+        "content": [
+            {
+                "keyWords": ["就"],
+                "sub_descriptions": [
+                    "Cấu trúc {{就}} + động từ dùng để kết nối với nội dung câu trước, đưa ra kết luận hoặc giải pháp."
+                ],
+                "examples": [
+                    {
+                        "chinese": "你不想去，就在家休息吧。",
+                        "pinyin": "Nǐ bùxiǎng qù, jiù zàijiā xiūxí ba.",
+                        "vietnamese": "Cậu không muốn đi, vậy ở nhà nghỉ ngơi đi."
+                    },
+                    {
+                        "chinese": "这里的咖啡不错，就喝咖啡吧。",
+                        "pinyin": "Zhèlǐ de kāfēi bùcuò, jiù hē kāfēi ba.",
+                        "vietnamese": "Cà phê ở đây không tệ, vậy uống cà phê đi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "还",
+        "content": [
+            {
+                "keyWords": ["还"],
+                "description": "Dạng khẳng định",
+                "sub_descriptions": [
+                    "Cấu trúc {{还}} + tính từ diễn ta ý có thể chấp nhận được, tàm tạm."
+                ],
+                "examples": [
+                    {
+                        "chinese": "你身体怎么样？",
+                        "pinyin": "Nǐ shēntǐ zěnme yàng?",
+                        "vietnamese": "Sức khỏe của cậu thế nào rồi?"
+                    },
+                    {
+                        "chinese": "还好。",
+                        "pinyin": "Hái hǎo.",
+                        "vietnamese": "Vẫn ổn."
+                    },
+                    {
+                        "chinese": "这件衣服怎么样？",
+                        "pinyin": "Zhè jiàn yīfú zěnme yàng?",
+                        "vietnamese": "Bộ quần áo này thế nào?"
+                    },
+                    {
+                        "chinese": "还行。",
+                        "pinyin": "Hái xíng.",
+                        "vietnamese": "Cũng tạm được."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["还"],
+                "sub_descriptions": [
+                    "{{还}} còn dùng để chỉ sự tiếp diễn của hành động hay trạng thái."
+                ],
+                "examples": [
+                    {
+                        "chinese": "九点了，他还在睡觉。",
+                        "pinyin": "九点了，他还在睡觉。",
+                        "vietnamese": "9 giờ rồi mà cậu ta vẫn ngủ."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["还没"],
+                "description": "Dạng phủ định: 还没",
+                "examples": [
+                    {
+                        "chinese": "他还在选，还没下决定。",
+                        "pinyin": "Tā hái zài xuǎn, hái méi xià juédìng.",
+                        "vietnamese": "Anh ấy vẫn đang chọn, vẫn chưa quyết định."
+                    },
+                    {
+                        "chinese": "你怎么还没吃饭？",
+                        "pinyin": "Nǐ zěnme hái méi chīfàn?",
+                        "vietnamese": "Sao anh vẫn chưa ăn cơm?"
+                    }
+                ]
+            }
+        ]
+    }
+]

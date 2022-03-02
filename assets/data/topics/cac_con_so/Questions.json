@@ -1,0 +1,103 @@
+{
+    "listening": [
+        ["零", "一", "二", "三", "四", "五", "六", "七", "八", "九", "十", "百", "千", "万", "亿", "数", "两"]
+    ],
+    "reading": [
+        [
+            {
+                "chinese": "零",
+                "vietnamese": "Số 0"
+            },
+            {
+                "chinese": "一",
+                "vietnamese": "Số 1"
+            },
+            {
+                "chinese": "二",
+                "vietnamese": "Số 2"
+            },
+            {
+                "chinese": "三",
+                "vietnamese": "Số 3"
+            },
+            {
+                "chinese": "四",
+                "vietnamese": "Số 4"
+            },
+            {
+                "chinese": "五",
+                "vietnamese": "Số 5"
+            },
+            {
+                "chinese": "六",
+                "vietnamese": "Số 6"
+            },
+            {
+                "chinese": "七",
+                "vietnamese": "Số 7"
+            },
+            {
+                "chinese": "八",
+                "vietnamese": "Số 8"
+            },
+            {
+                "chinese": "九",
+                "vietnamese": "Số 9"
+            },
+            {
+                "chinese": "十",
+                "vietnamese": "Số 10"
+            },
+            {
+                "chinese": "百",
+                "vietnamese": "Trăm"
+            },
+            {
+                "chinese": "千",
+                "vietnamese": "Nghìn"
+            },
+            {
+                "chinese": "万",
+                "vietnamese": "Chục nghìn (vạn)"
+            },
+            {
+                "chinese": "亿",
+                "vietnamese": "Trăm triệu (ức)"
+            },
+            {
+                "chinese": "号码",
+                "vietnamese": "Số, mã số"
+            },
+            {
+                "chinese": "数字",
+                "vietnamese": "Chữ số"
+            },
+            {
+                "chinese": "数",
+                "vietnamese": "Số"
+            },
+            {
+                "chinese": "两",
+                "vietnamese": "Hai, lưỡng"
+            },
+            {
+                "chinese": "百分之",
+                "vietnamese": "Phần trăm (%)"
+            },
+            {
+                "chinese": "谐音",
+                "vietnamese": "Hài âm (âm gần giống nhau)"
+            },
+            {
+                "chinese": "同音",
+                "vietnamese": "Đồng âm (âm giống nhau)"
+            }
+        ]
+    ],
+    "speaking": [
+        ["零", "一", "二", "三", "四", "五", "六", "七", "八", "九", "十", "百", "千", "万", "亿", "号码", "数字", "数", "两", "百分之", "谐音", "同音"]
+    ],
+    "writing": [
+        ["两个人。", "两本书。", "两件衣服。", "十多个人左右。", "十多个人。", "两个多小时。" ,"还剩几个苹果。", "能帮我买一些面包吗？", "百分之十。"]
+    ]   
+}

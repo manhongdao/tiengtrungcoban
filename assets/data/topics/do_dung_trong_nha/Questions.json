@@ -1,0 +1,236 @@
+{
+    "listening": [
+        ["灯", "墙", "门", "床", "搬", "层", "住", "坐", "进", "楼"],
+        ["客厅", "沙发", "窗户", "窗帘", "卧室", "柜子", "镜子", "衣柜", "空调", "烤箱", "冰箱", "马桶", "阳台", "浴缸", "电梯", "厨房", "书房", "厕所", "牙刷", "牙膏", "杯子", "起床", "刷牙", "洗脸", "上课", "上班", "做饭", "洗碗", "洗澡", "打扫", "睡觉", "房间", "附近", "邻居", "地方", "银行", "公园", "超市", "一般"]
+    ],
+    "reading": [
+        [
+            {
+                "chinese": "客厅",
+                "vietnamese": "Phòng khách"
+            },
+            {
+                "chinese": "沙发",
+                "vietnamese": "Ghế sofa"
+            },
+            {
+                "chinese": "窗户",
+                "vietnamese": "Cửa sổ"
+            },
+            {
+                "chinese": "窗帘",
+                "vietnamese": "Rèm"
+            },
+            {
+                "chinese": "灯",
+                "vietnamese": "Đèn"
+            },
+            {
+                "chinese": "电视机",
+                "vietnamese": "Tivi"
+            },
+            {
+                "chinese": "墙",
+                "vietnamese": "Bức tường"
+            },
+            {
+                "chinese": "门",
+                "vietnamese": "Cửa ra vào"
+            },
+            {
+                "chinese": "卧室",
+                "vietnamese": "Phòng ngủ"
+            },
+            {
+                "chinese": "床",
+                "vietnamese": "Giường"
+            },
+            {
+                "chinese": "柜子",
+                "vietnamese": "Tủ"
+            },
+            {
+                "chinese": "镜子",
+                "vietnamese": "Gương"
+            },
+            {
+                "chinese": "衣柜",
+                "vietnamese": "Tủ quần áo"
+            },
+            {
+                "chinese": "空调",
+                "vietnamese": "Điều hòa"
+            },
+            {
+                "chinese": "烤箱",
+                "vietnamese": "Lò nướng"
+            },
+            {
+                "chinese": "冰箱",
+                "vietnamese": "Tủ lạnh"
+            },
+            {
+                "chinese": "马桶",
+                "vietnamese": "Bồn cầu"
+            },
+            {
+                "chinese": "阳台",
+                "vietnamese": "Ban công"
+            },
+            {
+                "chinese": "浴缸",
+                "vietnamese": "Bồn tắm"
+            },
+            {
+                "chinese": "电梯",
+                "vietnamese": "Thang máy"
+            },
+            {
+                "chinese": "垃圾桶",
+                "vietnamese": "Thùng rác"
+            },
+            {
+                "chinese": "厨房",
+                "vietnamese": "Phòng bếp"
+            },
+            {
+                "chinese": "搬",
+                "vietnamese": "Chuyển, chuyển chỗ, dọn"
+            },
+            {
+                "chinese": "书房",
+                "vietnamese": "Phòng sách, thư phòng"
+            },
+            {
+                "chinese": "厕所",
+                "vietnamese": "Nhà vệ sinh"
+            },
+            {
+                "chinese": "洗手间",
+                "vietnamese": "Nhà vệ sinh"
+            },
+            {
+                "chinese": "牙刷",
+                "vietnamese": "Bàn chải đánh răng"
+            },
+            {
+                "chinese": "牙膏",
+                "vietnamese": "Kem đánh răng"
+            },
+            {
+                "chinese": "杯子",
+                "vietnamese": "Cốc, ly"
+            },
+            {
+                "chinese": "起床",
+                "vietnamese": "Thức dậy"
+            },
+            {
+                "chinese": "刷牙",
+                "vietnamese": "Đánh răng"
+            },
+            {
+                "chinese": "洗脸",
+                "vietnamese": "Rửa mặt"
+            },
+            {
+                "chinese": "上课",
+                "vietnamese": "Đi học"
+            },
+            {
+                "chinese": "上班",
+                "vietnamese": "Đi làm"
+            },
+            {
+                "chinese": "做饭",
+                "vietnamese": "Nấu cơm"
+            },
+            {
+                "chinese": "洗碗",
+                "vietnamese": "Rửa bát"
+            },
+            {
+                "chinese": "洗澡",
+                "vietnamese": "Tắm"
+            },
+            {
+                "chinese": "打扫",
+                "vietnamese": "Quét dọn, dọn dẹp"
+            },
+            {
+                "chinese": "睡觉",
+                "vietnamese": "Đi ngủ"
+            },
+            {
+                "chinese": "房间",
+                "vietnamese": "Phòng, gian phòng"
+            },
+            {
+                "chinese": "层",
+                "vietnamese": "Tầng, lớp"
+            },
+            {
+                "chinese": "住",
+                "vietnamese": "Ở, cư trú, trọ"
+            },
+            {
+                "chinese": "坐",
+                "vietnamese": "Ngồi"
+            },
+            {
+                "chinese": "进",
+                "vietnamese": "Tiến, vào"
+            },
+            {
+                "chinese": "楼",
+                "vietnamese": "Lầu, tầng, gác"
+            },
+            {
+                "chinese": "附近",
+                "vietnamese": "Xung quanh, lân cận"
+            },
+            {
+                "chinese": "邻居",
+                "vietnamese": "Hàng xóm"
+            },
+            {
+                "chinese": "地方",
+                "vietnamese": "Chỗ, nơi, bộ phận"
+            },
+            {
+                "chinese": "银行",
+                "vietnamese": "Ngân hàng"
+            },
+            {
+                "chinese": "便利店",
+                "vietnamese": "Cửa hàng tiện lợi"
+            },
+            {
+                "chinese": "电影院",
+                "vietnamese": "Rạp chiếu phim"
+            },
+            {
+                "chinese": "公园",
+                "vietnamese": "Công viên"
+            },
+            {
+                "chinese": "超市",
+                "vietnamese": "Siêu thị"
+            },
+            {
+                "chinese": "一会儿",
+                "vietnamese": "Một chốc, lát nữa, một lát"
+            },
+            {
+                "chinese": "一般",
+                "vietnamese": "Thông thường, phổ biến"
+            }
+        ]
+    ],
+    "speaking": [
+        ["客厅", "沙发", "窗户", "窗帘", "电视机", "卧室", "柜子", "镜子", "衣柜", "空调", "烤箱", "冰箱", "马桶", "阳台", "浴缸", "电梯", "垃圾桶", "厨房", "书房", "厕所", "洗手间", "牙刷", "牙膏", "杯子", "起床", "刷牙", "洗脸", "上课", "上班", "做饭", "洗碗", "洗澡", "打扫", "睡觉", "房间", "附近", "邻居", "地方", "银行", "便利店", "电影院", "公园", "超市", "一会儿", "一般", "真不错"]
+    ],
+    "writing": [
+        ["我的房子不大。", "所有的房间都很小。", "我的卧室在二楼。", "里面东西不多。", "房间的角落里是我的床。", "对面的角落有一张桌子。", "我的房间就是这么简单。", "一个苹果。", "五张桌子。", "四件衣服。", "你把灯关了吧。", "我把衣服洗了。", "别把手机忘了。", "她把书放在桌子上。", "他还没把书还给我。", "他把花送给她。", "我把衣服洗干净了。", "妈妈还没把饭做好。", "把钱拿出来。", "你把苹果拿过来吧。"]
+    ]
+}

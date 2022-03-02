@@ -1,0 +1,570 @@
+[
+    {
+        "chinese": "医院",
+        "pinyin": "yīyuàn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bệnh viện",
+                "image": "hospital.png",
+                "example": {
+                    "chinese": "我下午到医院看病去。",
+                    "pinyin": "Wǒ xiàwǔ dào yīyuàn kànbìng qù.",
+                    "vietnamese": "Chiều nay tôi đến bệnh viện khám bệnh."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "护士",
+        "pinyin": "hùshi",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Y tá",
+                "image": "nurse.png",
+                "example": {
+                    "chinese": "护士扶起伤员，给他换药。",
+                    "pinyin": "Hùshi fú qǐ shāngyuán，gěi tā huànyào.",
+                    "vietnamese": "Y tá đỡ người bệnh cho uống thuốc."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "住院",
+        "pinyin": "zhùyuàn",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Nằm viện",
+                "image": "nam_vien.png",
+                "example": {
+                    "chinese": "他的病必须住院治疗。",
+                    "pinyin": "Tā de bìng bìxū zhùyuànzhìliáo.",
+                    "vietnamese": "Bệnh của anh ấy phải nằm viện điều trị."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "检查",
+        "pinyin": "jiǎnchá",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Kiểm tra",
+                "image": "check.png",
+                "example": {
+                    "chinese": "明天检查体格，后天就入学。",
+                    "pinyin": "Míngtiān jiǎnchá tǐgé, hòutiān jìu rùxué.",
+                    "vietnamese": "Ngày mai kiểm tra thể lực, ngày kia nhập học."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "出院",
+        "pinyin": "chūyuàn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Xuất viện",
+                "example": {
+                    "chinese": "等伤口愈合了才能出院。",
+                    "pinyin": "Děng shāngkǒu yùhé le cáinéng chūyuàn.",
+                    "vietnamese": "Đợi vết thương lành lặn mới có thể xuất viện."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "结果",
+        "pinyin": "jiéguǒ",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Kết quả",
+                "example": {
+                    "chinese": "结果若何，还不得而知。",
+                    "pinyin": "Jiéguǒ ruòhé, hái bùdé ér zhī.",
+                    "vietnamese": "Kết quả như thế nào, vẫn chưa biết được."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "身体",
+        "pinyin": "shēntǐ",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Thân thể, cơ thể",
+                "image": "body.png",
+                "example": {
+                    "chinese": "身体健康是最重要的。",
+                    "pinyin": "Shēntǐ jiànkāng shì zuì zhòngyào de.",
+                    "vietnamese": "Cơ thể khỏe mạnh là điều quan trọng nhất."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "健康",
+        "pinyin": "jiànkāng",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Khỏe mạnh",
+                "image": "healthy.png",
+                "example": {
+                    "chinese": "他面色红润，身体很健康。",
+                    "pinyin": "Tā miànsè hóngrùn, shēntǐ hěn jiànkāng.",
+                    "vietnamese": "Anh ấy vẻ mặt hồng hào, thân thể khỏe mạnh."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "累",
+        "pinyin": "lèi",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Mệt mỏi",
+                "image": "tired.png",
+                "example": {
+                    "chinese": "累得支持不住了。",
+                    "pinyin": "Lèi dé zhīchíbùzhù le.",
+                    "vietnamese": "Mệt không thể chịu nổi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "休息",
+        "pinyin": "xiūxi",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Nghỉ ngơi",
+                "image": "relax.png",
+                "example": {
+                    "chinese": "你累了就休息吧。",
+                    "pinyin": "Nǐ lèile jiù xiūxi ba.",
+                    "vietnamese": "Nếu bạn mệt rồi thì nghỉ ngơi đi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "照顾",
+        "pinyin": "zhàogù",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Chăm sóc, chiếu cố",
+                "image": "take-care.png",
+                "example": {
+                    "chinese": "谁照顾孩子？",
+                    "pinyin": "Shéi zhàogù háizi?",
+                    "vietnamese": "Ai chăm sóc cho bọn trẻ?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "生病",
+        "pinyin": "shēngbìng",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Sinh bệnh, bị ốm",
+                "image": "sick.png",
+                "example": {
+                    "chinese": "这种天气很容易生病。",
+                    "pinyin": "Zhè zhǒng tiānqì hěn róngyì shēngbìng.",
+                    "vietnamese": "Thời tiết này rất sinh bệnh."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "感冒",  
+        "pinyin": "gǎnmào",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Cảm cúm, bị cảm",
+                "image": "flu.png",
+                "example": {
+                    "chinese": "这药治感冒飞灵。",
+                    "pinyin": "Zhèyào zhìgǎnmào fēilíng.",
+                    "vietnamese": "Loại thuốc này trị cảm cúm rất hiệu nghiệm."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "咳嗽",
+        "pinyin": "késou",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Ho",
+                "image": "cough.png",
+                "example": {
+                    "chinese": "请医生开点咳嗽药。",
+                    "pinyin": "Qǐng yīshēng kāi diǎn késou yào.",
+                    "vietnamese": "Xin bác sĩ kê đơn thuốc ho."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "发烧",
+        "pinyin": "fāshāo",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Sốt, lên cơn sốt",
+                "image": "fever.png",
+                "example": {
+                    "chinese": "他正在发烧，脸上火烫。",
+                    "pinyin": "Tā zhèngzài fāshāo，liǎnshàng huǒtàng.",
+                    "vietnamese": "Anh ấy đang sốt, mặt nóng vô cùng."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "恶心",
+        "pinyin": "ěxīn",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Buồn nôn",
+                "image": "vomiting.png",
+                "example": {
+                    "chinese": "我有些恶心。",
+                    "pinyin": "Wǒ yǒuxiē ěxīn.",
+                    "vietnamese": "Tôi thấy hơi buồn nôn."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "头痛",
+        "pinyin": "tóutòng",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Đau đầu",
+                "image": "headache.png",
+                "example": {
+                    "chinese": "他路上受热了，有点头痛。",
+                    "pinyin": "Tā lùshàng shòurè le, yǒudiǎn tóutòng.",
+                    "vietnamese": "Anh ấy đi đường bị cảm nắng, hơi đau đầu."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "流鼻涕",
+        "pinyin": "liú bítì",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Chảy nước mũi",
+                "image": "influenza.png",
+                "example": {
+                    "chinese": "我得了重感冒，总流鼻涕。",
+                    "pinyin": "Wǒ déliǎo zhòng gǎnmào, zǒng liú bítì.",
+                    "vietnamese": "Tôi bị cảm nặng và luôn bị chảy nước mũi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "胃痛",
+        "pinyin": "wèitòng",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Đau dạ dày",
+                "image": "stomachache.png",
+                "example": {
+                    "chinese": "他的胃痛又犯了。",
+                    "pinyin": "Tā de wèitòng yòu fàn le.",
+                    "vietnamese": "Bệnh đau dạ dày của anh ấy lại tái phát."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "症状",
+        "pinyin": "zhèngzhuàng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Triệu chứng, dấu hiệu",
+                "image": "symptoms.png",
+                "example": {
+                    "chinese": "感冒的症状是什么？",
+                    "pinyin": "Gǎnmào de zhèngzhuàng shì shénme?",
+                    "vietnamese": "Khi bị cảm sẽ có triệu chứng gì?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "吃药",
+        "pinyin": "chī yào",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Uống thuốc",
+                "image": "drinking.png",
+                "example": {
+                    "chinese": "生病了应该吃药。",
+                    "pinyin": "Shēngbìngle yīnggāi chī yào.",
+                    "vietnamese": "Bị ốm thì nên uống thuốc."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "治疗",
+        "pinyin": "zhìliáo",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Trị liệu, điều trị, chữa bệnh",
+                "image": "cure.png",
+                "example": {
+                    "chinese": "怎么样治疗厌食症？",
+                    "pinyin": "Zěnme yàng zhìliáo yànshí zhèng?",
+                    "vietnamese": "Làm thế nào để điều trị chứng chán ăn?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "病人",
+        "pinyin": "bìngrén",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bệnh nhân",
+                "image": "patient.png",
+                "example": {
+                    "chinese": "病人已有好转的征候。",
+                    "pinyin": "Bìngrén yǐyǒu hǎozhuǎn de zhēnghòu.",
+                    "vietnamese": "Bệnh nhân đã có dấu hiệu chuyển biến tốt."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "病房",
+        "pinyin": "bìngfáng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Phòng bệnh",
+                "image": "medical-room.png",
+                "example": {
+                    "chinese": "病房已经消过毒了。",
+                    "pinyin": "Bìngfáng yǐjīng xiāoguò dú le.",
+                    "vietnamese": "Phòng bệnh nhân đã khử trùng rồi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "药房",
+        "pinyin": "yàofáng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Nhà thuốc, hiệu thuốc",
+                "image": "drugstore.png",
+                "example": {
+                    "chinese": "最近的药房在哪里？",
+                    "pinyin": "Zuìjìn di yàofáng zài nǎlǐ?",
+                    "vietnamese": "Hiệu thuốc gần nhất ở đâu vậy?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "受伤",
+        "pinyin": "shòushāng",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Bị thương",
+                "image": "injured.png",
+                "example": {
+                    "chinese": "他头部受伤，血流如注。",
+                    "pinyin": "Tā tóu bù shòushāng, xuè liú rú zhù.",
+                    "vietnamese": "Anh ta bị thương ở đầu và máu chảy ròng ròng."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "过敏",
+        "pinyin": "guòmǐn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Dị ứng",
+                "image": "anaphylaxis.png",
+                "example": {
+                    "chinese": "我侄子对海鲜过敏。",
+                    "pinyin": "Wǒ zhízi duì hǎixiān guòmǐn.",
+                    "vietnamese": "Cháu trai tôi bị dị ứng với hải sản."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "手术",
+        "pinyin": "shǒushù",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Phẫu thuật",
+                "image": "surgery-room.png",
+                "example": {
+                    "chinese": "手术经过良好。",
+                    "pinyin": "Shǒushù jīngguò liánghǎo.",
+                    "vietnamese": "Quá trình phẫu thuật diễn ra tốt."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "晕倒",
+        "pinyin": "yūndǎo",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Ngất xỉu",
+                "image": "faint.png",
+                "example": {
+                    "chinese": "面对这突如其来的打击，他晕倒了。",
+                    "pinyin": "Miàn duì zhè tūrúqílái de dǎjí, tā yūndǎo le.",
+                    "vietnamese": "Đối mặt với sự đả kích bất ngờ này, anh ngất đi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "几乎",
+        "pinyin": "jīhū",
+        "meaning": [
+            {
+                "type": "phó từ",
+                "vietnamese": "Suýt nữa, xém",
+                "example": {
+                    "chinese": "他几乎晕倒了。",
+                    "pinyin": "Tā jīhū yūndǎo le.",
+                    "vietnamese": "Anh ấy suýt nữa thì ngất đi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "应该",
+        "pinyin": "yīnggāi",
+        "meaning": [
+            {
+                "type": "trợ động từ",
+                "vietnamese": "Nên, cần phải",
+                "example": {
+                    "chinese": "有了病不要硬挺，应该早点儿治。",
+                    "pinyin": "Yǒu le bìng bùyào yìngtǐng, yīnggāi zǎodiǎnér zhì.",
+                    "vietnamese": "Bị bệnh thì không được gắng gượng, nên trị sớm đi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "影响",
+        "pinyin": "yǐngxiǎng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Ảnh hưởng",
+                "example": {
+                    "chinese": "这件事对你身体有影响吗？",
+                    "pinyin": "Zhè jiàn shì duì nǐ shēntǐ yǒu yǐngxiǎng ma?",
+                    "vietnamese": "Chuyện này có ảnh hưởng gì tới sức khỏe của bạn không?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "用",
+        "pinyin": "yòng",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Dùng, sử dụng",
+                "example": {
+                    "chinese": "用圆规画圆。",
+                    "pinyin": "Yòng yuánguī huà yuán.",
+                    "vietnamese": "Sử dụng compa để vẽ một vòng tròn."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "作用",
+        "pinyin": "zuòyòng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Tác dụng, hiệu quả",
+                "example": {
+                    "chinese": "这种药的作用很好。",
+                    "pinyin": "Zhè zhǒng yào de zuòyòng hěn hǎo.",
+                    "vietnamese": "Loại thuốc này rất có hiệu quả."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "注意",
+        "pinyin": "zhùyì",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Chú ý",
+                "image": "warning.png",
+                "example": {
+                    "chinese": "你要注意休息。",
+                    "pinyin": "Nǐ yào zhùyì xiūxi.",
+                    "vietnamese": "Bạn nên chú ý việc nghỉ ngơi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "主要",
+        "pinyin": "zhǔyào",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Chủ yếu, chính",
+                "example": {
+                    "chinese": "你生病的主要原因是不照顾自己。",
+                    "pinyin": "Nǐ shēngbìng de zhǔyào yuányīn shì bù zhàogù zìjǐ.",
+                    "vietnamese": "Nguyên nhân chính khiến bạn bị ốm là không chăm sóc bản thân."
+                }
+            }
+        ]
+    }
+]

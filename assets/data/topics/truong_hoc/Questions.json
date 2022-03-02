@@ -1,0 +1,241 @@
+{
+    "listening": [
+        ["学", "教", "班", "纸", "笔", "书", "写", "字", "题", "课", "让", "懂", "为"],
+        ["学校", "校长", "学生", "学习", "汉语", "老师", "复习", "预习", "同学", "食堂", "宿舍", "教室", "黑板", "电脑", "书包", "文具", "铅笔", "橡皮", "笔盒", "词典", "朋友", "数学", "中文", "作业", "考试", "成绩", "水平", "提高", "回答", "句子", "必须", "年级", "留学", "记得", "忘记", "希望", "相信", "帮助"],
+        ["教学楼", "图书馆", "笔记本", "普通话", "留学生", "怎么样"]
+    ],
+    "reading": [
+        [
+            {
+                "chinese": "学校",
+                "vietnamese": "Trường học"
+            },
+            {
+                "chinese": "校长",
+                "vietnamese": "Hiệu trưởng"
+            },
+            {
+                "chinese": "学",
+                "vietnamese": "Học"
+            },
+            {
+                "chinese": "教",
+                "vietnamese": "Dạy, dạy dỗ"
+            },
+            {
+                "chinese": "学生",
+                "vietnamese": "Học sinh"
+            },
+            {
+                "chinese": "学习",
+                "vietnamese": "Học"
+            },
+            {
+                "chinese": "汉语",
+                "vietnamese": "Hán ngữ, tiếng Hán"
+            },
+            {
+                "chinese": "老师",
+                "vietnamese": "Thầy, cô giáo"
+            },
+            {
+                "chinese": "复习",
+                "vietnamese": "Ôn tập"
+            },
+            {
+                "chinese": "预习",
+                "vietnamese": "Chuẩn bị bài"
+            },
+            {
+                "chinese": "同学",
+                "vietnamese": "Bạn cùng lớp"
+            },
+            {
+                "chinese": "食堂",
+                "vietnamese": "Nhà ăn"
+            },
+            {
+                "chinese": "教学楼",
+                "vietnamese": "Tòa nhà giảng dạy"
+            },
+            {
+                "chinese": "宿舍",
+                "vietnamese": "Ký túc xá"
+            },
+            {
+                "chinese": "图书馆",
+                "vietnamese": "Thư viện"
+            },
+            {
+                "chinese": "教室",
+                "vietnamese": "Lớp học, phòng học"
+            },
+            {
+                "chinese": "班",
+                "vietnamese": "Lớp (học)"
+            },
+            {
+                "chinese": "黑板",
+                "vietnamese": "Bảng đen"
+            },
+            {
+                "chinese": "电脑",
+                "vietnamese": "Máy tính"
+            },
+            {
+                "chinese": "书包",
+                "vietnamese": "Cặp sách"
+            },
+            {
+                "chinese": "文具",
+                "vietnamese": "Văn phòng phẩm"
+            },
+            {
+                "chinese": "铅笔",
+                "vietnamese": "Bút chì"
+            },
+            {
+                "chinese": "纸",
+                "vietnamese": "Giấy"
+            },
+            {
+                "chinese": "橡皮",
+                "vietnamese": "Cục tẩy"
+            },
+            {
+                "chinese": "笔盒",
+                "vietnamese": "Hộp bút"
+            },
+            {
+                "chinese": "笔",
+                "vietnamese": "Bút"
+            },
+            {
+                "chinese": "笔记本",
+                "vietnamese": "Vở ghi"
+            },
+            {
+                "chinese": "词典",
+                "vietnamese": "Từ điển"
+            },
+            {
+                "chinese": "书",
+                "vietnamese": "Sách"
+            },
+            {
+                "chinese": "朋友",
+                "vietnamese": "Bạn bè, bạn"
+            },
+            {
+                "chinese": "数学",
+                "vietnamese": "Toán học, toán"
+            },
+            {
+                "chinese": "中文",
+                "vietnamese": "Tiếng Trung"
+            },
+            {
+                "chinese": "普通话",
+                "vietnamese": "Tiếng phổ thông"
+            },
+            {
+                "chinese": "写",
+                "vietnamese": "Viết, miêu tả, sáng tác"
+            },
+            {
+                "chinese": "字",
+                "vietnamese": "Chữ, con chữ"
+            },
+            {
+                "chinese": "作业",
+                "vietnamese": "Bài tập"
+            },
+            {
+                "chinese": "考试",
+                "vietnamese": "Thi, kiểm tra"
+            },
+            {
+                "chinese": "题",
+                "vietnamese": "Đề, đề mục"
+            },
+            {
+                "chinese": "成绩",
+                "vietnamese": "Thành tích, kết quả"
+            },
+            {
+                "chinese": "水平",
+                "vietnamese": "Trình độ"
+            },
+            {
+                "chinese": "提高",
+                "vietnamese": "Đề cao, nâng cao, cải thiện"
+            },
+            {
+                "chinese": "回答",
+                "vietnamese": "Trả lời"
+            },
+            {
+                "chinese": "课",
+                "vietnamese": "Giờ lên lớp, giờ học"
+            },
+            {
+                "chinese": "句子",
+                "vietnamese": "Câu"
+            },
+            {
+                "chinese": "必须",
+                "vietnamese": "Phải, nhất định phải"
+            },
+            {
+                "chinese": "让",
+                "vietnamese": "Cho phép, bảo, khiến"
+            },
+            {
+                "chinese": "年级",
+                "vietnamese": "Lớp (1-12)"
+            },
+            {
+                "chinese": "留学",
+                "vietnamese": "Du học"
+            },
+            {
+                "chinese": "留学生",
+                "vietnamese": "Du học sinh"
+            },
+            {
+                "chinese": "懂",
+                "vietnamese": "Hiểu, biết, hiểu biết"
+            },
+            {
+                "chinese": "记得",
+                "vietnamese": "Nhớ, nhớ lại"
+            },
+            {
+                "chinese": "忘记",
+                "vietnamese": "Quên, không nhớ"
+            },
+            {
+                "chinese": "希望",
+                "vietnamese": "Hi vọng, mong, mong muốn"
+            },
+            {
+                "chinese": "相信",
+                "vietnamese": "Tin tưởng, tin"
+            },
+            {
+                "chinese": "为",
+                "vietnamese": "Cho"
+            },
+            {
+                "chinese": "帮助",
+                "vietnamese": "Giúp, giúp đỡ"
+            }
+        ]
+    ],
+    "speaking": [
+        ["学校", "校长", "学", "教", "学生", "学习", "汉语", "老师", "复习", "预习", "同学", "食堂", "教学楼", "宿舍", "图书馆", "教室", "班", "黑板", "电脑", "书包", "文具", "铅笔", "纸", "橡皮", "笔盒", "笔", "笔记本", "词典", "书", "朋友", "数学", "中文", "普通话", "写", "字", "作业", "考试", "题", "成绩", "水平", "提高", "回答", "课", "句子", "必须", "让", "年级", "留学", "留学生", "懂", "记得", "忘记", "希望", "相信", "为", "帮助"]
+    ],
+    "writing": [
+        ["那个人是谁？", "那是我的汉语老师。", "她会说英语吗？", "她会说英语。", "太厉害了。", "这个汉字怎么写？", "我会，我教你吧。", "谢谢。", "你知道他是谁吗？", "他是我们的班长。", "他学习怎么样？", "他的学习成绩很好。", "他是怎么学习的？", "上课时他很认真听讲。", "回家认真写作业。", "上课前都复习旧课。", "这些书包是谁的？", "你的书包太重了。", "里面有很多书。"]
+    ]
+}

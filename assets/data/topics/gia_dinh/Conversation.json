@@ -1,0 +1,49 @@
+[
+    [
+        {
+            "chinese": "你家有几口人？",
+            "pinyin": "Nǐ jiā yǒu jǐ kǒu rén?",
+            "vietnamese": "Nhà cậu có mấy người?"
+        },
+        {
+            "chinese": "我家又五口人，有爸爸、妈妈、哥哥、妹妹和我。",
+            "pinyin": "Wǒjiā yǒu wǔ kǒu rén, yǒu bàba, māma, gēge, mèimei hé wǒ.",
+            "vietnamese": "Nhà tớ có năm người, có bố, mẹ, anh trai, em gái và tớ."
+        },
+        {
+            "chinese": "你哥哥今年多大了？",
+            "pinyin": "Nǐ gēge jīnnián duō dà le?",
+            "vietnamese": "Anh trai cậu năm nay bao nhiêu tuổi rồi?"
+        },
+        {
+            "chinese": "我哥哥今年二十二岁，现在在中国留学。",
+            "pinyin": "Wǒ gēge jīnnián èrshí’èr suì, xiànzài zài Zhōngguó liúxué.",
+            "vietnamese": "Anh trai tớ năm nay 22 tuổi, hiện tại đang du học ở Trung Quốc."
+        },
+        {
+            "chinese": "你妹妹几岁了？",
+            "pinyin": "Nǐ mèimei jǐ suì le?",
+            "vietnamese": "Em gái cậu mấy tuổi rồi?"
+        },
+        {
+            "chinese": "我妹妹六岁，是小学一年级的学生。你家呢？",
+            "pinyin": "Wǒ mèimei liù suì, shì xiǎoxué yī niánjí de xuésheng. Nǐ jiā ne?",
+            "vietnamese": "Em gái tớ 6 tuổi, là học sinh lớp 1. Nhà cậu thì sao?"
+        },
+        {
+            "chinese": "我家有三口人。我爸妈和我。",
+            "pinyin": "Wǒ jiā yǒu sān kǒu rén. Wǒ bàmā hé wǒ.",
+            "vietnamese": "Nhà tớ có ba người. Bố mẹ và tớ."
+        },
+        {
+            "chinese": "你爸妈都是老师吗？",
+            "pinyin": "Nǐ bàmā dōu shì lǎoshī ma?",
+            "vietnamese": "Bố mẹ cậu đều là giáo viên phải không?"
+        },
+        {
+            "chinese": "是的，我爸爸是数学老师，我妈妈是英语老师。",
+            "pinyin": "Shì de, wǒ bàba shì shùxué lǎoshī, wǒ māma shì Yīngyǔ lǎoshī.",
+            "vietnamese": "Đúng thế, bố tớ là giáo viên dạy Toán, mẹ tớ là giáo viên dạy tiếng Anh."
+        }
+    ]
+]

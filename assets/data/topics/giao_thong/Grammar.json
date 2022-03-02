@@ -1,0 +1,230 @@
+[
+    {
+        "title": "离",
+        "content": [
+            {
+                "keyWords": ["离"],
+                "sub_descriptions": [
+                    "Động từ {{离}} được dùng để chỉ khoảng cách trong mối tương quan với một địa điểm, mốc thời gian hay mục đích."
+                ],
+                "examples": [
+                    {
+                        "chinese": "我家离学校很远。",
+                        "pinyin": "Wǒjiā lí xuéxiào hěn yuǎn.",
+                        "vietnamese": "Nhà mình cách trường học rất xa."
+                    },
+                    {
+                        "chinese": "学校离机场有二十公里。",
+                        "pinyin": "Xuéxiào lí jīchǎng yǒu èrshí gōnglǐ.",
+                        "vietnamese": "Trường học cách sân bay 20 km."
+                    },
+                    {
+                        "chinese": "（现在）离我生日还有一个多星期。",
+                        "pinyin": "(Xiànzài) lí wǒ shēngrì hái yǒu yīgè duō xīngqí.",
+                        "vietnamese": "(Từ giờ) Tới lúc sinh nhật mình còn hơn một tuần nữa."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "从",
+        "content": [
+            {
+                "keyWords": ["从", "到"],
+                "sub_descriptions": [
+                    "Giới từ {{从}} cho biết khởi điểm của một khoảng thời gian, quãng đường, một quá trình hay trình tự,… thường hết hợp với {{到}}."
+                ],
+                "examples": [
+                    {
+                        "chinese": "从北京到河内要坐几个小时飞机？",
+                        "pinyin": "Cóng běijīng dào hénèi yào zuò jǐ gè xiǎoshí fēijī?",
+                        "vietnamese": "Từ Bắc Kinh đến Hà Nội phải ngồi máy bay mấy tiếng?"
+                    },
+                    {
+                        "chinese": "我从小就喜欢吃苹果。",
+                        "pinyin": "Wǒ cóngxiǎo jiù xǐhuān chī píngguǒ.",
+                        "vietnamese": "Từ nhỏ tôi đã thích ăn táo."
+                    },
+                    {
+                        "chinese": "从下个星期一开始上班吧。",
+                        "pinyin": "Cóng xià gè xīngqí yī kāishǐ shàngbān ba.",
+                        "vietnamese": "Từ thứ hai tuần sau bắt đầu đi làm nhé."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "是……的",
+        "content": [
+            {
+                "keyWords": ["不", "是", "的"],
+                "sub_descriptions": [
+                    "Nếu biết sự việc nào đó đã xảy ra, ta có thể dùng cấu trúc {{是}}……{{的}} để nhấn mạnh thời gian, địa điểm và cách thức việc ấy xảy ra hoặc nhấn mạnh chủ thể thực hiện hành động. {{是}} có thể được lược bỏ trong câu khẳng định và câu nghi vấn nhưng không được lược bỏ trong câu phủ định.",
+                    "Dạng phủ định: {{不是}}……{{的}}"
+                ],
+                "examples": [
+                    {
+                        "chinese": "我是今天才来的，不是昨天来的。",
+                        "pinyin": "Wǒ shì jīntiān cái lái de, bùshì zuótiān lái de.",
+                        "vietnamese": "Hôm nay tôi mới đến, không phải đến từ hôm qua đâu."
+                    },
+                    {
+                        "chinese": "这个杯子是在北京买的，不是在河内买的。",
+                        "pinyin": "Zhège bēizi shì zài běijīng mǎi de, bùshì zài hénèi mǎi de.",
+                        "vietnamese": "Cái cốc này mua ở Bắc Kinh, không phải mua ở Hà Nội đâu."
+                    },
+                    {
+                        "chinese": "是我买的，不是她买的。",
+                        "pinyin": "Shì wǒ mǎi de, bùshì tā mǎi de.",
+                        "vietnamese": "Là tôi mua chứ không phải cô ta mua."
+                    },
+                    {
+                        "chinese": "你是怎么来的？",
+                        "pinyin": "Nǐ shì zěnme lái de?",
+                        "vietnamese": "Bạn đến đây bằng cách nào thế?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "都……了",
+        "content": [
+            {
+                "keyWords": ["都", "了"],
+                "sub_descriptions": [
+                    "{{都}}……{{了}} có nghĩa là “đã”, thường được dùng để nhấn mạnh hoặc diễn tả thái độ không hài lòng."
+                ],
+                "examples": [
+                    {
+                        "chinese": "我都等他一个小时了。",
+                        "pinyin": "Wǒ dū děng tā yīgè xiǎoshíliǎo.",
+                        "vietnamese": "Tôi đã đợi cô ấy cả tiếng rồi."
+                    },
+                    {
+                        "chinese": "都十点了，你怎么还在睡呢？",
+                        "pinyin": "Dōu shí diǎnle, nǐ zěnme hái zài shuì ne?",
+                        "vietnamese": "Đã 10 giờ rồi, sao con vẫn còn ngủ nữa?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "可能",
+        "content": [
+            {
+                "keyWords": ["可能"],
+                "sub_descriptions": [
+                    "Trợ động từ {{可能}} được dùng trước động từ hay trước chủ ngữ để diễn tả sự phỏng đoán, mang nghĩa là có lẽ, có thể,.."
+                ],
+                "examples": [
+                    {
+                        "chinese": "他可能早就知道这件事了。",
+                        "pinyin": "Tā kěnéng zǎo jiù zhīdào zhè jiàn shìle.",
+                        "vietnamese": "Anh ấy có lẽ đã sớm biết chuyện này rồi."
+                    },
+                    {
+                        "chinese": "可能你不认识他。",
+                        "pinyin": "Kěnéng nǐ bù rènshí tā.",
+                        "vietnamese": "Có lẽ cậu không biết cô ấy."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "为什么",
+        "content": [
+            {
+                "keyWords": ["为什么"],
+                "sub_descriptions": [
+                    "Chỉ đơn thuần hỏi về nguyên nhân thực tế, không mang ngữ khí đặc biệt nào."
+                ],
+                "examples": [
+                    {
+                        "chinese": "昨天你为什么没来上课？",
+                        "pinyin": "Zuótiān nǐ wèishéme méi lái shàngkè?",
+                        "vietnamese": "Hôm qua sao em không đi học?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "怎么",
+        "content": [
+            {
+                "keyWords": ["怎么"],
+                "sub_descriptions": [
+                    "Cấu trúc {{怎么}} + động từ/tính từ được dùng để hỏi về nguyên nhân của sự việc nào đó và thường biểu thị một thái độ ngạc nhiên, hoài nghi hoặc trách móc,…"
+                ],
+                "examples": [
+                    {
+                        "chinese": "今天怎么这么热？",
+                        "pinyin": "Jīntiān zěnme zhème rè?",
+                        "vietnamese": "Sao hôm nay nóng thế nhỉ?"
+                    },
+                    {
+                        "chinese": "你怎么不开心呢？",
+                        "pinyin": "Nǐ zěnme bù kāixīn ní?",
+                        "vietnamese": "Sao cậu lại không vui?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Câu kiêm ngữ",
+        "content": [
+            {
+                "keyWords": ["请", "让", "叫", "派"],
+                "sub_descriptions": [
+                    "Trong mẫu câu này, vị ngữ được tạo thành bởi hai cụm động từ, tân ngữ của động từ thứ nhất là chủ ngữ của động từ thứ hai. Động từ thứ nhất thường là các động từ {{请}}(mời), {{让}}(để, bảo), {{叫}}(gọi, bảo), {{派}}(điều, cử),…"
+                ],
+                "examples": [
+                    {
+                        "chinese": "我请你吃饭。",
+                        "pinyin": "Wǒ qǐng nǐ chīfàn.",
+                        "vietnamese": "Tớ mời cậu ăn cơm."
+                    },
+                    {
+                        "chinese": "你让我想想。",
+                        "pinyin": "Nǐ ràng wǒ xiǎng xiǎng.",
+                        "vietnamese": "Anh để tôi nghĩ một chút."
+                    },
+                    {
+                        "chinese": "公司派他去中国工作。",
+                        "pinyin": "Gōngsī pài tā qù zhōngguó gōngzuò.",
+                        "vietnamese": "Công ti cử anh ta đi Trung Quốc công tác."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "因为……所以……",
+        "content": [
+            {
+                "keyWords": ["怎么"],
+                "sub_descriptions": [
+                    "Hai liên từ {{因为}} và {{所以}} được dùng để nối hai mệnh đề có quan hệ nhân quả, trong đó mệnh đề thứ nhất diễn tả nguyên nhân còn mệnh đề thứ hai diễn tả kết quả. Ta có thể sử dụng cả hai liên từ này hoặc lược bỏ một trong hai."
+                ],
+                "examples": [
+                    {
+                        "chinese": "（因为）她生病了（所以）没来上课。",
+                        "pinyin": "(Yīnwèi) tā shēngbìngle (suǒyǐ) méi lái shàngkè.",
+                        "vietnamese": "Cô ấy bị ốm rồi nên không đi học."
+                    },
+                    {
+                        "chinese": "（因为）他每天都跑步（所以）他身体很好。",
+                        "pinyin": "(Yīnwèi) tā měitiān dū pǎobù (suǒyǐ) tā shēntǐ hěn hǎo.",
+                        "vietnamese": "Vì mỗi ngày anh ấy đều chạy bộ nên sức khỏe rất tốt."
+                    }
+                ]
+            }
+        ]
+    }
+]

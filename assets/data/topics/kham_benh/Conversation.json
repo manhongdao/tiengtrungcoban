@@ -1,0 +1,108 @@
+[
+    [
+        {
+            "chinese": "今天我觉得很累，累得起不来。",
+            "pinyin": "Jīntiān wǒ juédé bú shūfu.",
+            "vietnamese": "Hôm nay tôi thấy người mệt quá, mệt đến nỗi không dậy được luôn."
+        },
+        {
+            "chinese": "你觉得怎么样？",
+            "pinyin": "Nǐ juéde zěnme yàng?",
+            "vietnamese": "Bạn thấy thế nào?"
+        },
+        {
+            "chinese": "我头有点儿疼。",
+            "pinyin": "Wǒ tóu yǒudiǎnr téng.",
+            "vietnamese": "Hơi đau đầu một chút."
+        },
+        {
+            "chinese": "你发烧吗？",
+            "pinyin": "Nǐ fāshāo ma?",
+            "vietnamese": "Bạn có sốt không?"
+        },
+        {
+            "chinese": "好像有一点点。",
+            "pinyin": "Hǎoxiàng yǒu yī diǎndiǎn.",
+            "vietnamese": "Hình như có một chút."
+        },
+        {
+            "chinese": "你可能感冒了，我帮你去买药。",
+            "pinyin": "Nǐ kěnéng gǎnmào le, wǒ bāng nǐ qù mǎi yào.",
+            "vietnamese": "Chắc bạn bị cảm rồi, để tôi đi mua thuốc cho bạn."
+        },
+        {
+            "chinese": "好，谢谢你啊。",
+            "pinyin": "Hǎo, xièxiè nǐ a.",
+            "vietnamese": "Được, cảm ơn bạn."
+        }
+    ],
+    [
+        {
+            "chinese": "你身体怎么样？",
+            "pinyin": "Nǐ shēntǐ zěnme yàng?",
+            "vietnamese": "Cháu thấy thế nào?"
+        },
+        {
+            "chinese": "医生，我头又痛又晕，吃东西觉得恶心。",
+            "pinyin": "Yīshēng, wǒ tóu yòu tòng yòu yūn, chī dōngxī juédé ěxīn.",
+            "vietnamese": "Thưa bác sĩ, cháu cảm thấy vừa đau đầu vừa chóng mặt, ăn vào thấy buồn nôn."
+        },
+        {
+            "chinese": "以前有过这样吗？",
+            "pinyin": "Yǐqián yǒuguò zhèyàng ma?",
+            "vietnamese": "Trước đây có từng bị như vậy không?"
+        },
+        {
+            "chinese": "没有，这是第一次。",
+            "pinyin": "Méiyǒu, zhè shì dì yī cì.",
+            "vietnamese": "Không ạ, đây là lần đầu tiên."
+        },
+        {
+            "chinese": "我给你看看。",
+            "pinyin": "Wǒ gěi nǐ kàn kàn.",
+            "vietnamese": "Để bác xem cho cháu."
+        },
+        {
+            "chinese": "你这个病要打点滴。",
+            "pinyin": "Nǐ zhège bìng yào dǎdiǎndī.",
+            "vietnamese": "Bệnh này của cháu phải truyền nước."
+        },
+        {
+            "chinese": "可以不打码？我怕痛。",
+            "pinyin": "Kěyǐ bù dǎ mǎ? Wǒ pà tòng.",
+            "vietnamese": "Có thể không truyền được không ạ, cháu sợ đau."
+        },
+        {
+            "chinese": "只有打点滴才能快点好起来。",
+            "pinyin": "Zhǐyǒu dǎdiǎndī cáinéng kuài diǎn hǎo qǐlái.",
+            "vietnamese": "Chỉ có truyền nước mới nhanh khỏi."
+        },
+        {
+            "chinese": "那好吧。",
+            "pinyin": "Nà hǎo ba.",
+            "vietnamese": "Vâng ạ."
+        }
+    ],
+    [
+        {
+            "chinese": "我给你开药，回去只要按时吃药，休息休息就会好起来。",
+            "pinyin": "Wǒ gěi nǐ kāi yào, huíqù zhǐyào ànshí chī yào, xiūxí xiūxí jiù huì hǎo qǐlái.",
+            "vietnamese": "Bác kê đơn thuốc cho cháu rồi, về nhà chỉ cần uống thuốc đúng giờ, nghỉ ngơi một chút là sẽ khỏe lên."
+        },
+        {
+            "chinese": "除了按时吃药以外还要注意什么吗医生？",
+            "pinyin": "Chúle ànshí chī yào yǐwài hái yào zhùyì shénme ma yīshēng?",
+            "vietnamese": "Ngoài uống thuốc ra có cần phải chú ý điều gì nữa không ạ?"
+        },
+        {
+            "chinese": "少吃辣和油的食物，多吃清淡的东西。",
+            "pinyin": "Shǎo chī là hé yóu de shíwù, duō chī qīngdàn de dōngxī.",
+            "vietnamese": "Hạn chế ăn đồ cay và dầu mỡ, nên ăn nhiều đồ thanh đạm."
+        },
+        {
+            "chinese": "我知道了，谢谢医生。",
+            "pinyin": "Wǒ zhīdàole, xièxiè yīshēng.",
+            "vietnamese": "Cháu hiểu rồi, cám ơn bác sĩ."
+        }
+    ]
+]

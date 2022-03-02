@@ -1,0 +1,120 @@
+[
+    [
+        {
+            "chinese": "明天你要上课吗？",
+            "pinyin": "Míngtiān nǐ yào shàngkè ma?",
+            "vietnamese": "Ngày mai bạn có phải đi học không?"
+        },
+        {
+            "chinese": "明天我没有课，怎么了？",
+            "pinyin": "Míngtiān wǒ méiyǒu kè, zěnme le?",
+            "vietnamese": "Ngày mai tôi không đi học, sao vậy?"
+        },
+        {
+            "chinese": "我们去买衣服吧。",
+            "pinyin": "Wǒmen qù mǎi yīfu ba.",
+            "vietnamese": "Chúng ta đi mua quần áo đi."
+        },
+        {
+            "chinese": "可以啊，你要买什么？",
+            "pinyin": "Kěyǐ a, nǐ yāomǎi shénme?",
+            "vietnamese": "Được, bạn muốn mua cái gì?"
+        },
+        {
+            "chinese": "我要买新的裤子，你要买什么吗？",
+            "pinyin": "Wǒ yāomǎi xīn de kùzi, nǐ yāomǎi shénme ma?",
+            "vietnamese": "Tôi muốn mua một chiếc quần mới, bạn có muốn mua gì không?"
+        },
+        {
+            "chinese": "我去看看吧。",
+            "pinyin": "Wǒ qù kàn kàn ba.",
+            "vietnamese": "Để tôi xem đã."
+        }
+    ],
+    [
+        {
+            "chinese": "女士，这双鞋怎么样？",
+            "pinyin": "Nǚshì, zhè shuāng xié zěnme yàng?",
+            "vietnamese": "Chị thấy đôi này thế nào?"
+        },
+        {
+            "chinese": "很漂亮，我可以试试吗？",
+            "pinyin": "Hěn piàoliang, wǒ kěyǐ shì shì ma?",
+            "vietnamese": "Đẹp quá, tôi có thể thử được không?"
+        },
+        {
+            "chinese": "可以，这双是36号。",
+            "pinyin": "Kěyǐ, zhè shuāng shì 36 hào.",
+            "vietnamese": "Được, đôi này cỡ 36."
+        },
+        {
+            "chinese": "有点儿小，有大一点儿的吗？",
+            "pinyin": "Yǒudiǎnr xiǎo, yǒu dà yīdiǎnr de ma?",
+            "vietnamese": "Hơi nhỏ một chút, có đôi nào to hơn không?"
+        },
+        {
+            "chinese": "好，稍等一下。",
+            "pinyin": "Hǎo, shāo děng yíxià.",
+            "vietnamese": "Vâng, chị đợi một chút."
+        }
+    ],
+    [
+        {
+            "chinese": "这个书包多少钱？",
+            "pinyin": "Zhège shūbāo duōshǎo qián?",
+            "vietnamese": "Chiếc ba lô này bao nhiêu tiền vậy?"
+        },
+        {
+            "chinese": "这个150块。",
+            "pinyin": "Zhège 150 kuài.",
+            "vietnamese": "150 tệ."
+        },
+        {
+            "chinese": "太贵了，能便宜一点吗？",
+            "pinyin": "Tài guìle, néng piányi yīdiǎn ma?",
+            "vietnamese": "Đắt quá, có thể bán rẻ hơn không?"
+        },
+        {
+            "chinese": "这个是新款的，不能再便宜了。要不你看看这个黑色的，这个只有100块。",
+            "pinyin": "Zhège shì xīnkuǎn de, bùnéng zài piányíle. Yào bù nǐ kàn kàn zhège hēisè de, zhège zhǐyǒu 100 kuài.",
+            "vietnamese": "Đây là mẫu mới, không thể rẻ hơn nữa được đâu. Hay chị xem thử chiếc màu đen này đi, chiếc này chỉ 100 tệ thôi."
+        },
+        {
+            "chinese": "那就拿这个黑色的。",
+            "pinyin": "Nà jiù ná zhège hēisè de.",
+            "vietnamese": "Vậy tôi lấy chiếc màu đen này."
+        }
+    ],
+    [
+        {
+            "chinese": "您好，需要帮忙吗？",
+            "pinyin": "Nín hǎo, xūyào bāngmáng ma?",
+            "vietnamese": "Xin chào, bạn có cần giúp gì không?"
+        },
+        {
+            "chinese": "我要买一本书。",
+            "pinyin": "Wǒ yàomǎi yī běn shū.",
+            "vietnamese": "Tôi muốn mua một quyển sách."
+        },
+        {
+            "chinese": "您要买什么书？",
+            "pinyin": "Nín yàomǎi shénme shū?",
+            "vietnamese": "Bạn muốn mua sách gì?"
+        },
+        {
+            "chinese": "我要买汉语书。",
+            "pinyin": "Wǒ yàomǎi Hànyǔ shū.",
+            "vietnamese": "Tôi muốn mua sách tiếng Hán."
+        },
+        {
+            "chinese": "稍等一下我帮您拿。",
+            "pinyin": "Shāo děng yíxià wǒ bāng nín ná.",
+            "vietnamese": "Đợi một chút tôi đi lấy cho bạn."
+        },
+        {
+            "chinese": "好的，谢谢你。",
+            "pinyin": "Hǎo de, xièxiè nǐ.",
+            "vietnamese": "Vâng, cảm ơn bạn."
+        }
+    ]
+]

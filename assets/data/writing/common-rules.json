@@ -1,0 +1,71 @@
+[
+    {
+        "title": "Ngang trước sổ sau",
+        "titleImg": "ngang-truoc-so-sau.gif",
+        "description": "Khi nét sổ và nét ngang cắt nhau, ta viết nét ngang trước nét sổ; khi nét sổ không cắt xuống dưới nét ngang thì nét ngang đó được viết sau cùng sau nét sổ.",
+        "sampleImgs": [
+            "net-so-3.gif",
+            "ngang-truoc-so-sau-2.gif",
+            "ngang-truoc-so-sau-3.gif"
+        ]
+    },
+    {
+        "title": "Phẩy trước mác sau",
+        "titleImg": "phay-truoc-mac-sau.gif",
+        "description": "Nét phẩy viết trước, nét mác viết sau.",
+        "sampleImgs": [
+            "net-mac-2.gif",
+            "net-mac-3.gif"
+        ]
+    },
+    {
+        "title": "Trên trước dưới sau",
+        "titleImg": "tren-truoc-duoi-sau.gif",
+        "description": "Các nét viết theo thứ tự từ trên xuống dưới, nếu một chữ được tạo thành bởi nhiều bộ thủ thì ta cũng viết lần lượt từng bộ thủ theo thứ tự từ trên xuống dưới.",
+        "sampleImgs": [
+            "tren-truoc-duoi-sau-1.gif",
+            "tren-truoc-duoi-sau-2.gif",
+            "tren-truoc-duoi-sau-3.gif"
+        ]
+    },
+    {
+        "title": "Trái trước phải sau",
+        "titleImg": "ngang-truoc-so-sau.gif",
+        "description": "Các nét viết theo thứ tự từ trái sang phải, nếu một chữ được tạo thành bởi nhiều bộ thủ thì ta cũng viết lần lượt từng bộ thủ theo thứ tự từ trái sang phải.",
+        "sampleImgs": [
+            "trai-truoc-phai-sau-1.gif",
+            "trai-truoc-phai-sau-2.gif",
+            "trai-truoc-phai-sau-3.gif"
+        ]
+    },
+    {
+        "title": "Ngoài trước trong sau",
+        "titleImg": "ngoai-truoc-trong-sau.gif",
+        "description": "Các nét “khung” ngoài được viết trước, các nét bên trong viết sau.",
+        "sampleImgs": [
+            "ngoai-truoc-trong-sau-1.gif",
+            "ngoai-truoc-trong-sau-2.gif",
+            "ngoai-truoc-trong-sau-3.gif"
+        ]
+    },
+    {
+        "title": "Vào trước đóng sau",
+        "titleImg": "vao-truoc-dong-sau.gif",
+        "description": "Nét ngang “đóng đáy” của bộ nhật 日, bộ viết 曰, bộ mục 目 và các chữ có bộ vi 囗 luôn được viết sau cùng.",
+        "sampleImgs": [
+            "vao-truoc-dong-sau-1.gif",
+            "vao-truoc-dong-sau-2.gif",
+            "vao-truoc-dong-sau-3.gif"
+        ]
+    },
+    {
+        "title": "Giữa trước hai bên sau",
+        "titleImg": "giua-truoc-ben-sau.gif",
+        "description": "Các chữ Hán có cấu trúc đối xứng thì ta viết nét ở giữa trước rồi mới viết các nét ở hai bên.",
+        "sampleImgs": [
+            "giua-truoc-ben-sau-1.gif",
+            "giua-truoc-ben-sau-2.gif",
+            "giua-truoc-ben-sau-3.gif"
+        ]
+    }
+]

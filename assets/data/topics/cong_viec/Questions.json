@@ -1,0 +1,123 @@
+{
+    "listening": [
+        ["公司", "经理", "下班", "同事", "加班", "迟到", "工资", "工作", "手表", "手机", "办法", "会议", "出现", "发现", "解决", "机会", "选择", "方便", "关于", "认为", "要求"]
+    ],
+    "reading": [
+        [
+            {
+                "chinese": "办公室",
+                "vietnamese": "Văn phòng"
+            },
+            {
+                "chinese": "公司",
+                "vietnamese": "Công ty"
+            },
+            {
+                "chinese": "经理",
+                "vietnamese": "Quản lý"
+            },
+            {
+                "chinese": "下班",
+                "vietnamese": "Tan ca, hết giờ làm"
+            },
+            {
+                "chinese": "同事",
+                "vietnamese": "Đồng nghiệp"
+            },
+            {
+                "chinese": "加班",
+                "vietnamese": "Tăng ca"
+            },
+            {
+                "chinese": "迟到",
+                "vietnamese": "Đến muộn, đến trễ"
+            },
+            {
+                "chinese": "发",
+                "vietnamese": "Gửi, phát"
+            },
+            {
+                "chinese": "工资",
+                "vietnamese": "Lương"
+            },
+            {
+                "chinese": "忙",
+                "vietnamese": "Bận rộn, bận bịu"
+            },
+            {
+                "chinese": "工作",
+                "vietnamese": "Làm việc"
+            },
+            {
+                "chinese": "做",
+                "vietnamese": "Làm, làm việc"
+            },
+            {
+                "chinese": "手表",
+                "vietnamese": "Đồng hồ đeo tay"
+            },
+            {
+                "chinese": "手机",
+                "vietnamese": "Điện thoại"
+            },
+            {
+                "chinese": "办法",
+                "vietnamese": "Biện pháp, cách làm"
+            },
+            {
+                "chinese": "会议",
+                "vietnamese": "Cuộc họp"
+            },
+            {
+                "chinese": "出现",
+                "vietnamese": "Xuất hiện"
+            },
+            {
+                "chinese": "发现",
+                "vietnamese": "Phát hiện, tìm ra"
+            },
+            {
+                "chinese": "解决",
+                "vietnamese": "Giải quyết, dàn xếp"
+            },
+            {
+                "chinese": "机会",
+                "vietnamese": "Cơ hội"
+            },
+            {
+                "chinese": "选择",
+                "vietnamese": "Chọn, chọn lựa"
+            },
+            {
+                "chinese": "方便",
+                "vietnamese": "Tiện lợi"
+            },
+            {
+                "chinese": "放",
+                "vietnamese": "Đặt, để"
+            },
+            {
+                "chinese": "关于",
+                "vietnamese": "Về"
+            },
+            {
+                "chinese": "关",
+                "vietnamese": "Tắt, đóng"
+            },
+            {
+                "chinese": "认为",
+                "vietnamese": "Cho rằng, cho là"
+            },
+            {
+                "chinese": "要求",
+                "vietnamese": "Yêu cầu, đòi hỏi"
+            }
+        ]
+    ],
+    "speaking": [
+        ["办公室", "公司", "经理", "下班", "同事", "加班", "迟到", "工资", "工作", "手表", "手机", "办法", "会议", "出现", "发现", "解决", "机会", "选择", "方便", "关于", "认为", "要求"]
+    ],
+    "writing": [
+        ["听说你是新来的秘书。", "工作上没什么问题吧？", "压力也不太大。",  "大家都很热情。", "很乐意帮助新人。", "我们一起工作。", "那请大家多多关照。", "您要的资料我已经准备好了。", "好，我马上去。", "我弄完这个就去。", "我要加班。", "都六点了你还没下班吗？", "我在写报告呢。", "最近工作那么忙吗？", "我公司要出新产品了。", "我写完了就回去。", "如果有钱，我就去旅游。", "如果你喜欢，我就给你买。", "我下了课就吃饭。", "妈妈起了床就做早饭。", "你下了课我们就去书店。", "你说吧，我听得见。", "我看得懂中文。", "太高了，我上不去。", "你说什么，我听不见。", "她写什么，我看不懂。", "你听得懂听不懂老师说的话？", "你看得见那个人吗？", "你看得见那个人吗？", "我做不了，你找别人吧。", "太重了，我拿不动。", "我太饿了，站不住了。"]
+    ]
+}

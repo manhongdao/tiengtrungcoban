@@ -1,0 +1,108 @@
+[
+    {
+        "title": "Câu liên động",
+        "content": [
+            {
+                "keyWords": ["去"],
+                "description": "去 + nơi chốn + hành động (đi đâu làm gì)",
+                "sub_descriptions": [
+                    "Trong câu liên động, vị ngữ có hai động từ trở lên, động từ đứng sau diễn tả mục đích của động từ đứng trước. Đôi lúc ta có thể lược bỏ tân ngữ chỉ nơi chốn theo sau động từ thứ nhất."
+                ],
+                "examples": [
+                    {
+                        "chinese": "去中国学汉语。",
+                        "pinyin": "Qù zhōngguó xué hànyǔ.",
+                        "vietnamese": "Đi Trung Quốc học tiếng Trung."
+                    },
+                    {
+                        "chinese": "去（超市）买东西。",
+                        "pinyin": "Qù (chāoshì) mǎi dōngxī.",
+                        "vietnamese": "Đi (siêu thị) mua đồ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Cách dùng 还是 và 或者",
+        "content": [
+            {
+                "sub_descriptions": [
+                    "Đều dùng để diễn tả sự lựa chọn."
+                ]
+            },
+            {
+                "keyWords": ["还是"],
+                "description": "还是",
+                "sub_descriptions": [
+                    "Dùng trong câu hỏi hoặc câu có hình thức nghi vấn. (Dịch: Hay là)"
+                ],
+                "examples": [
+                    {
+                        "chinese": "你喜欢茶还是咖啡？",
+                        "pinyin": "Nǐ xǐhuān chá háishì kāfēi?",
+                        "vietnamese": "Bạn thích trà hay là cà phê?"
+                    }
+                ]
+            },
+            {
+                "keyWords": ["或者"],
+                "description": "或者",
+                "sub_descriptions": [
+                    "Dùng trong câu trần thuật. (Dịch: Hoặc)"
+                ],
+                "examples": [
+                    {
+                        "chinese": "给我一杯茶或者咖啡也行。",
+                        "pinyin": "Gěi wǒ yībēi chá huòzhě kāfēi yě xíng.",
+                        "vietnamese": "Cho tôi một cốc trà hoặc là cà phê cũng được."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Động từ năng nguyện 想",
+        "content": [
+            {
+                "keyWords": ["想"],
+                "sub_descriptions": [
+                    "Động từ năng nguyện {{想}} thường được dùng trước động từ để diễn tả mong muốn hay dự định"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Đại từ 每",
+        "content": [
+            {
+                "keyWords": ["每"],
+                "sub_descriptions": [
+                    "Đại từ {{每}} được dùng trước lượng từ để chỉ một cá thể hay một nhóm bất kì trong tổng thể."
+                ],
+                "examples": [
+                    {
+                        "chinese": "每个人",
+                        "pinyin": "Měi gèrén",
+                        "vietnamese": "Mỗi người"
+                    },
+                    {
+                        "chinese": "每天",
+                        "pinyin": "Měi tiān",
+                        "vietnamese": "Mỗi ngày"
+                    },
+                    {
+                        "chinese": "每个星期",
+                        "pinyin": "Měi gè xīngqí",
+                        "vietnamese": "Mỗi tuần"
+                    },
+                    {
+                        "chinese": "每个月",
+                        "pinyin": "Měi gè yuè",
+                        "vietnamese": "Mỗi tháng"
+                    }
+                ]
+            }
+        ]
+    }
+]

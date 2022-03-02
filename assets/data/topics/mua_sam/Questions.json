@@ -1,0 +1,160 @@
+{
+    "listening": [
+        ["买", "卖", "找", "大", "小", "钱", "花", "借", "还", "块", "元", "角", "毛", "少", "多", "贵", "拿", "穿", "试", "件", "个", "本", "双"],
+        ["购物", "多少", "多么", "便宜", "一共", "衣服", "衬衫", "帽子", "裤子", "裙子", "皮鞋", "袜子"]
+    ],
+    "reading": [
+        [
+            {
+                "chinese": "购物",
+                "vietnamese": "Mua sắm"
+            },
+            {
+                "chinese": "买",
+                "vietnamese": "Mua"
+            },
+            {
+                "chinese": "卖",
+                "vietnamese": "Bán"
+            },
+            {
+                "chinese": "找",
+                "vietnamese": "Tìm kiếm"
+            },
+            {
+                "chinese": "大",
+                "vietnamese": "To, lớn, rộng"
+            },
+            {
+                "chinese": "小",
+                "vietnamese": "Nhỏ, bé"
+            },
+            {
+                "chinese": "多少",
+                "vietnamese": "Bao nhiêu"
+            },
+            {
+                "chinese": "钱",
+                "vietnamese": "Tiền, đồng tiền"
+            },
+            {
+                "chinese": "花",
+                "vietnamese": "Tiêu, tốn, tiêu xài"
+            },
+            {
+                "chinese": "借",
+                "vietnamese": "Mượn, vay"
+            },
+            {
+                "chinese": "还",
+                "vietnamese": "Trả, trả lại"
+            },
+            {
+                "chinese": "块",
+                "vietnamese": "Tờ, đồng (lượng từ của tiền)"
+            },
+            {
+                "chinese": "元",
+                "vietnamese": "Đồng (đơn vị tiền Trung Quốc)"
+            },
+            {
+                "chinese": "角",
+                "vietnamese": "Hào (đơn vị tiền Trung Quốc, 10 hào=1 đồng)"
+            },
+            {
+                "chinese": "毛",
+                "vietnamese": "Hào (đơn vị tiền Trung Quốc, 10 hào=1 đồng)"
+            },
+            {
+                "chinese": "多么",
+                "vietnamese": "Biết bao, thật"
+            },
+            {
+                "chinese": "一点儿",
+                "vietnamese": "Một chút, một ít"
+            },
+            {
+                "chinese": "少",
+                "vietnamese": "Ít"
+            },
+            {
+                "chinese": "多",
+                "vietnamese": "Nhiều"
+            },
+            {
+                "chinese": "贵",
+                "vietnamese": "Đắt, đắt đỏ"
+            },
+            {
+                "chinese": "便宜",
+                "vietnamese": "Rẻ, hời"
+            },
+            {
+                "chinese": "一共",
+                "vietnamese": "Tất cả, tổng cộng"
+            },
+            {
+                "chinese": "拿",
+                "vietnamese": "Cầm, cầm lấy"
+            },
+            {
+                "chinese": "穿",
+                "vietnamese": "Mặc, mang"
+            },
+            {
+                "chinese": "试",
+                "vietnamese": "Thử, thí nghiệm"
+            },
+            {
+                "chinese": "衣服",
+                "vietnamese": "Quần áo, trang phục"
+            },
+            {
+                "chinese": "件",
+                "vietnamese": "Chiếc, kiện, cái (lượng từ cho vật đếm được từng cái)"
+            },
+            {
+                "chinese": "个",
+                "vietnamese": "Cái, con, quả, trái"
+            },
+            {
+                "chinese": "本",
+                "vietnamese": "Cuốn, quyển, tập (lượng từ dùng cho sách vở, sổ sách)"
+            },
+            {
+                "chinese": "衬衫",
+                "vietnamese": "Áo sơ mi"
+            },
+            {
+                "chinese": "帽子",
+                "vietnamese": "Mũ"
+            },
+            {
+                "chinese": "裤子",
+                "vietnamese": "Quần"
+            },
+            {
+                "chinese": "裙子",
+                "vietnamese": "Váy"
+            },
+            {
+                "chinese": "皮鞋",
+                "vietnamese": "Giày da"
+            },
+            {
+                "chinese": "双",
+                "vietnamese": "Đôi"
+            },
+            {
+                "chinese": "袜子",
+                "vietnamese": "Tất"
+            }
+        ]
+    ],
+    "speaking": [
+        ["购物", "买", "卖", "找", "大", "小", "多少", "钱", "花", "借", "还", "块", "元", "角", "毛", "多么", "一点儿", "少", "多", "贵", "便宜", "一共", "拿", "穿", "试", "衣服", "件", "个", "本", "衬衫", "帽子", "裤子", "裙子", "皮鞋", "双", "袜子"]
+    ],
+    "writing": [
+        ["我们去买衣服吧。", "你要买什么？", "我要买新的裤子。", "你要买什么吗？", "我去看看吧。", "女士，这双鞋怎么样？", "我可以试试吗？", "这双是36号。", "有点儿小。", "有大一点儿的吗？", "这个书包多少钱？", "这个150块。", "能便宜一点吗？", "这个是新款的。", "不能再便宜了。", "要不你看看这个黑色的。", "这个只有100块。", "那就拿这个黑色的。", "需要帮忙吗？", "我要买一本书。", "您要买什么书？", "我要买汉语书。", "你怎么还没吃饭？", "九点了，他还在睡觉。", "这件衣服怎么样？", "他的英语水平很可以。", "你要吃米饭吗？", "快起来，别睡了。", "我问一下老师。", "你休息一下吧。", "我看一下。", "复习复习", "这个杯子多少钱？", "喝一点儿水吧。"]
+    ]
+}

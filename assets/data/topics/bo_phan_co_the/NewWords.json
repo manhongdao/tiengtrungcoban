@@ -1,0 +1,227 @@
+[
+    {
+        "chinese": "脸",
+        "pinyin": "liǎn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Mặt",
+                "example": {
+                    "chinese": "笑脸盈盈。",
+                    "pinyin": "Xiàoliǎn yíngyíng.",
+                    "vietnamese": "Mặt tràn đầy niềm vui."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "嘴巴",
+        "pinyin": "zuǐba",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Miệng",
+                "example": {
+                    "chinese": "你张开嘴巴，他把舌头伸进来。",
+                    "pinyin": "Nǐ zhāng kāi zuǐbā, tā bǎ shétou shēn jìnlái.",
+                    "vietnamese": "Bạn mở miệng ra, thè lưỡi ra đây."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "鼻子",
+        "pinyin": "bízi",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Mũi",
+                "example": {
+                    "chinese": "受了凉，鼻子发齉。",
+                    "pinyin": "Shòu le liáng, bízi fā nàng.",
+                    "vietnamese": "Bị nhiễm lạnh, nên mũi bị nghẹt."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "眼睛",
+        "pinyin": "yǎnjing",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Mắt",
+                "example": {
+                    "chinese": "这小姑娘有两只又大又水灵的眼睛。",
+                    "pinyin": "Zhè xiǎogūniáng yǒu liǎngzhǐ yòu dà yòu shǔilíng de yǎnjing.",
+                    "vietnamese": "Cô bé này có đôi mắt vừa to vừa đẹp."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "脖子",
+        "pinyin": "bózi",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Cổ",
+                "example": {
+                    "chinese": "他在脖子上系了一条围巾。",
+                    "pinyin": "Tā zài bózi shàng xìle yītiáo wéijīn.",
+                    "vietnamese": "Anh ta quàng một chiếc khăn quanh cổ. "
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "头发",
+        "pinyin": "tóufà",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Tóc",
+                "example": {
+                    "chinese": "爷爷的头发都脱光了。",
+                    "pinyin": "Yéyé de tóufà dōu tuōguāngle.",
+                    "vietnamese": "Tóc của ông đều rụng hết rồi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "耳朵",
+        "pinyin": "ěrduǒ",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Tai",
+                "example": {
+                    "chinese": "我耳朵不灵便，你说话大声点。",
+                    "pinyin": "Wǒ ěrduǒ bù língbiàn，nǐ shuōhuà dàshēng diǎn.",
+                    "vietnamese": "Tai tôi nghe không rõ, anh nói to lên."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "头",
+        "pinyin": "tóu",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Đầu",
+                "example": {
+                    "chinese": "她转过头看着他。",
+                    "pinyin": "Tā zhuǎn guòtóu kànzhe tā.",
+                    "vietnamese": "Cô quay đầu nhìn anh."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "肩膀",
+        "pinyin": "jiānbǎng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Vai",
+                "example": {
+                    "chinese": "肩膀上搭着一条毛巾。",
+                    "pinyin": "Jiānbǎng shàng dāzhe yītiáo máojīn.",
+                    "vietnamese": "Trên vai vắt một chiếc khăn mặt."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "手",
+        "pinyin": "shǒu",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Tay",
+                "example": {
+                    "chinese": "知道答案的请举手。",
+                    "pinyin": "Zhīdào dá\"àn de qǐng jǔ shǒu.",
+                    "vietnamese": "Nếu bạn biết câu trả lời, xin vui lòng giơ tay."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "手指",
+        "pinyin": "shǒuzhǐ",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Ngón tay",
+                "example": {
+                    "chinese": "她的手指上戴着一枚订婚戒指。",
+                    "pinyin": "Tā de shǒuzhǐ shàng dàizhe yī méi dìnghūn jièzhǐ.",
+                    "vietnamese": "Cô đeo nhẫn đính hôn trên ngón tay."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "脚",
+        "pinyin": "jiǎo",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bàn chân",
+                "example": {
+                    "chinese": "他用右脚踢球。",
+                    "pinyin": "Tā yòng yòu jiǎo tī qiú.",
+                    "vietnamese": "Anh ấy đá bóng bằng chân phải. "
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "腿",  
+        "pinyin": "tuǐ",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Chân",
+                "example": {
+                    "chinese": "我踢足球摔断了腿。",
+                    "pinyin": "Wǒ tī zúqiú shuāi duànle tuǐ.",
+                    "vietnamese": "Tôi bị gãy chân khi chơi bóng đá."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "膝盖",
+        "pinyin": "xīgài",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Đầu gối",
+                "example": {
+                    "chinese": "我摔倒时擦伤了膝盖。",
+                    "pinyin": "Wǒ shuāi dǎo shí cā shāngle xīgài.",
+                    "vietnamese": "Tôi bị ngã bầm tím đầu gối."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "手臂",
+        "pinyin": "shǒubì",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Cánh tay",
+                "example": {
+                    "chinese": "她手臂一阵剧痛。",
+                    "pinyin": "Tā shǒubì yīzhèn jù tòng.",
+                    "vietnamese": "Cánh tay cô ấy chợt đau nhói."
+                }
+            }
+        ]
+    }
+]

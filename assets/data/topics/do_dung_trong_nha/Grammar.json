@@ -1,0 +1,254 @@
+[
+    {
+        "title": "Phương vị từ",
+        "content": [
+            {
+                "keyWords": ["上", "下", "里", "旁边", "前面"],
+                "description": "Các từ chỉ phương hướng",
+                "sub_descriptions": [
+                    "Vị trí: ({{上}}（{{面}}）trên, {{下}}（{{面}}）dưới, {{左边}} trái, {{右边}} phải, {{前面}} trước, {{后面}} sau, {{里}}（{{面}}/{{边}}）trong, {{外}}（{{面}}/{{边}}）ngoài, {{旁边}} bên cạnh, {{这里}}（{{这儿}}）chỗ này, {{那里}}（{{那儿}}）chỗ kia, {{哪里}}（{{哪儿}}）chỗ nào,…) gọi là các phương vị từ.",
+                    "Phương vị từ có thể kết hợp với danh từ, đứng sau danh từ tạo thành cụm từ chỉ địa điểm."
+                ],
+                "examples": [
+                    {
+                        "chinese": "桌子上",
+                        "pinyin": "Zhuōzi shàng",
+                        "vietnamese": "Trên bàn"
+                    },
+                    {
+                        "chinese": "椅子下",
+                        "pinyin": "Yǐzi xià",
+                        "vietnamese": "Dưới ghế"
+                    },
+                    {
+                        "chinese": "书包里",
+                        "pinyin": "Shūbāo lǐ",
+                        "vietnamese": "Trong cặp"
+                    },
+                    {
+                        "chinese": "我家旁边",
+                        "pinyin": "Wǒjiā pángbiān",
+                        "vietnamese": "Bên cạnh nhà tôi"
+                    },
+                    {
+                        "chinese": "我前面",
+                        "pinyin": "Wǒ qiánmiàn",
+                        "vietnamese": "Phía trước tôi"
+                    }
+                ]
+            },
+            {
+                "keyWords": ["里", "旁边", "前面"],
+                "sub_descriptions": [
+                    "Hoặc có thể đứng trước để làm định ngữ, bổ sung ý nghĩa cho danh từ."
+                ],
+                "examples": [
+                    {
+                        "chinese": "前面的楼",
+                        "pinyin": "Qiánmiàn de lóu",
+                        "vietnamese": "Tòa nhà phía trước"
+                    },
+                    {
+                        "chinese": "里面的东西",
+                        "pinyin": "Lǐmiàn de dōngxī",
+                        "vietnamese": "Những thứ ở bên trong"
+                    },
+                    {
+                        "chinese": "旁边的同学",
+                        "pinyin": "Pángbiān de tóngxué",
+                        "vietnamese": "Bạn ở bên cạnh"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Cụm từ số lượng",
+        "content": [
+            {
+                "description": "Số từ + Lượng từ + Danh từ",
+                "sub_description": [
+                    "Trong tiếng Hán, số từ không trực tiếp đi với danh từ mà phải có lượng từ đi kèm, số lượng từ thường làm định ngữ cho danh từ, mỗi danh từ thường có một lượng từ (đơn vị đếm) riêng.",
+                    "Khi các từ “{{哪}}”, “{{这}}”, “{{那}}” đứng trước, bổ nghĩa cho danh từ, ta cũng phải thêm lượng từ để liên kết chúng.",
+                    "Ví dụ: một số lượng từ thường gặp"
+                ],
+                "examples": [
+                    {
+                        "chinese": "一个苹果",
+                        "pinyin": "1 quả táo",
+                        "vietnamese": "个: cái, chiếc (lượng từ chung cho những danh từ không có lượng từ riêng)"
+                    },
+                    {
+                        "chinese": "两本书",
+                        "pinyin": "2 quyển sách",
+                        "vietnamese": "本: quyển (lượng từ của sách vở, tạp chí,…)"
+                    },
+                    {
+                        "chinese": "三支笔",
+                        "pinyin": "3 cây bút",
+                        "vietnamese": "支: cây, điếu (lượng từ của những vật thon dài như bút, thuốc lá,…)"
+                    },
+                    {
+                        "chinese": "四件衣服",
+                        "pinyin": "4 bộ quần áo",
+                        "vietnamese": "件: bộ (lượng từ của quần, áo, những đồ vật theo bộ,…)"
+                    },
+                    {
+                        "chinese": "五张桌子",
+                        "pinyin": "5 cái (mặt) bàn",
+                        "vietnamese": "张 (lượng từ của những vật to, có mặt phẳng như giường, bàn, bức ảnh,…)"
+                    },
+                    {
+                        "chinese": "六把雨伞",
+                        "pinyin": "6 cái ô",
+                        "vietnamese": "把 (lượng từ của những vật có cán, tay cầm như ô, ghế, súng,…)"
+                    },
+                    {
+                        "chinese": "七辆车",
+                        "pinyin": "7 chiếc xe",
+                        "vietnamese": "辆 (lượng từ của xe cộ)"
+                    },
+                    {
+                        "chinese": "八台手机",
+                        "pinyin": "8 chiếc (máy) điện thoại",
+                        "vietnamese": "台 (lượng từ của máy móc như điện thoại, máy tính, ti vi,…)"
+                    },
+                    {
+                        "chinese": "九口人",
+                        "pinyin": "9 người",
+                        "vietnamese": "口 (lượng từ của người, nhân khẩu)"
+                    },
+                    {
+                        "chinese": "十位老师",
+                        "pinyin": "10 thầy cô",
+                        "vietnamese": "位: vị (lượng từ của người, dùng với nghĩa tôn trọng, kinh trọng)"
+                    },
+                    {
+                        "chinese": "这家公司",
+                        "pinyin": "Công ti này",
+                        "vietnamese": "家 (lượng từ của công ti, nhà hàng, khách sạn,…)"
+                    },
+                    {
+                        "chinese": "哪只猫",
+                        "pinyin": "Con mèo nào",
+                        "vietnamese": "只 (lượng từ dùng cho những con vật nhỏ)"
+                    },
+                    {
+                        "chinese": "那头马/那头牛",
+                        "pinyin": "Con ngựa/trâu kia",
+                        "vietnamese": "头 (lượng từ cho những loài vật to lớn)"
+                    },
+                    {
+                        "chinese": "一条河/一条蛇",
+                        "pinyin": "1 con sông /1 con rắn",
+                        "vietnamese": "条 (lượng từ của các vật dài như con sông, con đường, cái khăn; dùng cho tin tức, điều khoản; dùng cho con chó,… )"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Câu chữ 把",
+        "content": [
+            {
+                "keyWords": ["把"],
+                "description": "Mẫu câu A把B + động từ + …",
+                "sub_descriptions": [
+                    "Được dùng để chỉ hành động tác động vào một người/sự vật xác định, làm cho người/sự vật chuyển sang một trạng thái khác."
+                ],
+                "examples": [
+                    {
+                        "chinese": "你把灯关了吧。",
+                        "pinyin": "Nǐ bǎ dēng guānle ba.",
+                        "vietnamese": "Cậu tắt đèn đi."
+                    },
+                    {
+                        "chinese": "我把衣服洗了。",
+                        "pinyin": "Wǒ bǎ yīfu xǐle.",
+                        "vietnamese": "Con đã giặt quần áo rồi."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["把"],
+                "sub_descriptions": [
+                    "Phó từ phủ định, động từ năng nguyện,… phải được đặt trước giới từ ba."
+                ],
+                "examples": [
+                    {
+                        "chinese": "别把手机忘了。",
+                        "pinyin": "Bié bǎ shǒujī wàngle.",
+                        "vietnamese": "Đừng bỏ quên điện thoại."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["把", "到", "在"],
+                "description": "A把B + động từ + 到/在 + vị trí",
+                "sub_descriptions": [
+                    "Làm đổi vị trí của người, vật"
+                ],
+                "examples": [
+                    {
+                        "chinese": "她把书放在桌子上。",
+                        "pinyin": "Tā bǎ shū fàng zài zhuōzi shàng.",
+                        "vietnamese": "Cô ấy để quyển sách trên bàn."
+                    },
+                    {
+                        "chinese": "我帮你把衣服放到行李箱里吧。",
+                        "pinyin": "Wǒ bāng nǐ bǎ yīfu fàng dào xínglǐ xiāng lǐ ba.",
+                        "vietnamese": "Tôi bỏ quần áo vào vali giúp bạn nhé."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["把", "给"],
+                "description": "A把B + động từ + 给 + người nào đó",
+                "sub_descriptions": [
+                    "Làm thay đổi người sở hữu hoặc sử dụng"
+                ],
+                "examples": [
+                    {
+                        "chinese": "他还没把书还给我。",
+                        "pinyin": "Tā hái méi bǎ shū huán gěi wǒ.",
+                        "vietnamese": "Anh ấy vẫn chưa trả lại sách cho tôi."
+                    },
+                    {
+                        "chinese": "他把花送给她。",
+                        "pinyin": "Tā bǎ huā sòng gěi tā.",
+                        "vietnamese": "Anh ấy tặng hoa cho cô ấy."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["把"],
+                "description": "A把B + động từ+ bổ ngữ kết quả/ bổ ngữ xu hướng",
+                "sub_descriptions": [
+                    "Hành động mang lại kết quả nào đó cho người/sự vật hoặc làm thay đổi vị trí của người/sự vật"
+                ],
+                "examples": [
+                    {
+                        "chinese": "我把衣服洗干净了。",
+                        "pinyin": "Wǒ bǎ yīfu xǐ gānjìngle.",
+                        "vietnamese": "Con giặt sạch quần áo rồi."
+                    },
+                    {
+                        "chinese": "妈妈还没把饭做好。",
+                        "pinyin": "Māma hái méi bǎ fàn zuò hǎo.",
+                        "vietnamese": "Mẹ vẫn chưa nấu xong cơm."
+                    },
+                    {
+                        "chinese": "把钱拿出来。",
+                        "pinyin": "Bǎ qián ná chulai.",
+                        "vietnamese": "Lấy tiền ra đây."
+                    },
+                    {
+                        "chinese": "你把苹果拿过来吧。",
+                        "pinyin": "Nǐ bǎ píngguǒ ná guòlái ba.",
+                        "vietnamese": "Bạn mang táo qua đây đi."
+                    }
+                ]
+            }
+        ]
+    }
+]

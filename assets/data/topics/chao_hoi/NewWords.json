@@ -1,0 +1,260 @@
+[
+    {
+        "chinese": "你",
+        "pinyin": "nǐ",
+        "meaning": [
+            {
+                "type": "đại từ",
+                "vietnamese": "Đại từ nhân xưng ngôi thứ hai số ít (bạn, anh, chị, mày, ngươi …)",
+                "example": {
+                    "chinese": "你是谁？",
+                    "pinyin": "Nǐ shì shéi?",
+                    "vietnamese": "Ngươi là ai?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "好",
+        "pinyin": "hǎo",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Đẹp, tốt, ổn, ngoan",
+                "image": "good.png",
+                "example": {
+                    "chinese": "真是一个好孩子。",
+                    "pinyin": "Zhēn shì yī ge hǎo háizi.",
+                    "vietnamese": "Đúng là một đứa trẻ ngoan."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "你好!",
+        "pinyin": "nǐhǎo",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Xin chào",
+                "image": "hello.png"
+            }
+        ]
+    },
+    {
+        "chinese": "我",
+        "pinyin": "wǒ",
+        "meaning": [
+            {
+                "type": "đại từ",
+                "vietnamese": "Đại từ nhân xưng ngôi thứ nhất số ít (tôi, tớ, tao,…)",
+                "example": {
+                    "chinese": "我是越南人。",
+                    "pinyin": "Wǒ shì Yuènán rén.",
+                    "vietnamese": "Tôi là người Việt Nam."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "您",
+        "pinyin": "nín",
+        "meaning": [
+            {
+                "type": "đại từ",
+                "vietnamese": "Đại từ nhân xưng ngôi thứ hai số ít, dùng với nghĩa tôn trọng, kính trọng (ngài, anh, chị, quí khách,…)",
+                "example": {
+                    "chinese": "请您看。",
+                    "pinyin": "Qǐng nín kàn.",
+                    "vietnamese": "Mời ngài xem."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "他",
+        "pinyin": "tā",
+        "meaning": [
+            {
+                "type": "đại từ",
+                "vietnamese": "Đại từ nhân xưng ngôi thứ ba số ít, dùng cho nam (bạn ấy, anh ấy, hắn…)",
+                "example": {
+                    "chinese": "他是我的男朋友。",
+                    "pinyin": "Tā shì wǒ de nánpéngyou.",
+                    "vietnamese": "Anh ấy là bạn trai của tôi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "她",
+        "pinyin": "tā",
+        "meaning": [
+            {
+                "type": "đại từ",
+                "vietnamese": "Đại từ nhân xưng ngôi thứ ba số ít, dùng cho nữ (bạn ấy, cô ấy, chị ấy,…)",
+                "example": {
+                    "chinese": "她是我的女朋友。",
+                    "pinyin": "Tā shì wǒ de nǚpéngyou.",
+                    "vietnamese": "Cô ấy là bạn gái của tôi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "它",
+        "pinyin": "tā",
+        "meaning": [
+            {
+                "type": "đại từ",
+                "vietnamese": "Đại từ nhân xưng ngôi thứ ba số ít, dùng đồ vật, con vật (nó,…)",
+                "example": {
+                    "chinese": "这杯奶茶，你把它喝了。",
+                    "pinyin": "Zhè bēi nǎichá, nǐ bǎ tā hē le.",
+                    "vietnamese": "Cốc trà sữa này, anh hãy uống hết nó đi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "我们",
+        "pinyin": "wǒmen",
+        "meaning": [
+            {
+                "type": "đại từ",
+                "vietnamese": "Đại từ nhân xưng ngôi thứ nhất số nhiều (chúng tôi, chúng tớ, chúng ta,…)",
+                "example": {
+                    "chinese": "爸爸，我们去哪里啊？",
+                    "pinyin": "Bāba, wǒmen qù nǎlǐ a?",
+                    "vietnamese": "Bố ơi, chúng ta đi đâu thế?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "们",
+        "pinyin": "men",
+        "meaning": [
+            {
+                "type": "đại từ",
+                "vietnamese": "Được thêm vào sau đại từ hoặc danh từ chỉ người để biểu thị số lượng nhiều (trừ 您, không nói 您们, muốn dùng đại từ nhân xưng ngôi thứ hai số nhiều với sắc thái lịch sự, tôn trọng ta dùng 各位)."
+            }
+        ]
+    },
+    {
+        "chinese": "大家",  
+        "pinyin": "dàjiā",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Mọi người",
+                "image": "people.png"
+            }
+        ]
+    },
+    {
+        "chinese": "认识",
+        "pinyin": "rènshi",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Làm quen, quen biết",
+                "example": {
+                    "chinese": "我不认识他。",
+                    "pinyin": "Wǒ bù rènshi tā.",
+                    "vietnamese": "Tôi không quen anh ấy."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "高兴",
+        "pinyin": "gāoxìng",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Vui",
+                "image": "glad.png",
+                "example": {
+                    "chinese": "很高兴认识你。",
+                    "pinyin": "Hěn gàoxìng rènshi nǐ.",
+                    "vietnamese": "Rất vui được biết anh."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "同学",
+        "pinyin": "tóngxué",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Bạn học",
+                "image": "classmates.png",
+                "example": {
+                    "chinese": "这是我的高中同学。",
+                    "pinyin": "Tā shì wǒ de gāozhōng tóngxué.",
+                    "vietnamese": "Đây là bạn học cấp 3 của tôi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "老师",
+        "pinyin": "lǎoshī",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Thầy, cô giáo",
+                "image": "teacher.png",
+                "example": {
+                    "chinese": "刘老师是我的汉语老师。",
+                    "pinyin": "Liú lǎoshī shì wǒ de Hànyǔ lǎoshī.",
+                    "vietnamese": "Cô Lưu là cô giáo dạy tiếng Hán của tôi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "对不起",
+        "pinyin": "duìbuqǐ",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Xin lỗi",
+                "image": "sorry.png"
+            }
+        ]
+    },
+    {
+        "chinese": "没事/没关系",
+        "pinyin": "méishì/méi guānxi",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Không sao/Không vấn đề gì đâu."
+            }
+        ]
+    },
+    {
+        "chinese": "谢谢",
+        "pinyin": "xièxie",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Cảm ơn",
+                "image": "thank-you.png"
+            }
+        ]
+    },
+    {
+        "chinese": "不用谢/不客气",
+        "pinyin": "bùyòngxiè/bùkèqī",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Không có gì/Đừng khách sáo"
+            }
+        ]
+    }
+]

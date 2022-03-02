@@ -1,0 +1,107 @@
+[
+    [
+        {
+            "chinese": "明天你有空吗？我们一起去图书馆吧。",
+            "pinyin": "Míngtiān nǐ yǒu kòng ma? Wǒmen yīqǐ qù túshū guǎn ba.",
+            "vietnamese": "Ngày mai cậu có rảnh không? Chúng ta cùng đến thư viện nhé."
+        },
+        {
+            "chinese": "好，我们在学校见面然后一起去还是自己直接去？",
+            "pinyin": "Hǎo, wǒmen zài xuéxiào jiànmiàn ránhòu yīqǐ qù háishì zìjǐ zhíjiē qù?",
+            "vietnamese": "Được, chúng ta gặp nhau ở trường rồi đi hay tự đi đến đó?"
+        },
+        {
+            "chinese": "我们直接到图书馆吧。我会骑自行车去，你呢？",
+            "pinyin": "Wǒmen zhíjiē dào túshū guǎn ba. Wǒ huì qí zìxíngchē qù, nǐ ne?",
+            "vietnamese": "Chúng ta đến thẳng thư viện luôn đi. Mình sẽ đạp xe đi, cậu đi thế nào?"
+        },
+        {
+            "chinese": "我家离图书馆很近，我会走路去。",
+            "pinyin": "Wǒjiā lí túshū guǎn hěn jìn, wǒ huì zǒulù qù.",
+            "vietnamese": "Nhà mình rất gần thư viện, mình sẽ đi bộ đến."
+        },{
+            "chinese": "好的，不见不散。",
+            "pinyin": "Hǎo de, bùjiàn bú sàn.",
+            "vietnamese": "Được, không gặp không về."
+        }
+    ],
+    [
+        {
+            "chinese": "你好，不好意思，让你久等了。",
+            "pinyin": "Nǐ hǎo, bù hǎoyìsi, ràng nǐ jiǔ děngle.",
+            "vietnamese": "Xin chào, thật ngại quá, đã để anh chờ lâu."
+        },
+        {
+            "chinese": "没事，你是怎么来的？",
+            "pinyin": "Méishì, nǐ shì zěnme lái de?",
+            "vietnamese": "Không sao, cô đi thế nào đến vậy?"
+        },
+        {
+            "chinese": "我下了飞机就坐出租车来。",
+            "pinyin": "Wǒ xiàle fēijī jiùzuò chūzū chē lái.",
+            "vietnamese": "Tôi xuống máy bay thì gọi taxi đến đây."
+        },
+        {
+            "chinese": "从北京到河内要坐几个小时飞机？",
+            "pinyin": "Cóng Běijīng dào Hénèi yào zuò jǐ gè xiǎoshí fēijī?",
+            "vietnamese": "Từ Bắc Kinh đến Hà Nội phải ngồi mấy tiếng máy bay?"
+        },
+        {
+            "chinese": "三个半小时左右。",
+            "pinyin": "Sān gè bàn xiǎoshí zuǒyòu.",
+            "vietnamese": "Khoảng ba tiếng rưỡi."
+        },
+        {
+            "chinese": "你坐了三个半小时飞机到河内，然后又坐出租车来，应该很累了。你先休息一下。今天我请你吃饭。",
+            "pinyin": "Nǐ zuòle sān gè bàn xiǎoshí fēijī dào Hénèi, ránhòu yòu zuò chūzū chē lái, yīnggāi hěn lèile. Nǐ xiān xiūxí yīxià. Jīntiān wǒ qǐng nǐ chīfàn.",
+            "vietnamese": "Cô đã ngồi ba tiếng rưỡi tiếng máy bay đến Hà Nội, rồi lại ngồi taxi đến đây, chắc là rất mệt. Cô nghỉ ngơi một chút trước đi. Hôm nay tôi mời cô dùng bữa."
+        },
+        {
+            "chinese": "谢谢。",
+            "pinyin": "Xièxie.",
+            "vietnamese": "Cảm ơn anh."
+        }
+    ],
+    [
+        {
+            "chinese": "都七点了，小王怎么还没回来？",
+            "pinyin": "Dōu qī diǎnle, xiǎo wáng zěnme hái méi huílái?",
+            "vietnamese": "Đã 7 giờ rồi sao tiểu Vương vẫn chưa về?"
+        },
+        {
+            "chinese": "可能是因为堵车，你给他打电话看看。",
+            "pinyin": "Kěnéng shì yīnwèi dǔchē, nǐ gěi tā dǎ diànhuà kànkan.",
+            "vietnamese": "Chắc là do tắc đường, bà thử gọi điện thoại cho nó xem."
+        },
+        {
+            "chinese": "我都打了好几次了。",
+            "pinyin": "Wǒ dōu dǎle hǎojǐ cìle.",
+            "vietnamese": "Tôi đã gọi mấy lần rồi."
+        },
+        {
+            "chinese": "我回来了。",
+            "pinyin": "Wǒ huíláile.",
+            "vietnamese": "Con về rồi ạ."
+        },
+        {
+            "chinese": "怎么现在才回来？",
+            "pinyin": "Zěnme xiànzài cái huílái?",
+            "vietnamese": "Sao giờ này mới về?"
+        },
+        {
+            "chinese": "我的自行车坏了，所以要走路回来。",
+            "pinyin": "Wǒ de zìxíngchē huàile, suǒyǐ yào zǒulù huílái.",
+            "vietnamese": "Xe đạp của con bị hỏng nên phải đi bộ về ạ."
+        },
+        {
+            "chinese": "电话怎么打不通？",
+            "pinyin": "Diànhuà zěnme dǎ bùtōng?",
+            "vietnamese": "Sao điện thoại không gọi được?"
+        },
+        {
+            "chinese": "我手机没电了。",
+            "pinyin": "Wǒ shǒujī méi diànle.",
+            "vietnamese": "Điện thoại con hết pin rồi ạ."
+        }
+    ]
+]

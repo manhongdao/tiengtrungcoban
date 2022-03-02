@@ -1,0 +1,702 @@
+[
+    {
+        "chinese": "天",
+        "pinyin": "tiān",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Ngày"
+            }
+        ]
+    },
+    {
+        "chinese": "昨天",
+        "pinyin": "zuótiān",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Ngày hôm qua",
+                "example": {
+                    "chinese": "昨天没有会着他。",
+                    "pinyin": "Zuótiān méiyǒu huìzhe tā.",
+                    "vietnamese": "Hôm qua không gặp anh ấy."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "今天",
+        "pinyin": "jīntiān",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Ngày hôm nay",
+                "example": {
+                    "chinese": "今天天气很好。",
+                    "pinyin": "Jīntiāntiānqì hěn hǎo。",
+                    "vietnamese": "Thời tiết hôm nay rất đẹp."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "明天",
+        "pinyin": "míngtiān",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Ngày mai",
+                "example": {
+                    "chinese": "明天她来吗？",
+                    "pinyin": "Míngtiān tā lái ma?",
+                    "vietnamese": "Ngày mai anh ấy đến à?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "年",
+        "pinyin": "nián",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Năm",
+                "example": {
+                    "chinese": "他们一整年都必须工作。",
+                    "pinyin": "Tāmen yī zhěng nián dōu bìxū gōngzuò.",
+                    "vietnamese": "Họ phải làm việc cả năm."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "去年",
+        "pinyin": "qùnián",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Năm ngoái, năm qua",
+                "example": {
+                    "chinese": "事情发生在去年。",
+                    "pinyin": "Shìqíng fāshēng zài qùnián.",
+                    "vietnamese": "Sự việc xảy ra vào năm ngoái."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "今年",
+        "pinyin": "jīnnián",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Năm nay",
+                "example": {
+                    "chinese": "今年春上雨水多。",
+                    "pinyin": "Jīnnián chūn shàng yǔshǔi duō.",
+                    "vietnamese": "Mùa xuân năm nay mưa nhiều."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "明年",
+        "pinyin": "míngnián",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Năm sau",
+                "example": {
+                    "chinese": "这项工程明年上马。",
+                    "pinyin": "Zhèxiàng gōngchéng míngnián shàngmǎ.",
+                    "vietnamese": "Công trình này năm sau sẽ khởi công."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "月",
+        "pinyin": "yuè",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Tháng",
+                "example": {
+                    "chinese": "月票当月有效。",
+                    "pinyin": "Yuèpiào dāngyuè yǒuxiào.",
+                    "vietnamese": "Vé tháng chỉ có giá trị trong tháng đó."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "日",
+        "pinyin": "rì",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Ngày",
+                "example": {
+                    "chinese": "日夜辛劳。",
+                    "pinyin": "Rìyè xīnláo.",
+                    "vietnamese": "Ngày đêm vất vả."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "春天",
+        "pinyin": "chūntiān",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Mùa xuân",
+                "image": "spring.png"
+            }
+        ]
+    },
+    {
+        "chinese": "它们",
+        "pinyin": "xiàtiān",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Mùa hè",
+                "image": "summer.png"
+            }
+        ]
+    },
+    {
+        "chinese": "秋天",  
+        "pinyin": "qiūtiān",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Mùa thu",
+                "image": "autumn.png"
+            }
+        ]
+    },
+    {
+        "chinese": "冬天",
+        "pinyin": "dōngtiān",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Mùa đông",
+                "image": "winter.png"
+            }
+        ]
+    },
+    {
+        "chinese": "周末",
+        "pinyin": "zhōumò",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Cuối tuần",
+                "example": {
+                    "chinese": "周末室友都回家了。",
+                    "pinyin": "Zhōumò shìyǒu dōu huí jiāle.",
+                    "vietnamese": "Các bạn cùng phòng về nhà vào cuối tuần."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "周",
+        "pinyin": "zhōu",
+        "meaning": [
+            {
+                "type": "lượng từ",
+                "vietnamese": "Tuần lễ",
+                "example": {
+                    "chinese": "我要出差两周。",
+                    "pinyin": "Wǒ yào chūchāi liǎng zhōu.",
+                    "vietnamese": "Tôi phải đi công tác hai tuần."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "星期",
+        "pinyin": "xīngqī",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Ngày, thứ (ghép liền với các ngày trong tuần)",
+                "example": {
+                    "chinese": "星期一，星期二，星期天",
+                    "pinyin": "Xīngqī yī, xīngqī'èr, xīngqītiān",
+                    "vietnamese": "Thứ hai, thứ ba, chủ nhật"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "以前",
+        "pinyin": "yǐqián",
+        "meaning": [
+            {
+                "type": "phó từ",
+                "vietnamese": "Trước đây, trước kia",
+                "example": {
+                    "chinese": "以前他是个学生。",
+                    "pinyin": "Yǐqián tā shì gè xuéshēng.",
+                    "vietnamese": "Trước kia anh ấy là học sinh."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "过去",
+        "pinyin": "guòqù",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Quá khứ, trước đây",
+                "example": {
+                    "chinese": "过去的那些事别兜翻了。",
+                    "pinyin": "Guòqù dì nàxiē shì bié dōu fan le.",
+                    "vietnamese": "Quá khứ đã qua đừng nhắc đến nữa."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "现在",
+        "pinyin": "xiànzài",
+        "meaning": [
+            {
+                "type": "phó từ",
+                "vietnamese": "Hiện tại, bây giờ",
+                "example": {
+                    "chinese": "他现在身体好不？",
+                    "pinyin": "Tā xiànzài shēntǐ hǎobù?",
+                    "vietnamese": "Ông ấy hiện tại khoẻ không?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "最近",
+        "pinyin": "zuìjìn",
+        "meaning": [
+            {
+                "type": "phó từ",
+                "vietnamese": "Gần đây",
+                "example": {
+                    "chinese": "他最近确实有些进步。",
+                    "pinyin": "Tā zuìjìn quèshí yǒuxiē jìnbù.",
+                    "vietnamese": "Gần đây, anh ấy thực sự có tiến bộ."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "未来",
+        "pinyin": "wèilái",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Tương lai, sau này",
+                "example": {
+                    "chinese": "心里充满着对未来的憧憬。",
+                    "pinyin": "Xīnlǐ chōngmǎnzhe duì wèilái de chōngjǐng.",
+                    "vietnamese": "Lòng tràn đầy mơ ước về tương lai."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "后来",
+        "pinyin": "hòulái",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Về sau, sau này",
+                "example": {
+                    "chinese": "他后来成为总统。",
+                    "pinyin": "Tā hòulái chéngwéi zǒngtǒng.",
+                    "vietnamese": "Sau này anh ấy trở thành tổng thống."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "以后",
+        "pinyin": "yǐhòu",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Sau đó, sau này",
+                "example": {
+                    "chinese": "她毕业以后到支行工作。",
+                    "pinyin": "Tā bìyè yǐhòu dào zhīháng gōngzuò.",
+                    "vietnamese": "Sau khi tốt nghiệp, cô vào làm việc trong chi nhánh."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "先",
+        "pinyin": "xiān",
+        "meaning": [
+            {
+                "type": "phó từ",
+                "vietnamese": "Trước, tiên",
+                "example": {
+                    "chinese": "我想先吃点蛋糕。",
+                    "pinyin": "Wǒ xiǎng xiān chī diǎn dàngāo.",
+                    "vietnamese": "Tôi muốn ăn bánh trước."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "然后",
+        "pinyin": "ránhòu",
+        "meaning": [
+            {
+                "type": "liên từ",
+                "vietnamese": "Sau đó, tiếp đó",
+                "example": {
+                    "chinese": "先研究一下，然后再决定。",
+                    "pinyin": "Xiān yánjīu yīxià, ránhòu zài juédìng.",
+                    "vietnamese": "Trước tiên phải nghiên cứu sơ qua, sau đó mới quyết định."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "马上",
+        "pinyin": "mǎshàng",
+        "meaning": [
+            {
+                "type": "phó từ",
+                "vietnamese": "Lập tức, ngay",
+                "example": {
+                    "chinese": "他主张马上动身。",
+                    "pinyin": "Tā zhǔzhāng mǎshàng dòngshēn.",
+                    "vietnamese": "Anh ấy cho rằng cần phải đi ngay."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "早上",
+        "pinyin": "zǎoshàng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Sáng sớm",
+                "image": "sunrise.png"
+            }
+        ]
+    },
+    {
+        "chinese": "上午",
+        "pinyin": "shàngwǔ",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Buổi sáng",
+                "image": "morning.png"
+            }
+        ]
+    },
+    {
+        "chinese": "中午",
+        "pinyin": "zhōngwǔ",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Buổi trưa",
+                "image": "noon.png"
+            }
+        ]
+    },
+    {
+        "chinese": "下午",
+        "pinyin": "xiàwǔ",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Buổi chiều",
+                "image": "afternoon.png"
+            }
+        ]
+    },
+    {
+        "chinese": "晚上",
+        "pinyin": "wǎnshàng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Buổi tối",
+                "image": "evening.png"
+            }
+        ]
+    },
+    {
+        "chinese": "半夜",
+        "pinyin": "bànyè",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Nửa đêm",
+                "image": "half-moon.png"
+            }
+        ]
+    },
+    {
+        "chinese": "小时",
+        "pinyin": "xiǎoshí",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Giờ đồng hồ",
+                "example": {
+                    "chinese": "一天二十四小时。",
+                    "pinyin": "Yìtiān èrshísì xiǎoshí.",
+                    "vietnamese": "Một ngày có hai mươi bốn giờ."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "点",
+        "pinyin": "diǎn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Giờ",
+                "example": {
+                    "chinese": "零点十分。",
+                    "pinyin": "Língdiǎn shífēn.",
+                    "vietnamese": "Không giờ mười phút."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "分钟",
+        "pinyin": "fēnzhōng",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Phút",
+                "example": {
+                    "chinese": "停车十分钟。",
+                    "pinyin": "Tíngchē shífēnzhōng.",
+                    "vietnamese": "Xe ngừng chạy trong mười phút."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "分",
+        "pinyin": "fēn",
+        "meaning": [
+            {
+                "type": "số từ",
+                "vietnamese": "Phút",
+                "example": {
+                    "chinese": "现在8点10分。",
+                    "pinyin": "Xiànzài 8 diǎn 10 fēn.",
+                    "vietnamese": "Bây giờ là 8 giờ 10 phút."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "秒",
+        "pinyin": "miǎo",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Giây",
+                "example": {
+                    "chinese": "分秒必争。",
+                    "pinyin": "Fēnmiǎobìzhēng.",
+                    "vietnamese": "Giành giật từng phút từng giây."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "每",
+        "pinyin": "měi",
+        "meaning": [
+            {
+                "type": "đại từ",
+                "vietnamese": "Mỗi, từng",
+                "example": {
+                    "chinese": "每天，每月",
+                    "pinyin": "Měitiān, měiyuè",
+                    "vietnamese": "Mỗi ngày, mỗi tháng"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "时候",
+        "pinyin": "shíhou",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Lúc, khi",
+                "example": {
+                    "chinese": "我回家的时候妈妈在做饭。",
+                    "pinyin": "Wǒ huí jiā de shíhou māma zài zuò fàn.",
+                    "vietnamese": "Lúc tôi về đến nhà mẹ đang nấu cơm."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "刻",
+        "pinyin": "kè",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "15 phút"
+            }
+        ]
+    },
+    {
+        "chinese": "半",
+        "pinyin": "bàn",
+        "meaning": [
+            {
+                "type": "số từ",
+                "vietnamese": "Một nửa, rưỡi",
+                "example": {
+                    "chinese": "半信半疑。",
+                    "pinyin": "Bànxìnbànyí.",
+                    "vietnamese": "Nửa tin nửa ngờ."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "时间",
+        "pinyin": "shíjiān",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Thời gian",
+                "example": {
+                    "chinese": "腾出时间温功课。",
+                    "pinyin": "Téngchū shíjiān wēn gōngkè.",
+                    "vietnamese": "Dành thời gian ôn tập."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "才",
+        "pinyin": "cái",
+        "meaning": [
+            {
+                "type": "phó từ",
+                "vietnamese": "Mới, mới chịu",
+                "example": {
+                    "chinese": "连哄带劝他才坦白。",
+                    "pinyin": "Lián hōng dài quàn tā cái tǎnbái.",
+                    "vietnamese": "Mãi sau khi thuyết phục, anh ta mới chịu thú nhận."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "就",
+        "pinyin": "jiù",
+        "meaning": [
+            {
+                "type": "phó từ",
+                "vietnamese": "Đã",
+                "example": {
+                    "chinese": "事已就绪。",
+                    "pinyin": "Shì yǐ jiùxù.",
+                    "vietnamese": "Việc đã xong xuôi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "节日",
+        "pinyin": "jiérì",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Ngày lễ",
+                "example": {
+                    "chinese": "全城沉浸在节日的气氛中。",
+                    "pinyin": "Quán chéng chénjìn zài jiérì de qìfēn zhōng.",
+                    "vietnamese": "Cả thành phố chìm trong không khí ngày lễ."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "生日",
+        "pinyin": "shēngrì",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Ngày sinh, sinh nhật",
+                "example": {
+                    "chinese": "赠送生日礼物。",
+                    "pinyin": "Zèngsòng shēngrìlǐwù.",
+                    "vietnamese": "Tặng quà sinh nhật."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "刚才",
+        "pinyin": "gāngcái",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Vừa, vừa mới",
+                "example": {
+                    "chinese": "你刚才说什么来着？",
+                    "pinyin": "Nǐ gāngcái shuō shénme láizhe?",
+                    "vietnamese": "Bạn vừa mới nói cái gì ấy nhỉ?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "终于",
+        "pinyin": "zhōngyú",
+        "meaning": [
+            {
+                "type": "phó từ",
+                "vietnamese": "Cuối cùng",
+                "example": {
+                    "chinese": "试验终于成功了。",
+                    "pinyin": "Shìyàn zhōngyú chénggōng le.",
+                    "vietnamese": "Thí nghiệm cuối cùng đã thành công."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "开始",
+        "pinyin": "kāishǐ",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Bắt đầu, khởi đầu",
+                "example": {
+                    "chinese": "新的一年开始了。",
+                    "pinyin": "Xīn de yīnián kāishǐ le.",
+                    "vietnamese": "Bắt đầu một năm mới rồi."
+                }
+            }
+        ]
+    }
+]

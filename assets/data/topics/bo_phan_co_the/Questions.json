@@ -1,0 +1,76 @@
+{
+    "listening": [
+        ["脸", "头", "手", "脚", "腿"],
+        ["嘴巴", "鼻子", "眼睛", "脖子", "头发", "耳朵", "肩膀", "手指", "膝盖", "手臂"]
+    ],
+    "reading": [
+        [
+            {
+                "chinese": "脸",
+                "vietnamese": "Mặt"
+            },
+            {
+                "chinese": "嘴巴",
+                "vietnamese": "Miệng"
+            },
+            {
+                "chinese": "鼻子",
+                "vietnamese": "Mũi"
+            },
+            {
+                "chinese": "眼睛",
+                "vietnamese": "Mắt"
+            },
+            {
+                "chinese": "脖子",
+                "vietnamese": "Cổ"
+            },
+            {
+                "chinese": "头发",
+                "vietnamese": "Tóc"
+            },
+            {
+                "chinese": "耳朵",
+                "vietnamese": "Tai"
+            },
+            {
+                "chinese": "头",
+                "vietnamese": "Đầu"
+            },
+            {
+                "chinese": "肩膀",
+                "vietnamese": "Vai"
+            },
+            {
+                "chinese": "手",
+                "vietnamese": "Tay"
+            },
+            {
+                "chinese": "手指",
+                "vietnamese": "Ngón tay"
+            },
+            {
+                "chinese": "脚",
+                "vietnamese": "Bàn chân"
+            },
+            {
+                "chinese": "腿",
+                "vietnamese": "Chân"
+            },
+            {
+                "chinese": "膝盖",
+                "vietnamese": "Đầu gối"
+            },
+            {
+                "chinese": "手臂",
+                "vietnamese": "Cánh tay"
+            }
+        ]
+    ],
+    "speaking": [
+        ["脸", "嘴巴", "鼻子", "眼睛", "脖子", "头发", "耳朵", "头", "肩膀", "手", "手指", "脚", "腿", "膝盖", "手臂"]
+    ],
+    "writing": [
+        ["脸上有什么？", "脸上有眼睛。", "头上有什么？", "头上有头发。", "你的眼睛真好看。", "又大又圆。", "我的眼睛像妈妈。", "我妈妈的眼睛特别好看。", "你高高的鼻子也是像妈妈吧？", "我的鼻子像爸爸。", "你爸爸妈妈肯定都很好看。"]
+    ]
+}

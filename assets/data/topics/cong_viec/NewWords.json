@@ -1,0 +1,462 @@
+[
+    {
+        "chinese": "办公室",
+        "pinyin": "bàngōngshì",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Văn phòng",
+                "image": "office.png",
+                "example": {
+                    "chinese": "他不在办公室。",
+                    "pinyin": "Tā bù zài bàngōngshì.",
+                    "vietnamese": "Anh ấy không có trong văn phòng."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "公司",
+        "pinyin": "ɡōnɡsī",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Công ty",
+                "image": "company.png",
+                "example": {
+                    "chinese": "本公司有定期的人事异动。",
+                    "pinyin": "Běn ɡōnɡsī yǒu dìngqí de rénshì yìdòng.",
+                    "vietnamese": "Công ty có sự thay đổi nhân sự thường xuyên."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "经理",
+        "pinyin": "jīnɡlǐ",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Quản lý",
+                "image": "management.png",
+                "example": {
+                    "chinese": "她要求要见见经理。",
+                    "pinyin": "Tā yāoqiú yào jiàn jiàn jīnɡlǐ.",
+                    "vietnamese": "Cô ấy yêu cầu được gặp quản lý."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "下班",
+        "pinyin": "xiàbān",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Tan ca",
+                "image": "get-off-work.png",
+                "example": {
+                    "chinese": "每天下午六点下班。",
+                    "pinyin": "Měitiān xiàwǔ lìudiǎn xiàbān.",
+                    "vietnamese": "Hàng ngày sáu giờ chiều tan ca."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "同事",
+        "pinyin": "tóngshì",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Đồng nghiệp",
+                "image": "colleagues.png",
+                "example": {
+                    "chinese": "老同事。",
+                    "pinyin": "Lǎotóngshì.",
+                    "vietnamese": "Đồng nghiệp cũ."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "加班",
+        "pinyin": "jiābān",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Tăng ca",
+                "image": "overtime.png",
+                "example": {
+                    "chinese": "爸爸今晚加班。",
+                    "pinyin": "Bàba jīn wǎn jiābān.",
+                    "vietnamese": "Bố sẽ tăng ca tối nay."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "迟到",
+        "pinyin": "chídào",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Đến muộn, đến trễ",
+                "image": "late.png",
+                "example": {
+                    "chinese": "上班不得随意迟到早退。",
+                    "pinyin": "Shàngbān bùdé súiyì chídàozǎotùi.",
+                    "vietnamese": "Đi làm không được tự tiện đến trễ về sớm."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "发",
+        "pinyin": "fā",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Gửi, phát",
+                "image": "send.png",
+                "example": {
+                    "chinese": "发行。",
+                    "pinyin": "Fāxíng.",
+                    "vietnamese": "Phát hành."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "电子邮件",
+        "pinyin": "Diànzǐ yóujiàn",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Thư điện tử",
+                "image": "gmail.png",
+                "example": {
+                    "chinese": "我已经收到你的电子邮件。",
+                    "pinyin": "Wǒ yǐjīng shōu dào nǐ de diànzǐ yóujiàn.",
+                    "vietnamese": "Tôi đã nhận được thư điện tử của bạn."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "工资",
+        "pinyin": "gōngzī",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Lương",
+                "image": "salary.png",
+                "example": {
+                    "chinese": "他每月除工资外，还有些活钱儿。",
+                    "pinyin": "Tā měi yuè chú gōngzī wài, hái yǒuxiē huó qián er.",
+                    "vietnamese": "Ngoài tiền lương hàng tháng, anh ấy còn ít thu nhập thêm."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "忙",
+        "pinyin": "mánɡ",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Bận rộn, bận bịu",
+                "image": "busy.png",
+                "example": {
+                    "chinese": "我最近很忙。",
+                    "pinyin": "Wǒ zuìjìn hěn mánɡ.",
+                    "vietnamese": "Gần đây tôi rất bận rộn."
+                }
+            },
+            {
+                "type": "động từ",
+                "vietnamese": "Bận",
+                "image": "busy.png",
+                "example": {
+                    "chinese": "你在忙什么？",
+                    "pinyin": "Nǐ zài mánɡ shénme?",
+                    "vietnamese": "Bạn đang bận làm gì đó?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "工作",
+        "pinyin": "ɡōnɡzuò",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Làm việc",
+                "image": "work.png",
+                "example": {
+                    "chinese": "妈妈在工作，你自己玩吧。",
+                    "pinyin": "Māmā zài ɡōnɡzuò, nǐ zìjǐ wán ba.",
+                    "vietnamese": "Mẹ đang làm việc, con tự chơi một mình đi."
+                }
+            },
+            {
+                "type": "danh từ",
+                "vietnamese": "Công việc",
+                "image": "work.png",
+                "example": {
+                    "chinese": "我很喜欢现在的工作。",
+                    "pinyin": "Wǒ hěn xǐhuān xiànzài de ɡōnɡzuò.",
+                    "vietnamese": "Tôi rất thích công việc hiện tại của mình."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "做",  
+        "pinyin": "zuò",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Làm, làm việc",
+                "example": {
+                    "chinese": "女儿在做作业。",
+                    "pinyin": "Nǚ'ér zài zuò zuòyè.",
+                    "vietnamese": "Con gái đang làm bài tập."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "手表",
+        "pinyin": "shǒubiǎo",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Đồng hồ đeo tay",
+                "image": "watch.png"
+            }
+        ]
+    },
+    {
+        "chinese": "手机",
+        "pinyin": "shǒujī ",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Điện thoại",
+                "image": "smartphone.png"
+            }
+        ]
+    },
+    {
+        "chinese": "办法",
+        "pinyin": "bànfǎ",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Biện pháp, cách làm",
+                "example": {
+                    "chinese": "你看这个办法好不好？",
+                    "pinyin": "Nǐ kàn zhège bànfǎ hǎobù hǎo?",
+                    "vietnamese": "Bạn thấy biện pháp này được không?"
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "会议",
+        "pinyin": "huìyì",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Cuộc họp",
+                "image": "meeting.png",
+                "example": {
+                    "chinese": "会议到此结束。",
+                    "pinyin": "Huìyì dàocǐjiéshù.",
+                    "vietnamese": "Cuộc họp đến đây là kết thúc."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "出现",
+        "pinyin": "chūxiàn",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Xuất hiện",
+                "example": {
+                    "chinese": "沙漠上出现的海市蜃楼。",
+                    "pinyin": "Shāmò shàng chūxiàn dì hǎishìshènlóu.",
+                    "vietnamese": "Ảo ảnh xuất hiện trên sa mạc."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "发现",
+        "pinyin": "fāxiàn",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Phát hiện, tìm ra",
+                "image": "discovery.png",
+                "example": {
+                    "chinese": "发现目标。",
+                    "pinyin": "Fāxiàn mùbiāo.",
+                    "vietnamese": "Phát hiện ra mục tiêu."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "解决",
+        "pinyin": "jiějué",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Giải quyết, dàn xếp",
+                "example": {
+                    "chinese": "此事已设法解决。",
+                    "pinyin": "Cǐshì yǐ shèfǎ jiějué.",
+                    "vietnamese": "Việc này đã tìm cách giải quyết."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "机会",
+        "pinyin": "jīhuì",
+        "meaning": [
+            {
+                "type": "danh từ",
+                "vietnamese": "Cơ hội",
+                "example": {
+                    "chinese": "对我来说，这是一个可遇而不可求的机会。",
+                    "pinyin": "Duì wǒ lái shuō, zhè shì yīgè kě yù ér bùkě qiú de jīhuì.",
+                    "vietnamese": "Đối với tôi đó là một cơ hội hiếm có."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "选择",
+        "pinyin": "xuǎnzé",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Chọn, chọn lựa",
+                "image": "choice.png",
+                "example": {
+                    "chinese": "我选择这个工作。",
+                    "pinyin": "Wǒ xuǎnzé zhège gōngzuò.",
+                    "vietnamese": "Tôi chọn công việc này."
+                }
+            },
+            {
+                "type": "danh từ",
+                "vietnamese": "Sự lựa chọn",
+                "image": "choice.png",
+                "example": {
+                    "chinese": "我对自己的选择很满意。",
+                    "pinyin": "Wǒ duì zìjǐ de xuǎnzé hěn mǎnyì.",
+                    "vietnamese": "Tôi rất hài lòng với sự lựa chọn của mình."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "方便",
+        "pinyin": "fāngbiàn",
+        "meaning": [
+            {
+                "type": "tính từ",
+                "vietnamese": "Tiện lợi",
+                "example": {
+                    "chinese": "这儿说话不方便。",
+                    "pinyin": "Zhèr shuōhuà bù fāngbiàn.",
+                    "vietnamese": "Ở đây nói chuyện không tiện."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "放",
+        "pinyin": "fàng",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Đặt, để",
+                "image": "put.png",
+                "example": {
+                    "chinese": "把书放在那里。",
+                    "pinyin": "Bǎ shū fàng zài nàlǐ.",
+                    "vietnamese": "Hãy đặt cuốn sách ở đó."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "关于",
+        "pinyin": "guānyú",
+        "meaning": [
+            {
+                "type": "giới từ",
+                "vietnamese": "Về",
+                "example": {
+                    "chinese": "关于今天会议的内容我都明白了。",
+                    "pinyin": "Guānyú jīntiān huìyì de nèiróng wǒ dōu míngbáile.",
+                    "vietnamese": "Tôi hiểu rõ về nội dung cuộc họp hôm nay rồi."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "关",
+        "pinyin": "guān",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Tắt, đóng",
+                "image": "turn-off.png",
+                "example": {
+                    "chinese": "别忘记关窗户。",
+                    "pinyin": "Bié wàngjì guān chuānghù.",
+                    "vietnamese": "Đừng quên đóng cửa sổ."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "认为",
+        "pinyin": "rènwéi",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Cho rằng, cho là",
+                "example": {
+                    "chinese": "个人认为这个办法是非常合理的。",
+                    "pinyin": "Gèrén rènwéi zhègè bànfǎ shì fēicháng hélǐ de.",
+                    "vietnamese": "Cá nhân tôi cho rằng biện pháp này vô cùng hợp lý."
+                }
+            }
+        ]
+    },
+    {
+        "chinese": "要求",
+        "pinyin": "yāoqiú",
+        "meaning": [
+            {
+                "type": "động từ",
+                "vietnamese": "Yêu cầu, đòi hỏi",
+                "image": "request.png",
+                "example": {
+                    "chinese": "要求赔偿全部损失。",
+                    "pinyin": "Yāoqiú péicháng quánbù sǔnshī.",
+                    "vietnamese": "Yêu cầu bồi thường tất cả mọi tổn thất."
+                }
+            }
+        ]
+    }
+]

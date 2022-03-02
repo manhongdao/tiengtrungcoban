@@ -1,0 +1,214 @@
+[
+    {
+        "title": "一点……都/也……",
+        "content": [
+            {
+                "keyWords": ["一", "点", "都", "也"],
+                "description": "“一 + lượng từ + danh từ + 都/也 + 不/没 + …”",
+                "sub_descriptions": [
+                    "Được dùng để diễn tả sự phủ định hoàn toàn."
+                ],
+                "examples": [
+                    {
+                        "chinese": "这个月，我一件衣服都没买。",
+                        "pinyin": "Zhège yuè, wǒ yī jiàn yīfú dōu méi mǎi.",
+                        "vietnamese": "Tháng này, tôi chưa mua một cái áo nào."
+                    },
+                    {
+                        "chinese": "我一个苹果都没吃。",
+                        "pinyin": "Wǒ yīgè píngguǒ dōu méi chī.",
+                        "vietnamese": "Tôi chưa ăn một quả táo nào."
+                    },
+                    {
+                        "chinese": "教室里一个人都没有。",
+                        "pinyin": "Jiàoshì lǐ yīgè rén dōu méiyǒu.",
+                        "vietnamese": "Trong lớp không có một người nào."
+                    },
+                    {
+                        "chinese": "一粒米饭也吃不下。",
+                        "pinyin": "Yī lì mǐfàn yě chī bùxià.",
+                        "vietnamese": "Một hạt cơm cũng không nuốt nổi."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["一", "点", "都", "也"],
+                "description": "一 + lượng từ",
+                "sub_descriptions": [
+                    "Có thể thay bằng “一点儿”"
+                ],
+                "examples": [
+                    {
+                        "chinese": "这个星期我很忙，一点儿时间都没有。",
+                        "pinyin": "Zhège xīngqí wǒ hěn máng, yīdiǎnr shíjiān dōu méiyǒu.",
+                        "vietnamese": "Tuần này tôi bận lắm, một chút thời gian (rảnh) cũng không có."
+                    },
+                    {
+                        "chinese": "一点儿钱我也没有，所以买不了衣服。",
+                        "pinyin": "Yīdiǎnr qián wǒ yě méiyǒu, suǒyǐ mǎi bùliǎo yīfu.",
+                        "vietnamese": "Một chút tiền tôi cũng không có, nên không thể mua quần áo được."
+                    },
+                    {
+                        "chinese": "她一点儿东西也不吃。",
+                        "pinyin": "Tā yīdiǎnr dōngxi yě bù chī.",
+                        "vietnamese": "Cô ấy chả ăn gì cả."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "哪……都……",
+        "content": [
+            {
+                "keyWords": ["哪", "都"],
+                "sub_descriptions": [
+                    "Các đại từ nghi vấn như {{谁}}，{{什么}}，{{怎么}}，{{哪儿}}，{{哪}}（{{个}}）có thể được dùng để thay thế mọi đối tượng  trong phạm vi nào đó, cho biết tất cả các đối tượng này đều có đặc điểm giống nhau, không có trường hợp ngoại lệ."
+                ],
+                "examples": [
+                    {
+                        "chinese": "谁都喜欢玛丽。",
+                        "pinyin": "Shéi dōu xǐhuān mǎlì.",
+                        "vietnamese": "Ai cũng thích Mary."
+                    },
+                    {
+                        "chinese": "她什么都喜欢吃。",
+                        "pinyin": "Tā shénme dōu xǐhuān chī.",
+                        "vietnamese": "Cái gì cô ấy cũng thích ăn."
+                    },
+                    {
+                        "chinese": "我怎么去都可以。",
+                        "pinyin": "Wǒ zěnme qù dōu kěyǐ.",
+                        "vietnamese": "Tôi đi thế nào cũng được."
+                    },
+                    {
+                        "chinese": "我哪儿都不想去。",
+                        "pinyin": "Wǒ nǎ'er dōu bùxiǎng qù.",
+                        "vietnamese": "Tôi chả muốn đi đâu cả."
+                    },
+                    {
+                        "chinese": "哪个都行。",
+                        "pinyin": "Nǎ ge dōu xíng.",
+                        "vietnamese": "Cái nào cũng được."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Câu hỏi chính phản",
+        "content": [
+            {
+                "keyWords": ["不", "好", "是", "去", "忙"],
+                "sub_descriptions": [
+                    "Kết hợp dạng khẳng định và phủ định của thành phần vị ngữ trung tâm, ta được câu hỏi chính phản.",
+                    "“A{{不}}A” có nghĩa tương đương với “A{{吗}}?”"
+                ],
+                "examples": [
+                    {
+                        "chinese": "好不好？",
+                        "pinyin": "Hǎobù hǎo?",
+                        "vietnamese": "Được không? (có thể hiểu là “nhé”)"
+                    },
+                    {
+                        "chinese": "你是不是越南人？/你是越南人不是？",
+                        "pinyin": "Nǐ shì bùshì Yuènán rén? /Nǐ shì Yuènán rén bùshì?",
+                        "vietnamese": "Bạn là người Việt Nam phải không?"
+                    },
+                    {
+                        "chinese": "你去不去？/你去不去学校？/你去学校不去？",
+                        "pinyin": "Nǐ qù bù qù? /Nǐ qù bù qù xuéxiào? /Nǐ qù xuéxiào bù qù?",
+                        "vietnamese": "Anh có đi không?/ Anh có đến trường không?"
+                    },
+                    {
+                        "chinese": "你忙不忙？",
+                        "pinyin": "Nǐ máng bù máng?",
+                        "vietnamese": "Cậu có bận không?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "越……越……",
+        "content": [
+            {
+                "keyWords": ["越"],
+                "sub_descriptions": [
+                    "Cấu trúc {{越}}A{{越}}B diễn tả ý B thay đổi theo sự biến đổi của A."
+                ],
+                "examples": [
+                    {
+                        "chinese": "雨越下越大。",
+                        "pinyin": "Yǔ yuè xiàyuè dà.",
+                        "vietnamese": "Càng mưa càng mưa to."
+                    },
+                    {
+                        "chinese": "越往上越冷。",
+                        "pinyin": "Yuè wǎng shàng yuè lěng.",
+                        "vietnamese": "Càng lên cao càng lạnh."
+                    },
+                    {
+                        "chinese": "越看她我越讨厌她。",
+                        "pinyin": "Yuè kàn tā wǒ yuè tǎoyàn tā.",
+                        "vietnamese": "Càng nhìn cô ta tôi càng thấy ghét cô ta."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Liên từ 而",
+        "content": [
+            {
+                "keyWords": ["而"],
+                "sub_descriptions": [
+                    "{{而}} được dùng để nối hai tính từ, thể hiện hai trạng thái, tính chất cùng tồn tại ở một chủ thể."
+                ],
+                "examples": [
+                    {
+                        "chinese": "她是一个美丽而聪明的女孩。",
+                        "pinyin": "Tā shì yīgè měilì ér cōngmíng de nǚhái.",
+                        "vietnamese": "Cô ấy là một cô gái thông minh xinh đẹp."
+                    },
+                    {
+                        "chinese": "我不能接受这种幼稚而愚蠢的行为。",
+                        "pinyin": "Wǒ bùnéng jiēshòu zhè zhǒng yòuzhì ér yúchǔn de xíngwéi. ",
+                        "vietnamese": "Tôi không thể chấp nhận được hành vi trẻ con, ngu ngốc này."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["而"],
+                "sub_descriptions": [
+                    "{{而}} còn được dùng trong câu phức để nối hai vế câu, có thể biểu thị quan hệ đồng đẳng, tương đương, song song nhau (“còn, và”)"
+                ],
+                "examples": [
+                    {
+                        "chinese": "红玫瑰代表爱情而黄玫瑰代表友情。",
+                        "pinyin": "Hóng méiguī dàibiǎo àiqíng ér huáng méiguī dàibiǎo yǒuqíng.",
+                        "vietnamese": "Hoa hồng đỏ đại diện cho tình yêu còn hoa hông vàng đại diện cho tình bạn."
+                    },
+                    {
+                        "chinese": "“明” 字，左边的 “日” 意思是太阳，而右边的 “月” 意思是月亮。",
+                        "pinyin": "“Míng” zì, zuǒbiān de “rì” yìsi shì tàiyáng, ér yòubiān de “yuè” yìsi shì yuèliàng.",
+                        "vietnamese": "Trong chữ “minh”, bộ “nhật” ở bên trái nghĩa là mặt trời còn bộ “nguyệt” ở bên phải nghĩ là mặt trăng."
+                    }
+                ]
+            },
+            {
+                "keyWords": ["而"],
+                "sub_descriptions": [
+                    "Hoặc được dùng để biểu thị quan hệ chuyển ý (“nhưng, mặt khác”)"
+                ],
+                "examples": [
+                    {
+                        "chinese": "有些人觉得朋友就是能和自己一起快乐的人，而我的理解是：当你遇到困难的时候，真正的朋友会站出来，及时给你帮助。",
+                        "pinyin": "Yǒuxiē rén juéde péngyǒu jiùshì néng hé zìjǐ yīqǐ kuàilè de rén, ér wǒ de lǐjiě shì: Dāng nǐ yù dào kùnnán de shíhòu, zhēnzhèng de péngyǒu huì zhàn chūlái, jíshí gěi nǐ bāngzhù.",
+                        "vietnamese": "Có nhiều người cho rằng bạn bè là những người có thể chia sẻ niềm vui với mình, nhưng theo tôi hiểu thì khi bạn gặp khó khăn, những người bạn thật sự sẽ đứng ra, kịp thời giúp đỡ bạn."
+                    }
+                ]
+            }
+        ]
+    }
+]
