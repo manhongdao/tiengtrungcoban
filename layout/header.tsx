@@ -110,7 +110,7 @@ export default function Header() {
   );
   return (
     <>
-      <nav className="sticky top-0 z-1 w-full backdrop-blur flex-none transition-colors duration-500 bg-white supports-backdrop-blur:bg-white/60 box-shadow_primary py-4">
+      <nav className="sticky top-0 z-40 w-full backdrop-blur flex-none transition-colors duration-500 bg-white supports-backdrop-blur:bg-white/60 box-shadow_primary py-4">
         <div className="flex justify-between max-w-8xl mx-auto">
           <div className="flex items-center">
             <img
