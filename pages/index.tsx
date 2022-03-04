@@ -1,7 +1,7 @@
 import type { NextPage } from "next";
 import {
   PencilAltIcon,
-  FolderIcon,
+  BookmarkIcon,
   MicrophoneIcon,
 } from "@heroicons/react/solid";
 
@@ -96,7 +96,7 @@ const Home: NextPage = () => {
             </button>
           </div>
           <div>
-            <FolderIcon className="h-6 w-6 text-sky-500" />
+            <BookmarkIcon className="h-6 w-6 text-sky-500" />
           </div>
         </div>
       </div>
