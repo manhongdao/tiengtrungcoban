@@ -1,31 +1,28 @@
 import type { NextPage } from "next";
-import {
-  PencilAltIcon,
-  BookmarkIcon,
-  MicrophoneIcon,
-} from "@heroicons/react/solid";
+import { Carousel } from "../components/common/Carousel";
 
 const Home: NextPage = () => {
   return (
     <>
+      <Carousel />
       {/* <div className="max-w-8xl mx-auto mt-12 text-xl font-semibold">Trang chủ</div> */}
-      <div className="bg-primary mt-6">
-        <div className="max-w-8xl mx-auto menu-section flex items-center bg-white relative box-shadow_primary rounded-xl">
-          <div className="w-4/12">
-            <img alt="logo" className="w-3/12 mx-auto" src="/logo.png" />
-          </div>
-          <div className="w-1/12"></div>
+      <div className="bg-primary mt-20">
+        <div className="max-w-[90%] mx-auto menu-section flex items-center bg-white relative box-shadow_primary rounded-xl pl-6">
           <div className="w-7/12">
             <div className="text-4xl font-bold text-sky-500">
               Tiếng Trung cơ bản
             </div>
-            <div className="text-lg text-gray-500 pt-6">
+            <div className="text-lg text-gray-500 pt-6 mb-6">
               Học phát âm, viết, từ mới và ngữ pháp, ... tiếng Trung trên
               website
             </div>
             <button className="bg-sky-500 hover:bg-sky-400 text-white h-12 py-2 px-16 rounded-full">
-              Đăng nhập
+              Bắt đầu học
             </button>
+          </div>
+          <div className="w-5/12">
+            {/* <img alt="logo" className="w-3/12 mx-auto" src="/logo.png" /> */}
+            {/* <Carousel /> */}
           </div>
         </div>
       </div>
@@ -52,7 +49,7 @@ const Home: NextPage = () => {
         </div>
       </div>
 
-      <div className="max-w-8xl mx-auto w-full flex mt-8">
+      {/* <div className="max-w-8xl mx-auto w-full flex mt-8">
         <div className="w-4/12 flex justify-between relative box-shadow_primary bg-white py-4 px-6 rounded-xl">
           <div>
             <div className="text-sky-500 text-lg font-semibold">
@@ -99,7 +96,7 @@ const Home: NextPage = () => {
             <BookmarkIcon className="h-6 w-6 text-sky-500" />
           </div>
         </div>
-      </div>
+      </div> */}
 
       <div className="appstore-section flex justify-around mt-8 w-full bg-sky-200 px-4 py-8 flex items-center">
         <div style={{ minWidth: "335px" }}>

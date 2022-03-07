@@ -14,7 +14,7 @@ export default function Header() {
   const home = (
     <a
       href="#"
-      className="hover:text-sky-500 px-6 py-2 rounded-md hover:text-white hover:bg-sky-400"
+      className="hover:text-sky-500 px-6 py-2 flex items-center rounded-md hover:text-white hover:bg-sky-400"
     >
       Trang chủ
     </a>
@@ -99,7 +99,7 @@ export default function Header() {
   const download = (
     <a
       href="#"
-      className="hover:text-sky-500 px-6 py-2 rounded-md hover:text-white hover:bg-sky-400"
+      className="hover:text-sky-500 px-6 py-2 flex items-center rounded-md hover:text-white hover:bg-sky-400"
       onClick={() => {
         setShowDownload(true);
         console.log("show dialog");
@@ -110,23 +110,26 @@ export default function Header() {
   );
   return (
     <>
-      <nav className="fixed z-10 top-0 w-full backdrop-blur flex-none transition-colors duration-500 bg-white supports-backdrop-blur:bg-white/60 box-shadow_primary py-4">
-        <div className="flex justify-between max-w-8xl mx-auto">
-          <div className="flex items-center">
-            <img
+      <nav className="fixed z-10 top-0 w-full backdrop-blur flex transition-colors bg-white supports-backdrop-blur:bg-white/60 box-shadow_primary py-4">
+        <div className="flex w-full justify-between mx-auto">
+          <div className="cursor-pointer">
+            {/* <img
               className="cursor-pointer"
               alt="logo"
               title="Tiếng trung cơ bản"
               src="/logo-text.png"
               width="210"
-            />
+            /> */}
+            <h1 className="text-sky-500 font-bold text-center pl-10 text-2xl">
+              Tiếng Trung cơ bản
+            </h1>
           </div>
           <div className="flex text-gray-600 text-sm leading-6 font-semibold">
             {home}
             {learnPath}
             {download}
-            <DialogDownload show={showDownload} setShow={setShowDownload} />
           </div>
+          <DialogDownload show={showDownload} setShow={setShowDownload} />
           <div className="flex items-center text-gray-700 text-md leading-6 font-semibold">
             Đăng nhập
           </div>
