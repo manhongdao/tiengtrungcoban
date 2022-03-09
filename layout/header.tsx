@@ -111,19 +111,18 @@ export default function Header() {
   return (
     <>
       <nav className="fixed z-10 top-0 w-full backdrop-blur flex transition-colors bg-white supports-backdrop-blur:bg-white/60 box-shadow_primary py-4">
-        <div className="flex w-full justify-between mx-auto">
+        {/* <div className="cursor-pointer">
+          <h1 className="text-sky-500 font-bold text-center text-2xl pl-2">
+            Tiếng Trung cơ bản
+          </h1>
+        </div> */}
+        <div className="flex w-full justify-between mx-auto max-w-screen-xl">
           <div className="cursor-pointer">
-            {/* <img
-              className="cursor-pointer"
-              alt="logo"
-              title="Tiếng trung cơ bản"
-              src="/logo-text.png"
-              width="210"
-            /> */}
-            <h1 className="text-sky-500 font-bold text-center pl-10 text-2xl">
+            <h1 className="text-sky-500 font-bold text-center text-2xl pl-2">
               Tiếng Trung cơ bản
             </h1>
           </div>
+          {/* <div className="flex-1"></div> */}
           <div className="flex text-gray-600 text-sm leading-6 font-semibold">
             {home}
             {learnPath}
