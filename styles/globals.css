@@ -4,7 +4,7 @@ body {
     margin: 0;
     font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
         Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-    background-color: #f8f9fa;
+    background-color: #ECFCFF;
 }
 
 a {
@@ -20,7 +20,7 @@ a {
 @tailwind utilities;
 
 .bg-primary {
-    background-color: #f8f9fa;
+    background-color: #ECFCFF;
 }
 
 .max-w-8xl {
