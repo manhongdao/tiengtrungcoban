@@ -1,13 +1,65 @@
 import type { NextPage } from "next";
-import { Carousel } from "../components/common/Carousel";
+import {
+  ChevronLeftIcon,
+  ChevronRightIcon,
+  MicrophoneIcon,
+  PencilAltIcon,
+  BookmarkIcon,
+  ArrowLeftIcon,
+  ArrowRightIcon,
+} from "@heroicons/react/solid";
+import { Carousel } from "react-responsive-carousel";
+import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 
 const Home: NextPage = () => {
+  const arrowPrev = (
+    clickHandler: () => void,
+    hasPrev: boolean,
+    label: string
+  ) => {
+    return hasPrev ? (
+      <button
+        className="absolute z-10 top-[50%] rounded-[50%] translate-y-[-50%] left-0 bg-primary w-14 h-14 flex justify-center items-center"
+        onClick={clickHandler}
+      >
+        <ChevronLeftIcon className="w-16 h-16 text-gray-900 hover:text-gray-700" />
+      </button>
+    ) : (
+      <button
+        className="absolute z-10 top-[50%] rounded-[50%] translate-y-[-50%] left-0 bg-primary w-14 h-14 flex justify-center items-center"
+        disabled
+      >
+        <ChevronLeftIcon className="w-16 h-16 text-gray-300" />
+      </button>
+    );
+  };
+
+  const arrowNext = (
+    clickHandler: () => void,
+    hasPrev: boolean,
+    label: string
+  ) => {
+    return hasPrev ? (
+      <button
+        className="absolute z-10 top-[50%] rounded-[50%] translate-y-[-50%] right-0 bg-primary w-14 h-14 flex justify-center items-center"
+        onClick={clickHandler}
+      >
+        <ChevronRightIcon className="w-12 h-12 text-gray-900 hover:text-gray-700" />
+      </button>
+    ) : (
+      <button
+        className="absolute z-10 top-[50%] rounded-[50%] translate-y-[-50%] right-0 bg-primary w-14 h-14 flex justify-center items-center"
+        disabled
+      >
+        <ChevronRightIcon className="w-12 h-12 text-gray-300" />
+      </button>
+    );
+  };
+
   return (
     <>
-      <Carousel />
-      {/* <div className="max-w-8xl mx-auto mt-12 text-xl font-semibold">Trang chủ</div> */}
       <div className="bg-primary mt-20">
-        <div className="max-w-[90%] mx-auto menu-section flex items-center bg-white relative box-shadow_primary rounded-xl pl-6">
+        <div className="max-w-[1200px] mx-auto flex items-center bg-white relative box-shadow_primary rounded-xl pl-6 pt-4">
           <div className="w-7/12">
             <div className="text-4xl font-bold text-sky-500">
               Tiếng Trung cơ bản
@@ -20,9 +72,28 @@ const Home: NextPage = () => {
               Bắt đầu học
             </button>
           </div>
-          <div className="w-5/12">
-            {/* <img alt="logo" className="w-3/12 mx-auto" src="/logo.png" /> */}
-            {/* <Carousel /> */}
+          <div className="w-5/12 flex justify-center">
+            <Carousel
+              className="w-80"
+              autoPlay={true}
+              infiniteLoop={true}
+              renderThumbs={() => {}}
+              renderArrowPrev={arrowPrev}
+              renderArrowNext={arrowNext}
+            >
+              <div>
+                <img style={{ width: "200px" }} src="/menu-1.png" />
+              </div>
+              <div>
+                <img style={{ width: "200px" }} src="/menu-3.png" />
+              </div>
+              <div>
+                <img style={{ width: "200px" }} src="/menu-5.png" />
+              </div>
+              <div>
+                <img style={{ width: "200px" }} src="/menu-7.png" />
+              </div>
+            </Carousel>
           </div>
         </div>
       </div>
@@ -49,7 +120,7 @@ const Home: NextPage = () => {
         </div>
       </div>
 
-      {/* <div className="max-w-8xl mx-auto w-full flex mt-8">
+      <div className="max-w-8xl mx-auto w-full flex mt-8">
         <div className="w-4/12 flex justify-between relative box-shadow_primary bg-white py-4 px-6 rounded-xl">
           <div>
             <div className="text-sky-500 text-lg font-semibold">
@@ -96,9 +167,9 @@ const Home: NextPage = () => {
             <BookmarkIcon className="h-6 w-6 text-sky-500" />
           </div>
         </div>
-      </div> */}
+      </div>
 
-      <div className="appstore-section flex justify-around mt-8 w-full bg-sky-200 px-4 py-8 flex items-center">
+      {/* <div className="appstore-section flex justify-around mt-8 w-full bg-sky-200 px-4 py-8 flex items-center">
         <div style={{ minWidth: "335px" }}>
           <div className="text-center mb-4 font-semibold text-lg text-sky-700">
             Tải App tại
@@ -156,7 +227,7 @@ const Home: NextPage = () => {
             <img src="/menu-7.png" className="h-full" />
           </div>
         </div>
-      </div>
+      </div> */}
     </>
   );
 };
