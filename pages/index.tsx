@@ -10,6 +10,7 @@ import {
 } from "@heroicons/react/solid";
 import { Carousel } from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
+import { ReactChild } from "react";
 
 const Home: NextPage = () => {
   const arrowPrev = (
@@ -77,7 +78,10 @@ const Home: NextPage = () => {
               className="w-80"
               autoPlay={true}
               infiniteLoop={true}
-              renderThumbs={() => {}}
+              renderThumbs={(children: ReactChild[]) => {
+                children = [];
+                return children;
+              }}
               renderArrowPrev={arrowPrev}
               renderArrowNext={arrowNext}
             >
@@ -168,66 +172,6 @@ const Home: NextPage = () => {
           </div>
         </div>
       </div>
-
-      {/* <div className="appstore-section flex justify-around mt-8 w-full bg-sky-200 px-4 py-8 flex items-center">
-        <div style={{ minWidth: "335px" }}>
-          <div className="text-center mb-4 font-semibold text-lg text-sky-700">
-            Tải App tại
-          </div>
-          <div className="flex">
-            <div className="flex">
-              <div className="text-white bg-slate-900 flex pl-2 pr-4 py-2 rounded-md cursor-pointer">
-                <div className="flex items-center">
-                  <img
-                    width={32}
-                    height={32}
-                    src="apple.png"
-                    alt="Google Play"
-                  />
-                </div>
-
-                <div className="pl-2">
-                  <div style={{ fontSize: "0.7rem" }} className="text-gray-300">
-                    Download on the
-                  </div>
-                  <div className="text-xl font-semibold">App Store</div>
-                </div>
-              </div>
-            </div>
-            <div className="flex">
-              <div className="ml-4 text-white bg-slate-900 flex px-2 py-2 rounded-md cursor-pointer">
-                <div className="flex items-center">
-                  <img
-                    width={32}
-                    height={32}
-                    src="google-play.png"
-                    alt="Google Play"
-                  />
-                </div>
-
-                <div className="pl-2">
-                  <div
-                    style={{ fontSize: "0.65rem" }}
-                    className="text-gray-300"
-                  >
-                    GET IT ON
-                  </div>
-                  <div className="text-xl p-0 font-semibold">Google Play</div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div className="h-full pl-4">
-          <div className="h-full flex">
-            <img src="/menu-1.png" className="h-full pr-8" />
-            <img src="/menu-3.png" className="h-full pr-8" />
-            <img src="/menu-5.png" className="h-full pr-8" />
-            <img src="/menu-6.png" className="h-full pr-8" />
-            <img src="/menu-7.png" className="h-full" />
-          </div>
-        </div>
-      </div> */}
     </>
   );
 };
