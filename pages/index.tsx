@@ -5,12 +5,11 @@ import {
   MicrophoneIcon,
   PencilAltIcon,
   BookmarkIcon,
-  ArrowLeftIcon,
-  ArrowRightIcon,
 } from "@heroicons/react/solid";
 import { Carousel } from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import { ReactChild } from "react";
+import Link from "next/link";
 
 const Home: NextPage = () => {
   const arrowPrev = (
@@ -59,7 +58,7 @@ const Home: NextPage = () => {
 
   return (
     <>
-      <div className="bg-primary mt-20">
+      <div className="bg-primary">
         <div className="max-w-[1200px] mx-auto flex items-center bg-white relative box-shadow_primary rounded-xl pl-6 pt-4">
           <div className="w-7/12">
             <div className="text-4xl font-bold text-sky-500">
@@ -133,9 +132,11 @@ const Home: NextPage = () => {
             <div className="pt-3 text-gray-500 text-md">
               Thanh mẫu, vận mẫu,...
             </div>
-            <button className="bg-sky-500 hover:bg-sky-400 text-white text-sm py-2 px-8 mt-6 rounded-full">
-              Bắt đầu
-            </button>
+            <Link href="/learn/pronounce/" passHref>
+              <button className="bg-sky-500 hover:bg-sky-400 text-white text-sm py-2 px-8 mt-6 rounded-full">
+                Bắt đầu
+              </button>
+            </Link>
           </div>
           <div>
             <MicrophoneIcon className="h-6 w-6 text-sky-500" />
