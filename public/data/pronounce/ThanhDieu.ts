@@ -1,4 +1,4 @@
-[
+const THANHDIEU_DATA = 
   {
     "thanhdieu": [
       {
@@ -30,8 +30,8 @@
         "guide": "Đọc gần giống thanh huyền và thanh nặng nhưng kéo dài. Đọc từ thấp và xuống thấp nhất rồi lên cao vừa."
       }
     ]
-  },
-  {
+  ,
+  
     "rules": [
       {
         "title": "Biến đổi thanh điệu của thanh 3",
@@ -245,4 +245,6 @@
       }
     ]
   }
-]
+
+
+export default THANHDIEU_DATA;
