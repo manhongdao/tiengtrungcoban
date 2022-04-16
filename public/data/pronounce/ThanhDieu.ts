@@ -2,28 +2,28 @@ const THANHDIEU_DATA =
   {
     "thanhdieu": [
       {
-        "img": "assets/images/pronounces/thanh1.png",
+        "img": "/images/pronounces/thanh1.png",
         "title": "Thanh 1",
         "example": "Bā",
         "chinese": "八",
         "guide": "Đọc cao và bình bình. Gần như đọc các từ không dấu trong tiếng Việt. "
       },
       {
-        "img": "assets/images/pronounces/thanh2.png",
+        "img": "/images/pronounces/thanh2.png",
         "title": "Thanh 2",
         "example": "Bá",
         "chinese": "拔",
         "guide": "Đọc giống thanh sắc trong tiếng Việt. Đọc từ cao nhất xuống thấp nhất."
       },
       {
-        "img": "assets/images/pronounces/thanh3.png",
+        "img": "/images/pronounces/thanh3.png",
         "title": "Thanh 3",
         "example": "Bǎ",
         "chinese": "把",
         "guide": "Đọc giống thanh hỏi trong tiếng Việt, đọc từ trung bình lên cao."
       },
       {
-        "img": "assets/images/pronounces/thanh4.png",
+        "img": "/images/pronounces/thanh4.png",
         "title": "Thanh 4",
         "example": "Bà",
         "chinese": "坝",
