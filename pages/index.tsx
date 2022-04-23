@@ -1,4 +1,4 @@
-import type { NextPage } from "next";
+import type {NextPage} from "next";
 import {
     ChevronLeftIcon,
     ChevronRightIcon,
@@ -6,9 +6,9 @@ import {
     PencilAltIcon,
     BookmarkIcon,
 } from "@heroicons/react/solid";
-import { Carousel } from "react-responsive-carousel";
+import {Carousel} from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
-import { ReactChild } from "react";
+import {ReactChild} from "react";
 import Link from "next/link";
 import Head from "next/head";
 
@@ -23,14 +23,14 @@ const Home: NextPage = () => {
                 className="absolute z-10 top-[50%] rounded-[50%] translate-y-[-50%] left-0 bg-primary w-14 h-14 flex justify-center items-center"
                 onClick={clickHandler}
             >
-                <ChevronLeftIcon className="w-16 h-16 text-gray-900 hover:text-gray-700" />
+                <ChevronLeftIcon className="w-16 h-16 text-gray-900 hover:text-gray-700"/>
             </button>
         ) : (
             <button
                 className="absolute z-10 top-[50%] rounded-[50%] translate-y-[-50%] left-0 bg-primary w-14 h-14 flex justify-center items-center"
                 disabled
             >
-                <ChevronLeftIcon className="w-16 h-16 text-gray-300" />
+                <ChevronLeftIcon className="w-16 h-16 text-gray-300"/>
             </button>
         );
     };
@@ -45,14 +45,14 @@ const Home: NextPage = () => {
                 className="absolute z-10 top-[50%] rounded-[50%] translate-y-[-50%] right-0 bg-primary w-14 h-14 flex justify-center items-center"
                 onClick={clickHandler}
             >
-                <ChevronRightIcon className="w-12 h-12 text-gray-900 hover:text-gray-700" />
+                <ChevronRightIcon className="w-12 h-12 text-gray-900 hover:text-gray-700"/>
             </button>
         ) : (
             <button
                 className="absolute z-10 top-[50%] rounded-[50%] translate-y-[-50%] right-0 bg-primary w-14 h-14 flex justify-center items-center"
                 disabled
             >
-                <ChevronRightIcon className="w-12 h-12 text-gray-300" />
+                <ChevronRightIcon className="w-12 h-12 text-gray-300"/>
             </button>
         );
     };
@@ -61,9 +61,13 @@ const Home: NextPage = () => {
         <>
             <Head>
                 <title>Tiếng Trung cơ bản</title>
+                <script async
+                        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6692210639109982"
+                        crossOrigin="anonymous"></script>
             </Head>
             <div className="bg-primary">
-                <div className="max-w-[1200px] mx-auto flex items-center bg-white relative box-shadow_primary rounded-xl pl-6 pt-4 flex-col md:flex-row">
+                <div
+                    className="max-w-[1200px] mx-auto flex items-center bg-white relative box-shadow_primary rounded-xl pl-6 pt-4 flex-col md:flex-row">
                     <div className="md:w-7/12 mb-6 md:mb-0">
                         <div className="text-4xl font-bold text-sky-500 hidden md:block">
                             Tiếng Trung cơ bản
@@ -73,9 +77,10 @@ const Home: NextPage = () => {
                             Trung trên website
                         </div>
                         <Link href='/learn/pronounce/' passHref>
-                        <button className="flex md:block mx-auto md:m-0 bg-sky-500 hover:bg-sky-400 text-white h-12 py-2 px-16 rounded-full">
-                            Bắt đầu học
-                        </button>
+                            <button
+                                className="flex md:block mx-auto md:m-0 bg-sky-500 hover:bg-sky-400 text-white h-12 py-2 px-16 rounded-full">
+                                Bắt đầu học
+                            </button>
                         </Link>
                     </div>
                     <div className="md:w-5/12 order-first md:order-1 flex justify-center">
@@ -92,25 +97,25 @@ const Home: NextPage = () => {
                         >
                             <div>
                                 <img
-                                    style={{ width: "200px" }}
+                                    style={{width: "200px"}}
                                     src="/menu-1.png"
                                 />
                             </div>
                             <div>
                                 <img
-                                    style={{ width: "200px" }}
+                                    style={{width: "200px"}}
                                     src="/menu-3.png"
                                 />
                             </div>
                             <div>
                                 <img
-                                    style={{ width: "200px" }}
+                                    style={{width: "200px"}}
                                     src="/menu-5.png"
                                 />
                             </div>
                             <div>
                                 <img
-                                    style={{ width: "200px" }}
+                                    style={{width: "200px"}}
                                     src="/menu-7.png"
                                 />
                             </div>
@@ -159,13 +164,14 @@ const Home: NextPage = () => {
                             Thanh mẫu, vận mẫu,...
                         </div>
                         <Link href="/learn/pronounce/" passHref>
-                            <button className="bg-sky-500 hover:bg-sky-400 text-white text-sm py-2 px-8 mt-6 rounded-full">
+                            <button
+                                className="bg-sky-500 hover:bg-sky-400 text-white text-sm py-2 px-8 mt-6 rounded-full">
                                 Bắt đầu
                             </button>
                         </Link>
                     </div>
                     <div>
-                        <MicrophoneIcon className="h-6 w-6 text-sky-500" />
+                        <MicrophoneIcon className="h-6 w-6 text-sky-500"/>
                     </div>
                 </div>
 
@@ -182,7 +188,7 @@ const Home: NextPage = () => {
                         </button>
                     </div>
                     <div>
-                        <PencilAltIcon className="h-6 w-6 text-sky-500" />
+                        <PencilAltIcon className="h-6 w-6 text-sky-500"/>
                     </div>
                 </div>
 
@@ -199,7 +205,7 @@ const Home: NextPage = () => {
                         </button>
                     </div>
                     <div>
-                        <BookmarkIcon className="h-6 w-6 text-sky-500" />
+                        <BookmarkIcon className="h-6 w-6 text-sky-500"/>
                     </div>
                 </div>
             </div>
