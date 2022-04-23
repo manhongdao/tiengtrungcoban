@@ -10,7 +10,7 @@ export default function Layout({ children }: PropType) {
         <>
             <div className="flex flex-col">
                 <Header />
-                <main className="relative py-6">{children}</main>
+                <main className="relative py-6 min-h-[90vh]">{children}</main>
                 <Footer />
             </div>
         </>
