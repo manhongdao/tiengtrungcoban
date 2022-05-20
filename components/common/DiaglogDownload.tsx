@@ -1,6 +1,10 @@
 import { Transition, Dialog } from "@headlessui/react";
 import { Fragment } from "react";
 import { ANDROID_APP, IOS_APP } from "../../constants";
+import Image from 'next/image'
+import DownloadGoogle from "./DownloadGoogle";
+import DownloadApple from "./DownloadApple";
+
 
 export function DialogDownload({ show, setShow }: any) {
   return (
@@ -39,87 +43,29 @@ export function DialogDownload({ show, setShow }: any) {
             leaveFrom="opacity-100 scale-100"
             leaveTo="opacity-0 scale-95"
           >
-            <div className="inline-block w-full max-w-md p-6 my-8 overflow-hidden text-left align-middle transition-all transform bg-white shadow-xl rounded-2xl">
+            <div className="inline-block w-max p-6 my-8 overflow-hidden text-left align-middle transition-all transform bg-white shadow-xl rounded-2xl">
               <Dialog.Title
                 as="h3"
                 className="text-lg font-medium leading-6 text-gray-900"
               >
                 Tải ứng dụng
               </Dialog.Title>
-              <div className="mt-2 flex w-auto">
-                <div className="flex-2 p-0">
-                  <h3 className="text-gray-900 font-medium text-center">
+              <div className="mt-2 flex w-max">
+                <div className="p-6 text-center">
+                  <h3 className="text-gray-900 font-medium">
                     QR Code
                   </h3>
                   <h4 className="italic">Quét mã QR để tải ứng dụng</h4>
-                  <img
+                  <Image
+                      width={224}
+                      height={224}
                     alt="QR Code"
-                    className="w-48 h-48"
                     src="/qrcode_app.svg"
-                  ></img>
+                  ></Image>
                 </div>
-                <div className="flex flex-1 items-center justify-end">
-                  <div
-                    style={{ minWidth: "180px" }}
-                    className="flex flex-col gap-2"
-                  >
-                    <div className="flex min-w-full">
-                      <a
-                        href={IOS_APP}
-                        target="_blank"
-                        rel="noreferrer"
-                        className="text-white min-w-full bg-slate-900 flex p-2 rounded-md cursor-pointer"
-                      >
-                        <div className="flex items-center">
-                          <img
-                            width={32}
-                            height={32}
-                            src="apple.png"
-                            alt="App Store"
-                          />
-                        </div>
-
-                        <div className="pl-2">
-                          <div
-                            style={{ fontSize: "0.7rem" }}
-                            className="text-gray-300"
-                          >
-                            Download on the
-                          </div>
-                          <div className="text-xl font-semibold">App Store</div>
-                        </div>
-                      </a>
-                    </div>
-                    <div className="flex min-w-full">
-                      <a
-                        href={ANDROID_APP}
-                        target="_blank"
-                        rel="noreferrer"
-                        className="text-white min-w-full bg-slate-900 flex p-2 rounded-md cursor-pointer"
-                      >
-                        <div className="flex items-center">
-                          <img
-                            width={32}
-                            height={32}
-                            src="google-play.png"
-                            alt="Google Play"
-                          />
-                        </div>
-
-                        <div className="pl-2">
-                          <div
-                            style={{ fontSize: "0.65rem" }}
-                            className="text-gray-300"
-                          >
-                            GET IT ON
-                          </div>
-                          <div className="text-xl p-0 font-semibold">
-                            Google Play
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                  </div>
+                <div className="flex flex-col w-[260px] px-8 gap-2 items-center justify-center">
+                    <DownloadApple className="w-full"/>
+                    <DownloadGoogle className="w-full" />
                 </div>
               </div>
             </div>

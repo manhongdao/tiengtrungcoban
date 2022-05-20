@@ -10,7 +10,9 @@ import {Carousel} from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import {ReactChild} from "react";
 import Link from "next/link";
-import Head from "next/head";
+import SEOMetadata from '../components/SEOMetadata/SEOMetadata'
+import {ROUTER_PATH} from "../constants";
+import {HEAD} from "../constants/SEOConstant";
 
 const Home: NextPage = () => {
     const arrowPrev = (
@@ -59,12 +61,7 @@ const Home: NextPage = () => {
 
     return (
         <>
-            <Head>
-                <title>Tiếng Trung cơ bản</title>
-                <script async
-                        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6692210639109982"
-                        crossOrigin="anonymous"></script>
-            </Head>
+            <SEOMetadata title={HEAD.HOME.TITLE} metaTitle={HEAD.HOME.TITLE} metaDescription={HEAD.HOME.DESCRIPTION} metaKeywords={HEAD.HOME.KEYWORD}/>
             <div className="bg-primary">
                 <div
                     className="max-w-[1200px] mx-auto flex items-center bg-white relative box-shadow_primary rounded-xl pl-6 pt-4 flex-col md:flex-row">
@@ -76,7 +73,7 @@ const Home: NextPage = () => {
                             Học phát âm, viết, từ mới và ngữ pháp, ... tiếng
                             Trung trên website
                         </div>
-                        <Link href='/learn/pronounce/' passHref>
+                        <Link href={ROUTER_PATH.LEARN_PRONOUNCE} passHref>
                             <button
                                 className="flex md:block mx-auto md:m-0 bg-sky-500 hover:bg-sky-400 text-white h-12 py-2 px-16 rounded-full">
                                 Bắt đầu học
@@ -163,7 +160,7 @@ const Home: NextPage = () => {
                         <div className="pt-3 text-gray-500 text-md">
                             Thanh mẫu, vận mẫu,...
                         </div>
-                        <Link href="/learn/pronounce/" passHref>
+                        <Link href={ROUTER_PATH.LEARN_PRONOUNCE} passHref>
                             <button
                                 className="bg-sky-500 hover:bg-sky-400 text-white text-sm py-2 px-8 mt-6 rounded-full">
                                 Bắt đầu

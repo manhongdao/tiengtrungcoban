@@ -1,9 +1,10 @@
-import { Tab } from "@headlessui/react";
-import React, { Suspense } from "react";
+import {Tab} from "@headlessui/react";
+import React, {Suspense} from "react";
 import Skeleton from "react-loading-skeleton";
 import "react-loading-skeleton/dist/skeleton.css";
 import PronounceDefine from "../../../public/data/pronounce";
 import ThanhDieu from "../../../components/pronounce/ThanhDieu";
+
 const ThanhMau = React.lazy(
     () => import("../../../components/pronounce/ThanhMau")
 );
@@ -24,7 +25,7 @@ function Pronounce() {
                         return (
                             <Tab
                                 key={pronounce[0]}
-                                className={({ selected }) =>
+                                className={({selected}) =>
                                     classNames(
                                         "w-full py-2.5 text-sm leading-5 font-medium rounded-lg focus:outline-none ring-opacity-60 hover:bg-sky-400 hover:text-white",
                                         selected
@@ -45,9 +46,9 @@ function Pronounce() {
                     >
                         {/* <Skeleton count={5} /> */}
                         <Suspense
-                            fallback={<Skeleton height={100} count={5} />}
+                            fallback={<Skeleton height={100} count={5}/>}
                         >
-                            <ThanhMau />
+                            <ThanhMau/>
                         </Suspense>
                     </Tab.Panel>
                     <Tab.Panel
@@ -55,9 +56,9 @@ function Pronounce() {
                         className="bg-white rounded-xl p-3 focus:outline-none shadow-md"
                     >
                         <Suspense
-                            fallback={<Skeleton height={100} count={5} />}
+                            fallback={<Skeleton height={100} count={5}/>}
                         >
-                            <VanMau />
+                            <VanMau/>
                         </Suspense>
                     </Tab.Panel>
 
@@ -66,17 +67,17 @@ function Pronounce() {
                         className="bg-white rounded-xl p-3 focus:outline-none shadow-md"
                     >
                         <Suspense
-                            fallback={<Skeleton height={100} count={5} />}
+                            fallback={<Skeleton height={100} count={5}/>}
                         >
-                            <ThanhDieu />
+                            <ThanhDieu/>
                         </Suspense>
                     </Tab.Panel>
-                    {/* <Tab.Panel
-            key={4}
-            className="bg-white rounded-xl p-3 focus:outline-none"
-          >
-            <ThanhMau />
-          </Tab.Panel> */}
+                    <Tab.Panel
+                        key={4}
+                        className="bg-white rounded-xl p-3 focus:outline-none shadow-md"
+                    >
+                        <ThanhMau/>
+                    </Tab.Panel>
                 </Tab.Panels>
             </Tab.Group>
         </div>

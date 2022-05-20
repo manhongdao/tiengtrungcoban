@@ -9,13 +9,15 @@ import Link from "next/link";
 import { Fragment, useState } from "react";
 import { DialogDownload } from "../components/common/DiaglogDownload";
 import { ROUTER_PATH } from "../constants";
+import PropTypes, {InferProps} from "prop-types";
+import clsx from "clsx";
 
-export default function Header() {
+export default function Header({className}: InferProps<typeof Header.propTypes>) {
     const [showDownload, setShowDownload] = useState(false);
 
     const home = (
         <Link href={"/"} passHref>
-            <h2 className="px-6 py-2 flex items-center cursor-pointer rounded-md hover:text-white hover:bg-sky-400">
+            <h2 className="px-6 py-2 flex items-center cursor-pointer rounded-md hover:text-white hover:bg-sky-400 transition duration-200">
                 Trang chủ
             </h2>
         </Link>
@@ -24,7 +26,7 @@ export default function Header() {
     const learnPath = (
         <div>
             <Menu as="div" className="relative h-full">
-                <Menu.Button className="inline-flex justify-center w-full h-full items-center px-6 py-2 text-sm font-semibold rounded-md hover:text-white hover:bg-sky-400 ">
+                <Menu.Button className="inline-flex justify-center w-full h-full items-center px-6 py-2 text-sm font-semibold rounded-md hover:text-white hover:bg-sky-400 transition duration-200">
                     Chương trình học
                     <ChevronDownIcon
                         className="w-5 h-5 ml-2 -mr-1 text-violet-200 hover:text-violet-100"
@@ -40,20 +42,21 @@ export default function Header() {
                     leaveFrom="transform opacity-100 scale-100"
                     leaveTo="transform opacity-0 scale-95"
                 >
-                    <Menu.Items className="absolute right-0 w-48 mt-2 origin-top-right bg-white divide-y divide-gray-100 rounded-md shadow-xl ring-1 ring-black ring-opacity-5 focus:outline-none">
+                    <Menu.Items className="absolute right-0 w-48 mt-2 origin-top-right bg-white divide-y divide-gray-100 rounded-md shadow-xl ring-1 ring-black ring-opacity-5 border-[1px] border-[#ddd] focus:outline-none">
                         <div className="px-1 py-1 ">
                             <Menu.Item>
                                 {({ active }) => (
-                                    <Link
-                                        href={ROUTER_PATH.LEARN_PRONOUNCE}
-                                        passHref
-                                    >
-                                        <button
+                                    // <Link
+                                    //     href={ROUTER_PATH.LEARN_PRONOUNCE}
+                                    //     passHref
+                                    // >
+                                        <a
+                                            href={ROUTER_PATH.LEARN_PRONOUNCE}
                                             className={`${
                                                 active
                                                     ? "bg-sky-400 text-white"
                                                     : "text-gray-900"
-                                            } group flex rounded-md items-center w-full px-2 py-2 hover:font-medium text-sm`}
+                                            } group flex rounded-md items-center w-full px-2 py-2 font-normal hover:font-semibold transition duration-200`}
                                         >
                                             {active ? (
                                                 <MicrophoneIcon className="h-5 w-5 mr-2 text-white" />
@@ -61,8 +64,8 @@ export default function Header() {
                                                 <MicrophoneIcon className="h-5 w-5 mr-2 text-sky-500" />
                                             )}
                                             Học phát âm
-                                        </button>
-                                    </Link>
+                                        </a>
+                                    // </Link>
                                 )}
                             </Menu.Item>
                             <Menu.Item>
@@ -72,7 +75,7 @@ export default function Header() {
                                             active
                                                 ? "bg-sky-400 text-white"
                                                 : "text-gray-900"
-                                        } group flex rounded-md items-center w-full px-2 py-2 hover:font-medium text-sm`}
+                                        } group flex rounded-md items-center w-full px-2 py-2 hover:font-medium text-sm hover:text-white hover:bg-sky-400 transition duration-200`}
                                     >
                                         {active ? (
                                             <PencilAltIcon className="h-5 w-5 mr-2 text-white" />
@@ -90,7 +93,7 @@ export default function Header() {
                                             active
                                                 ? "bg-sky-400 text-white"
                                                 : "text-gray-900"
-                                        } group flex rounded-md items-center w-full px-2 py-2 hover:font-medium text-sm`}
+                                        } group flex rounded-md items-center w-full px-2 py-2 hover:font-medium text-sm hover:text-white hover:bg-sky-400 transition duration-200`}
                                     >
                                         {active ? (
                                             <BookmarkIcon className="h-5 w-5 mr-2 text-white" />
@@ -111,7 +114,7 @@ export default function Header() {
     const download = (
         <a
             href="#"
-            className="px-6 py-2 flex items-center rounded-md hover:text-white hover:bg-sky-400"
+            className="px-6 py-2 flex items-center rounded-md hover:text-white hover:bg-sky-400 transition duration-200"
             onClick={() => {
                 setShowDownload(true);
                 console.log("show dialog");
@@ -122,7 +125,7 @@ export default function Header() {
     );
     return (
         <>
-            <nav className="z-10 top-0 w-full backdrop-blur flex transition-colors bg-white supports-backdrop-blur:bg-white/60 box-shadow_primary py-4 shadow">
+            <nav className={clsx("z-10 top-0 w-full backdrop-blur flex transition-colors bg-white supports-backdrop-blur:bg-white/60 box-shadow_primary py-4 shadow", className)}>
                 <div className="flex w-full justify-between mx-auto max-w-screen-xl">
                     <div className="cursor-pointer">
                         <Link href="/" passHref>
@@ -132,7 +135,7 @@ export default function Header() {
                         </Link>
                     </div>
                     {/* <div className="flex-1"></div> */}
-                    <div className="flex text-gray-600 text-sm leading-6 font-semibold">
+                    <div className="hidden md:flex text-gray-600 text-sm leading-6 font-semibold">
                         {home}
                         {learnPath}
                         {download}
@@ -141,11 +144,15 @@ export default function Header() {
                         show={showDownload}
                         setShow={setShowDownload}
                     />
-                    <div className="flex items-center text-gray-700 text-md leading-6 font-semibold">
+                    <div className="flex items-center text-gray-700 text-md leading-6 font-semibold cursor-pointer hover:bg-sky-400 hover:text-white px-4 rounded-lg transition duration-200">
                         Đăng nhập
                     </div>
                 </div>
             </nav>
         </>
     );
+}
+
+Header.propTypes = {
+    className: PropTypes.string
 }
