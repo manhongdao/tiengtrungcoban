@@ -1,4 +1,5 @@
-import '../styles/globals.css';
+import "react-loading-skeleton/dist/skeleton.css";
+import '../styles/globals.scss';
 import type { AppProps } from 'next/app';
 
 import Layout from '../layout';
