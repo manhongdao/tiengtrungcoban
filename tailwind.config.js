@@ -5,7 +5,13 @@ module.exports = {
     "./layout/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+        translate: {
+            '200': '200%',
+            '300': '300%',
+            '400': '400%'
+        },
+    },
   },
   plugins: [],
 }

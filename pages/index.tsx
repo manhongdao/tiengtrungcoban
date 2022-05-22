@@ -180,9 +180,11 @@ const Home: NextPage = () => {
                         <div className="pt-3 text-gray-500 text-md">
                             Các nét cơ bản, các bộ thủ,...
                         </div>
-                        <button className="bg-sky-500 hover:bg-sky-400 text-white text-sm py-2 px-8 mt-6 rounded-full">
-                            Bắt đầu
-                        </button>
+                        <Link href="/learn/writing/" passHref>
+                          <button className="bg-sky-500 hover:bg-sky-400 text-white text-sm py-2 px-8 mt-6 rounded-full">
+                              Bắt đầu
+                          </button>
+                        </Link>
                     </div>
                     <div>
                         <PencilAltIcon className="h-6 w-6 text-sky-500"/>

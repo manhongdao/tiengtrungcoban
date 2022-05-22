@@ -125,7 +125,7 @@ export default function Header({className}: InferProps<typeof Header.propTypes>)
     );
     return (
         <>
-            <nav className={clsx("z-10 top-0 w-full backdrop-blur flex transition-colors bg-white supports-backdrop-blur:bg-white/60 box-shadow_primary py-4 shadow", className)}>
+            <nav className={clsx("sticky top-0 z-10 top-0 w-full backdrop-blur flex transition-colors bg-white supports-backdrop-blur:bg-white/60 box-shadow_primary py-4 shadow", className)}>
                 <div className="flex w-full justify-between mx-auto max-w-screen-xl">
                     <div className="cursor-pointer">
                         <Link href="/" passHref>

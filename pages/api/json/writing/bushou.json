@@ -1,7 +1,7 @@
 [
     {
         "title": "Bộ nhân đứng",
-        "drawing": "亻",
+        "drawing": ["亻"],
         "description": "Dùng trong những chữ Hán liên quan đến con người.",
         "examples": [
             {
@@ -20,7 +20,7 @@
     },
     {
         "title": "Bộ đao đứng",
-        "drawing": "刂/刀",
+        "drawing": ["刂", "刀"],
         "description": "Dùng trong những chữ Hán liên quan đến dao kéo, đao kiếm,...",
         "examples": [
             {
@@ -39,7 +39,7 @@
     },
     {
         "title": "Bộ lực",
-        "drawing": "力",
+        "drawing": ["力"],
         "description": "Dùng trong những chữ Hán liên quan đến sức mạnh.",
         "examples": [
             {
@@ -58,7 +58,7 @@
     },
     {
         "title": "Bộ khẩu",
-        "drawing": "口",
+        "drawing": ["口"],
         "description": "Dùng trong những chữ Hán liên quan đến cái miệng.",
         "examples": [
             {
@@ -77,7 +77,7 @@
     },
     {
         "title": "Bộ vi",
-        "drawing": "囗",
+        "drawing": ["囗"],
         "description": "Dùng trong những chữ Hán liên quan đến bao vây, vòng tròn, vòng quanh,...",
         "examples": [
             {
@@ -96,7 +96,7 @@
     },
     {
         "title": "Bộ thổ",
-        "drawing": "土",
+        "drawing": ["土"],
         "description": "Dùng trong những chữ Hán liên quan đến bùn đất.",
         "examples": [
             {
@@ -115,7 +115,7 @@
     },
     {
         "title": "Bộ nữ",
-        "drawing": "女",
+        "drawing": ["女"],
         "description": "Dùng trong những chữ Hán liên quan đến nữ giới, con gái, đàn bà.",
         "examples": [
             {
@@ -134,7 +134,7 @@
     },
     {
         "title": "Bộ miên",
-        "drawing": "宀",
+        "drawing": ["宀"],
         "description": "Dùng trong những chữ Hán liên quan đến nhà cửa.",
         "examples": [
             {
@@ -153,7 +153,7 @@
     },
     {
         "title": "Bộ sơn",
-        "drawing": "山",
+        "drawing": ["山"],
         "description": "Dùng trong những chữ Hán liên quan đến núi non.",
         "examples": [
             {
@@ -172,7 +172,7 @@
     },
     {
         "title": "Bộ cân",
-        "drawing": "巾",
+        "drawing": ["巾"],
         "description": "Dùng trong những chữ Hán liên quan đến đồ dệt may.",
         "examples": [
             {
@@ -191,7 +191,7 @@
     },
     {
         "title": "Bộ nghiễm",
-        "drawing": "广",
+        "drawing": ["广"],
         "description": "Dùng trong những chữ Hán liên quan đến nhà cửa, phòng ốc, kiến trúc,...",
         "examples": [
             {
@@ -210,7 +210,7 @@
     },
     {
         "title": "Bộ xích/ bộ nhân kép/ bộ chim chích",
-        "drawing": "彳",
+        "drawing": ["彳"],
         "description": "Dùng trong những chữ Hán liên quan đến đi lại, khoảng cách, động tác chân,...",
         "examples": [
             {
@@ -229,7 +229,7 @@
     },
     {
         "title": "Bộ tâm đứng/ bộ tâm (nằm)",
-        "drawing": "忄/心",
+        "drawing": ["忄", "心"],
         "description": "Dùng trong những chữ Hán liên quan đến cảm xúc, trái tim.",
         "examples": [
             {
@@ -248,7 +248,7 @@
     },
     {
         "title": "Bộ thủ/ bộ tài gảy",
-        "drawing": "扌/才(手)",
+        "drawing": ["扌", "才(手)"],
         "description": "Dùng trong những chữ Hán liên quan đến tay.",
         "examples": [
             {
@@ -267,7 +267,7 @@
     },
     {
         "title": "Bộ phộc",
-        "drawing": "攵/攴",
+        "drawing": ["攵", "攴"],
         "description": "Dùng trong những chữ Hán liên quan đến hoạt động tay như gõ, đập,… hoặc hành động làm gì đó.",
         "examples": [
             {
@@ -286,7 +286,7 @@
     },
     {
         "title": "Bộ nhật",
-        "drawing": "日",
+        "drawing": ["日"],
         "description": "Dùng trong những chữ Hán liên quan đến mặt trời.",
         "examples": [
             {
@@ -305,7 +305,7 @@
     },
     {
         "title": "Bộ nguyệt",
-        "drawing": "月",
+        "drawing": ["月"],
         "description": "Dùng trong những chữ Hán liên quan đến mặt trăng.",
         "examples": [
             {
@@ -324,7 +324,7 @@
     },
     {
         "title": "Bộ mộc",
-        "drawing": "木",
+        "drawing": ["木"],
         "description": "Dùng trong những chữ Hán liên quan đến gỗ, cây cối.",
         "examples": [
             {
@@ -343,7 +343,7 @@
     },
     {
         "title": "Bộ ba chấm thuỷ",
-        "drawing": "氵(水)",
+        "drawing": ["氵(水)"],
         "description": "Dùng trong những chữ Hán liên quan đến nước.",
         "examples": [
             {
@@ -362,7 +362,7 @@
     },
     {
         "title": "Bộ băng/ bộ hai chấm thủy",
-        "drawing": "冫",
+        "drawing": ["冫"],
         "description": "Dùng trong những chữ Hán liên quan đến nhiệt độ, nước,...",
         "examples": [
             {
@@ -381,7 +381,7 @@
     },
     {
         "title": "Bộ bốn chấm hoả/ bộ hỏa",
-        "drawing": "灬/火",
+        "drawing": ["灬", "火"],
         "description": "Dùng trong những chữ Hán liên quan đến lửa.",
         "examples": [
             {
@@ -400,7 +400,7 @@
     },
     {
         "title": "Bộ ngưu",
-        "drawing": "牜/牛",
+        "drawing": ["牜", "牛"],
         "description": "Dùng trong những chữ Hán liên quan đến trâu, các loài vật cùng loại với trâu,...",
         "examples": [
             {
@@ -419,7 +419,7 @@
     },
     {
         "title": "Bộ khuyển",
-        "drawing": "犭/犬",
+        "drawing": ["犭", "犬"],
         "description": "Dùng trong những chữ Hán liên quan đến con chó, một số loài vật khác.",
         "examples": [
             {
@@ -438,7 +438,7 @@
     },
     {
         "title": "Bộ ngọc",
-        "drawing": "王/玉",
+        "drawing": ["王", "玉"],
         "description": "Dùng trong những chữ Hán liên quan đến đá quý, ngọc,...",
         "examples": [
             {
@@ -457,7 +457,7 @@
     },
     {
         "title": "Bộ điền",
-        "drawing": "田",
+        "drawing": ["田"],
         "description": "Dùng trong những chữ Hán liên quan đến đồng ruộng,...",
         "examples": [
             {
@@ -476,7 +476,7 @@
     },
     {
         "title": "Bộ nạch/ bộ bệnh",
-        "drawing": "疒",
+        "drawing": ["疒"],
         "description": "Dùng trong những chữ Hán liên quan đến bệnh tật.",
         "examples": [
             {
@@ -495,7 +495,7 @@
     },
     {
         "title": "Bộ mục",
-        "drawing": "目",
+        "drawing": ["目"],
         "description": "Dùng trong những chữ Hán liên quan đến mắt.",
         "examples": [
             {
@@ -514,7 +514,7 @@
     },
     {
         "title": "Bộ thạch",
-        "drawing": "石",
+        "drawing": ["石"],
         "description": "Dùng trong những chữ Hán liên quan đến đá.",
         "examples": [
             {
@@ -533,7 +533,7 @@
     },
     {
         "title": "Bộ hòa",
-        "drawing": "禾",
+        "drawing": ["禾"],
         "description": "Dùng trong những chữ Hán liên quan đến lúa, ngũ cốc,...",
         "examples": [
             {
@@ -552,7 +552,7 @@
     },
     {
         "title": "Bộ trúc",
-        "drawing": "⺮(竹)",
+        "drawing": ["⺮(竹)"],
         "description": "Dùng trong những chữ Hán liên quan đến tre trúc.",
         "examples": [
             {
@@ -571,7 +571,7 @@
     },
     {
         "title": "Bộ mễ",
-        "drawing": "米",
+        "drawing": ["米"],
         "description": "Dùng trong những chữ Hán liên quan đến gạo, lương thực,...",
         "examples": [
             {
@@ -590,7 +590,7 @@
     },
     {
         "title": "Bộ mịch",
-        "drawing": "纟(糸)",
+        "drawing": ["纟(糸)"],
         "description": "Dùng trong những chữ Hán liên quan đến sợi tơ, len,...",
         "examples": [
             {
@@ -609,7 +609,7 @@
     },
     {
         "title": "Bộ nhục (viết giống bộ nguyệt)",
-        "drawing": "⺼↔月(肉)",
+        "drawing": ["⺼↔月(肉)"],
         "description": "Dùng trong những chữ Hán liên quan đến thịt, bộ phận cơ thể người.",
         "examples": [
             {
@@ -628,7 +628,7 @@
     },
     {
         "title": "Bộ thảo đầu",
-        "drawing": "艹(艸)",
+        "drawing": ["艹(艸)"],
         "description": "Dùng trong những chữ Hán liên quan đến cây cỏ, thực vật,...",
         "examples": [
             {
@@ -647,7 +647,7 @@
     },
     {
         "title": "Bộ trùng",
-        "drawing": "虫",
+        "drawing": ["虫"],
         "description": "Dùng trong những chữ Hán liên quan đến sâu bọ.",
         "examples": [
             {
@@ -666,7 +666,7 @@
     },
     {
         "title": "Bộ y",
-        "drawing": "衤/衣",
+        "drawing": ["衤", "衣"],
         "description": "Dùng trong những chữ Hán liên quan đến quần áo.",
         "examples": [
             {
@@ -685,7 +685,7 @@
     },
     {
         "title": "Bộ ngôn",
-        "drawing": "讠(言)",
+        "drawing": ["讠(言)"],
         "description": "Dùng trong những chữ Hán liên quan đến ngôn ngữ, lời nói, tri thức,...",
         "examples": [
             {
@@ -704,7 +704,7 @@
     },
     {
         "title": "Bộ bối",
-        "drawing": "贝",
+        "drawing": ["贝"],
         "description": "Dùng trong những chữ Hán liên quan đến vật báu, tiền bạc.",
         "examples": [
             {
@@ -723,7 +723,7 @@
     },
     {
         "title": "Bộ túc",
-        "drawing": "⻊(足)",
+        "drawing": ["⻊(足)"],
         "description": "Dùng trong những chữ Hán liên quan đến chân.",
         "examples": [
             {
@@ -742,7 +742,7 @@
     },
     {
         "title": "Bộ xa/ bộ xe",
-        "drawing": "车",
+        "drawing": ["车"],
         "description": "Dùng trong những chữ Hán liên quan đến xe cộ.",
         "examples": [
             {
@@ -761,7 +761,7 @@
     },
     {
         "title": "Bộ quai xước",
-        "drawing": "辶 (辵)",
+        "drawing": ["辶 (辵)"],
         "description": "Dùng trong những chữ Hán liên quan đến đi lại, các hoạt động của chân,...",
         "examples": [
             {
@@ -780,7 +780,7 @@
     },
     {
         "title": "Bộ ấp (ở bên phải)",
-        "drawing": "阝(邑)",
+        "drawing": ["阝(邑)"],
         "description": "Dùng trong những chữ Hán liên quan đến vùng đất, thành thị, tên họ...",
         "examples": [
             {
@@ -799,7 +799,7 @@
     },
     {
         "title": "Bộ phụ (ở bên trái)",
-        "drawing": "阝(阜)",
+        "drawing": ["阝(阜)"],
         "description": "Dùng trong những chữ Hán liên quan đến đống đất, gò đất,...",
         "examples": [
             {
@@ -818,7 +818,7 @@
     },
     {
         "title": "Bộ kim",
-        "drawing": "钅(金)",
+        "drawing": ["钅(金)"],
         "description": "Dùng trong những chữ Hán liên quan đến kim loại",
         "examples": [
             {
@@ -837,7 +837,7 @@
     },
     {
         "title": "Bộ môn",
-        "drawing": "门",
+        "drawing": ["门"],
         "description": "Dùng trong những chữ Hán liên quan đến cửa hai cánh.",
         "examples": [
             {
@@ -856,7 +856,7 @@
     },
     {
         "title": "Bộ vũ",
-        "drawing": "雨",
+        "drawing": ["雨"],
         "description": "Dùng trong những chữ Hán liên quan đến mưa gió, các hiện tượng thời tiết,...",
         "examples": [
             {
@@ -875,7 +875,7 @@
     },
     {
         "title": "Bộ hiệt",
-        "drawing": "页",
+        "drawing": ["页"],
         "description": "Dùng trong những chữ Hán liên quan đến đầu, trán, mặt,...",
         "examples": [
             {
@@ -894,7 +894,7 @@
     },
     {
         "title": "Bộ thực",
-        "drawing": "饣 (食)",
+        "drawing": ["饣 (食)"],
         "description": "Dùng trong những chữ Hán liên quan đến ăn uống.",
         "examples": [
             {
@@ -913,7 +913,7 @@
     },
     {
         "title": "Bộ mã",
-        "drawing": "马",
+        "drawing": ["马"],
         "description": "Dùng trong những chữ Hán liên quan đến ngựa, các con vật tương tự con ngựa.",
         "examples": [
             {
@@ -932,7 +932,7 @@
     },
     {
         "title": "Bộ ngư",
-        "drawing": "鱼",
+        "drawing": ["鱼"],
         "description": "Dùng trong những chữ Hán liên quan đến các loại cá, ngư nghiệp,...",
         "examples": [
             {
@@ -951,7 +951,7 @@
     },
     {
         "title": "Bộ điểu",
-        "drawing": "鸟",
+        "drawing": ["鸟"],
         "description": "Dùng trong những chữ Hán liên quan đến chim chóc.",
         "examples": [
             {
