@@ -10,9 +10,8 @@ import QuyTacViet from "../../../components/writing/QuyTacViet";
 // Interfaces
 import { IBasicDrawing, IVariantDrawing } from "../../../interfaces/writing";
 
-function classNames(...classes: any[]) {
-    return classes.filter(Boolean).join(" ");
-}
+// Common func
+import { classNames } from "../../../common";
 
 interface WritingProps {
     basic_drawing: IBasicDrawing[];
@@ -30,7 +29,8 @@ function Writing({
     extra_rules,
     tranform_rules,
     variant_drawing,
-}: WritingProps) {
+}: WritingProps)
+{
     const WritingTabs = useMemo(() => [
         {
             title: 'Các nét chữ',
@@ -89,7 +89,8 @@ function Writing({
     );
 }
 
-export async function getServerSideProps() {
+export async function getServerSideProps()
+{
     const res = await fetch('http://localhost:3000/api/writing');
     const data = await res.json();
     return {

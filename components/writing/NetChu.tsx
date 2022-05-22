@@ -13,8 +13,8 @@ Hoặc được đồng nhất: như ngang xiên móc (⺄) và ngang gập cong
 Song nhìn chung, thể chữ Khải thường được chọn làm mẫu chữ tiêu chuẩn để tập viết và luyện viết.
 `;
 
-function NetChu({ basic_drawing, variant_drawing }: NetChuProps) {
-
+function NetChu({ basic_drawing, variant_drawing }: NetChuProps)
+{
     return (
         <>
             <pre className="bg-gray-100 rounded-md mb-4 whitespace-pre-wrap p-2">

@@ -12,8 +12,8 @@ const note = `Quy tắc bút thuận (thứ tự nét viết) chỉ mang tính t
 Quy tắc bút thuận của chữ Khải thường được chọn làm quy tắc chuẩn, phổ biến nhất.
 `;
 
-function QuyTacViet({ common_rules, extra_rules, tranform_rules }: QuyTacVietProps) {
-
+function QuyTacViet({ common_rules, extra_rules, tranform_rules }: QuyTacVietProps)
+{
     return (
         <>
             <pre className="bg-gray-100 rounded-md mb-4 whitespace-pre-wrap p-2">

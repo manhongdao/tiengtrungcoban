@@ -8,8 +8,8 @@ interface CacBoThuProps {
 
 const note = `Tiếng Hán có 214 bộ thủ, cấu tạo nên các chữ Hán, dưới đây là một số bộ thủ phổ biến:`;
 
-function CacBoThu({ bushou }: CacBoThuProps) {
-    console.log(bushou);
+function CacBoThu({ bushou }: CacBoThuProps)
+{
     return (
         <>
             <pre className="bg-gray-100 rounded-md mb-4 whitespace-pre-wrap p-2">
