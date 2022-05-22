@@ -51,3 +51,8 @@ a {
 .appstore-section {
     height: 30rem;
 }
+
+@keyframes fade-in {
+    from { opacity: 0; }
+      to { opacity: 1; }
+}
